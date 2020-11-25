@@ -1,12 +1,12 @@
-import React from "react";
-import Switch from "react";
+import { Switch, Route } from "react-router-dom";
+
 
 const Routes = () => {
   return (
     <Switch>
-      <Routes path="/">
+      <Route path="/">
         <span>Home</span>
-      </Routes>
+      </Route>
     </Switch>
   );
 };
