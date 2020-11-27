@@ -5,14 +5,34 @@ const bodyParser = require("body-parser");
 const logger = require("morgan");
 const tempRoute = require("./routes/geis");
 
+const HttpError = require("./models/http-error");
 const port = process.env.port || 3001;
+
 app.use(logger("dev"));
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use("/geis", tempRoute);
 
+const materiasRouter = require("./routes/materias");
+
+app.use('api/materias', materiasRouter);
+
 app.listen(port, function () {
   console.log("Port: " + port);
 });
-module.exports = app;
+
+app.use((req, res, next) => {
+  next(new HttpError('Could not find this route.', 404));
+});
+
+app.use((error, req, res, next) => {
+  if (req.headerSent) {
+    return next(error);
+    }
+    res.status(error.code || 500);
+    res.json({ message: error.message || 'An unknown error ocurred!' });
+  });
+  
+  
+  module.exports = app;
