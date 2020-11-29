@@ -3,7 +3,6 @@ const app = express();
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const logger = require("morgan");
-const tempRoute = require("./routes/geis");
 
 const HttpError = require("./models/http-error");
 const port = process.env.port || 3001;
@@ -12,11 +11,12 @@ app.use(logger("dev"));
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-app.use("/geis", tempRoute);
 
 const materiasRouter = require("./routes/materias");
+const horariosRouter = require("./routes/horarios");
 
-app.use('api/materias', materiasRouter);
+app.use('/api/materias', materiasRouter);
+app.use('/api/horarios', horariosRouter);
 
 app.listen(port, function () {
   console.log("Port: " + port);
