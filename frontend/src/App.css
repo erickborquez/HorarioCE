@@ -1,6 +1,5 @@
 * {
   margin: 0px;
-  padding: 0px;
   align-items: center;
 }
 
@@ -13,8 +12,10 @@ body {
   min-height: 100vh;
 }
 
-body h1 {
-  align-items: center;
+body h1{
+  display:flex;
+  align-items:center;
+  justify-content:center;
   color: #2ebf91;
 }
 
@@ -35,6 +36,29 @@ aside {
 
 .logo{
   width: 105%;
+  display:flex;
+  /* align-items:center; */
+  /* justify-content:center; */
+  margin-left: -5%;
+  
+}
+
+.subtitle{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color: #2ebf91;
 
 }
+
+.box{
+  background-color: gray;
+  min-width: 50px;
+  min-height: 50px;
+  margin: 10px;
+  height: fit-content;
+
+}
+
+
 
