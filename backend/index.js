@@ -43,6 +43,5 @@ app.use((error, req, res, next) => {
     res.status(error.code || 500);
     res.json({ message: error.message || 'An unknown error ocurred!' });
   });
-  
-  console.log("uwu");
+
   module.exports = app;
