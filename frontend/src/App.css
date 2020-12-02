@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  align-items: center;
+}
+
+body {
+  background-image: linear-gradient(120deg, #ffffff 0%, #ffffff 100%);
+  color: black;
+  font-family: "Poppins", sans-serif;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+body h1 {
+  align-items: center;
+  color: #2ebf91;
+}
+
+aside {
+  float: left;
+  background: midnightblue;
+  color: #2ebf91;
+  width: 20%;
+  align-content: center;
+  min-height: 800px;
+  position: fixed;
+}
+
+.erick{
+  background: white;
+}
+
+
+.logo{
+  width: 105%;
+
+}
+

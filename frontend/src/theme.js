@@ -6,6 +6,7 @@ const theme = createMuiTheme({
       light: "#c44cff",
       main: "#8360c3",
       dark: "#5700ad",
+      background: "#211359",
     },
     secondary: {
       light: "#6cf2c1",
@@ -16,4 +17,3 @@ const theme = createMuiTheme({
 });
 
 export default theme;
-
