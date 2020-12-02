@@ -44,5 +44,5 @@ app.use((error, req, res, next) => {
     res.json({ message: error.message || 'An unknown error ocurred!' });
   });
   
-  
+  console.log("uwu");
   module.exports = app;
