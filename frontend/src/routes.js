@@ -5,7 +5,7 @@ import Main from "./views/Main";
 const Routes = () => {
   return (
     <Switch>
-      <Route path="/">
+      <Route exact={true} path={"/"}>
         <MainLayout>
           <Main />
         </MainLayout>

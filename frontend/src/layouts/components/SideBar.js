@@ -17,12 +17,17 @@ import MailIcon from "@material-ui/icons/Mail";
 import MenuIcon from "@material-ui/icons/Menu";
 import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
+import AppleIcon from '@material-ui/icons/Apple';
+import ScheduleOutlinedIcon from '@material-ui/icons/ScheduleOutlined';
 
-import { makeStyles, useTheme } from "@material-ui/core/styles";
+import { makeStyles, useTheme, withTheme } from "@material-ui/core/styles";
 
 import Logo from "../../assets/images/logo.svg";
+import createPalette from "@material-ui/core/styles/createPalette";
+import StyledSelect from "../../components/StyledSelect"
 
 const DRAWER_WIDTH = 240;
+const DRAWER_HEIGHT = 800;
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -32,38 +37,69 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.up("sm")]: {
       width: DRAWER_WIDTH,
       flexShrink: 0,
+      
     },
   },
   appBar: {
     [theme.breakpoints.up("sm")]: {
       width: `calc(100% - ${DRAWER_WIDTH}px)`,
       marginLeft: DRAWER_WIDTH,
+    
     },
   },
   menuButton: {
     marginRight: theme.spacing(2),
     [theme.breakpoints.up("sm")]: {
       display: "none",
+      minHeight: DRAWER_HEIGHT,
     },
   },
   // necessary for content to be below app bar
   toolbar: theme.mixins.toolbar,
   drawerPaper: {
     width: DRAWER_WIDTH,
+    height: "auto",
   },
   content: {
     flexGrow: 1,
     marginTop: 64,
+    minHeight: DRAWER_WIDTH,
+    
   },
   sidebarHeader: {
     display: "flex",
   },
+  background: {
+    background: "#211359",
+    color: "#6cf2c1",
+    minHeight: DRAWER_HEIGHT,
+  },
   sideLogo: {
-    width: 100,
-    height: 100,
+    // width: 100,
+    // height: 100,
+    width: "90%",
     margin: " 0 auto",
   },
 }));
+
+const carrers = [
+  { value: "0", label: "Ingeniería Civil"},
+  { value: "1", label: "Ingeniería en Alimentos y Biotecnología" },
+  { value: "2", label: "Ingeniería Topográfica" },
+  { value: "3", label: "Ingeniería Industrial" },
+  { value: "4", label: "Ingeniería Mecánica Eléctrica" },
+  { value: "5", label: "Ingeniería Química"},
+  { value: "6", label: "Ingeniería en Logística y Transporte"},
+  { value: "7", label: "Ingeniería Informática"},
+  { value: "8", label: "Ingeniería Biomédica"},
+  { value: "9", label: "Ingeniería en Computación"},
+  { value: "10", label: "Ingeniería en Comunicaciones y Electrónica"},
+  { value: "11", label: "Ingeniería Fotónica"},
+  { value: "12", label: "Ingeniería Robótica"},
+  
+];
+
+
 
 function ResponsiveDrawer({ children, window, ...props }) {
   const classes = useStyles();
@@ -75,44 +111,33 @@ function ResponsiveDrawer({ children, window, ...props }) {
   };
 
   const drawer = (
-    <div>
+    <div className={classes.background}>
       <div className={clsx(classes.toolbar, classes.sidebarHeader)}>
         <img src={Logo} alt="Logo horarrioCE" className={classes.sideLogo} />
       </div>
       <div></div>
       <Divider />
       <List>
-        {["HorarioCE", "Starred", "Send email", "Drafts"].map((text, index) => (
+        {["HorarioCE", "Preferencias",].map((text, index) => (
           <ListItem button key={text}>
-            <ListItemIcon>
-              {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-            </ListItemIcon>
             <ListItemText primary={text} />
           </ListItem>
         ))}
       </List>
       <Divider />
-      <List>
-        {["All mail", "Trash", "Spam"].map((text, index) => (
-          <ListItem button key={text}>
-            <ListItemIcon>
-              {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-            </ListItemIcon>
-            <ListItemText primary={text} />
-          </ListItem>
-        ))}
-      </List>
     </div>
   );
 
   const container =
     window !== undefined ? () => window().document.body : undefined;
 
+    
   return (
     <div className={classes.root}>
       <CssBaseline />
       <AppBar position="fixed" className={classes.appBar}>
         <Toolbar>
+        
           <IconButton
             color="inherit"
             aria-label="open drawer"
@@ -161,27 +186,8 @@ function ResponsiveDrawer({ children, window, ...props }) {
       </nav>
       <main className={classes.content}>{children}</main>
     </div>
+
   );
 }
 
 export default ResponsiveDrawer;
-/*  <div>
-        <div className="App">
-    <aside>
-    <Logo className="logo" />
-
-    <h1>HorarioCE</h1>
-
-    <h3>Carrera: </h3>
-    <Select />
-    <h3>Ciclo escolar: </h3>
-    <Select />
-    <h3>Cantidad de materias: </h3>
-    <Select />
-    <h3 className="subtitle">Código de materia</h3>
-    <div className="box"></div>
-    </aside>
-</div>
-    </div>      
-
-        );*/
