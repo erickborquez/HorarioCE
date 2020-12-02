@@ -31,23 +31,22 @@ router.get("/get", function _callee(req, res) {
   });
 });
 router.post("/post", function _callee2(req, res) {
-  var materia;
   return regeneratorRuntime.async(function _callee2$(_context2) {
     while (1) {
       switch (_context2.prev = _context2.next) {
         case 0:
           try {
-            materia = new materias({
-              name: "Calculo",
-              nrc: "43562",
-              clave: "I5353",
-              date: ["12", "32", "2020"],
-              professor: "Yo"
+            materias = new materias({
+              name: req.params.name,
+              nrc: req.params.nrc,
+              clave: req.params.clave,
+              date: req.params.date,
+              professor: req.params.professor
             });
-            materia.save().then(function (doc) {
+            materias.save().then(function (doc) {
               console.log(doc);
               res.status(200).json({
-                data: materia,
+                data: materias,
                 message: ":)"
               });
             });

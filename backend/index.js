@@ -22,7 +22,7 @@ app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-const materiasRouter = require("./routes/materias");
+const materiasRouter = require("./routes/materias-router");
 const horariosRouter = require("./routes/horarios");
 
 app.use('/api/materias', materiasRouter);

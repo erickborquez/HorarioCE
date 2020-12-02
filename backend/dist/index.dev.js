@@ -34,7 +34,7 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(bodyParser.json());
 
-var materiasRouter = require("./routes/materias");
+var materiasRouter = require("./routes/materias-router");
 
 var horariosRouter = require("./routes/horarios");
 
