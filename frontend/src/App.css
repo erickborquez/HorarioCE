@@ -25,9 +25,16 @@ aside {
   width: 20%;
   align-content: center;
   min-height: 800px;
+  position: fixed;
 }
 
-.select1 {
-  background-color: #ffffff;
-  color: black;
+.erick{
+  background: white;
 }
+
+
+.logo{
+  width: 105%;
+
+}
+

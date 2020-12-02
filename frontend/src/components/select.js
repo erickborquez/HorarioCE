@@ -11,6 +11,9 @@ const useStyles = makeStyles((theme) => ({
     margin: theme.spacing(1),
     minWidth: 120,
   },
+  background:{
+    backgroundColor:"red",
+  }
 }));
 
 export default function GroupedSelect() {
@@ -20,7 +23,7 @@ export default function GroupedSelect() {
     <div>
       <FormControl className={classes.formControl}>
         <InputLabel htmlFor="grouped-select"></InputLabel>
-        <Select defaultValue="" id="grouped-select">
+        <Select variant="outlined" defaultValue="" id="grouped-select" className={classes.background} InputProps={{className:classes.background}}>
           <MenuItem value="">
             <em>None</em>
           </MenuItem>
@@ -32,6 +35,6 @@ export default function GroupedSelect() {
           <MenuItem value={4}>Option 4</MenuItem>
         </Select>
       </FormControl>
-    </div>
+    </div> 
   );
 }
