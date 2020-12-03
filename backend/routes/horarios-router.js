@@ -1,13 +1,14 @@
 const express = require('express');
-const { getHorario, crearHorario, updateHorario, deleteHorario } = require('../controllers/horarios-controller');
+const { getHorarios, crearHorario, updateHorario, deleteHorario, getSingleHorario } = require('../controllers/horarios-controller');
 const router = express.Router();
 
-router.get("/get", getHorario);
+router.get("/", getHorarios);
+router.get("/:id", getSingleHorario);
 
-router.post("/post", crearHorario);
+router.post("/", crearHorario);
 
-router.put("/update/:id", updateHorario);
+router.put("/:id", updateHorario);
 
-router.delete("/delete/:id", deleteHorario);
+router.delete("/:id", deleteHorario);
 
 module.exports = router;

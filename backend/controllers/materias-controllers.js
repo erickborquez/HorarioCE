@@ -1,6 +1,5 @@
 const HttpError = require("../models/http-error");
 
-//const HttpError = require('../models/http-error');
 const Materia = require("../models/materia");
 
 const getMaterias = async (req, res) => {
@@ -78,44 +77,54 @@ const createMateria = async (req, res, next) => {
   }
 };
 
-const updateMateria = async (req, res) => {
-  const id = req.params.id;
-  const { name, nrc, clave, professor } = req.body;
-
-  Materia.findByIdAndUpdate(
-    { _id: id },
-    { $set: { nrc: nrc, name: name, clave: clave, professor: professor } }
-  )
-    .then((doc) => {
-      console.log(doc);
-      res.status(200).json({
-        message: "Matter has updated.",
-      });
-    })
-    .catch((err) => {
-      res.status(400).json({
-        message: "Some error occured - UPDATE",
-        err,
-      });
+const updateMateria = async (req, res, next) => {
+  const { nrc } = req.params;
+  let materias;
+  console.log(req.params)
+  try{
+    materias = await Materia.findOne({ nrc });
+  } catch (err){
+    res.status(500).json({
+      message: "Fetching error ocurred, please try again later",
+      err,
     });
+  }
+
+  for (let property in req.body){
+    console.log(req.body[property]);
+    materias[property] = req.body[property];
+  }
+  
+  try{
+    await materias.save();
+    res.status(200).json({
+      message: "Materia was updated",
+    });
+  }catch (err){
+    console.log(err);
+    
+    const error = new HttpError(
+      'Something went wrong, please try again later.',
+      500
+    );
+    return next(error);
+  }
 };
 
 const deleteMateria = async (req, res) => {
-  const id = req.params.id;
+  const { nrc } = req.params;
 
-  Materia.findByIdAndDelete({ _id: id })
-    .then((doc) => {
-      console.log(doc);
-      res.status(200).json({
-        message: "Matter has deleted.",
-      });
-    })
-    .catch((err) => {
-      res.status(400).json({
-        message: "Some error occured - UPDATE",
-        err,
-      });
+  try{
+    await Materia.findOneAndDelete({ nrc});
+    res.status(200).json({
+      message: "Materia was deleted",
     });
+  } catch (err){
+    res.status(500).json({
+      message: "Fetching error ocurred, please try again later",
+      err,
+    });
+  }
 };
 
 exports.getMaterias = getMaterias;
