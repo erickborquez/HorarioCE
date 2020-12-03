@@ -5,13 +5,20 @@ import MenuItem from "@material-ui/core/MenuItem";
 import FormControl from "@material-ui/core/FormControl";
 import Select from "@material-ui/core/Select";
 
+
+
 const useStyles = makeStyles((theme) => ({
   formControl: {
     width: "100%",
   },
   background: {
-    backgroundColor: "red",
+    backgroundColor: theme.palette.primary.dark,
   },
+
+  control: provided => ({
+    ...provided,
+    color: theme.palette.secondary.light,
+  }),
 }));
 
 const StyledSelect = ({
@@ -20,7 +27,7 @@ const StyledSelect = ({
   handleChange,
   nullInitialValue = false,
 }) => {
-  const classes = useStyles();
+const classes = useStyles();
 
   return (
     <FormControl className={classes.formControl}>
@@ -34,7 +41,10 @@ const StyledSelect = ({
         defaultValue=""
         id="grouped-select"
         className={classes.background}
-        InputProps={{ className: classes.background }}
+        className={classes.control}
+
+          
+        
       >
         {options.map((option) => (
           <MenuItem key={option.value} value={option.value}>
