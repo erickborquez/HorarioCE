@@ -1,8 +1,7 @@
 "use strict";
 
 //const { validationResult } = require('express-validator');
-var HttpError = require('../models/http-error');
-
+//const HttpError = require('../models/http-error');
 var Materia = require("../models/materia");
 
 var getMaterias = function getMaterias(req, res) {
@@ -120,10 +119,27 @@ var updateMatter = function updateMatter(req, res) {
 };
 
 var deleteMatter = function deleteMatter(req, res) {
+  var id;
   return regeneratorRuntime.async(function deleteMatter$(_context4) {
     while (1) {
       switch (_context4.prev = _context4.next) {
         case 0:
+          id = req.params.id;
+          Materia.findByIdAndDelete({
+            _id: id
+          }).then(function (doc) {
+            console.log(doc);
+            res.status(200).json({
+              message: "Matter has deleted."
+            });
+          })["catch"](function (err) {
+            res.status(400).json({
+              message: "Some error occured - UPDATE",
+              err: err
+            });
+          });
+
+        case 2:
         case "end":
           return _context4.stop();
       }

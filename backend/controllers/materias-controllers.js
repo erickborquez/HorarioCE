@@ -1,6 +1,6 @@
 //const { validationResult } = require('express-validator');
 
-const HttpError = require('../models/http-error');
+//const HttpError = require('../models/http-error');
 const Materia = require("../models/materia");
 
 const getMaterias = async (req,res) => {
@@ -79,7 +79,21 @@ const updateMatter = async (req, res) => {
 }
 
 const deleteMatter = async (req, res) =>{
-    
+    const id = req.params.id;
+
+    Materia.findByIdAndDelete({_id: id})
+    .then(doc =>{
+        console.log(doc)
+        res.status(200).json({
+            message: "Matter has deleted.",
+        })
+    })
+    .catch(err=>{
+        res.status(400).json({
+            message: "Some error occured - UPDATE",
+            err,
+          });
+    })
 }
 
 
