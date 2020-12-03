@@ -1,0 +1,783 @@
+{
+    "materias": [
+        {
+            "name": "ALGORITMIA",
+            "nrc": "42268",
+            "clave": "I5884",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1700",
+                    "end": "1855"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1700",
+                    "end": "1855"
+                }
+            ],
+            "professor": "LUPERCIO CORONEL, RAMIRO"
+        },
+        {
+            "name": "ALGORITMIA",
+            "nrc": "42269",
+            "clave": "I5884",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "0900",
+                    "end": "1055"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "0900",
+                    "end": "1055"
+                }
+            ],
+            "professor": "GARCIA HERNANDEZ, MARTIN"
+        },
+        {
+            "name": "ALGORITMIA",
+            "nrc": "59565",
+            "clave": "I5884",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "0900",
+                    "end": "1055"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "0900",
+                    "end": "1055"
+                }
+            ],
+            "professor": "ESPINOZA VALDEZ, AURORA"
+        },
+        {
+            "name": "ALGORITMIA",
+            "nrc": "59549",
+            "clave": "I5884",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "0700",
+                    "end": "0855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "0700",
+                    "end": "0855"
+                }
+            ],
+            "professor": "GARCIA HERNANDEZ, MARTIN"
+        },
+        {
+            "name": "ALGORITMIA",
+            "nrc": "59829",
+            "clave": "I5884",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1900",
+                    "end": "2055"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1900",
+                    "end": "2055"
+                }
+            ],
+            "professor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        },
+        {
+            "name": "ALGORITMIA",
+            "nrc": "140468",
+            "clave": "I5884",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "0700",
+                    "end": "0855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "0700",
+                    "end": "0855"
+                }
+            ],
+            "professor": "RODRIGUEZ ACOSTA, LUIS FERNANDO"
+        },
+        {
+            "name": "ALGORITMIA",
+            "nrc": "164130",
+            "clave": "I5884",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "VAZQUEZ CURIEL, ARMIDA GRISELDA"
+        },
+        {
+            "name": "INGENIERIA DE SOFTWARE I",
+            "nrc": "59738",
+            "clave": "I5898",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "0900",
+                    "end": "1055"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "0900",
+                    "end": "1055"
+                }
+            ],
+            "professor": "MUÑOZ GOMEZ, LUIS ALBERTO"
+        },
+        {
+            "name": "INGENIERIA DE SOFTWARE I",
+            "nrc": "78102",
+            "clave": "I5898",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1900",
+                    "end": "2055"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1900",
+                    "end": "2055"
+                }
+            ],
+            "professor": "CASTAÑEDA PINTLE, PEDRO JACOB"
+        },
+        {
+            "name": "INGENIERIA DE SOFTWARE I",
+            "nrc": "78104",
+            "clave": "I5898",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1300",
+                    "end": "1455"
+                }
+            ],
+            "professor": "ZAMORA RAMOS, VICTOR MANUEL"
+        },
+        {
+            "name": "INGENIERIA DE SOFTWARE I",
+            "nrc": "78109",
+            "clave": "I5898",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1300",
+                    "end": "1455"
+                }
+            ],
+            "professor": "HERRERA LUJAN, ZOILA LILIANA"
+        },
+        {
+            "name": "INGENIERIA DE SOFTWARE I",
+            "nrc": "138622",
+            "clave": "I5898",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1700",
+                    "end": "1855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1700",
+                    "end": "1855"
+                }
+            ],
+            "professor": "CUELLAR HERNANDEZ, FRANCISCO GERARDO"
+        },
+        {
+            "name": "INGENIERIA DE SOFTWARE I",
+            "nrc": "138623",
+            "clave": "I5898",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "CUELLAR HERNANDEZ, FRANCISCO GERARDO"
+        },
+        {
+            "name": "INGENIERIA DE SOFTWARE I",
+            "nrc": "147574",
+            "clave": "I5898",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "0700",
+                    "end": "0855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "0700",
+                    "end": "0855"
+                }
+            ],
+            "professor": "MORALES RAMIREZ, THELMA ISABEL"
+        },
+        {
+            "name": "INGENIERIA DE SOFTWARE I",
+            "nrc": "147575",
+            "clave": "I5898",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "0700",
+                    "end": "0855"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "0700",
+                    "end": "0855"
+                }
+            ],
+            "professor": "MORALES RAMIREZ, THELMA ISABEL"
+        },
+        {
+            "name": "TEORIA DE LA COMPUTACION",
+            "nrc": "42848",
+            "clave": "I5915",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "0900",
+                    "end": "1055"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "0900",
+                    "end": "1055"
+                }
+            ],
+            "professor": "GOMEZ ANDRADE, ABELARDO"
+        },
+        {
+            "name": "TEORIA DE LA COMPUTACION",
+            "nrc": "42850",
+            "clave": "I5915",
+            "dates": [
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "GOMEZ ANDRADE, ABELARDO"
+        },
+        {
+            "name": "TEORIA DE LA COMPUTACION",
+            "nrc": "42861",
+            "clave": "I5915",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1700",
+                    "end": "1855"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1700",
+                    "end": "1855"
+                }
+            ],
+            "professor": "MURILLO LEAÑO, MARIA MAGDALENA"
+        },
+        {
+            "name": "TEORIA DE LA COMPUTACION",
+            "nrc": "42859",
+            "clave": "I5915",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1300",
+                    "end": "1455"
+                }
+            ],
+            "professor": "MURILLO LEAÑO, MARIA MAGDALENA"
+        },
+        {
+            "name": "TRADUCTORES DE LENGUAJES I",
+            "nrc": "119892",
+            "clave": "I7025",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "MEZA ESPINOSA, JOSE JUAN"
+        },
+        {
+            "name": "TRADUCTORES DE LENGUAJES I",
+            "nrc": "146005",
+            "clave": "I7025",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "MEZA ESPINOSA, JOSE JUAN"
+        },
+        {
+            "name": "TRADUCTORES DE LENGUAJES I",
+            "nrc": "153415",
+            "clave": "I7025",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "IBARRA CHAVEZ, SALOMON EDUARDO"
+        },
+        {
+            "name": "TRADUCTORES DE LENGUAJES I",
+            "nrc": "88989",
+            "clave": "I7025",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "900",
+                    "end": "1055"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "900",
+                    "end": "1055"
+                }
+            ],
+            "professor": "IBARRA CHAVEZ, SALOMON EDUARDO"
+        },
+        {
+            "name": "TRADUCTORES DE LENGUAJES I",
+            "nrc": "119892",
+            "clave": "I7025",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "MEZA ESPINOSA, JOSE JUAN"
+        },
+        {
+            "name": "BASES DE DATOS",
+            "nrc": "5960",
+            "clave": "I5890",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "GOMEZ VALDIVIA, JAIME ROBERTO"
+        },
+        {
+            "name": "BASES DE DATOS",
+            "nrc": "5961",
+            "clave": "I5890",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1300",
+                    "end": "1455"
+                }
+            ],
+            "professor": "EL EDUARDO"
+        },
+        {
+            "name": "METODOS MATEMATICOS III",
+            "nrc": "7777",
+            "clave": "I7020",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "BORQUEZ MEZA , ERICK PAUL"
+        },
+        {
+            "name": "BASES DE DATOS",
+            "nrc": "5960",
+            "clave": "I5890",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "GOMEZ VALDIVIA, JAIME ROBERTO"
+        },
+        {
+            "name": "SEMINARIO DE ESTRUCTURA DE DATOS II",
+            "nrc": "5666",
+            "clave": "I2062",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "CORONEL RAMIREZ, LUPERCIO"
+        },
+        {
+            "name": "SEMINARIO DE ESTRUCTURA DE DATOS II",
+            "nrc": "5667",
+            "clave": "I2062",
+            "dates": [
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "VIERNES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "CAMPOS SERRANO; EDUARDO"
+        },
+        {
+            "name": "SEGURIDAD",
+            "nrc": "1111",
+            "clave": "I2060",
+            "dates": [
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "VIERNES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "CAMPOS SERRANO; EDUARDO"
+        },
+        {
+            "name": "CLUB DE ALGORITMIA",
+            "nrc": "949393",
+            "clave": "I2900",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1300",
+                    "end": "1455"
+                }
+            ],
+            "professor": "ERICK PITUDO"
+        },
+        {
+            "name": "CLUB DE ALGORITMIA",
+            "nrc": "949391",
+            "clave": "I2900",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "0700",
+                    "end": "0855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "0700",
+                    "end": "0855"
+                }
+            ],
+            "professor": "EL ALEX"
+        },
+        {
+            "name": "CLUB DE ALGORITMIA",
+            "nrc": "949390",
+            "clave": "I2900",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "0900",
+                    "end": "1055"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "0900",
+                    "end": "1055"
+                }
+            ],
+            "professor": "EL ALEX"
+        },
+        {
+            "name": "CLUB DE ALGORITMIA",
+            "nrc": "949393",
+            "clave": "I2900",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1300",
+                    "end": "1455"
+                }
+            ],
+            "professor": "ERICK PITUDO"
+        },
+        {
+            "name": "SEMINARIO BASE DE DATOS",
+            "nrc": "56552",
+            "clave": "I8020",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1300",
+                    "end": "1455"
+                }
+            ],
+            "professor": "MURILLO LEAÑO, MARIA MAGDALENA"
+        },
+        {
+            "name": "METODOS MATEMATICOS I",
+            "nrc": "12345",
+            "clave": "I7000",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "0700",
+                    "end": "0855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "0700",
+                    "end": "0855"
+                }
+            ],
+            "professor": "CONTRERAS, NARDA LIZBET"
+        },
+        {
+            "name": "METODOS MATEMATICOS I",
+            "nrc": "12346",
+            "clave": "I7000",
+            "dates": [
+                {
+                    "day": "MIERCOLES",
+                    "start": "0700",
+                    "end": "0855"
+                },
+                {
+                    "day": "VIERNES",
+                    "start": "0700",
+                    "end": "0855"
+                }
+            ],
+            "professor": "CONTRERAS, NARDA LIZBET"
+        },
+        {
+            "name": "METODOS MATEMATICOS I",
+            "nrc": "12348",
+            "clave": "I7000",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1300",
+                    "end": "1500"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1300",
+                    "end": "1500"
+                }
+            ],
+            "professor": "CONTRERAS, NARDA LIZBET"
+        }
+    ],
+    "profesores": [
+        {
+            "maestro": "CONTRERAS, NARDA LIZBET"
+        },
+        {
+            "maestro": "CUELLAR HERNANDEZ, FRANCISCO GERARDO"
+        },
+        {
+            "maestro": "BORQUEZ MEZA , ERICK PAUL"
+        },
+        {
+            "maestro": "GARCIA HERNANDEZ, MARTIN"
+        },
+        {
+            "maestro": "CORONEL RAMIREZ, LUPERCIO"
+        },
+        {
+            "maestro": "EL ALEX"
+        },
+        {
+            "maestro": "ESPINOZA VALDEZ, AURORA"
+        },
+        {
+            "maestro": "GARCIA HERNANDEZ, MARTIN"
+        },
+        {
+            "maestro": "RODRIGUEZ ACOSTA, LUIS FERNANDO"
+        },
+        {
+            "maestro": "GOMEZ ANDRADE, ABELARDO"
+        },
+        {
+            "maestro": "ZAMORA RAMOS, VICTOR MANUEL"
+        },
+        {
+            "maestro": "CASTAÑEDA PINTLE, PEDRO JACOB"
+        },
+        {
+            "maestro": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        },
+        {
+            "maestro": "HERRERA LUJAN, ZOILA LILIANA"
+        },
+        {
+            "maestro": "IBARRA CHAVEZ, SALOMON EDUARDO"
+        },
+        {
+            "maestro": "MUÑOZ GOMEZ, LUIS ALBERTO"
+        },
+        {
+            "maestro": "VAZQUEZ CURIEL, ARMIDA GRISELDA"
+        },
+        {
+            "maestro": "MURILLO LEAÑO, MARIA MAGDALENA"
+        },
+        {
+            "maestro": "MEZA ESPINOSA, JOSE JUAN"
+        },
+        {
+            "maestro": "ERICK PITUDO"
+        },
+        {
+            "maestro": "EL EDUARDO"
+        },
+        {
+            "maestro": "MORALES RAMIREZ, THELMA ISABEL"
+        },
+        {
+            "maestro": "HERNANDEZ HUIZAR, JHONATAN ADRIAN"
+        },
+        {
+            "maestro": "MADRIZ PEREZ, CESAR EDUARDO"
+        },
+        {
+            "maestro": "CASTRO ARREDONDO, JORGE ISAAC"
+        }
+    ]
+}
