@@ -22,7 +22,7 @@ app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-const materiasRouter = require("./routes/materias");
+const materiasRouter = require("./routes/materias-router");
 const horariosRouter = require("./routes/horarios");
 
 app.use('/api/materias', materiasRouter);
@@ -43,6 +43,5 @@ app.use((error, req, res, next) => {
     res.status(error.code || 500);
     res.json({ message: error.message || 'An unknown error ocurred!' });
   });
-  
-  console.log("uwu");
+
   module.exports = app;
