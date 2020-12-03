@@ -1,7 +1,6 @@
 const HttpError = require('../models/http-error');
 
-let Horarios = require("../models/horario");
-const horario = require('../models/horario');
+const Horarios = require("../models/horario");
 
 const getHorarios = async (req,res) => {
     let horarios;

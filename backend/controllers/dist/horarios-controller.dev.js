@@ -4,8 +4,6 @@ var HttpError = require('../models/http-error');
 
 var Horarios = require("../models/horario");
 
-var horario = require('../models/horario');
-
 var getHorarios = function getHorarios(req, res) {
   var horarios;
   return regeneratorRuntime.async(function getHorarios$(_context) {
