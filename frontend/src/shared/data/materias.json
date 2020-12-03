@@ -703,81 +703,81 @@
             "professor": "CONTRERAS, NARDA LIZBET"
         }
     ],
-    "profesores": [
+        "profesores": [
         {
-            "maestro": "CONTRERAS, NARDA LIZBET"
+            "value":"1", "label": "CONTRERAS, NARDA LIZBET"
         },
         {
-            "maestro": "CUELLAR HERNANDEZ, FRANCISCO GERARDO"
+            "value":"2","label": "CUELLAR HERNANDEZ, FRANCISCO GERARDO"
         },
         {
-            "maestro": "BORQUEZ MEZA , ERICK PAUL"
+            "value":"3","label": "BORQUEZ MEZA , ERICK PAUL"
         },
         {
-            "maestro": "GARCIA HERNANDEZ, MARTIN"
+            "value":"4","label": "GARCIA HERNANDEZ, MARTIN"
         },
         {
-            "maestro": "CORONEL RAMIREZ, LUPERCIO"
+            "value":"5","label": "CORONEL RAMIREZ, LUPERCIO"
         },
         {
-            "maestro": "EL ALEX"
+            "value":"6","label": "EL ALEX"
         },
         {
-            "maestro": "ESPINOZA VALDEZ, AURORA"
+            "value":"7","label": "ESPINOZA VALDEZ, AURORA"
         },
         {
-            "maestro": "GARCIA HERNANDEZ, MARTIN"
+            "value":"8","label": "GARCIA HERNANDEZ, MARTIN"
         },
         {
-            "maestro": "RODRIGUEZ ACOSTA, LUIS FERNANDO"
+            "value":"9","label": "RODRIGUEZ ACOSTA, LUIS FERNANDO"
         },
         {
-            "maestro": "GOMEZ ANDRADE, ABELARDO"
+            "value":"10","label": "GOMEZ ANDRADE, ABELARDO"
         },
         {
-            "maestro": "ZAMORA RAMOS, VICTOR MANUEL"
+            "value":"11","label": "ZAMORA RAMOS, VICTOR MANUEL"
         },
         {
-            "maestro": "CASTAÑEDA PINTLE, PEDRO JACOB"
+            "value":"12","label": "CASTAÑEDA PINTLE, PEDRO JACOB"
         },
         {
-            "maestro": "GOMEZ ANAYA, DAVID ALEJANDRO"
+            "value":"13","label": "GOMEZ ANAYA, DAVID ALEJANDRO"
         },
         {
-            "maestro": "HERRERA LUJAN, ZOILA LILIANA"
+            "value":"14","label": "HERRERA LUJAN, ZOILA LILIANA"
         },
         {
-            "maestro": "IBARRA CHAVEZ, SALOMON EDUARDO"
+            "value":"15","label": "IBARRA CHAVEZ, SALOMON EDUARDO"
         },
         {
-            "maestro": "MUÑOZ GOMEZ, LUIS ALBERTO"
+            "value":"16","label": "MUÑOZ GOMEZ, LUIS ALBERTO"
         },
         {
-            "maestro": "VAZQUEZ CURIEL, ARMIDA GRISELDA"
+            "value":"17","label": "VAZQUEZ CURIEL, ARMIDA GRISELDA"
         },
         {
-            "maestro": "MURILLO LEAÑO, MARIA MAGDALENA"
+            "value":"18","label": "MURILLO LEAÑO, MARIA MAGDALENA"
         },
         {
-            "maestro": "MEZA ESPINOSA, JOSE JUAN"
+            "value":"19","label": "MEZA ESPINOSA, JOSE JUAN"
         },
         {
-            "maestro": "ERICK PITUDO"
+            "value":"20","label": "ERICK PITUDO"
         },
         {
-            "maestro": "EL EDUARDO"
+            "value":"21","label": "EL EDUARDO"
         },
         {
-            "maestro": "MORALES RAMIREZ, THELMA ISABEL"
+            "value":"22","label": "MORALES RAMIREZ, THELMA ISABEL"
         },
         {
-            "maestro": "HERNANDEZ HUIZAR, JHONATAN ADRIAN"
+            "value":"23","label": "HERNANDEZ HUIZAR, JHONATAN ADRIAN"
         },
         {
-            "maestro": "MADRIZ PEREZ, CESAR EDUARDO"
+            "value":"24","label": "MADRIZ PEREZ, CESAR EDUARDO"
         },
         {
-            "maestro": "CASTRO ARREDONDO, JORGE ISAAC"
+            "value":"25","label": "CASTRO ARREDONDO, JORGE ISAAC"
         }
     ]
 }
