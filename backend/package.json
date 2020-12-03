@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hikzen",
@@ -19,6 +20,7 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "eslint": "^7.14.0"
+    "eslint": "^7.14.0",
+    "nodemon": "^2.0.6"
   }
 }
