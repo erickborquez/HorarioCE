@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hikzen",
@@ -16,9 +17,11 @@
     "mongodb": "^3.6.3",
     "mongoose": "^5.10.15",
     "mongoose-unique-validator": "^2.0.3",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "prettier": "^2.2.1"
   },
   "devDependencies": {
-    "eslint": "^7.14.0"
+    "eslint": "^7.14.0",
+    "nodemon": "^2.0.6"
   }
 }

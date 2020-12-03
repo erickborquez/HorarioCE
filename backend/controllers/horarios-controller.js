@@ -1,92 +1,133 @@
-//const { validationResult } = require('express-validator');
+const HttpError = require('../models/http-error');
 
-//const HttpError = require('../models/http-error');
-let Horarios = require("../models/horario");
+const Horarios = require("../models/horario");
 
-const getHorario = async (req,res) => {
-    try {
-        res.status(200).json({
-          data: req.Horarios,
+const getHorarios = async (req,res) => {
+    let horarios;
+    try{
+        horarios = await Horarios.find();
+    } catch (err){
+        res.status(500).json({
+        message: "Fetching error ocurred, please try again later",
+        err,
         });
+    }
+    res.json({
+        data: {
+        materias: horarios.map((horario) => horario.toObject({ getters: true })),
+        },
+        
+    });
+}
+
+const getSingleHorario = async (req,res) => {
+    const { id } = req.params;
+
+    let horarios;
+    try{
+        horarios = await Horarios.findOne({id})
+    }catch (err){
+        res.status(500).json({
+            message: "Fetching error ocurred, please try again later",
+            err,
+        });
+    }
+
+    if (horarios){
+        res.json({
+            data: horarios.toObject({ getters: true }),
+        });
+    }
+}
+
+const crearHorario = async (req, res, next) =>{
+    const {id, materias} = req.body;
+
+    let existingHorario;
+    try{
+        existingHorario = await Horarios.findOne({id});
+    }catch (err){
+        const error = new HttpError("Internal error, please try again later", 500);
+        return next(error);
+    }
+    if(existingHorario){
+        const error = new HttpError(
+            "Horario exists already, please update instead",
+            402
+        );
+        return next(error);
+    }
+
+    const nuevoHorario = new Horarios({
+        id,
+        materias,
+    });
+
+    try {
+        await nuevoHorario.save();
+        res
+          .status(200)
+          .json({ data: { horario: nuevoHorario.toObject({ getters: true }) } });
       } catch (err) {
         res.status(400).json({
-          message: "Some error occured - GET",
+          message: "Some error occured - POST",
           err,
         });
       }
 }
 
-const crearHorario = async (req, res) =>{
-    const {id} = req.body;
+const updateHorario = async (req, res, next) => {
+    const { id } = req.params;
+    let horarios;
+    try{
+        horarios = await Horarios.findOne({ id });
+    } catch (err){
+        res.status(500).json({
+          message: "Fetching error ocurred, please try again later",
+          err,
+        });
+    }
     
-    /* let existingMatter;
+    for (let property in req.body){
+        console.log(req.body[property]);
+        horarios[property] = req.body[property];
+    }
+      
     try{
-        existingMatter = await Materia.findOne({nrc: nrc})
-    }catch(err){
+        await horarios.save();
+        res.status(200).json({
+          message: "Materia was updated",
+          data: horarios,
+        });
+    }catch (err){
+        console.log(err);
+        
         const error = new HttpError(
-            'NRC duplicate.',
-            500
-          );
-          return next(error);   
-    } */
-
-    const nuevoHorario = new Horarios({
-        id,
-        materias: []
-    });
-
-    try{
-        await nuevoHorario.save()
-        .then(res.status(200).json({
-            data: nuevoHorario,
-            })
+          'Something went wrong, please try again later.',
+          500
         );
-    } catch (err) {
-        res.status(400).json({
-            message: "Some error occured - POST",
-            err,
-          });
+        return next(error);
+    }
+
+};
+
+const deleteHorario = async (req,res) => {
+    const { id } = req.params;
+    try{
+        await Horarios.findOneAndDelete({ id });
+        res.status(200).json({
+        message: "Materia was deleted",
+        });
+    } catch (err){
+        res.status(500).json({
+        message: "Fetching error ocurred, please try again later",
+        err,
+        });
     }
 }
 
-const updateHorario = async (req, res) => {
-    const id = req.params.id;
-    const {materias} = req.body;
-
-    Horarios.findByIdAndUpdate({_id: id}, {$set: {materias: materias}}).
-    then(doc =>{
-        console.log(doc)
-        res.status(200).json({
-            message: "Schedule has updated.",
-        })
-    })
-    .catch(err=>{
-        res.status(400).json({
-            message: "Some error occured - UPDATE",
-            err,
-          });
-    })
-}
-
-const deleteHorario = async (req, res) =>{
-    const id = req.params.id;
-
-    Horarios.findByIdAndDelete({_id: id})
-    .then(doc =>{
-        console.log(doc)
-        res.status(200).json({
-            message: "Schedule has deleted.",
-        })
-    })
-    .catch(err=>{
-        res.status(400).json({
-            message: "Some error occured - DELETE",
-            err,
-          });
-    })
-}
-
-exports.getHorario = getHorario;
+exports.getHorarios = getHorarios;
+exports.getSingleHorario = getSingleHorario;
 exports.crearHorario = crearHorario;
 exports.updateHorario = updateHorario;
 exports.deleteHorario = deleteHorario;

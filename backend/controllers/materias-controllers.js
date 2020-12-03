@@ -1,104 +1,134 @@
-//const { validationResult } = require('express-validator');
+const HttpError = require("../models/http-error");
 
-//const HttpError = require('../models/http-error');
 const Materia = require("../models/materia");
 
-const getMaterias = async (req,res) => {
-    try {
-        res.status(200).json({
-          data: req.Materia,
-        });
-      } catch (err) {
-        res.status(400).json({
-          message: "Some error occured - GET",
-          err,
-        });
-      }
-}
-
-const createNewMatter = async (req, res) =>{
-    const {name,
-        nrc, 
-        clave,
-        professor} = req.body;
-    
-    /* let existingMatter;
-    try{
-        existingMatter = await Materia.findOne({nrc: nrc})
-    }catch(err){
-        const error = new HttpError(
-            'NRC duplicate.',
-            500
-          );
-          return next(error);   
-    } */
-
-    const nuevaMateria = new Materia({
-        name,
-        nrc, 
-        clave,
-        date: [],
-        professor,
+const getMaterias = async (req, res) => {
+  let materias;
+  try {
+    materias = await Materia.find();
+  } catch (err) {
+    res.status(500).json({
+      message: "Fetching error ocurred, please try again later",
+      err,
     });
+  }
+  res.json({
+    data: {
+      materias: materias.map((materia) => materia.toObject({ getters: true })),
+    },
+  });
+};
 
-    try{
-        await nuevaMateria.save()
-        .then(res.status(200).json({
-            data: nuevaMateria,
-            })
-        );
-    } catch (err) {
-        res.status(400).json({
-            message: "Some error occured - POST",
-            err,
-          });
-    }
+const getSingleMateria = async (req, res) => {
+  const { nrc } = req.params;
+  console.log(req.params);
+  let materia;
+  try {
+    materia = await Materia.findOne({ nrc });
+  } catch (err) {
+    res.status(500).json({
+      message: "Fetching error ocurred, please try again later",
+      err,
+    });
+  }
+  console.log(materia);
+  if (materia)
+    res.json({
+      data: materia.toObject({ getters: true }),
+    });
+};
 
-}
+const createMateria = async (req, res, next) => {
+  const { name, nrc, clave, professor, date } = req.body;
 
-const updateMatter = async (req, res) => {
-    const id = req.params.id;
-    const {name,
-        nrc, 
-        clave,
-        professor} = req.body;
+  let existingMateria;
+  try {
+    existingMateria = await Materia.findOne({ nrc });
+  } catch (err) {
+    const error = new HttpError("Internal error, please try again later", 500);
+    return next(error);
+  }
+  if (existingMateria) {
+    const error = new HttpError(
+      "Materia exists already, please update instead",
+      402
+    );
+    return next(error);
+  }
 
-    Materia.findByIdAndUpdate({_id: id}, {$set: {nrc: nrc, name: name, clave: clave, professor: professor}}).
-    then(doc =>{
-        console.log(doc)
-        res.status(200).json({
-            message: "Matter has updated.",
-        })
-    })
-    .catch(err=>{
-        res.status(400).json({
-            message: "Some error occured - UPDATE",
-            err,
-          });
-    })
-}
+  const nuevaMateria = new Materia({
+    name,
+    nrc,
+    clave,
+    date,
+    professor,
+  });
 
-const deleteMatter = async (req, res) =>{
-    const id = req.params.id;
+  try {
+    await nuevaMateria.save();
+    res
+      .status(200)
+      .json({ data: { materia: nuevaMateria.toObject({ getters: true }) } });
+  } catch (err) {
+    res.status(400).json({
+      message: "Some error occured - POST",
+      err,
+    });
+  }
+};
 
-    Materia.findByIdAndDelete({_id: id})
-    .then(doc =>{
-        console.log(doc)
-        res.status(200).json({
-            message: "Matter has deleted.",
-        })
-    })
-    .catch(err=>{
-        res.status(400).json({
-            message: "Some error occured - UPDATE",
-            err,
-          });
-    })
-}
+const updateMateria = async (req, res, next) => {
+  const { nrc } = req.params;
+  let materias;
+  console.log(req.params)
+  try{
+    materias = await Materia.findOne({ nrc });
+  } catch (err){
+    res.status(500).json({
+      message: "Fetching error ocurred, please try again later",
+      err,
+    });
+  }
 
+  for (let property in req.body){
+    console.log(req.body[property]);
+    materias[property] = req.body[property];
+  }
+  
+  try{
+    await materias.save();
+    res.status(200).json({
+      message: "Materia was updated",
+    });
+  }catch (err){
+    console.log(err);
+    
+    const error = new HttpError(
+      'Something went wrong, please try again later.',
+      500
+    );
+    return next(error);
+  }
+};
 
+const deleteMateria = async (req, res) => {
+  const { nrc } = req.params;
+
+  try{
+    await Materia.findOneAndDelete({ nrc});
+    res.status(200).json({
+      message: "Materia was deleted",
+    });
+  } catch (err){
+    res.status(500).json({
+      message: "Fetching error ocurred, please try again later",
+      err,
+    });
+  }
+};
 
 exports.getMaterias = getMaterias;
-exports.createNewMatter = createNewMatter
-exports.updateMatter = updateMatter
-exports.deleteMatter = deleteMatter
+exports.getSingleMateria = getSingleMateria;
+exports.createMateria = createMateria;
+exports.updateMateria = updateMateria;
+exports.deleteMateria = deleteMateria;
