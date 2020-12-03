@@ -1,6 +1,5 @@
 * {
   margin: 0px;
-  padding: 0px;
   align-items: center;
 }
 
@@ -14,7 +13,9 @@ body {
 }
 
 body h1 {
+  display: flex;
   align-items: center;
+  justify-content: center;
   color: #2ebf91;
 }
 
@@ -28,13 +29,29 @@ aside {
   position: fixed;
 }
 
-.erick{
+.erick {
   background: white;
 }
 
-
-.logo{
+.logo {
   width: 105%;
-
+  display: flex;
+  /* align-items:center; */
+  /* justify-content:center; */
+  margin-left: -5%;
 }
 
+.subtitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #2ebf91;
+}
+
+.box {
+  background-color: gray;
+  min-width: 50px;
+  min-height: 50px;
+  margin: 10px;
+  height: fit-content;
+}
