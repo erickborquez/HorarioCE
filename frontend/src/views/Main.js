@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import StyledSelect from "../components/StyledSelect";
 import { makeStyles } from "@material-ui/core";
 import backgroundLogo from "../assets/images/background.svg"
-// import Preferences from "../views/Preferences"
+import Preferences from "../views/Preferences"
 
 const useStyles = makeStyles(() => ({
   root: {
