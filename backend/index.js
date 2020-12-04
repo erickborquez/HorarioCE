@@ -25,9 +25,11 @@ app.use(bodyParser.json());
 
 const materiasRouter = require("./routes/materias-router");
 const horariosRouter = require("./routes/horarios-router");
+const updateRoutes = require("./routes/update-router");
 
 app.use("/api/materias", materiasRouter);
 app.use("/api/horarios", horariosRouter);
+app.use("/api/update", updateRoutes);
 
 app.listen(port, function () {
   console.log("Port: " + port);
