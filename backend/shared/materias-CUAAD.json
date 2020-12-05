@@ -1,0 +1,5948 @@
+{
+    "materias": [
+        {
+            "clave": "AD119",
+            "nombre": "ADMINISTRACION I"
+        },
+        {
+            "clave": "AE192",
+            "nombre": "ACROBACIA BASICA"
+        },
+        {
+            "clave": "AE176",
+            "nombre": "ACTUACION ESCENICA PARA LA OPERA"
+        },
+        {
+            "clave": "AE120",
+            "nombre": "CONCIENTIZACION CORPORAL I"
+        },
+        {
+            "clave": "AE121",
+            "nombre": "CONCIENTIZACION CORPORAL II"
+        },
+        {
+            "clave": "AE193",
+            "nombre": "CONFECCION DE UTILERIA"
+        },
+        {
+            "clave": "AE129",
+            "nombre": "DANZA ACADEMICA I"
+        },
+        {
+            "clave": "AE130",
+            "nombre": "DANZA ACADEMICA II"
+        },
+        {
+            "clave": "AE131",
+            "nombre": "DANZA ACADEMICA III"
+        },
+        {
+            "clave": "AE132",
+            "nombre": "DANZA ACADEMICA IV"
+        },
+        {
+            "clave": "AE133",
+            "nombre": "DANZA ACADEMICA V"
+        },
+        {
+            "clave": "AE116",
+            "nombre": "DANZA CLASICA I"
+        },
+        {
+            "clave": "AE117",
+            "nombre": "DANZA CLASICA II"
+        },
+        {
+            "clave": "AE118",
+            "nombre": "DANZA CLASICA III"
+        },
+        {
+            "clave": "AE119",
+            "nombre": "DANZA CLASICA IV"
+        },
+        {
+            "clave": "AE167",
+            "nombre": "DANZA CONTEMPORANEA I"
+        },
+        {
+            "clave": "AE168",
+            "nombre": "DANZA CONTEMPORANEA II"
+        },
+        {
+            "clave": "AE169",
+            "nombre": "DANZA CONTEMPORANEA III"
+        },
+        {
+            "clave": "AE170",
+            "nombre": "DANZA CONTEMPORANEA IV"
+        },
+        {
+            "clave": "AE171",
+            "nombre": "DANZA CONTEMPORANEA V"
+        },
+        {
+            "clave": "AE172",
+            "nombre": "DANZA CONTEMPORANEA VI"
+        },
+        {
+            "clave": "AE158",
+            "nombre": "DANZA FOLKLORICA I"
+        },
+        {
+            "clave": "AE159",
+            "nombre": "DANZA FOLKLORICA II"
+        },
+        {
+            "clave": "AE160",
+            "nombre": "DANZA FOLKLORICA III"
+        },
+        {
+            "clave": "AE161",
+            "nombre": "DANZA FOLKLORICA IV"
+        },
+        {
+            "clave": "AE162",
+            "nombre": "DANZA FOLKLORICA V"
+        },
+        {
+            "clave": "AE163",
+            "nombre": "DANZA FOLKLORICA VI"
+        },
+        {
+            "clave": "AE144",
+            "nombre": "DANZA JAZZ I"
+        },
+        {
+            "clave": "AE145",
+            "nombre": "DANZA JAZZ II"
+        },
+        {
+            "clave": "AE109",
+            "nombre": "DANZA PARA ACTORES I"
+        },
+        {
+            "clave": "AE110",
+            "nombre": "DANZA PARA ACTORES II"
+        },
+        {
+            "clave": "AE111",
+            "nombre": "DANZA PARA ACTORES III"
+        },
+        {
+            "clave": "AE112",
+            "nombre": "DANZA PARA ACTORES IV"
+        },
+        {
+            "clave": "AE189",
+            "nombre": "DANZAS AUTOCTONAS"
+        },
+        {
+            "clave": "AE194",
+            "nombre": "ELABORACION DE MASCARAS"
+        },
+        {
+            "clave": "AE197",
+            "nombre": "ELEMENTOS DE FONIATRIA"
+        },
+        {
+            "clave": "AE187",
+            "nombre": "ESCENOGRAFIA FOTOGRAFICA I"
+        },
+        {
+            "clave": "AE188",
+            "nombre": "ESCENOGRAFIA FOTOGRAFICA II"
+        },
+        {
+            "clave": "AE199",
+            "nombre": "ESCENOGRAFIA I"
+        },
+        {
+            "clave": "AE200",
+            "nombre": "ESCENOGRAFIA II"
+        },
+        {
+            "clave": "AE186",
+            "nombre": "ESCENOTECNIA FOTOGRAFICA I"
+        },
+        {
+            "clave": "AE196",
+            "nombre": "ESGRIMA BASICA"
+        },
+        {
+            "clave": "AE142",
+            "nombre": "EXPRESION CORPORAL I"
+        },
+        {
+            "clave": "AE143",
+            "nombre": "EXPRESION CORPORAL II"
+        },
+        {
+            "clave": "AE164",
+            "nombre": "FUNDAMENTOS DE DANZA CONTEMPORANEA I"
+        },
+        {
+            "clave": "AE165",
+            "nombre": "FUNDAMENTOS DE DANZA CONTEMPORANEA II"
+        },
+        {
+            "clave": "AE166",
+            "nombre": "FUNDAMENTOS DE DANZA CONTEMPORANEA III"
+        },
+        {
+            "clave": "AE108",
+            "nombre": "GIMNASIA RITMICA"
+        },
+        {
+            "clave": "AE502",
+            "nombre": "LITERALIDAD Y TEORIA DEL TEATRO"
+        },
+        {
+            "clave": "AE195",
+            "nombre": "MAQUILLAJE ESCENICO"
+        },
+        {
+            "clave": "AE501",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION DE LAS ARTES ESCENICAS"
+        },
+        {
+            "clave": "AE146",
+            "nombre": "PRACTICAS ESCENICAS I"
+        },
+        {
+            "clave": "AE147",
+            "nombre": "PRACTICAS ESCENICAS II"
+        },
+        {
+            "clave": "AE122",
+            "nombre": "PREVENCION DE LESIONES I"
+        },
+        {
+            "clave": "AE123",
+            "nombre": "PREVENCION DE LESIONES II"
+        },
+        {
+            "clave": "AE184",
+            "nombre": "PRODUCCION ESCENICA IV"
+        },
+        {
+            "clave": "AE185",
+            "nombre": "PRODUCCION ESCENICA V"
+        },
+        {
+            "clave": "AE126",
+            "nombre": "PRODUCCION TEATRAL I"
+        },
+        {
+            "clave": "AE127",
+            "nombre": "PRODUCCION TEATRAL II"
+        },
+        {
+            "clave": "AE128",
+            "nombre": "PROYECTOS DANCISTICOS"
+        },
+        {
+            "clave": "AE173",
+            "nombre": "SEMINARIO PARA LA TITULACION"
+        },
+        {
+            "clave": "AE190",
+            "nombre": "TALLER DE BAILES DE SALON"
+        },
+        {
+            "clave": "AE191",
+            "nombre": "TALLER DE BAILES INTERNACIONALES"
+        },
+        {
+            "clave": "AE210",
+            "nombre": "TALLER DE TITERES I"
+        },
+        {
+            "clave": "AE211",
+            "nombre": "TALLER DE TITERES II"
+        },
+        {
+            "clave": "AE212",
+            "nombre": "TEATRO ORIENTAL"
+        },
+        {
+            "clave": "AE124",
+            "nombre": "TECNICA COREOGRAFICA I"
+        },
+        {
+            "clave": "AE125",
+            "nombre": "TECNICA COREOGRAFICA II"
+        },
+        {
+            "clave": "AE138",
+            "nombre": "TECNICAS DE DANZA CONTEMPORANEA I"
+        },
+        {
+            "clave": "AE139",
+            "nombre": "TECNICAS DE DANZA CONTEMPORANEA II"
+        },
+        {
+            "clave": "AE140",
+            "nombre": "TECNICAS DE DANZA CONTEMPORANEA III"
+        },
+        {
+            "clave": "AE141",
+            "nombre": "TECNICAS DE DANZA CONTEMPORANEA IV"
+        },
+        {
+            "clave": "AE134",
+            "nombre": "TECNICAS DE DANZA FOLKLORICA I"
+        },
+        {
+            "clave": "AE135",
+            "nombre": "TECNICAS DE DANZA FOLKLORICA II"
+        },
+        {
+            "clave": "AE136",
+            "nombre": "TECNICAS DE DANZA FOLKLORICA III"
+        },
+        {
+            "clave": "AE137",
+            "nombre": "TECNICAS DE DANZA FOLKLORICA IV"
+        },
+        {
+            "clave": "AE115",
+            "nombre": "TECNICAS FUNDAMENTALES PARA LA DANZA"
+        },
+        {
+            "clave": "AE503",
+            "nombre": "TEORIA Y CRITICA DE LA DANZA"
+        },
+        {
+            "clave": "AE101",
+            "nombre": "TEORIA Y PRACTICA ACTORAL II"
+        },
+        {
+            "clave": "AE102",
+            "nombre": "TEORIA Y PRACTICA ACTORAL III"
+        },
+        {
+            "clave": "AE103",
+            "nombre": "TEORIA Y PRACTICA ACTORAL IV"
+        },
+        {
+            "clave": "AE104",
+            "nombre": "TEORIA Y PRACTICA ACTORAL V"
+        },
+        {
+            "clave": "AE174",
+            "nombre": "TEORIA Y PRACTICA ACTORAL VII"
+        },
+        {
+            "clave": "AE148",
+            "nombre": "TESIS ESCOLARIZADA"
+        },
+        {
+            "clave": "PQ100",
+            "nombre": "COMPOSICION ARQUITECTONICA I"
+        },
+        {
+            "clave": "PQ101",
+            "nombre": "COMPOSICION ARQUITECTONICA II"
+        },
+        {
+            "clave": "PQ102",
+            "nombre": "COMPOSICION ARQUITECTONICA III"
+        },
+        {
+            "clave": "PQ103",
+            "nombre": "COMPOSICION ARQUITECTONICA IV"
+        },
+        {
+            "clave": "PQ104",
+            "nombre": "COMPOSICION ARQUITECTONICA V"
+        },
+        {
+            "clave": "PQ105",
+            "nombre": "COMPOSICION ARQUITECTONICA VI"
+        },
+        {
+            "clave": "PQ106",
+            "nombre": "COMPOSICION ARQUITECTONICA VII"
+        },
+        {
+            "clave": "PQ107",
+            "nombre": "COMPOSICION ARQUITECTONICA VIII"
+        },
+        {
+            "clave": "PQ120",
+            "nombre": "JARDINERIA I"
+        },
+        {
+            "clave": "PQ121",
+            "nombre": "JARDINERIA II"
+        },
+        {
+            "clave": "PQ108",
+            "nombre": "TESIS I"
+        },
+        {
+            "clave": "PQ108",
+            "nombre": "TESIS I"
+        },
+        {
+            "clave": "PQ109",
+            "nombre": "TESIS II"
+        },
+        {
+            "clave": "PQ109",
+            "nombre": "TESIS II"
+        },
+        {
+            "clave": "A0015",
+            "nombre": "ADMINISTRACION DE LOS PROCESOS CULTURALES"
+        },
+        {
+            "clave": "AV109",
+            "nombre": "ANATOMIA PLASTICA I"
+        },
+        {
+            "clave": "AV110",
+            "nombre": "ANATOMIA PLASTICA II"
+        },
+        {
+            "clave": "AV503",
+            "nombre": "ANTROPOLOGIA DEL CINE"
+        },
+        {
+            "clave": "AV237",
+            "nombre": "CAMARA I"
+        },
+        {
+            "clave": "AV238",
+            "nombre": "CAMARA II"
+        },
+        {
+            "clave": "AV239",
+            "nombre": "CAMARA III"
+        },
+        {
+            "clave": "AV240",
+            "nombre": "CAMARA IV"
+        },
+        {
+            "clave": "AV241",
+            "nombre": "CAMARA V"
+        },
+        {
+            "clave": "AV242",
+            "nombre": "CAMARA VI"
+        },
+        {
+            "clave": "AV223",
+            "nombre": "CERAMICA BASICA I"
+        },
+        {
+            "clave": "AV224",
+            "nombre": "CERAMICA BASICA II"
+        },
+        {
+            "clave": "AV205",
+            "nombre": "CERAMICA I"
+        },
+        {
+            "clave": "AV206",
+            "nombre": "CERAMICA II"
+        },
+        {
+            "clave": "A0013",
+            "nombre": "COMUNICACION EDUCATIVA Y EXTENSION DE LA CULTURA"
+        },
+        {
+            "clave": "A0006",
+            "nombre": "COMUNIDADES Y GESTION DE REDES PARA LA CULTURA"
+        },
+        {
+            "clave": "A0024",
+            "nombre": "CULTURA AMBIENTAL"
+        },
+        {
+            "clave": "A0009",
+            "nombre": "CULTURA Y GLOBALIZACION"
+        },
+        {
+            "clave": "AV219",
+            "nombre": "CURADOR I"
+        },
+        {
+            "clave": "AV220",
+            "nombre": "CURADOR II"
+        },
+        {
+            "clave": "AV111",
+            "nombre": "DIBUJO ARTISTICO I"
+        },
+        {
+            "clave": "AV112",
+            "nombre": "DIBUJO ARTISTICO II"
+        },
+        {
+            "clave": "AV113",
+            "nombre": "DIBUJO ARTISTICO III"
+        },
+        {
+            "clave": "AV114",
+            "nombre": "DIBUJO ARTISTICO IV"
+        },
+        {
+            "clave": "AV115",
+            "nombre": "DIBUJO ARTISTICO V"
+        },
+        {
+            "clave": "AV116",
+            "nombre": "DIBUJO ARTISTICO VI"
+        },
+        {
+            "clave": "AV117",
+            "nombre": "DIBUJO ARTISTICO VII"
+        },
+        {
+            "clave": "AV108",
+            "nombre": "DIBUJO DE EXPRESION ARTISTICA"
+        },
+        {
+            "clave": "A0011",
+            "nombre": "ECONOMIA DE LA CULTURA"
+        },
+        {
+            "clave": "AV245",
+            "nombre": "EDICION I"
+        },
+        {
+            "clave": "AV246",
+            "nombre": "EDICION II"
+        },
+        {
+            "clave": "AV247",
+            "nombre": "EDICION III"
+        },
+        {
+            "clave": "AV248",
+            "nombre": "EDICION IV"
+        },
+        {
+            "clave": "AV249",
+            "nombre": "EDICION V"
+        },
+        {
+            "clave": "AV250",
+            "nombre": "EDICION VI"
+        },
+        {
+            "clave": "A0014",
+            "nombre": "EDUCACION MULTICULTURAL E INTERCULTURAL"
+        },
+        {
+            "clave": "AV100",
+            "nombre": "EDUCACION VISUAL I"
+        },
+        {
+            "clave": "AV101",
+            "nombre": "EDUCACION VISUAL II"
+        },
+        {
+            "clave": "AV507",
+            "nombre": "EL CINE Y SU LENGUAJE"
+        },
+        {
+            "clave": "AV229",
+            "nombre": "ELEMENTOS DE DIBUJO ARTISTICO"
+        },
+        {
+            "clave": "AV228",
+            "nombre": "ELEMENTOS DE ESCULTURA"
+        },
+        {
+            "clave": "AV227",
+            "nombre": "ELEMENTOS DE PINTURA"
+        },
+        {
+            "clave": "AV150",
+            "nombre": "ESCULTURA I"
+        },
+        {
+            "clave": "AV151",
+            "nombre": "ESCULTURA II"
+        },
+        {
+            "clave": "AV152",
+            "nombre": "ESCULTURA III"
+        },
+        {
+            "clave": "AV153",
+            "nombre": "ESCULTURA IV"
+        },
+        {
+            "clave": "AV154",
+            "nombre": "ESCULTURA V"
+        },
+        {
+            "clave": "AV155",
+            "nombre": "ESCULTURA VI"
+        },
+        {
+            "clave": "AV156",
+            "nombre": "ESCULTURA VII"
+        },
+        {
+            "clave": "AV157",
+            "nombre": "ESTAMPA I"
+        },
+        {
+            "clave": "AV158",
+            "nombre": "ESTAMPA II"
+        },
+        {
+            "clave": "AV159",
+            "nombre": "ESTAMPA III"
+        },
+        {
+            "clave": "AV160",
+            "nombre": "ESTAMPA IV"
+        },
+        {
+            "clave": "AV161",
+            "nombre": "ESTAMPA V"
+        },
+        {
+            "clave": "AV162",
+            "nombre": "ESTAMPA VI"
+        },
+        {
+            "clave": "AV163",
+            "nombre": "ESTAMPA VII"
+        },
+        {
+            "clave": "AV124",
+            "nombre": "EXPRESION CROMATICA"
+        },
+        {
+            "clave": "AV186",
+            "nombre": "EXPRESION FOTOGRAFICA"
+        },
+        {
+            "clave": "AV123",
+            "nombre": "EXPRESION MONOCROMATICA"
+        },
+        {
+            "clave": "AV125",
+            "nombre": "EXPRESION TRIDIMENSIONAL"
+        },
+        {
+            "clave": "A0019",
+            "nombre": "FINANCIAMIENTO CULTURAL"
+        },
+        {
+            "clave": "AV504",
+            "nombre": "FISICA DE LA LUZ"
+        },
+        {
+            "clave": "A0008",
+            "nombre": "FORMACION DE PUBLICOS"
+        },
+        {
+            "clave": "AV217",
+            "nombre": "FOTOGRAFIA BASICA I"
+        },
+        {
+            "clave": "AV218",
+            "nombre": "FOTOGRAFIA BASICA II"
+        },
+        {
+            "clave": "AV136",
+            "nombre": "FOTOGRAFIA BLANCO Y NEGRO"
+        },
+        {
+            "clave": "AV187",
+            "nombre": "FOTOGRAFIA DE PRODUCTOS"
+        },
+        {
+            "clave": "AV137",
+            "nombre": "FOTOGRAFIA EN COLOR"
+        },
+        {
+            "clave": "AV164",
+            "nombre": "FOTOGRAFIA I"
+        },
+        {
+            "clave": "AV165",
+            "nombre": "FOTOGRAFIA II"
+        },
+        {
+            "clave": "AV166",
+            "nombre": "FOTOGRAFIA III"
+        },
+        {
+            "clave": "AV167",
+            "nombre": "FOTOGRAFIA IV"
+        },
+        {
+            "clave": "AV188",
+            "nombre": "FOTOGRAFIA PUBLICITARIA I"
+        },
+        {
+            "clave": "AV189",
+            "nombre": "FOTOGRAFIA PUBLICITARIA II"
+        },
+        {
+            "clave": "AV168",
+            "nombre": "FOTOGRAFIA V"
+        },
+        {
+            "clave": "AV169",
+            "nombre": "FOTOGRAFIA VI"
+        },
+        {
+            "clave": "AV170",
+            "nombre": "FOTOGRAFIA VII"
+        },
+        {
+            "clave": "AV102",
+            "nombre": "FUNDAMENTOS I"
+        },
+        {
+            "clave": "AV103",
+            "nombre": "FUNDAMENTOS II"
+        },
+        {
+            "clave": "AV104",
+            "nombre": "FUNDAMENTOS III"
+        },
+        {
+            "clave": "AV105",
+            "nombre": "FUNDAMENTOS IV"
+        },
+        {
+            "clave": "AV221",
+            "nombre": "GRABADO BASICO I"
+        },
+        {
+            "clave": "AV222",
+            "nombre": "GRABADO BASICO II"
+        },
+        {
+            "clave": "AV207",
+            "nombre": "GRABADO I"
+        },
+        {
+            "clave": "AV208",
+            "nombre": "GRABADO II"
+        },
+        {
+            "clave": "AV209",
+            "nombre": "GRABADO III"
+        },
+        {
+            "clave": "AV210",
+            "nombre": "GRABADO IV"
+        },
+        {
+            "clave": "AV513",
+            "nombre": "GUION CINEMATOGRAFICO"
+        },
+        {
+            "clave": "AV264",
+            "nombre": "GUION I"
+        },
+        {
+            "clave": "AV265",
+            "nombre": "GUION II"
+        },
+        {
+            "clave": "AV266",
+            "nombre": "GUION III"
+        },
+        {
+            "clave": "AV267",
+            "nombre": "GUION IV"
+        },
+        {
+            "clave": "AV268",
+            "nombre": "GUION V"
+        },
+        {
+            "clave": "AV269",
+            "nombre": "GUION VI"
+        },
+        {
+            "clave": "AV516",
+            "nombre": "HISTORIA DE LAS ARTES VISUALES"
+        },
+        {
+            "clave": "A0007",
+            "nombre": "IDENTIDADES CULTURALES"
+        },
+        {
+            "clave": "AV506",
+            "nombre": "INTEGRACION MORFOCROMATICA"
+        },
+        {
+            "clave": "AV106",
+            "nombre": "LABORATORIO DE FUNDAMENTOS"
+        },
+        {
+            "clave": "AV171",
+            "nombre": "LABORATORIO FOTOGRAFICO I"
+        },
+        {
+            "clave": "AV172",
+            "nombre": "LABORATORIO FOTOGRAFICO II"
+        },
+        {
+            "clave": "AV173",
+            "nombre": "LABORATORIO FOTOGRAFICO III"
+        },
+        {
+            "clave": "AV174",
+            "nombre": "LABORATORIO FOTOGRAFICO IV"
+        },
+        {
+            "clave": "AV175",
+            "nombre": "LABORATORIO FOTOGRAFICO V"
+        },
+        {
+            "clave": "AV176",
+            "nombre": "LABORATORIO FOTOGRAFICO VI"
+        },
+        {
+            "clave": "AV177",
+            "nombre": "LABORATORIO FOTOGRAFICO VII"
+        },
+        {
+            "clave": "A0004",
+            "nombre": "LEGISLACION CULTURAL"
+        },
+        {
+            "clave": "AV505",
+            "nombre": "MATERIALES I"
+        },
+        {
+            "clave": "AV509",
+            "nombre": "MATERIALES II"
+        },
+        {
+            "clave": "AV511",
+            "nombre": "MATERIALES III"
+        },
+        {
+            "clave": "A0020",
+            "nombre": "MERCADOTECNIA CULTURAL"
+        },
+        {
+            "clave": "AV515",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION DE LAS ARTES VISUALES"
+        },
+        {
+            "clave": "A0002",
+            "nombre": "METODOS Y TECNICAS DE LA INVESTIGACION CULTURAL"
+        },
+        {
+            "clave": "A0017",
+            "nombre": "MOVIMIENTOS SOCIO CULTURALES"
+        },
+        {
+            "clave": "A0001",
+            "nombre": "PARADIGMA EN TORNO A LA CULTURA"
+        },
+        {
+            "clave": "AV179",
+            "nombre": "PINTURA I"
+        },
+        {
+            "clave": "AV180",
+            "nombre": "PINTURA II"
+        },
+        {
+            "clave": "AV181",
+            "nombre": "PINTURA III"
+        },
+        {
+            "clave": "AV182",
+            "nombre": "PINTURA IV"
+        },
+        {
+            "clave": "AV183",
+            "nombre": "PINTURA V"
+        },
+        {
+            "clave": "AV184",
+            "nombre": "PINTURA VI"
+        },
+        {
+            "clave": "AV185",
+            "nombre": "PINTURA VII"
+        },
+        {
+            "clave": "A0005",
+            "nombre": "PLANEACION ESTRATEGICA"
+        },
+        {
+            "clave": "AV253",
+            "nombre": "PRODUCCION I"
+        },
+        {
+            "clave": "AV254",
+            "nombre": "PRODUCCION II"
+        },
+        {
+            "clave": "AV255",
+            "nombre": "PRODUCCION III"
+        },
+        {
+            "clave": "AV235",
+            "nombre": "PROMOTOR DE ARTE"
+        },
+        {
+            "clave": "A0021",
+            "nombre": "PROPIEDAD INTELECTUAL"
+        },
+        {
+            "clave": "AV256",
+            "nombre": "REALIZACION I"
+        },
+        {
+            "clave": "AV257",
+            "nombre": "REALIZACION II"
+        },
+        {
+            "clave": "AV258",
+            "nombre": "REALIZACION III"
+        },
+        {
+            "clave": "AV259",
+            "nombre": "REALIZACION IV"
+        },
+        {
+            "clave": "AV260",
+            "nombre": "REALIZACION V"
+        },
+        {
+            "clave": "AV261",
+            "nombre": "REALIZACION VI"
+        },
+        {
+            "clave": "A0023",
+            "nombre": "RECREACION Y CULTURA"
+        },
+        {
+            "clave": "AV211",
+            "nombre": "RESTAURACION DE OBRA FOTOGRAFICA"
+        },
+        {
+            "clave": "AV212",
+            "nombre": "RESTAURACION I"
+        },
+        {
+            "clave": "AV213",
+            "nombre": "RESTAURACION II"
+        },
+        {
+            "clave": "AV214",
+            "nombre": "RESTAURACION III"
+        },
+        {
+            "clave": "AV225",
+            "nombre": "RETOQUE DE NEGATIVO"
+        },
+        {
+            "clave": "AV243",
+            "nombre": "SEMINARIO CAMARA I"
+        },
+        {
+            "clave": "AV244",
+            "nombre": "SEMINARIO CAMARA II"
+        },
+        {
+            "clave": "AV270",
+            "nombre": "SEMINARIO DE GUION I"
+        },
+        {
+            "clave": "AV271",
+            "nombre": "SEMINARIO DE GUION II"
+        },
+        {
+            "clave": "AV251",
+            "nombre": "SEMINARIO EDICION I"
+        },
+        {
+            "clave": "AV252",
+            "nombre": "SEMINARIO EDICION II"
+        },
+        {
+            "clave": "AV262",
+            "nombre": "SEMINARIO REALIZACION I"
+        },
+        {
+            "clave": "AV263",
+            "nombre": "SEMINARIO REALIZACION II"
+        },
+        {
+            "clave": "AV276",
+            "nombre": "SEMINARIO SONIDO I"
+        },
+        {
+            "clave": "AV277",
+            "nombre": "SEMINARIO SONIDO II"
+        },
+        {
+            "clave": "AV282",
+            "nombre": "SERIGRAFIA BASICA I"
+        },
+        {
+            "clave": "AV283",
+            "nombre": "SERIGRAFIA BASICA II"
+        },
+        {
+            "clave": "AV512",
+            "nombre": "SINTESIS CONCEPTUAL"
+        },
+        {
+            "clave": "AV272",
+            "nombre": "SONIDO I"
+        },
+        {
+            "clave": "AV273",
+            "nombre": "SONIDO II"
+        },
+        {
+            "clave": "AV274",
+            "nombre": "SONIDO III"
+        },
+        {
+            "clave": "AV275",
+            "nombre": "SONIDO IV"
+        },
+        {
+            "clave": "A0018",
+            "nombre": "SOSTENIBILIDAD Y DESARROLLO CULTURAL"
+        },
+        {
+            "clave": "AV203",
+            "nombre": "TECNICAS DE CERAMICA I"
+        },
+        {
+            "clave": "AV204",
+            "nombre": "TECNICAS DE CERAMICA II"
+        },
+        {
+            "clave": "AV118",
+            "nombre": "TECNICAS DE DIBUJO ARTISTICO I"
+        },
+        {
+            "clave": "AV119",
+            "nombre": "TECNICAS DE DIBUJO ARTISTICO II"
+        },
+        {
+            "clave": "AV120",
+            "nombre": "TECNICAS DE DIBUJO ARTISTICO III"
+        },
+        {
+            "clave": "AV121",
+            "nombre": "TECNICAS DE DIBUJO ARTISTICO IV"
+        },
+        {
+            "clave": "AV122",
+            "nombre": "TECNICAS DE DIBUJO ARTISTICO V"
+        },
+        {
+            "clave": "AV131",
+            "nombre": "TECNICAS DE ESCULTURA I"
+        },
+        {
+            "clave": "AV132",
+            "nombre": "TECNICAS DE ESCULTURA II"
+        },
+        {
+            "clave": "AV133",
+            "nombre": "TECNICAS DE ESCULTURA III"
+        },
+        {
+            "clave": "AV134",
+            "nombre": "TECNICAS DE ESCULTURA IV"
+        },
+        {
+            "clave": "AV135",
+            "nombre": "TECNICAS DE ESCULTURA V"
+        },
+        {
+            "clave": "AV144",
+            "nombre": "TECNICAS DE LABORATORIO I"
+        },
+        {
+            "clave": "AV145",
+            "nombre": "TECNICAS DE LABORATORIO II"
+        },
+        {
+            "clave": "AV146",
+            "nombre": "TECNICAS DE LABORATORIO III"
+        },
+        {
+            "clave": "AV147",
+            "nombre": "TECNICAS DE LABORATORIO IV"
+        },
+        {
+            "clave": "AV148",
+            "nombre": "TECNICAS DE LABORATORIO V"
+        },
+        {
+            "clave": "AV149",
+            "nombre": "TECNICAS DE LABORATORIO VI"
+        },
+        {
+            "clave": "AV126",
+            "nombre": "TECNICAS DE PINTURA I"
+        },
+        {
+            "clave": "AV127",
+            "nombre": "TECNICAS DE PINTURA II"
+        },
+        {
+            "clave": "AV128",
+            "nombre": "TECNICAS DE PINTURA III"
+        },
+        {
+            "clave": "AV129",
+            "nombre": "TECNICAS DE PINTURA IV"
+        },
+        {
+            "clave": "AV130",
+            "nombre": "TECNICAS DE PINTURA V"
+        },
+        {
+            "clave": "AV138",
+            "nombre": "TECNICAS FOTOGRAFICAS I"
+        },
+        {
+            "clave": "AV139",
+            "nombre": "TECNICAS FOTOGRAFICAS II"
+        },
+        {
+            "clave": "AV140",
+            "nombre": "TECNICAS FOTOGRAFICAS III"
+        },
+        {
+            "clave": "AV141",
+            "nombre": "TECNICAS FOTOGRAFICAS IV"
+        },
+        {
+            "clave": "AV142",
+            "nombre": "TECNICAS FOTOGRAFICAS V"
+        },
+        {
+            "clave": "AV143",
+            "nombre": "TECNICAS FOTOGRAFICAS VI"
+        },
+        {
+            "clave": "AV517",
+            "nombre": "TEORIA Y CRITICA DE LAS ARTES VISUALES"
+        },
+        {
+            "clave": "A0012",
+            "nombre": "TEORIA, TECNICAS Y DINAMICAS GRUPALES"
+        },
+        {
+            "clave": "A0016",
+            "nombre": "TEORIAS Y TECNICAS DE PROMOCION CULTURAL"
+        },
+        {
+            "clave": "A0003",
+            "nombre": "TERRITORIALIDAD Y CULTURA"
+        },
+        {
+            "clave": "AV192",
+            "nombre": "TESIS PROFESIONAL MEDIO PARA ESCULTURA I"
+        },
+        {
+            "clave": "AV193",
+            "nombre": "TESIS PROFESIONAL MEDIO PARA ESCULTURA II"
+        },
+        {
+            "clave": "AV194",
+            "nombre": "TESIS PROFESIONAL MEDIO PARA FOTOGRAFIA"
+        },
+        {
+            "clave": "AV190",
+            "nombre": "TESIS PROFESIONAL MEDIO PARA PINTURA I"
+        },
+        {
+            "clave": "AV191",
+            "nombre": "TESIS PROFESIONAL MEDIO PARA PINTURA II"
+        },
+        {
+            "clave": "I1503",
+            "nombre": "TRABAJO DE TESIS O PRODUCTO DE INTERVENCION"
+        },
+        {
+            "clave": "A0010",
+            "nombre": "VALUACION DE PATRIMONIO"
+        },
+        {
+            "clave": "A0022",
+            "nombre": "VOLUNTARIADO CULTURAL"
+        },
+        {
+            "clave": "CJ119",
+            "nombre": "HISTORIA ECONOMICA DE MEXICO I"
+        },
+        {
+            "clave": "CJ121",
+            "nombre": "HISTORIA ECONOMICA GENERAL I"
+        },
+        {
+            "clave": "CJ120",
+            "nombre": "HISTORIA ECONOMICA GENERAL II"
+        },
+        {
+            "clave": "CJ127",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION I"
+        },
+        {
+            "clave": "IT495",
+            "nombre": "TEMAS ESPECIALES I DE VIAS TERRESTRES"
+        },
+        {
+            "clave": "DI107",
+            "nombre": "ANALISIS DE FACTIBILIDAD"
+        },
+        {
+            "clave": "DI511",
+            "nombre": "ANALISIS DE FUTUROS"
+        },
+        {
+            "clave": "DI511",
+            "nombre": "ANALISIS DE FUTUROS"
+        },
+        {
+            "clave": "DI103",
+            "nombre": "ANALISIS DE LA DEMANDA"
+        },
+        {
+            "clave": "DI502",
+            "nombre": "ANALISIS DE LA INFORMACION DE MERCADOTECNIA"
+        },
+        {
+            "clave": "DI505",
+            "nombre": "ANALISIS DEL USO DE LOS OBJETOS"
+        },
+        {
+            "clave": "DI505",
+            "nombre": "ANALISIS DEL USO DE LOS OBJETOS"
+        },
+        {
+            "clave": "DI503",
+            "nombre": "DESARROLLO DE NUEVOS PRODUCTOS I"
+        },
+        {
+            "clave": "DI507",
+            "nombre": "DESARROLLO DE NUEVOS PRODUCTOS II"
+        },
+        {
+            "clave": "DI111",
+            "nombre": "DESARROLLO DEL PRODUCTO"
+        },
+        {
+            "clave": "DI513",
+            "nombre": "DESARROLLO HUMANO"
+        },
+        {
+            "clave": "P0527",
+            "nombre": "DESARROLLO HUMANO"
+        },
+        {
+            "clave": "P0520",
+            "nombre": "DESARROLLO SUSTENTABLE"
+        },
+        {
+            "clave": "P0509",
+            "nombre": "FACTORES DE CALIDAD DEL PRODUCTO"
+        },
+        {
+            "clave": "P0509",
+            "nombre": "FACTORES DE CALIDAD DEL PRODUCTO"
+        },
+        {
+            "clave": "P0530",
+            "nombre": "INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "P0522",
+            "nombre": "INTEGRACION FORMAL"
+        },
+        {
+            "clave": "DI501",
+            "nombre": "INVESTIGACION CIENTIFICA"
+        },
+        {
+            "clave": "P0511",
+            "nombre": "OPTATIVA I"
+        },
+        {
+            "clave": "P0518",
+            "nombre": "OPTATIVA II"
+        },
+        {
+            "clave": "P0525",
+            "nombre": "OPTATIVA III"
+        },
+        {
+            "clave": "P0532",
+            "nombre": "OPTATIVA IV"
+        },
+        {
+            "clave": "P0521",
+            "nombre": "PRINCIPIOS DE LA TECNOLOGIA DE LA FUNCION"
+        },
+        {
+            "clave": "P0507",
+            "nombre": "SEMINARIO DE ANALISIS DE MERCADO"
+        },
+        {
+            "clave": "P0505",
+            "nombre": "SEMINARIO DE INVESTIGACION CIENTIFICA I"
+        },
+        {
+            "clave": "P0512",
+            "nombre": "SEMINARIO DE INVESTIGACION CIENTIFICA II"
+        },
+        {
+            "clave": "P0516",
+            "nombre": "SEMINARIO DE SISTEMAS PRODUCTIVOS"
+        },
+        {
+            "clave": "P0515",
+            "nombre": "TECNICAS Y METODOS DE CONCEPTUALIZACION"
+        },
+        {
+            "clave": "P0515",
+            "nombre": "TECNICAS Y METODOS DE CONCEPTUALIZACION"
+        },
+        {
+            "clave": "P0529",
+            "nombre": "TEORIA DE LOS OBJETOS"
+        },
+        {
+            "clave": "EN112",
+            "nombre": "ECONOMIA AMBIENTAL"
+        },
+        {
+            "clave": "EN113",
+            "nombre": "ECONOMIA I"
+        },
+        {
+            "clave": "EN114",
+            "nombre": "ECONOMIA II"
+        },
+        {
+            "clave": "EN133",
+            "nombre": "HISTORIA DEL PENSAMIENTO ECONOMICO I"
+        },
+        {
+            "clave": "EN134",
+            "nombre": "HISTORIA DEL PENSAMIENTO ECONOMICO II"
+        },
+        {
+            "clave": "EN146",
+            "nombre": "POLITICAS PUBLICAS I"
+        },
+        {
+            "clave": "A0254",
+            "nombre": "ACTUACION NATURALISTA"
+        },
+        {
+            "clave": "A0256",
+            "nombre": "ACTUACION REALISTA"
+        },
+        {
+            "clave": "A0296",
+            "nombre": "ACTUACION Y PUESTA EN ESCENA"
+        },
+        {
+            "clave": "IG780",
+            "nombre": "ADMINISTRACION PUBLICA DE LA CULTURA"
+        },
+        {
+            "clave": "A0346",
+            "nombre": "ALEMAN APLICADO A LA MUSICA II"
+        },
+        {
+            "clave": "A0107",
+            "nombre": "ANALISIS CONCEPTUAL DE LA OBRA ARTISTICA"
+        },
+        {
+            "clave": "IC445",
+            "nombre": "ANALISIS CRITICO PARA LA INTERPRETACION DE LA PRODUCCION ARTISTICA"
+        },
+        {
+            "clave": "NV053",
+            "nombre": "ANALISIS CURRICULAR I Y II"
+        },
+        {
+            "clave": "NV050",
+            "nombre": "ANALISIS DE LAS FORMAS I Y II"
+        },
+        {
+            "clave": "S0257",
+            "nombre": "ANALISIS DE PELICULAS"
+        },
+        {
+            "clave": "IC786",
+            "nombre": "ANALISIS DEL DISCURSO"
+        },
+        {
+            "clave": "A0257",
+            "nombre": "ANALISIS DEL DRAMA"
+        },
+        {
+            "clave": "A0709",
+            "nombre": "ANALISIS DRAMATURGICOS"
+        },
+        {
+            "clave": "A0297",
+            "nombre": "ANALISIS Y PUESTA EN ESCENA"
+        },
+        {
+            "clave": "A0109",
+            "nombre": "ANATOMIA DINAMICA Y EXPRESIVA"
+        },
+        {
+            "clave": "I2834",
+            "nombre": "ANTROPOLOGIA DE LA DANZA"
+        },
+        {
+            "clave": "S0263",
+            "nombre": "ANTROPOLOGIA DEL CINE"
+        },
+        {
+            "clave": "I2835",
+            "nombre": "APRECIACION CINEMATOGRAFICA"
+        },
+        {
+            "clave": "A0422",
+            "nombre": "ARMONIA I"
+        },
+        {
+            "clave": "A0424",
+            "nombre": "ARMONIA III"
+        },
+        {
+            "clave": "A0306",
+            "nombre": "ARMONIA MODERNA I"
+        },
+        {
+            "clave": "A0118",
+            "nombre": "ARTE DIGITAL ANIMADO"
+        },
+        {
+            "clave": "A0119",
+            "nombre": "ARTE DIGITAL BIDIMENSIONAL"
+        },
+        {
+            "clave": "A0120",
+            "nombre": "ARTE DIGITAL TRIDIMENSIONAL"
+        },
+        {
+            "clave": "I2826",
+            "nombre": "ARTE NO OBJETUAL"
+        },
+        {
+            "clave": "A0100",
+            "nombre": "ARTE Y CIENCIA"
+        },
+        {
+            "clave": "IG457",
+            "nombre": "ARTE Y CULTURA I"
+        },
+        {
+            "clave": "IG782",
+            "nombre": "ARTE Y CULTURA III"
+        },
+        {
+            "clave": "A0102",
+            "nombre": "ARTE Y MITOS"
+        },
+        {
+            "clave": "A0104",
+            "nombre": "ARTE Y PSIQUE"
+        },
+        {
+            "clave": "A0099",
+            "nombre": "ARTE Y RELIGION"
+        },
+        {
+            "clave": "A0101",
+            "nombre": "ARTE Y SOCIEDAD"
+        },
+        {
+            "clave": "A0196",
+            "nombre": "BAILES DE SALON"
+        },
+        {
+            "clave": "I2121",
+            "nombre": "BAILES INTERNACIONALES"
+        },
+        {
+            "clave": "A0353",
+            "nombre": "CANTO COMPLEMENTARIO I"
+        },
+        {
+            "clave": "A0355",
+            "nombre": "CANTO COMPLEMENTARIO III"
+        },
+        {
+            "clave": "A0357",
+            "nombre": "CANTO COMPLEMENTARIO V"
+        },
+        {
+            "clave": "A0359",
+            "nombre": "CANTO COMPLEMENTARIO VII"
+        },
+        {
+            "clave": "A0391",
+            "nombre": "CANTO I"
+        },
+        {
+            "clave": "A0393",
+            "nombre": "CANTO III"
+        },
+        {
+            "clave": "A0291",
+            "nombre": "CANTO PARA ACTORES"
+        },
+        {
+            "clave": "A0396",
+            "nombre": "CANTO VI"
+        },
+        {
+            "clave": "A0398",
+            "nombre": "CANTO VIII"
+        },
+        {
+            "clave": "A0197",
+            "nombre": "CARPINTERIA PARA BASTIDORES Y MARCOS"
+        },
+        {
+            "clave": "S0252",
+            "nombre": "CINE DOCUMENTAL"
+        },
+        {
+            "clave": "ID354",
+            "nombre": "CINE Y GENERO"
+        },
+        {
+            "clave": "I1809",
+            "nombre": "CLASE DEMOSTRATIVA"
+        },
+        {
+            "clave": "NV005",
+            "nombre": "COMPOSICION FOTOGRAFICA I Y II"
+        },
+        {
+            "clave": "A0378",
+            "nombre": "COMPOSICION II"
+        },
+        {
+            "clave": "A0380",
+            "nombre": "COMPOSICION IV"
+        },
+        {
+            "clave": "A0382",
+            "nombre": "COMPOSICION VI"
+        },
+        {
+            "clave": "NV089",
+            "nombre": "COMPUTACION APLICADA I Y II"
+        },
+        {
+            "clave": "NV048",
+            "nombre": "CONJUNTO CORALES I AL IV"
+        },
+        {
+            "clave": "A0198",
+            "nombre": "CONSERVACION DE LA OBRA FOTOGRAFICA"
+        },
+        {
+            "clave": "A0199",
+            "nombre": "CONSERVACION DE LA OBRA PLASTICA"
+        },
+        {
+            "clave": "A0426",
+            "nombre": "CONTRAPUNTO I"
+        },
+        {
+            "clave": "A0309",
+            "nombre": "CONTRAPUNTO IMITATIVO"
+        },
+        {
+            "clave": "IC439",
+            "nombre": "CORRIENTES SOCIOLOGICAS PARA LA EDUCACION ARTISTICA"
+        },
+        {
+            "clave": "A0258",
+            "nombre": "CREACION DE PERSONAJE NO REALISTA"
+        },
+        {
+            "clave": "I2003",
+            "nombre": "CREACION Y DESARROLLO DE NUEVOS PRODUCTOS"
+        },
+        {
+            "clave": "A0085",
+            "nombre": "CREATIVIDAD EN LA EXPRESION ARTISTICA"
+        },
+        {
+            "clave": "A0105",
+            "nombre": "CRITICA AUTORAL"
+        },
+        {
+            "clave": "S0265",
+            "nombre": "CRITICA DE CINE"
+        },
+        {
+            "clave": "ID353",
+            "nombre": "CRITICA DEL CINE"
+        },
+        {
+            "clave": "IG786",
+            "nombre": "CULTURA Y MEDIO AMBIENTE"
+        },
+        {
+            "clave": "A0248",
+            "nombre": "DANZA CLASICA BASICA II"
+        },
+        {
+            "clave": "A0233",
+            "nombre": "DANZA CLASICA INTERMEDIA"
+        },
+        {
+            "clave": "NV032",
+            "nombre": "DANZA CONTEMPORANEA I AL IV"
+        },
+        {
+            "clave": "A0200",
+            "nombre": "DANZAS DE CARACTER"
+        },
+        {
+            "clave": "A0273",
+            "nombre": "DANZAS DE CONQUISTA"
+        },
+        {
+            "clave": "I5048",
+            "nombre": "DEFENSA DE TESIS"
+        },
+        {
+            "clave": "A0097",
+            "nombre": "DEFINICION ESTETICA DEL OBJETO ARTISTICO"
+        },
+        {
+            "clave": "I4365",
+            "nombre": "DESARROLLO HISTORICO Y DOCUMENTACION FONOGRAFICA DE LA ETNOMUSICOLOGIA MEXICANA"
+        },
+        {
+            "clave": "A0195",
+            "nombre": "DESARROLLO PERSONAL"
+        },
+        {
+            "clave": "A0146",
+            "nombre": "DIBUJO A LAPIZ GRASO Y CRAYON DE CERA"
+        },
+        {
+            "clave": "A0147",
+            "nombre": "DIBUJO AL OLEO SECO Y ASFALTO"
+        },
+        {
+            "clave": "A0148",
+            "nombre": "DIBUJO AL PASTEL SECO Y GRASO"
+        },
+        {
+            "clave": "NV016",
+            "nombre": "DIBUJO ARTISTICO I AL VI"
+        },
+        {
+            "clave": "A0144",
+            "nombre": "DIBUJO CON AEROGRAFO"
+        },
+        {
+            "clave": "A0145",
+            "nombre": "DIBUJO CON CARBONCILLO Y GRAFITO"
+        },
+        {
+            "clave": "A0149",
+            "nombre": "DIBUJO CON ROTULADOR Y TINTA"
+        },
+        {
+            "clave": "A0150",
+            "nombre": "DIBUJO CON TECNICAS MIXTAS"
+        },
+        {
+            "clave": "NV007",
+            "nombre": "DIBUJO PARA EL ARTE"
+        },
+        {
+            "clave": "I2022",
+            "nombre": "DIBUJO Y FIGURINISMO II"
+        },
+        {
+            "clave": "NV051",
+            "nombre": "DIDACTICA GENERAL"
+        },
+        {
+            "clave": "NV049",
+            "nombre": "DIRECCION CORAL I Y II"
+        },
+        {
+            "clave": "A0385",
+            "nombre": "DIRECCION CORAL III"
+        },
+        {
+            "clave": "A0387",
+            "nombre": "DIRECCION CORAL V"
+        },
+        {
+            "clave": "A0389",
+            "nombre": "DIRECCION CORAL VII"
+        },
+        {
+            "clave": "NV084",
+            "nombre": "DIRECCION ORQUESTAL I AL II"
+        },
+        {
+            "clave": "A0301",
+            "nombre": "DRAMATURGIA DE LA PUESTA EN ESCENA"
+        },
+        {
+            "clave": "A0302",
+            "nombre": "DRAMATURGIA DEL TEXTO"
+        },
+        {
+            "clave": "IG454",
+            "nombre": "ECONOMIA PARA LA CULTURA"
+        },
+        {
+            "clave": "I2831",
+            "nombre": "EDUCACION Y COMUNICACION"
+        },
+        {
+            "clave": "S0250",
+            "nombre": "EL ARTE CINEMATOGRAFICO EN MEXICO"
+        },
+        {
+            "clave": "A0719",
+            "nombre": "EL CINE Y EL VIDEO DE DIVULGACION CIENTIFICA"
+        },
+        {
+            "clave": "A0704",
+            "nombre": "EL CINE Y SU LENGUAJE"
+        },
+        {
+            "clave": "A0131",
+            "nombre": "EL ESPACIO ESCENICO"
+        },
+        {
+            "clave": "I2828",
+            "nombre": "EL NACIONALISMO MEXICANO EN LAS ARTES"
+        },
+        {
+            "clave": "A0228",
+            "nombre": "EL PERSONAJE TEATRAL"
+        },
+        {
+            "clave": "I2818",
+            "nombre": "EL PROYECTO ARTISTICO I"
+        },
+        {
+            "clave": "I2820",
+            "nombre": "EL PROYECTO ARTISTICO II"
+        },
+        {
+            "clave": "IC442",
+            "nombre": "EL PROYECTO ARTISTICO III"
+        },
+        {
+            "clave": "A0205",
+            "nombre": "ELABORACION DE MASCARAS DECORATIVAS"
+        },
+        {
+            "clave": "A0113",
+            "nombre": "ELEMENTOS CONCEPTUALES DE LA LUZ"
+        },
+        {
+            "clave": "I2001",
+            "nombre": "ELEMENTOS CONCEPTUALES DEL COLOR"
+        },
+        {
+            "clave": "A0249",
+            "nombre": "ELEMENTOS DE LA DANZA EN LA COREOGRAFIA"
+        },
+        {
+            "clave": "A0207",
+            "nombre": "ENMARCADO DE OBRA"
+        },
+        {
+            "clave": "A0676",
+            "nombre": "ENSAMBLE DE MUSICA ETNICA II"
+        },
+        {
+            "clave": "A0678",
+            "nombre": "ENSAMBLE DE MUSICA ETNICA IV"
+        },
+        {
+            "clave": "A0362",
+            "nombre": "ENSAMBLE VOCAL II"
+        },
+        {
+            "clave": "A0294",
+            "nombre": "ENTRENAMIENTO CORPORAL BASICO"
+        },
+        {
+            "clave": "I2004",
+            "nombre": "ESCAPARATISMO Y DISPLAY"
+        },
+        {
+            "clave": "A0190",
+            "nombre": "ESCULTURA CON CUERPOS LAMINARES Y FILAMENTARES"
+        },
+        {
+            "clave": "A0184",
+            "nombre": "ESCULTURA EXPERIMENTAL"
+        },
+        {
+            "clave": "A0223",
+            "nombre": "ESMALTADO EN BAJA TEMPERATURA"
+        },
+        {
+            "clave": "A0177",
+            "nombre": "ESTAMPA CALCOGRAFICA"
+        },
+        {
+            "clave": "A0178",
+            "nombre": "ESTAMPA COLOGRAFICA"
+        },
+        {
+            "clave": "A0179",
+            "nombre": "ESTAMPA EN HUECO"
+        },
+        {
+            "clave": "A0181",
+            "nombre": "ESTAMPA EN RELIEVE"
+        },
+        {
+            "clave": "A0183",
+            "nombre": "ESTAMPA EXPERIMENTAL"
+        },
+        {
+            "clave": "NV017",
+            "nombre": "ESTAMPA I AL VI"
+        },
+        {
+            "clave": "A0180",
+            "nombre": "ESTAMPA LITOGRAFICA"
+        },
+        {
+            "clave": "A0182",
+            "nombre": "ESTAMPA SERIGRAFICA"
+        },
+        {
+            "clave": "S0249",
+            "nombre": "ESTETICA DEL CINE HISPANOAMERICANO"
+        },
+        {
+            "clave": "NV039",
+            "nombre": "ESTETICA I Y II"
+        },
+        {
+            "clave": "A0672",
+            "nombre": "ESTRUCTURA Y FORMA DEL SON MEXICANO"
+        },
+        {
+            "clave": "I2099",
+            "nombre": "ESTUDIO DE MATERIALES PARA USO EN CALZADO Y COMPLEMENTOS"
+        },
+        {
+            "clave": "ID347",
+            "nombre": "ESTUDIOS CULTURALES DEL CINE"
+        },
+        {
+            "clave": "IC809",
+            "nombre": "EVALUACION DEL APRENDIZAJE DE LAS LITERACIDADES"
+        },
+        {
+            "clave": "A0208",
+            "nombre": "EXPRESION FOTOGRAFICA"
+        },
+        {
+            "clave": "A0086",
+            "nombre": "EXPRESION Y COMUNICACION EN EL ARTE"
+        },
+        {
+            "clave": "A0209",
+            "nombre": "FABRICACION DE PAPEL"
+        },
+        {
+            "clave": "I2013",
+            "nombre": "FIBRAS TEXTILES"
+        },
+        {
+            "clave": "IG778",
+            "nombre": "FINANCIAMIENTO CULTURAL"
+        },
+        {
+            "clave": "NV014",
+            "nombre": "FISICA DE LA FOTOGRAFIA"
+        },
+        {
+            "clave": "A0191",
+            "nombre": "FORJA DE METALES"
+        },
+        {
+            "clave": "IG453",
+            "nombre": "FORMACION DE PUBLICOS Y GESTION DE REDES"
+        },
+        {
+            "clave": "A0235",
+            "nombre": "FORMAS MODERNAS EN LA DANZA"
+        },
+        {
+            "clave": "I1808",
+            "nombre": "FOROS ANUALES"
+        },
+        {
+            "clave": "A0136",
+            "nombre": "FOTOGRAFIA APLICADA A LA PUBLICIDAD"
+        },
+        {
+            "clave": "A0151",
+            "nombre": "FOTOGRAFIA ARQUITECTONICA Y TURISTICA"
+        },
+        {
+            "clave": "A0152",
+            "nombre": "FOTOGRAFIA DE PAISAJE Y NATURALEZA"
+        },
+        {
+            "clave": "A0154",
+            "nombre": "FOTOGRAFIA DE PRODUCTO"
+        },
+        {
+            "clave": "A0158",
+            "nombre": "FOTOGRAFIA DE RETRATO EN ESTUDIO"
+        },
+        {
+            "clave": "A0157",
+            "nombre": "FOTOGRAFIA DE RETRATOS EN EXTERIORES"
+        },
+        {
+            "clave": "A0153",
+            "nombre": "FOTOGRAFIA PUBLICITARIA"
+        },
+        {
+            "clave": "A0351",
+            "nombre": "FRANCES APLICADO A LA MUSICA I"
+        },
+        {
+            "clave": "I4361",
+            "nombre": "FUNDAMENTOS DE LA ETNOMUSICOLOGIA"
+        },
+        {
+            "clave": "A0667",
+            "nombre": "FUNDAMENTOS DE LA MUSICOLOGIA"
+        },
+        {
+            "clave": "ID344",
+            "nombre": "GENEROS Y ESTILOS CINEMATOGRAFICOS"
+        },
+        {
+            "clave": "A0116",
+            "nombre": "GEOMETRIA ARTISTICA"
+        },
+        {
+            "clave": "I2106",
+            "nombre": "GESTION Y PRODUCCION DE EVENTOS DE MODA"
+        },
+        {
+            "clave": "A0718",
+            "nombre": "GUION CINEMATOGRAFICO"
+        },
+        {
+            "clave": "A0692",
+            "nombre": "GUION I"
+        },
+        {
+            "clave": "A0693",
+            "nombre": "GUION II"
+        },
+        {
+            "clave": "A0694",
+            "nombre": "GUION III"
+        },
+        {
+            "clave": "A0695",
+            "nombre": "GUION IV"
+        },
+        {
+            "clave": "A0201",
+            "nombre": "HERRAMIENTAS PARA ESCULTURA"
+        },
+        {
+            "clave": "A0202",
+            "nombre": "HERRAMIENTAS PARA ESTAMPA"
+        },
+        {
+            "clave": "A0203",
+            "nombre": "HERRAMIENTAS Y ELEMENTOS PARA DIBUJO"
+        },
+        {
+            "clave": "A0204",
+            "nombre": "HERRAMIENTAS Y ELEMENTOS PARA PINTURA"
+        },
+        {
+            "clave": "A0096",
+            "nombre": "HISTORIA CONTEMPORANEA DE LAS ARTES VISUALES"
+        },
+        {
+            "clave": "A0225",
+            "nombre": "HISTORIA CONTEMPORANEAS DE LAS ARTES ESCENICAS"
+        },
+        {
+            "clave": "NV034",
+            "nombre": "HISTORIA DE LA DANZA I AL IV"
+        },
+        {
+            "clave": "IC429",
+            "nombre": "HISTORIA DEL ARTE DESDE LA REPRESENTACION"
+        },
+        {
+            "clave": "NV023",
+            "nombre": "HISTORIA DEL ARTE MEXICANO I AL II"
+        },
+        {
+            "clave": "ID346",
+            "nombre": "HISTORIA DEL CINE MEXICANO CONTEMPORANEO"
+        },
+        {
+            "clave": "A0095",
+            "nombre": "HISTORIA GENERAL DE LAS CULTURAS"
+        },
+        {
+            "clave": "A0415",
+            "nombre": "HISTORIA GENERAL DEL ARTE"
+        },
+        {
+            "clave": "NV036",
+            "nombre": "HISTORIA GENERAL DEL ARTE I AL III"
+        },
+        {
+            "clave": "I3735",
+            "nombre": "IDENTIDADES CULTURALES Y GESTION DE REDES"
+        },
+        {
+            "clave": "A0139",
+            "nombre": "ILUMINACION CON LUZ NATURAL Y AMBIENTAL"
+        },
+        {
+            "clave": "A0140",
+            "nombre": "ILUMINACION EN ESTUDIO"
+        },
+        {
+            "clave": "A0133",
+            "nombre": "ILUMINACION ESCENICA"
+        },
+        {
+            "clave": "I2026",
+            "nombre": "ILUSTRACION VECTORIAL PARA MODA"
+        },
+        {
+            "clave": "I2109",
+            "nombre": "IMAGEN Y ESTILISMO"
+        },
+        {
+            "clave": "A0161",
+            "nombre": "IMPRESIONES FINAS BLANCO Y NEGRO"
+        },
+        {
+            "clave": "A0162",
+            "nombre": "IMPRESIONES FINAS COLOR"
+        },
+        {
+            "clave": "A0324",
+            "nombre": "INGLES APLICADO A LA MUSICA I"
+        },
+        {
+            "clave": "A0326",
+            "nombre": "INGLES APLICADO A LA MUSICA III"
+        },
+        {
+            "clave": "NV080",
+            "nombre": "INGLES I AL IV"
+        },
+        {
+            "clave": "A0371",
+            "nombre": "INSTRUCCION MUSICAL EN LA EDUCACION BASICA I"
+        },
+        {
+            "clave": "A0363",
+            "nombre": "INSTRUMENTO I"
+        },
+        {
+            "clave": "A0409",
+            "nombre": "INSTRUMENTO I"
+        },
+        {
+            "clave": "A0410",
+            "nombre": "INSTRUMENTO II"
+        },
+        {
+            "clave": "A0411",
+            "nombre": "INSTRUMENTO III"
+        },
+        {
+            "clave": "A0412",
+            "nombre": "INSTRUMENTO IV"
+        },
+        {
+            "clave": "A0335",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO VI"
+        },
+        {
+            "clave": "A0337",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO VIII"
+        },
+        {
+            "clave": "A0413",
+            "nombre": "INSTRUMENTO V"
+        },
+        {
+            "clave": "A0414",
+            "nombre": "INSTRUMENTO VI"
+        },
+        {
+            "clave": "A0370",
+            "nombre": "INSTRUMENTO VIII"
+        },
+        {
+            "clave": "A0407",
+            "nombre": "INTRODUCCION A LA APRECIACION MUSICAL I"
+        },
+        {
+            "clave": "A0295",
+            "nombre": "INTRODUCCION A LA DANZA CONTEMPORANEA"
+        },
+        {
+            "clave": "NV081",
+            "nombre": "INVESTIGACION I AL IV"
+        },
+        {
+            "clave": "A0349",
+            "nombre": "ITALIANO APLICADO A LA MUSICA I"
+        },
+        {
+            "clave": "A0706",
+            "nombre": "LA ADAPTACION DE LA OBRA LITERARIA A GUION CINEMATOGRAFICO"
+        },
+        {
+            "clave": "I2800",
+            "nombre": "LA HISTORIA DEL ARTE DESDE LA REPRESENTACION"
+        },
+        {
+            "clave": "A0429",
+            "nombre": "LA MUSICA EN EL BARROCO Y EL CLASICO"
+        },
+        {
+            "clave": "S0228",
+            "nombre": "LA NARRATIVA FILMICA"
+        },
+        {
+            "clave": "I2832",
+            "nombre": "LA TECNOLOGIA Y EL ARTE"
+        },
+        {
+            "clave": "A0121",
+            "nombre": "LABORATORIO DE EXPERIMENTACION CONCEPTUAL"
+        },
+        {
+            "clave": "A0122",
+            "nombre": "LABORATORIO DE EXPERIMENTACION VISUAL"
+        },
+        {
+            "clave": "A0172",
+            "nombre": "LABORATORIO DE RESTAURACION DE BIENES MUEBLES"
+        },
+        {
+            "clave": "I4370",
+            "nombre": "LABORATORIO DE TECNOLOGIAS PARA EL ANALISIS ACUSTICO Y ORGANOLOGIA"
+        },
+        {
+            "clave": "A0671",
+            "nombre": "LABORATORIO DE TRANSCRIPCION II"
+        },
+        {
+            "clave": "A0159",
+            "nombre": "LABORATORIO FOTOGRAFICO BLANCO Y NEGRO AVANZADO"
+        },
+        {
+            "clave": "A0127",
+            "nombre": "LABORATORIO FOTOGRAFICO BLANCO Y NEGRO BASICO"
+        },
+        {
+            "clave": "A0160",
+            "nombre": "LABORATORIO FOTOGRAFICO COLOR AVANZADO"
+        },
+        {
+            "clave": "A0128",
+            "nombre": "LABORATORIO FOTOGRAFICO COLOR BASICO"
+        },
+        {
+            "clave": "NV015",
+            "nombre": "LABORATORIO FOTOGRAFICO I AL VII"
+        },
+        {
+            "clave": "A0347",
+            "nombre": "LATIN APLICADO A LA MUSICA I"
+        },
+        {
+            "clave": "NV091",
+            "nombre": "LECTURA A PRIMERA VISTA"
+        },
+        {
+            "clave": "A0213",
+            "nombre": "LECTURA Y ENTREVISTA A LA OBRA ARTISTICA"
+        },
+        {
+            "clave": "IC783",
+            "nombre": "LENGUA Y LITERATURA GENEROS TEXTUALES"
+        },
+        {
+            "clave": "IC793",
+            "nombre": "LITERACIDAD EN EL ARTE"
+        },
+        {
+            "clave": "IC780",
+            "nombre": "LITERACIDAD EN LA VIDA COTIDIANA"
+        },
+        {
+            "clave": "I2825",
+            "nombre": "LITERATURA MEXICANA SIGLO XX"
+        },
+        {
+            "clave": "NV082",
+            "nombre": "LITERATURA ORQUESTAL I Y II"
+        },
+        {
+            "clave": "A0214",
+            "nombre": "LUMINOTECNIA FOTOGRAFICA"
+        },
+        {
+            "clave": "A0215",
+            "nombre": "MANEJO DE ZANCOS Y COTURNOS"
+        },
+        {
+            "clave": "A0134",
+            "nombre": "MAQUILLAJE ESCENICO"
+        },
+        {
+            "clave": "A0134",
+            "nombre": "MAQUILLAJE ESCENICO"
+        },
+        {
+            "clave": "I2117",
+            "nombre": "MAQUILLAJE FOTOGRAFICO"
+        },
+        {
+            "clave": "IG777",
+            "nombre": "MARKETING CULTURAL"
+        },
+        {
+            "clave": "A0216",
+            "nombre": "MASCARAS TEATRALES"
+        },
+        {
+            "clave": "A0211",
+            "nombre": "MATRICES Y MOLDES CERAMICOS"
+        },
+        {
+            "clave": "A0123",
+            "nombre": "MEDIOS ALTERNATIVOS PARA LA CREACION ARTISTICA"
+        },
+        {
+            "clave": "I2114",
+            "nombre": "MERCADOTECNIA EN LA MODA II"
+        },
+        {
+            "clave": "I2817",
+            "nombre": "METODOLOGIA DE INVESTIGACION PARA LAS ARTES"
+        },
+        {
+            "clave": "A0217",
+            "nombre": "METODOLOGIA DE LA DANZA"
+        },
+        {
+            "clave": "ID341",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION"
+        },
+        {
+            "clave": "A0342",
+            "nombre": "METODOLOGIA DE LOS CONJUNTOS CORALES"
+        },
+        {
+            "clave": "S0264",
+            "nombre": "METODOLOGIA DEL ANALISIS FILMICO"
+        },
+        {
+            "clave": "NV060",
+            "nombre": "METODOLOGIA DEL SOLFEO"
+        },
+        {
+            "clave": "IG770",
+            "nombre": "METODOLOGIA II"
+        },
+        {
+            "clave": "A0684",
+            "nombre": "METODOS DE ANALISIS CINEMATOGRAFICOS I"
+        },
+        {
+            "clave": "S0224",
+            "nombre": "METODOS DE ANALISIS CINEMATOGRAFICOS I"
+        },
+        {
+            "clave": "ID359",
+            "nombre": "METODOS DE ANALISIS CINEMATOGRAFICOS II"
+        },
+        {
+            "clave": "IC778",
+            "nombre": "METODOS DE INVESTGACION CUANTITATIVA Y MIXTAS EN LITERACIDAD"
+        },
+        {
+            "clave": "NV041",
+            "nombre": "METODOS Y TECNICAS DE INVESTIGACION DE LA DANZA I AL IV"
+        },
+        {
+            "clave": "I3731",
+            "nombre": "METODOS Y TECNICAS DE LA INVESTIGACION CULTURAL II"
+        },
+        {
+            "clave": "I2033",
+            "nombre": "MODELACION DE OBJETOS DIGITALES PARA MODA"
+        },
+        {
+            "clave": "A0185",
+            "nombre": "MODELADO CON CONGLUTINADOS NATURALES"
+        },
+        {
+            "clave": "A0186",
+            "nombre": "MODELADO CON CONGLUTINADOS SINTETICOS"
+        },
+        {
+            "clave": "IC781",
+            "nombre": "MODELOS PEDAGOGICOS INCLUVENTES"
+        },
+        {
+            "clave": "A0188",
+            "nombre": "MOLDEADO Y VACIADO CON MATERIALES NATURALES"
+        },
+        {
+            "clave": "A0189",
+            "nombre": "MOLDEADO Y VACIADO CON MATERIALES SINTETICOS"
+        },
+        {
+            "clave": "A0702",
+            "nombre": "MOVIMIENTO DEL CINE EUROPEO"
+        },
+        {
+            "clave": "S0269",
+            "nombre": "MOVIMIENTOS DEL CINE CONTEMPORANEO"
+        },
+        {
+            "clave": "S0251",
+            "nombre": "MOVIMIENTOS DEL CINE EUROPEO"
+        },
+        {
+            "clave": "A0682",
+            "nombre": "MUSICA DE ASIA"
+        },
+        {
+            "clave": "A0314",
+            "nombre": "MUSICA DE CAMARA II"
+        },
+        {
+            "clave": "A0316",
+            "nombre": "MUSICA DE CAMARA V"
+        },
+        {
+            "clave": "NV040",
+            "nombre": "MUSICA I AL VII"
+        },
+        {
+            "clave": "A0313",
+            "nombre": "MUSICA MEXICANA II"
+        },
+        {
+            "clave": "A0680",
+            "nombre": "MUSICA, CANTO Y DANZA EN OCEANIA"
+        },
+        {
+            "clave": "A0124",
+            "nombre": "NARRATIVA AUDIOVISUAL I"
+        },
+        {
+            "clave": "A0125",
+            "nombre": "NARRATIVA AUDIOVISUAL II"
+        },
+        {
+            "clave": "ID343",
+            "nombre": "NARRATIVA FILMICA"
+        },
+        {
+            "clave": "IA006",
+            "nombre": "NORMAS Y REGLAMENTOS DE SISTEMAS CONSTRUCTIVOS Y ESTRUCTURALES"
+        },
+        {
+            "clave": "ID356",
+            "nombre": "NUEVAS TENDENCIAS EN EL CINE DE ANIMACION"
+        },
+        {
+            "clave": "A0698",
+            "nombre": "NUEVAS TENDENCIAS EN LA TEORIA CINEMATOGRAFICA I"
+        },
+        {
+            "clave": "A0699",
+            "nombre": "NUEVAS TENDENCIAS EN LA TEORIA CINEMATOGRAFICA II"
+        },
+        {
+            "clave": "I2819",
+            "nombre": "NUEVAS TENDENCIAS PARA LA PRODUCCION ARTISTICA"
+        },
+        {
+            "clave": "A0384",
+            "nombre": "ORQUESTACION II"
+        },
+        {
+            "clave": "I4362",
+            "nombre": "PARADIGMAS ANTROPOLOGICOS EN TEORIAS DE LA CULTURA"
+        },
+        {
+            "clave": "IC438",
+            "nombre": "PARADIGMAS EDUCATIVOS PARA LAS ARTES"
+        },
+        {
+            "clave": "I2011",
+            "nombre": "PATRONAJE I"
+        },
+        {
+            "clave": "I2020",
+            "nombre": "PATRONAJE III"
+        },
+        {
+            "clave": "I2031",
+            "nombre": "PATRONAJE V"
+        },
+        {
+            "clave": "IC805",
+            "nombre": "PEDAGOGIA DE LA LITERACIDAD DE LA CIENCIA EN LA EDUCACION SUPERIOR Y POSGRADO"
+        },
+        {
+            "clave": "IC801",
+            "nombre": "PEDAGOGIA DE LA LITERACIDAD DE LA CIENCIA EN LA ESCUELA MEDIA Y MEDIA SUPERIOR"
+        },
+        {
+            "clave": "IC796",
+            "nombre": "PEDAGOGIA DE LA LITERACIDAD MATEMATICA EN LA ESCUELA ELEMENTAL"
+        },
+        {
+            "clave": "IC811",
+            "nombre": "PEDAGOGIA DE LA LITERACIDAD PARA POBLACION CON RETOS COGNITIVOS"
+        },
+        {
+            "clave": "NV055",
+            "nombre": "PEDAGOGIA MUSICAL COMPARADA I Y II"
+        },
+        {
+            "clave": "I2813",
+            "nombre": "PEDAGOGIA Y ANDRAGOGIA APLICADA A LAS ARTES"
+        },
+        {
+            "clave": "A0117",
+            "nombre": "PERSPECTIVA PARA EL ARTE"
+        },
+        {
+            "clave": "A0343",
+            "nombre": "PIANO COMPLEMENTARIO VII"
+        },
+        {
+            "clave": "NV093",
+            "nombre": "PIANO I AL IV"
+        },
+        {
+            "clave": "A0163",
+            "nombre": "PINTURA ACRILICA"
+        },
+        {
+            "clave": "A0166",
+            "nombre": "PINTURA AL OLEO"
+        },
+        {
+            "clave": "A0169",
+            "nombre": "PINTURA AL TEMPLE"
+        },
+        {
+            "clave": "A0164",
+            "nombre": "PINTURA CON ACUARELA"
+        },
+        {
+            "clave": "A0167",
+            "nombre": "PINTURA CON PIROXILINA Y ESMALTES"
+        },
+        {
+            "clave": "A0168",
+            "nombre": "PINTURA CON TECNICAS MIXTAS"
+        },
+        {
+            "clave": "A0170",
+            "nombre": "PINTURA EXPERIMENTAL"
+        },
+        {
+            "clave": "A0165",
+            "nombre": "PINTURA MURAL"
+        },
+        {
+            "clave": "NV052",
+            "nombre": "PLANEACION EDUCATIVA"
+        },
+        {
+            "clave": "IG455",
+            "nombre": "POLITICA Y LEGISLACION CULTURAL"
+        },
+        {
+            "clave": "IC427",
+            "nombre": "POLITICAS CULTURALES EN MEXICO"
+        },
+        {
+            "clave": "A0106",
+            "nombre": "POLITICAS Y ADMINISTRACION DE LA CULTURA"
+        },
+        {
+            "clave": "A0339",
+            "nombre": "PRACTICA DE DOCENCIA"
+        },
+        {
+            "clave": "A0318",
+            "nombre": "PRACTICA DE REPERTORIO I"
+        },
+        {
+            "clave": "A0319",
+            "nombre": "PRACTICA DE REPERTORIO II"
+        },
+        {
+            "clave": "A0328",
+            "nombre": "PRACTICA DE REPERTORIO IV"
+        },
+        {
+            "clave": "A0330",
+            "nombre": "PRACTICA DE REPERTORIO VI"
+        },
+        {
+            "clave": "A0332",
+            "nombre": "PRACTICA DE REPERTORIO VIII"
+        },
+        {
+            "clave": "A0333",
+            "nombre": "PRACTICA ORQUESTAL II"
+        },
+        {
+            "clave": "A0244",
+            "nombre": "PRACTICAS ESCENICAS BASICAS"
+        },
+        {
+            "clave": "A0246",
+            "nombre": "PRACTICAS ESCENICAS PROFESIONALES"
+        },
+        {
+            "clave": "NV046",
+            "nombre": "PREVENCION DE LESIONES I Y II"
+        },
+        {
+            "clave": "A0219",
+            "nombre": "PREVENCION Y CUIDADO DE LESIONES"
+        },
+        {
+            "clave": "A0340",
+            "nombre": "PRODUCCION DE MATERIAL DIDACTICO CREATIVO"
+        },
+        {
+            "clave": "S0231",
+            "nombre": "PRODUCCION Y REALIZACION"
+        },
+        {
+            "clave": "I2836",
+            "nombre": "PROPIEDAD INTELECTUAL"
+        },
+        {
+            "clave": "A0087",
+            "nombre": "PROPIEDAD INTELECTUAL I"
+        },
+        {
+            "clave": "A0087",
+            "nombre": "PROPIEDAD INTELECTUAL I"
+        },
+        {
+            "clave": "I2116",
+            "nombre": "PROPIEDAD INTELECTUAL II"
+        },
+        {
+            "clave": "I2104",
+            "nombre": "PROYECTO DE TITULACION EN MODA"
+        },
+        {
+            "clave": "IG773",
+            "nombre": "PROYECTO EJECUTIVO I"
+        },
+        {
+            "clave": "IG774",
+            "nombre": "PROYECTO EJECUTIVO II"
+        },
+        {
+            "clave": "IG775",
+            "nombre": "PROYECTO EJECUTIVO III"
+        },
+        {
+            "clave": "A0089",
+            "nombre": "PROYECTOS ARTISTICOS I"
+        },
+        {
+            "clave": "NV003",
+            "nombre": "PROYECTOS ARTISTICOS I AL III"
+        },
+        {
+            "clave": "A0090",
+            "nombre": "PROYECTOS ARTISTICOS II"
+        },
+        {
+            "clave": "A0091",
+            "nombre": "PROYECTOS ARTISTICOS III"
+        },
+        {
+            "clave": "A0092",
+            "nombre": "PROYECTOS ARTISTICOS IV"
+        },
+        {
+            "clave": "A0093",
+            "nombre": "PROYECTOS ARTISTICOS V"
+        },
+        {
+            "clave": "A0094",
+            "nombre": "PROYECTOS ARTISTICOS VI"
+        },
+        {
+            "clave": "I2810",
+            "nombre": "PROYECTOS EDUCATIVOS I"
+        },
+        {
+            "clave": "I2811",
+            "nombre": "PROYECTOS EDUCATIVOS II"
+        },
+        {
+            "clave": "IC433",
+            "nombre": "PROYECTOS EDUCATIVOS III"
+        },
+        {
+            "clave": "I1997",
+            "nombre": "PSICOLOGIA DE LA PERCEPCION"
+        },
+        {
+            "clave": "NV064",
+            "nombre": "PSICOLOGIA EDUCATIVA"
+        },
+        {
+            "clave": "IC446",
+            "nombre": "PSICOLOGIA PARA LA EXPRESION ARTISTICA"
+        },
+        {
+            "clave": "IC803",
+            "nombre": "PSICOLOGIA Y SOCIOLOGIA DEL ADULTO JOVEN"
+        },
+        {
+            "clave": "A0103",
+            "nombre": "REALIDAD Y REPRESENTACION"
+        },
+        {
+            "clave": "I3744",
+            "nombre": "RECREACION Y CULTURA"
+        },
+        {
+            "clave": "I1995",
+            "nombre": "RECURSOS INFORMATICOS BASICOS"
+        },
+        {
+            "clave": "IG458",
+            "nombre": "REDACCION DE TEXTOS ACADEMICOS"
+        },
+        {
+            "clave": "A0251",
+            "nombre": "REPERTORIO COREOGRAFICO I"
+        },
+        {
+            "clave": "IA005",
+            "nombre": "REPRESENTACION DE PLANOS EJECUTIVOS"
+        },
+        {
+            "clave": "A0138",
+            "nombre": "REPRODUCCION GRAFICA DE LA FOTOGRAFIA"
+        },
+        {
+            "clave": "A0173",
+            "nombre": "RESTAURACION DE ESCULTURA"
+        },
+        {
+            "clave": "A0143",
+            "nombre": "RESTAURACION DE OBRA FOTOGRAFICA"
+        },
+        {
+            "clave": "A0175",
+            "nombre": "RESTAURACION DE OBRA GRAFICA"
+        },
+        {
+            "clave": "A0176",
+            "nombre": "RESTAURACION DE PINTURA DE CABALLETE"
+        },
+        {
+            "clave": "A0174",
+            "nombre": "RESTAURACION DE PINTURA MURAL"
+        },
+        {
+            "clave": "A0142",
+            "nombre": "RETOQUE FOTOGRAFICO"
+        },
+        {
+            "clave": "IC787",
+            "nombre": "SEMINARIO DE GRADUACION I"
+        },
+        {
+            "clave": "IC789",
+            "nombre": "SEMINARIO DE GRADUACION III"
+        },
+        {
+            "clave": "A0662",
+            "nombre": "SEMINARIO DE INVESTIGACION I"
+        },
+        {
+            "clave": "I5040",
+            "nombre": "SEMINARIO DE INVESTIGACION I"
+        },
+        {
+            "clave": "A0663",
+            "nombre": "SEMINARIO DE INVESTIGACION II"
+        },
+        {
+            "clave": "I5041",
+            "nombre": "SEMINARIO DE INVESTIGACION II"
+        },
+        {
+            "clave": "I4358",
+            "nombre": "SEMINARIO DE INVESTIGACION III"
+        },
+        {
+            "clave": "A0665",
+            "nombre": "SEMINARIO DE INVESTIGACION IV"
+        },
+        {
+            "clave": "I5043",
+            "nombre": "SEMINARIO DE INVESTIGACION IV"
+        },
+        {
+            "clave": "I5045",
+            "nombre": "SEMINARIO DE INVESTIGACION VI"
+        },
+        {
+            "clave": "NV068",
+            "nombre": "SEMINARIO DE TESIS I Y II"
+        },
+        {
+            "clave": "I5036",
+            "nombre": "SEMINARIO METODOLOGICO I"
+        },
+        {
+            "clave": "I5038",
+            "nombre": "SEMINARIO METODOLOGICO III"
+        },
+        {
+            "clave": "I5032",
+            "nombre": "SEMINARIO TEMATICO I"
+        },
+        {
+            "clave": "I5034",
+            "nombre": "SEMINARIO TEMATICO III"
+        },
+        {
+            "clave": "I2028",
+            "nombre": "SEMIOTICA DE LA MODA"
+        },
+        {
+            "clave": "ID355",
+            "nombre": "SEMIOTICA DEL CINE"
+        },
+        {
+            "clave": "NV006",
+            "nombre": "SEMIOTICA Y AXIOLOGIA"
+        },
+        {
+            "clave": "A0126",
+            "nombre": "SISTEMAS ANALOGOS Y DIGITALES EN EL ARTE"
+        },
+        {
+            "clave": "I2034",
+            "nombre": "SOCIOLOGIA DE LA MODA"
+        },
+        {
+            "clave": "NV026",
+            "nombre": "SOCIOLOGIA DEL ARTE"
+        },
+        {
+            "clave": "A0713",
+            "nombre": "SOCIOLOGIA DEL CINE"
+        },
+        {
+            "clave": "A0401",
+            "nombre": "SOLFEO ELEMENTAL"
+        },
+        {
+            "clave": "A0403",
+            "nombre": "SOLFEO ELEMENTAL III"
+        },
+        {
+            "clave": "A0405",
+            "nombre": "SOLFEO ELEMENTAL V"
+        },
+        {
+            "clave": "A0416",
+            "nombre": "SOLFEO I"
+        },
+        {
+            "clave": "A0418",
+            "nombre": "SOLFEO III"
+        },
+        {
+            "clave": "A0320",
+            "nombre": "SOLFEO SUPERIOR I"
+        },
+        {
+            "clave": "NV079",
+            "nombre": "SOLFEO SUPERIOR I AL IV"
+        },
+        {
+            "clave": "A0322",
+            "nombre": "SOLFEO SUPERIOR III"
+        },
+        {
+            "clave": "A0420",
+            "nombre": "SOLFEO V"
+        },
+        {
+            "clave": "I9700",
+            "nombre": "SOSTENIBILIDAD Y DESARROLLO CULTURAL"
+        },
+        {
+            "clave": "A0187",
+            "nombre": "TALLA DE MADERA"
+        },
+        {
+            "clave": "A0192",
+            "nombre": "TALLA DE ROCAS IGNEAS Y SEDIMENTARIAS"
+        },
+        {
+            "clave": "A0193",
+            "nombre": "TALLA DE ROCAS METAMORFICAS"
+        },
+        {
+            "clave": "IC428",
+            "nombre": "TALLER DE COMUNICACION Y EXPRESION ARTISTICA"
+        },
+        {
+            "clave": "A0220",
+            "nombre": "TALLER DE DRAMATURGIA"
+        },
+        {
+            "clave": "A0679",
+            "nombre": "TALLER DE EDICION EN AUDIO Y VIDEO"
+        },
+        {
+            "clave": "I2000",
+            "nombre": "TALLER DE ERGONOMIA"
+        },
+        {
+            "clave": "NV075",
+            "nombre": "TALLER DE LAUDERIA"
+        },
+        {
+            "clave": "A0400",
+            "nombre": "TALLER DE PERCUSION"
+        },
+        {
+            "clave": "A0304",
+            "nombre": "TALLER DE PRODUCCION TEATRAL II"
+        },
+        {
+            "clave": "A0237",
+            "nombre": "TALLER DE RITMICA"
+        },
+        {
+            "clave": "A0221",
+            "nombre": "TALLER DE TITERES"
+        },
+        {
+            "clave": "A0253",
+            "nombre": "TALLER DEL ORIGEN DE LA DANZA"
+        },
+        {
+            "clave": "IC443",
+            "nombre": "TALLERES ARTISTICOS"
+        },
+        {
+            "clave": "A0238",
+            "nombre": "TEATRO CLASICO EN GRECIA Y ROMA"
+        },
+        {
+            "clave": "A0222",
+            "nombre": "TEATRO DE SOMBRAS"
+        },
+        {
+            "clave": "A0230",
+            "nombre": "TEATRO DEL CUERPO"
+        },
+        {
+            "clave": "A0241",
+            "nombre": "TEATRO MEXICANO"
+        },
+        {
+            "clave": "A0242",
+            "nombre": "TEATRO ROMANTICO Y REALISTA"
+        },
+        {
+            "clave": "A0210",
+            "nombre": "TECNICA CERAMICA RAKU"
+        },
+        {
+            "clave": "A0269",
+            "nombre": "TECNICA GRAHAM AVANZADA I"
+        },
+        {
+            "clave": "A0261",
+            "nombre": "TECNICA GRAHAM BASICA I"
+        },
+        {
+            "clave": "A0263",
+            "nombre": "TECNICA GRAHAM INTERMEDIA I"
+        },
+        {
+            "clave": "A0271",
+            "nombre": "TECNICA LIMON"
+        },
+        {
+            "clave": "A0212",
+            "nombre": "TECNICAS BASICAS DE CERAMICA"
+        },
+        {
+            "clave": "I2017",
+            "nombre": "TECNICAS DE CONFECCION II"
+        },
+        {
+            "clave": "I2025",
+            "nombre": "TECNICAS DE CONFECCION IV"
+        },
+        {
+            "clave": "A0286",
+            "nombre": "TECNICAS DE LA VOZ"
+        },
+        {
+            "clave": "A0399",
+            "nombre": "TECNICAS DE RELAJACION"
+        },
+        {
+            "clave": "A0278",
+            "nombre": "TECNICAS DE SONES Y JARABES CON BANDA"
+        },
+        {
+            "clave": "A0280",
+            "nombre": "TECNICAS DE SONES Y JARABES CON ORQUESTA"
+        },
+        {
+            "clave": "A0282",
+            "nombre": "TECNICAS DEL HUAPANGO"
+        },
+        {
+            "clave": "A0171",
+            "nombre": "TECNICAS PARA LA RESTAURACION DE BIENES MUEBLES"
+        },
+        {
+            "clave": "I4371",
+            "nombre": "TEMAS DE LA ETNOMUSICOLOGIA EN OCEANIA"
+        },
+        {
+            "clave": "I5046",
+            "nombre": "TEMAS SELECTOS I"
+        },
+        {
+            "clave": "IC447",
+            "nombre": "TEMAS SELECTOS I"
+        },
+        {
+            "clave": "I6850",
+            "nombre": "TEMAS SELECTOS II"
+        },
+        {
+            "clave": "I6851",
+            "nombre": "TEMAS SELECTOS III"
+        },
+        {
+            "clave": "I6852",
+            "nombre": "TEMAS SELECTOS IV"
+        },
+        {
+            "clave": "A0141",
+            "nombre": "TEMPERATURA DE COLOR"
+        },
+        {
+            "clave": "ID349",
+            "nombre": "TENDENCIAS DEL CINE IBEROAMERICANO CONTEMPORANEO"
+        },
+        {
+            "clave": "A0705",
+            "nombre": "TEORIA Y CRITICA CINEMATOGRAFICA"
+        },
+        {
+            "clave": "IG776",
+            "nombre": "TEORIA Y TECNICAS DE DIFUSION CULTURAL"
+        },
+        {
+            "clave": "A0696",
+            "nombre": "TEORIAS CINEMATOGRAFICAS I"
+        },
+        {
+            "clave": "S0245",
+            "nombre": "TEORIAS CINEMATOGRAFICAS I"
+        },
+        {
+            "clave": "S0246",
+            "nombre": "TEORIAS CINEMATOGRAFICAS II"
+        },
+        {
+            "clave": "A0098",
+            "nombre": "TEORIAS CONTEMPORANEAS DEL ARTE"
+        },
+        {
+            "clave": "I2814",
+            "nombre": "TEORIAS DEL ARTE"
+        },
+        {
+            "clave": "A0711",
+            "nombre": "TEORIAS DEL ESPACIO FILMICO"
+        },
+        {
+            "clave": "I4360",
+            "nombre": "TEORIAS DEL PERFORMANCE EN ETNOMUSICOLOGIA"
+        },
+        {
+            "clave": "I2803",
+            "nombre": "TEORIAS Y TECNICAS DE LA COMUNICACION Y DE LA RECEPCION"
+        },
+        {
+            "clave": "I3734",
+            "nombre": "TERRITORIALIDAD Y GLOBALIZACION CULTURAL"
+        },
+        {
+            "clave": "A0686",
+            "nombre": "TESIS I"
+        },
+        {
+            "clave": "A0687",
+            "nombre": "TESIS II"
+        },
+        {
+            "clave": "ID351",
+            "nombre": "TIEMPO Y ESPACIO FILMICO"
+        },
+        {
+            "clave": "A0129",
+            "nombre": "TOMA FOTOGRAFICA EN BLANCO Y NEGRO"
+        },
+        {
+            "clave": "A0130",
+            "nombre": "TOMA FOTOGRAFICA EN COLOR"
+        },
+        {
+            "clave": "IC814",
+            "nombre": "TOPICOS SELECTOS II"
+        },
+        {
+            "clave": "A0224",
+            "nombre": "UTILERIA TEATRAL"
+        },
+        {
+            "clave": "IG779",
+            "nombre": "VALUACION DEL PATRIMONIO"
+        },
+        {
+            "clave": "A0135",
+            "nombre": "VESTUARIO ESCENICO"
+        },
+        {
+            "clave": "A0135",
+            "nombre": "VESTUARIO ESCENICO"
+        },
+        {
+            "clave": "NV004",
+            "nombre": "VIDEO I Y II"
+        },
+        {
+            "clave": "I3742",
+            "nombre": "VOLUNTARIADO CULTURAL"
+        },
+        {
+            "clave": "GO107",
+            "nombre": "CARTOGRAFIA I"
+        },
+        {
+            "clave": "GO112",
+            "nombre": "GEOGRAFIA DE LA POBLACION"
+        },
+        {
+            "clave": "GO160",
+            "nombre": "GEOGRAFIA ECONOMICA"
+        },
+        {
+            "clave": "GO123",
+            "nombre": "GEOGRAFIA RURAL"
+        },
+        {
+            "clave": "GO199",
+            "nombre": "GEOLOGIA FISICA"
+        },
+        {
+            "clave": "GO108",
+            "nombre": "GEOLOGIA I"
+        },
+        {
+            "clave": "GO133",
+            "nombre": "LEGISLACION Y POLITICA AMBIENTAL"
+        },
+        {
+            "clave": "GO120",
+            "nombre": "METODOLOGIA DE LA CIENCIA"
+        },
+        {
+            "clave": "GO109",
+            "nombre": "PENSAMIENTO GEOGRAFICO"
+        },
+        {
+            "clave": "GO132",
+            "nombre": "POLITICAS DE DESARROLLO"
+        },
+        {
+            "clave": "GO161",
+            "nombre": "PROBLEMAS AMBIENTALES DE MEXICO"
+        },
+        {
+            "clave": "GO163",
+            "nombre": "SEMINARIO SOBRE DESARROLLO SUSTENTABLE"
+        },
+        {
+            "clave": "GO124",
+            "nombre": "SISTEMAS AMBIENTALES I"
+        },
+        {
+            "clave": "GO166",
+            "nombre": "TECNICAS DE EVALUACION DE IMPACTO AMBIENTAL"
+        },
+        {
+            "clave": "GO137",
+            "nombre": "TECNICAS DE INVESTIGACION EN CIENCIAS SOCIALES"
+        },
+        {
+            "clave": "IS524",
+            "nombre": "ANALISIS DE PELICULAS"
+        },
+        {
+            "clave": "IS525",
+            "nombre": "ANALISIS DRAMATURGICOS"
+        },
+        {
+            "clave": "IS530",
+            "nombre": "ANTROPOLOGIA DEL CINE"
+        },
+        {
+            "clave": "IS523",
+            "nombre": "APRECIACION CINEMATOGRAFICA"
+        },
+        {
+            "clave": "IS519",
+            "nombre": "CINE DOCUMENTAL"
+        },
+        {
+            "clave": "IS526",
+            "nombre": "CINE Y GENERO"
+        },
+        {
+            "clave": "IS532",
+            "nombre": "CRITICA DEL CINE"
+        },
+        {
+            "clave": "IS517",
+            "nombre": "EL ARTE CINEMATOGRAFICO EN MEXICO"
+        },
+        {
+            "clave": "IS535",
+            "nombre": "EL CINE Y EL VIDEO DIVULGACION CIENTIFICA"
+        },
+        {
+            "clave": "IS520",
+            "nombre": "EL CINE Y SU LENGUAJE"
+        },
+        {
+            "clave": "IS516",
+            "nombre": "ESTETICA DEL CINE HISPANOAMERICANO"
+        },
+        {
+            "clave": "IS534",
+            "nombre": "GUION CINEMATOGRAFICO"
+        },
+        {
+            "clave": "IS508",
+            "nombre": "GUION I"
+        },
+        {
+            "clave": "IS509",
+            "nombre": "GUION II"
+        },
+        {
+            "clave": "IS510",
+            "nombre": "GUION III"
+        },
+        {
+            "clave": "IS511",
+            "nombre": "GUION IV"
+        },
+        {
+            "clave": "IS528",
+            "nombre": "INTERTEXTOS, PARATEXTOS E HIPERTEXTOS FILMICOS"
+        },
+        {
+            "clave": "IS522",
+            "nombre": "LA ADAPTACION DE LA OBRA LITERARIA  O GUION CINEMATOGRAFICO"
+        },
+        {
+            "clave": "IS504",
+            "nombre": "LA NARRATIVA FILMICA"
+        },
+        {
+            "clave": "IS500",
+            "nombre": "METODO DE ANALISIS CINEMATOGRAFICO I"
+        },
+        {
+            "clave": "IS501",
+            "nombre": "METODO DE ANALISIS CINEMATOGRAFICO II"
+        },
+        {
+            "clave": "IS531",
+            "nombre": "METODOLOGIA DEL ANALISIS FILMICO"
+        },
+        {
+            "clave": "IS536",
+            "nombre": "MOVIMIENTOS DEL CINE CONTEMPORANEO"
+        },
+        {
+            "clave": "IS518",
+            "nombre": "MOVIMIENTOS DEL CINE EUROPEO"
+        },
+        {
+            "clave": "IS515",
+            "nombre": "NUEVAS TENDENCIAS EN LA TEORIA CINEMATOGRAFICA"
+        },
+        {
+            "clave": "IS507",
+            "nombre": "PRODUCCION Y REALIZACION"
+        },
+        {
+            "clave": "IS533",
+            "nombre": "SEMIOTICA DEL CINE"
+        },
+        {
+            "clave": "IS529",
+            "nombre": "SOCIOLOGIA DEL CINE"
+        },
+        {
+            "clave": "IS521",
+            "nombre": "TEORIA Y CRITICA CINEMATOGRAFICA"
+        },
+        {
+            "clave": "IS512",
+            "nombre": "TEORIAS CINEMATOGRAFICAS"
+        },
+        {
+            "clave": "IS527",
+            "nombre": "TEORIAS DEL ESPACIO FILMICO"
+        },
+        {
+            "clave": "IS513",
+            "nombre": "TEORIAS Y ANALISIS DEL CINE"
+        },
+        {
+            "clave": "IS502",
+            "nombre": "TESIS I"
+        },
+        {
+            "clave": "IS503",
+            "nombre": "TESIS II"
+        },
+        {
+            "clave": "IN151",
+            "nombre": "TALLER DE CARPINTERIA"
+        },
+        {
+            "clave": "IJ318",
+            "nombre": "ADMINISTRACION DE PROYECTOS CREATIVOS"
+        },
+        {
+            "clave": "IH366",
+            "nombre": "ADMINISTRACION DE PROYECTOS DE INNOVACION"
+        },
+        {
+            "clave": "IJ336",
+            "nombre": "ADMINISTRACION DE REDES Y COMUNIDADES VIRTUALES"
+        },
+        {
+            "clave": "H0394",
+            "nombre": "ANALISIS DE DOCUMENTOS HISTORICOS"
+        },
+        {
+            "clave": "H0326",
+            "nombre": "ANALISIS DE LA INFORMACION DE MERCADOTECNIA"
+        },
+        {
+            "clave": "IA396",
+            "nombre": "ANALISIS DE PUESTOS DE TRABAJO I"
+        },
+        {
+            "clave": "IA397",
+            "nombre": "ANALISIS DE PUESTOS DE TRABAJO II"
+        },
+        {
+            "clave": "H0328",
+            "nombre": "ANALISIS DEL USO DE LOS OBJETOS"
+        },
+        {
+            "clave": "IJ101",
+            "nombre": "ANALISIS E INTERPRETACION DE LA REALIDAD NACIONAL"
+        },
+        {
+            "clave": "IJ595",
+            "nombre": "ANALISIS E INTERPRETACION DE LAS TEORIAS DE LA ARQUITECTURA APLICADA A ESPACIOS EFIMEROS"
+        },
+        {
+            "clave": "H0269",
+            "nombre": "ANALISIS GRAFICO DE LA ARQUITECTURA"
+        },
+        {
+            "clave": "IA693",
+            "nombre": "ANALISIS URBANO Y TERRITORIAL"
+        },
+        {
+            "clave": "I3640",
+            "nombre": "ANTOPOMETRIA APLICADA"
+        },
+        {
+            "clave": "IA392",
+            "nombre": "ANTROPOMETRIA APLICADA"
+        },
+        {
+            "clave": "IJ306",
+            "nombre": "APLICACION DE LA PERCEPCION VISUAL"
+        },
+        {
+            "clave": "IJ204",
+            "nombre": "APLICACION DE TECNICAS DE REPRESENTACION I"
+        },
+        {
+            "clave": "IJ298",
+            "nombre": "APLICACION DE TECNICAS DE REPRESENTACION II"
+        },
+        {
+            "clave": "IA694",
+            "nombre": "APROPIACION DEL ESPACIO"
+        },
+        {
+            "clave": "IC047",
+            "nombre": "ARCHIVOS Y FICHAS"
+        },
+        {
+            "clave": "IC050",
+            "nombre": "ARQUITECTURA LEGAL"
+        },
+        {
+            "clave": "H0398",
+            "nombre": "ARTE MEDIEVAL"
+        },
+        {
+            "clave": "IJ321",
+            "nombre": "BRANDING CORPORATIVO"
+        },
+        {
+            "clave": "IL162",
+            "nombre": "CIENCIAS MATERIALES"
+        },
+        {
+            "clave": "H0304",
+            "nombre": "CIUDADES Y GLOBALIZACION"
+        },
+        {
+            "clave": "IH824",
+            "nombre": "COMUNICACION INTERACTIVA"
+        },
+        {
+            "clave": "IJ337",
+            "nombre": "CONCEPTUALIZACION Y CREACION DE PERSONAJES"
+        },
+        {
+            "clave": "H0366",
+            "nombre": "CONSERVACION DE MATERIALES"
+        },
+        {
+            "clave": "IJ206",
+            "nombre": "CONTEXTUALIZACION DE LA GRAFICA EN MEXICO"
+        },
+        {
+            "clave": "IL153",
+            "nombre": "CULTURA TECNOLOGICA Y EMPRESARIAL"
+        },
+        {
+            "clave": "IJ302",
+            "nombre": "DESARROLLO DE COMUNICACION VISUAL"
+        },
+        {
+            "clave": "IJ590",
+            "nombre": "DESARROLLO DE FUNDAMENTACION DE PROYECTOS DE INTERIORISMO DE FIN DE CARRERA"
+        },
+        {
+            "clave": "IJ300",
+            "nombre": "DESARROLLO DE ILUSTRACIONES"
+        },
+        {
+            "clave": "H0331",
+            "nombre": "DESARROLLO DE NUEVOS PRODUCTOS II"
+        },
+        {
+            "clave": "IJ591",
+            "nombre": "DESARROLLO DE PROYECTO EJECUTIVO INTEGRAL DE FIN DE CARRERA"
+        },
+        {
+            "clave": "IJ308",
+            "nombre": "DESARROLLO DE PROYECTOS DE IMPRESION"
+        },
+        {
+            "clave": "IJ296",
+            "nombre": "DESARROLLO DEL PROYECTO TERMINAL"
+        },
+        {
+            "clave": "H0314",
+            "nombre": "DESARROLLO ECONOMICO"
+        },
+        {
+            "clave": "H0284",
+            "nombre": "DESARROLLO SUSTENTABLE"
+        },
+        {
+            "clave": "IJ316",
+            "nombre": "DESARROLLO SUSTENTABLE PARA LA PRODUCCION GRAFICA"
+        },
+        {
+            "clave": "I3644",
+            "nombre": "DESORDENES TRAUMATICOS ACUMULATIVOS"
+        },
+        {
+            "clave": "IF849",
+            "nombre": "DIBUJO AUTOMOTRIZ"
+        },
+        {
+            "clave": "IF471",
+            "nombre": "DIBUJO NORMATIVO"
+        },
+        {
+            "clave": "IJ332",
+            "nombre": "DIRECCION DE ARTE"
+        },
+        {
+            "clave": "IH809",
+            "nombre": "EDICION Y VIDEO"
+        },
+        {
+            "clave": "IJ205",
+            "nombre": "EDUCACION VISUAL"
+        },
+        {
+            "clave": "H0306",
+            "nombre": "EFECTOS PSICOLOGICOS DEL ESPACIO HABITACIONAL"
+        },
+        {
+            "clave": "IJ340",
+            "nombre": "EFECTOS VISUALES Y NUEVOS MEDIOS"
+        },
+        {
+            "clave": "H0397",
+            "nombre": "EL ARTE COLONIAL"
+        },
+        {
+            "clave": "I3598",
+            "nombre": "EL CONTROL DE LA FORMA ARQUITECTONICA"
+        },
+        {
+            "clave": "H0280",
+            "nombre": "EL ESTADO Y EL DESARROLLO"
+        },
+        {
+            "clave": "H0274",
+            "nombre": "EL OPERADOR GRAFICO EN LA GENESIS DE LA IDEA ARQUITECTONICA"
+        },
+        {
+            "clave": "IG343",
+            "nombre": "ELEMENTOS BASICOS PARA MODELADO"
+        },
+        {
+            "clave": "IJ303",
+            "nombre": "ELEMENTOS SEMIOTICOS PARA LA COMUNICACION GRAFICA"
+        },
+        {
+            "clave": "I3641",
+            "nombre": "ERGONOMIA COGNITIVA"
+        },
+        {
+            "clave": "IF477",
+            "nombre": "ERGONOMIA COGNITIVA"
+        },
+        {
+            "clave": "I3647",
+            "nombre": "ERGONOMIA ORGANIZACIONAL"
+        },
+        {
+            "clave": "IA399",
+            "nombre": "ERGONOMIA PARA GRUPOS ESPECIALES"
+        },
+        {
+            "clave": "I3634",
+            "nombre": "ESTADISTICA DESCRIPTIVA"
+        },
+        {
+            "clave": "I3635",
+            "nombre": "ESTADISTICA INFERENCIAL"
+        },
+        {
+            "clave": "H0309",
+            "nombre": "ESTADISTICAS PARA EL URBANISMO"
+        },
+        {
+            "clave": "IF466",
+            "nombre": "ESTETICA DEL PRODUCTO"
+        },
+        {
+            "clave": "IJ304",
+            "nombre": "ESTRATEGIAS DE PERSUACION PARA LA CONCEPTUALIZACION"
+        },
+        {
+            "clave": "IJ295",
+            "nombre": "ESTRUCTURACION DEL PROYECTO TERMINAL"
+        },
+        {
+            "clave": "H0289",
+            "nombre": "EVALUACION DE POLITICAS Y PROGRAMAS URBANOS"
+        },
+        {
+            "clave": "ID254",
+            "nombre": "EVALUACION DE TRABAJOS DE INVESTIGACION I"
+        },
+        {
+            "clave": "IF856",
+            "nombre": "EVALUACION ERGONOMICA DEL PRODUCTO"
+        },
+        {
+            "clave": "IA388",
+            "nombre": "EVALUACIONES SUBJETIVAS"
+        },
+        {
+            "clave": "IJ334",
+            "nombre": "EXPERIENCIA DE USUARIO"
+        },
+        {
+            "clave": "IH816",
+            "nombre": "EXPERIENCIA INTERACTIVA II"
+        },
+        {
+            "clave": "IJ299",
+            "nombre": "EXPRESION GRAFICA DIGITAL"
+        },
+        {
+            "clave": "IA394",
+            "nombre": "FACTORES AMBIENTALES"
+        },
+        {
+            "clave": "IA718",
+            "nombre": "FACTORES DE CALIDAD DEL PRODUCTO INNOVADOR"
+        },
+        {
+            "clave": "IA402",
+            "nombre": "FACTORES HUMANOS EN LA INFORMATICA"
+        },
+        {
+            "clave": "H0296",
+            "nombre": "FINANZAS MUNICIPALES"
+        },
+        {
+            "clave": "I3643",
+            "nombre": "FISIOLOGIA DEL TRABAJO"
+        },
+        {
+            "clave": "IJ091",
+            "nombre": "FORMACION INTEGRAL"
+        },
+        {
+            "clave": "IJ091",
+            "nombre": "FORMACION INTEGRAL"
+        },
+        {
+            "clave": "IF454",
+            "nombre": "FORMACION UNIVERSITARIA"
+        },
+        {
+            "clave": "IH808",
+            "nombre": "FOTOGRAFIA DIGITAL"
+        },
+        {
+            "clave": "H0265",
+            "nombre": "FOTOGRAMETRIA ARQUITECTONICA"
+        },
+        {
+            "clave": "IJ100",
+            "nombre": "FUNDAMENTACION Y PROCESOS DE INVESTIGACION"
+        },
+        {
+            "clave": "IH505",
+            "nombre": "FUNDAMENTOS DE DIBUJO PARA LA COMUNICACION GRAFICA"
+        },
+        {
+            "clave": "I3638",
+            "nombre": "FUNDAMENTOS TEORICOS EN ERGONOMIA"
+        },
+        {
+            "clave": "IJ610",
+            "nombre": "FUNDAMENTOS Y PROCESOS DE INVESTIGACION AVANZADA"
+        },
+        {
+            "clave": "H0311",
+            "nombre": "GEOGRAFIA URBANA"
+        },
+        {
+            "clave": "H0321",
+            "nombre": "GESTION DE LA CIUDAD"
+        },
+        {
+            "clave": "IL155",
+            "nombre": "GESTION DE PLANTELES Y PROPIEDAD INTELECTUAL"
+        },
+        {
+            "clave": "IJ324",
+            "nombre": "GESTION ESTRATEGICA DE LA IDENTIDAD Y LA COMUNICACION INSTITUCIONAL"
+        },
+        {
+            "clave": "IJ581",
+            "nombre": "GESTION Y EVALUACION DE PROYECTOS DE INTERIORISMO"
+        },
+        {
+            "clave": "IJ327",
+            "nombre": "GESTION Y PLANEACION ESTRATEGICA PARA PRODUCTOS EDITORIALES"
+        },
+        {
+            "clave": "IA706",
+            "nombre": "GOBERNABILIDAD Y DESARROLLO"
+        },
+        {
+            "clave": "IJ322",
+            "nombre": "GRAFICA DEL ENTORNO"
+        },
+        {
+            "clave": "H0371",
+            "nombre": "HISTORIA DE LA ARQUITECTURA EN GUADALAJARA"
+        },
+        {
+            "clave": "IC054",
+            "nombre": "HISTORIA DE LA ARQUITECTURA MEXICANA DE LOS SIGLOS XVII Y XVIII"
+        },
+        {
+            "clave": "H0349",
+            "nombre": "HISTORIA DE LA ARQUITECTURA MEXICANA DEL SIGLO XVI"
+        },
+        {
+            "clave": "H0347",
+            "nombre": "HISTORIA DE LA ARQUITECTURA PREHISPANICA"
+        },
+        {
+            "clave": "H0350",
+            "nombre": "HISTORIA DE LA ARQUITECTURA SIGLOS XVII Y XVIII"
+        },
+        {
+            "clave": "IG341",
+            "nombre": "HISTORIA DEL ARTE"
+        },
+        {
+            "clave": "IH364",
+            "nombre": "HISTORIA DEL CINE Y DE LA ANIMACION"
+        },
+        {
+            "clave": "H0315",
+            "nombre": "HISTORIA DEL URBANISMO CONTEMPORANEO"
+        },
+        {
+            "clave": "H0360",
+            "nombre": "HISTORIA Y TEORIA DE LA CONSERVACION I"
+        },
+        {
+            "clave": "IJ339",
+            "nombre": "ILUSTRACION APLICADA"
+        },
+        {
+            "clave": "IF826",
+            "nombre": "ILUSTRACION DIGITAL"
+        },
+        {
+            "clave": "IJ338",
+            "nombre": "ILUSTRACION Y NARRATIVA GRAFICA"
+        },
+        {
+            "clave": "H0299",
+            "nombre": "INFRAESTRUCTURA Y EQUIPAMIENTO COLECTIVO"
+        },
+        {
+            "clave": "IF364",
+            "nombre": "INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IJ555",
+            "nombre": "INNOVACION Y SUSTENTABILIDAD EN LA GENERACION DE CONTENIDOS"
+        },
+        {
+            "clave": "H0313",
+            "nombre": "INSTRUMENTOS DE PLANEACION URBANA"
+        },
+        {
+            "clave": "IH509",
+            "nombre": "INTERPRETACION DE LA ESTETICA"
+        },
+        {
+            "clave": "IJ294",
+            "nombre": "INTERPRETACION Y APLICACION TIPOGRAFICA"
+        },
+        {
+            "clave": "H0377",
+            "nombre": "INVENTARIOS DEL PATRIMONIO"
+        },
+        {
+            "clave": "IJ557",
+            "nombre": "INVESTIGACION SOBRE EXPERIENCIA DE USUARIO"
+        },
+        {
+            "clave": "IJ103",
+            "nombre": "INVESTIGACION Y ANALISIS DE LA ARQUITECTURA MEXICANA DE LA COLONIA A LAS INSTITUCIONES"
+        },
+        {
+            "clave": "IJ102",
+            "nombre": "INVESTIGACION Y CONTEXTUALIZACION DE LA ARQUITECTURA Y EL URBANISMO DE LA CIUDAD INDUSTRIAL A LA ACTUALIDAD"
+        },
+        {
+            "clave": "IJ212",
+            "nombre": "INVESTIGACION Y CONTEXTUALIZACION DEL ESPACIO INTERIOR EN LA CIUDAD INDUSTRIAL"
+        },
+        {
+            "clave": "IA700",
+            "nombre": "LA GESTION DE LA CIUDAD"
+        },
+        {
+            "clave": "IH828",
+            "nombre": "LABORATORIO DE CAPTURA DE MOVIMIENTO"
+        },
+        {
+            "clave": "H0374",
+            "nombre": "LEGISLACION DE PATRIMONIO"
+        },
+        {
+            "clave": "H0285",
+            "nombre": "LEGISLACION URBANA"
+        },
+        {
+            "clave": "IH797",
+            "nombre": "LIDERAZGO EMPRESARIAL"
+        },
+        {
+            "clave": "IH831",
+            "nombre": "LOCUCION Y DOBLAJE"
+        },
+        {
+            "clave": "I3595",
+            "nombre": "LOS CENTROS HISTORICOS EN EL CONTEXTO DEL SIGLO XXI"
+        },
+        {
+            "clave": "IC049",
+            "nombre": "MANUALES DE FICHAS TECNICAS"
+        },
+        {
+            "clave": "IH806",
+            "nombre": "MAQUILLAJE ESCENICO Y DE CARACTERIZACION"
+        },
+        {
+            "clave": "IJ317",
+            "nombre": "MARKETING DIGITAL"
+        },
+        {
+            "clave": "IF829",
+            "nombre": "MATERIALES HIBRIDOS"
+        },
+        {
+            "clave": "IJ566",
+            "nombre": "MEDIOS CREATIVOS DIGITALES"
+        },
+        {
+            "clave": "IA407",
+            "nombre": "METODOLOGIA DE INVESTIGACION EN ARQUITECTURA Y URBANISMO"
+        },
+        {
+            "clave": "I3633",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION"
+        },
+        {
+            "clave": "H0340",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION CIENTIFICA I"
+        },
+        {
+            "clave": "H0261",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION EN ARQUITECTURA Y URBANISMO"
+        },
+        {
+            "clave": "IL146",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION TECNOLOGICA"
+        },
+        {
+            "clave": "IC045",
+            "nombre": "METODOS DE DATACION DE ESTILOS"
+        },
+        {
+            "clave": "IA696",
+            "nombre": "METODOS DE INVESTIGACION I"
+        },
+        {
+            "clave": "H0318",
+            "nombre": "METODOS Y HERRAMIENTAS PARA EL ANALISIS URBANO"
+        },
+        {
+            "clave": "IH363",
+            "nombre": "METODOS Y TECNICAS DE INVESTIGACION II"
+        },
+        {
+            "clave": "IH503",
+            "nombre": "MODELADO DIGITAL DE PRODUCTO"
+        },
+        {
+            "clave": "IL156",
+            "nombre": "MODELO DE NEGOCIOS"
+        },
+        {
+            "clave": "IA720",
+            "nombre": "MODELOS DE NEGOCIO PARA LA INDUSTRIA"
+        },
+        {
+            "clave": "IJ202",
+            "nombre": "MORFOLOGIA DE LA LETRA"
+        },
+        {
+            "clave": "H0300",
+            "nombre": "MOVILIDAD SOCIAL"
+        },
+        {
+            "clave": "IH784",
+            "nombre": "NARRATIVA I"
+        },
+        {
+            "clave": "IF475",
+            "nombre": "NATIONAL AND INTERNATIONAL CONTEXT OF INDUSTRIAL DESIGN"
+        },
+        {
+            "clave": "IH799",
+            "nombre": "NORMATIVITY AND LEGISLATION"
+        },
+        {
+            "clave": "IJ110",
+            "nombre": "OPTATIVA ABIERTA I"
+        },
+        {
+            "clave": "IJ111",
+            "nombre": "OPTATIVA ABIERTA II"
+        },
+        {
+            "clave": "IJ112",
+            "nombre": "OPTATIVA ABIERTA III"
+        },
+        {
+            "clave": "IJ113",
+            "nombre": "OPTATIVA ABIERTA IV"
+        },
+        {
+            "clave": "IJ114",
+            "nombre": "OPTATIVA ABIERTA V"
+        },
+        {
+            "clave": "IJ115",
+            "nombre": "OPTATIVA ABIERTA VI"
+        },
+        {
+            "clave": "IJ116",
+            "nombre": "OPTATIVA ABIERTA VII"
+        },
+        {
+            "clave": "IJ117",
+            "nombre": "OPTATIVA ABIERTA VIII"
+        },
+        {
+            "clave": "IJ604",
+            "nombre": "OPTATIVA II"
+        },
+        {
+            "clave": "IJ606",
+            "nombre": "OPTATIVA IV"
+        },
+        {
+            "clave": "IJ608",
+            "nombre": "OPTATIVA VI"
+        },
+        {
+            "clave": "H0376",
+            "nombre": "ORGANIZACION DE OBRAS DE RESTAURACION"
+        },
+        {
+            "clave": "IA702",
+            "nombre": "PARTICIPACION CIUDADANA"
+        },
+        {
+            "clave": "IH510",
+            "nombre": "PERCEPCION VISUAL"
+        },
+        {
+            "clave": "IH807",
+            "nombre": "PERFORMANCE FOR THE ANIMATION"
+        },
+        {
+            "clave": "IJ323",
+            "nombre": "PLANEACION DE LA IDENTIDAD INSTITUCIONAL"
+        },
+        {
+            "clave": "IJ330",
+            "nombre": "PLANIFICACION ESTRATEGICA DE MERCADO"
+        },
+        {
+            "clave": "IF830",
+            "nombre": "PORTAFOLIO PROFESIONAL"
+        },
+        {
+            "clave": "IA714",
+            "nombre": "PRESENTACION Y COMUNICACION DEL PROYECTO INNOVADOR"
+        },
+        {
+            "clave": "H0259",
+            "nombre": "PRIMERA EVALUACION DE TRABAJOS DE INVESTIGACION"
+        },
+        {
+            "clave": "IG344",
+            "nombre": "PRINCIPIOS DE COMPOSICION TRIDIMENSIONAL"
+        },
+        {
+            "clave": "IJ599",
+            "nombre": "PROCESOS DE ANIMACION DIGITAL"
+        },
+        {
+            "clave": "H0323",
+            "nombre": "PROCESOS DE CONSTRUCCION DEL HABITAT"
+        },
+        {
+            "clave": "H0320",
+            "nombre": "PROCESOS ECONOMICOS Y DE URBANIZACION"
+        },
+        {
+            "clave": "IJ093",
+            "nombre": "PROCESOS LEGALES PARA EL PROYECTO ARQUITECTONICO Y URBANO"
+        },
+        {
+            "clave": "IJ203",
+            "nombre": "PROCESOS METODOLOGICOS DE LA INVESTIGACION EN LA COMUNICACION GRAFICA"
+        },
+        {
+            "clave": "IJ096",
+            "nombre": "PROCESOS NORMATIVOS PARA EL PROYECTO ARQUITECTONICO Y URBANO"
+        },
+        {
+            "clave": "IF461",
+            "nombre": "PROCESOS PARA LA TRANSFORMACION DE MATERIALES DE CELULOSA MADERA Y DERIVADOS"
+        },
+        {
+            "clave": "IJ094",
+            "nombre": "PROCESOS REGULATORIOS PARA EL PROYECTO ARQUITECTONICO Y URBANO"
+        },
+        {
+            "clave": "IH789",
+            "nombre": "PROCESOS Y TECNOLOGIAS PARA CREACION DE UTILERIA Y ESCENOGRAFIA"
+        },
+        {
+            "clave": "IJ307",
+            "nombre": "PRODUCCION AUDIOVISUAL"
+        },
+        {
+            "clave": "IJ601",
+            "nombre": "PRODUCCION DE ESTAMPADO"
+        },
+        {
+            "clave": "IJ301",
+            "nombre": "PRODUCCION DE HISTORIETA Y CARICATURA"
+        },
+        {
+            "clave": "IJ331",
+            "nombre": "PRODUCCION DE MENSAJES PUBLICITARIOS"
+        },
+        {
+            "clave": "IL164",
+            "nombre": "PRODUCCION DEL HABITAT Y LA VIVIENDA SUSTENTABLE"
+        },
+        {
+            "clave": "IH365",
+            "nombre": "PROGRAMACION AVANZADA"
+        },
+        {
+            "clave": "IG342",
+            "nombre": "PROGRAMACION I"
+        },
+        {
+            "clave": "IH796",
+            "nombre": "PROJECT MANAGEMENT"
+        },
+        {
+            "clave": "IJ209",
+            "nombre": "PROYECTOS FOTOGRAFICOS PARA LA COMUNICACION GRAFICA"
+        },
+        {
+            "clave": "H0403",
+            "nombre": "REALISMO Y NATURALISMO"
+        },
+        {
+            "clave": "IH787",
+            "nombre": "REDACCION DE GUION"
+        },
+        {
+            "clave": "IF478",
+            "nombre": "REPRESENTACION DIGITAL DE PRODUCTO Y ENTORNO"
+        },
+        {
+            "clave": "IH506",
+            "nombre": "REPRESENTACION GEOMETRICA TRIDIMENSIONAL"
+        },
+        {
+            "clave": "IH511",
+            "nombre": "REPRESENTACION Y EDICION DIGITAL I"
+        },
+        {
+            "clave": "IJ208",
+            "nombre": "REPRESENTACION Y EDICION DIGITAL II"
+        },
+        {
+            "clave": "IJ309",
+            "nombre": "REPRODUCCION EN MEDIOS IMPRESOS"
+        },
+        {
+            "clave": "H0368",
+            "nombre": "RESTAURACION DE EDIFICIOS"
+        },
+        {
+            "clave": "IH819",
+            "nombre": "RETO DE INNOVACION II"
+        },
+        {
+            "clave": "I3648",
+            "nombre": "SALUD Y SEGURIDAD OCUPACIONAL I"
+        },
+        {
+            "clave": "H0260",
+            "nombre": "SEGUNDA EVALUACION DE TRABAJOS DE INVESTIGACION"
+        },
+        {
+            "clave": "I3607",
+            "nombre": "SEMINARIO DE EVALUACION"
+        },
+        {
+            "clave": "IA420",
+            "nombre": "SEMINARIO DE EVALUACION II"
+        },
+        {
+            "clave": "H0317",
+            "nombre": "SEMINARIO DE INVESTIGACION"
+        },
+        {
+            "clave": "IA409",
+            "nombre": "SEMINARIO DE INVESTIGACION"
+        },
+        {
+            "clave": "IJ090",
+            "nombre": "SEMINARIO DE INVESTIGACION"
+        },
+        {
+            "clave": "H0244",
+            "nombre": "SEMINARIO DE INVESTIGACION I"
+        },
+        {
+            "clave": "H0245",
+            "nombre": "SEMINARIO DE INVESTIGACION II"
+        },
+        {
+            "clave": "H0246",
+            "nombre": "SEMINARIO DE INVESTIGACION III"
+        },
+        {
+            "clave": "H0247",
+            "nombre": "SEMINARIO DE INVESTIGACION IV"
+        },
+        {
+            "clave": "H0252",
+            "nombre": "SEMINARIO DE INVESTIGACION IX"
+        },
+        {
+            "clave": "H0248",
+            "nombre": "SEMINARIO DE INVESTIGACION V"
+        },
+        {
+            "clave": "H0249",
+            "nombre": "SEMINARIO DE INVESTIGACION VI"
+        },
+        {
+            "clave": "H0250",
+            "nombre": "SEMINARIO DE INVESTIGACION VII"
+        },
+        {
+            "clave": "H0251",
+            "nombre": "SEMINARIO DE INVESTIGACION VIII"
+        },
+        {
+            "clave": "H0253",
+            "nombre": "SEMINARIO DE INVESTIGACION X"
+        },
+        {
+            "clave": "H0254",
+            "nombre": "SEMINARIO DE INVESTIGACION XI"
+        },
+        {
+            "clave": "H0255",
+            "nombre": "SEMINARIO DE INVESTIGACION XII"
+        },
+        {
+            "clave": "H0256",
+            "nombre": "SEMINARIO DE INVESTIGACION XIII"
+        },
+        {
+            "clave": "H0257",
+            "nombre": "SEMINARIO DE INVESTIGACION XIV"
+        },
+        {
+            "clave": "H0258",
+            "nombre": "SEMINARIO DE INVESTIGACION XV"
+        },
+        {
+            "clave": "IL160",
+            "nombre": "SEMINARIO DE TESIS"
+        },
+        {
+            "clave": "IJ554",
+            "nombre": "SEMINARIO DE TITULACION"
+        },
+        {
+            "clave": "H0392",
+            "nombre": "SEMINARIO SOBRE ARTE MEDIEVAL"
+        },
+        {
+            "clave": "I3602",
+            "nombre": "SEMINARIO TEMATICO I"
+        },
+        {
+            "clave": "I3604",
+            "nombre": "SEMINARIO TEMATICO III"
+        },
+        {
+            "clave": "H0277",
+            "nombre": "SEMINARIOS DE EVALUACION"
+        },
+        {
+            "clave": "IA398",
+            "nombre": "SIMULACION Y EXPERIMENTACION I"
+        },
+        {
+            "clave": "H0316",
+            "nombre": "SISTEMAS DE INFORMACION GEOGRAFICA"
+        },
+        {
+            "clave": "IF825",
+            "nombre": "SISTEMAS TECNOLOGICOS"
+        },
+        {
+            "clave": "H0281",
+            "nombre": "SOCIOLOGIA URBANA"
+        },
+        {
+            "clave": "IH812",
+            "nombre": "SPECIAL EFFECTS"
+        },
+        {
+            "clave": "IJ104",
+            "nombre": "TALLER DE CREATIVIDAD GRAFICA Y VOLUMETRICA"
+        },
+        {
+            "clave": "H0357",
+            "nombre": "TALLER DE DATACION DE ESTILOS Y CORRIENTES ARQUITECTONICAS"
+        },
+        {
+            "clave": "IJ092",
+            "nombre": "TALLER DE GESTION Y GERENCIA DE PROYECTOS ARQUITECTONICOS"
+        },
+        {
+            "clave": "IA408",
+            "nombre": "TALLER DE INVESTIGACION"
+        },
+        {
+            "clave": "H0348",
+            "nombre": "TALLER DE PROCEDIMIENTOS PARA LEVANTAMIENTOS Y GRAFICACION  ARQUITECTONICA"
+        },
+        {
+            "clave": "I3601",
+            "nombre": "TALLER DE PROYECTOS"
+        },
+        {
+            "clave": "H0362",
+            "nombre": "TALLER DE PROYECTOS DE CONSERVACION"
+        },
+        {
+            "clave": "H0365",
+            "nombre": "TALLER DE PROYECTOS DE CONSERVACION URBANA II"
+        },
+        {
+            "clave": "H0346",
+            "nombre": "TALLER DE TESIS"
+        },
+        {
+            "clave": "I3657",
+            "nombre": "TALLER DE TESIS I"
+        },
+        {
+            "clave": "H0291",
+            "nombre": "TALLER DE TESIS I"
+        },
+        {
+            "clave": "I3650",
+            "nombre": "TALLER DE TESIS II"
+        },
+        {
+            "clave": "IA404",
+            "nombre": "TALLER DE TESIS II"
+        },
+        {
+            "clave": "IA705",
+            "nombre": "TALLER DE TESIS II"
+        },
+        {
+            "clave": "IA406",
+            "nombre": "TALLER DE TESIS IV"
+        },
+        {
+            "clave": "IJ099",
+            "nombre": "TALLER INTEGRAL DE EDIFICACION"
+        },
+        {
+            "clave": "IJ098",
+            "nombre": "TALLER INTEGRAL DE EDIFICACION CONCEPTUAL"
+        },
+        {
+            "clave": "IJ120",
+            "nombre": "TALLER INTEGRAL DE URBANISMO"
+        },
+        {
+            "clave": "IJ119",
+            "nombre": "TALLER INTEGRAL DE URBANISMO CONCEPTUAL"
+        },
+        {
+            "clave": "IF476",
+            "nombre": "TECHNOLOGY FOR THE MANUFACTURE OF POLYMER AND CERAMICS"
+        },
+        {
+            "clave": "H0319",
+            "nombre": "TECNICAS DE COMUNICACION ORAL Y ESCRITA"
+        },
+        {
+            "clave": "IJ297",
+            "nombre": "TECNICAS DE INVESTIGACION"
+        },
+        {
+            "clave": "H0342",
+            "nombre": "TECNICAS DE INVESTIGACION CIENTIFICA"
+        },
+        {
+            "clave": "IA711",
+            "nombre": "TECNICAS Y METODOS DE CONCEPTUALIZACION"
+        },
+        {
+            "clave": "I3637",
+            "nombre": "TECNOLOGIAS DE APRENDIZAJE"
+        },
+        {
+            "clave": "IF468",
+            "nombre": "TECNOLOGIAS PARA ELABORACION DE PRODUCTOS METALICOS Y DERIVADOS"
+        },
+        {
+            "clave": "H0389",
+            "nombre": "TENENCIA LEGAL"
+        },
+        {
+            "clave": "H0286",
+            "nombre": "TEORIA DEL URBANISMO"
+        },
+        {
+            "clave": "IL150",
+            "nombre": "TEORIA Y FILOSOFIA DE LA INNOVACION"
+        },
+        {
+            "clave": "H0302",
+            "nombre": "TERCIARIZACION Y ECONOMIA INFORMAL"
+        },
+        {
+            "clave": "IL161",
+            "nombre": "TESIS DOCTORAL"
+        },
+        {
+            "clave": "IJ560",
+            "nombre": "TIPOGRAFIA APLICADA"
+        },
+        {
+            "clave": "IJ325",
+            "nombre": "TIPOGRAFIA APLICADA A PROYECTOS EDITORIALES"
+        },
+        {
+            "clave": "IJ584",
+            "nombre": "TOPICO SELECTO I"
+        },
+        {
+            "clave": "IJ585",
+            "nombre": "TOPICO SELECTO II"
+        },
+        {
+            "clave": "IJ586",
+            "nombre": "TOPICO SELECTO III"
+        },
+        {
+            "clave": "IF480",
+            "nombre": "TOPICOS SELECTOS"
+        },
+        {
+            "clave": "IH838",
+            "nombre": "TOPICOS SELECTOS DE COMUNICACION"
+        },
+        {
+            "clave": "IJ345",
+            "nombre": "TOPICOS SELECTOS DE COMUNICACION I"
+        },
+        {
+            "clave": "IJ346",
+            "nombre": "TOPICOS SELECTOS DE COMUNICACION II"
+        },
+        {
+            "clave": "IH839",
+            "nombre": "TOPICOS SELECTOS DE IMAGEN Y SONIDO"
+        },
+        {
+            "clave": "IJ341",
+            "nombre": "TOPICOS SELECTOS DE MORFOLOGIA I"
+        },
+        {
+            "clave": "IJ342",
+            "nombre": "TOPICOS SELECTOS DE MORFOLOGIA II"
+        },
+        {
+            "clave": "IJ343",
+            "nombre": "TOPICOS SELECTOS DE PROYECCION I"
+        },
+        {
+            "clave": "IJ344",
+            "nombre": "TOPICOS SELECTOS DE PROYECCION II"
+        },
+        {
+            "clave": "IJ347",
+            "nombre": "TOPICOS SELECTOS DE TECNOLOGIA I"
+        },
+        {
+            "clave": "IJ348",
+            "nombre": "TOPICOS SELECTOS DE TECNOLOGIA II"
+        },
+        {
+            "clave": "IA723",
+            "nombre": "TRABAJO RECEPCIONAL"
+        },
+        {
+            "clave": "IH801",
+            "nombre": "USER EXPERIENCE DESIGN"
+        },
+        {
+            "clave": "H0380",
+            "nombre": "USO Y APLICACION DE SISTEMAS CONSTRUCTIVOS EN RESTAURACION"
+        },
+        {
+            "clave": "IA719",
+            "nombre": "VALOR DE MARCA EN EL PRODUCTO INNOVADOR"
+        },
+        {
+            "clave": "IH829",
+            "nombre": "VISUAL THINKING"
+        },
+        {
+            "clave": "MC106",
+            "nombre": "ESTADISTICA I"
+        },
+        {
+            "clave": "MU100",
+            "nombre": "ANALISIS DE LAS FORMAS I"
+        },
+        {
+            "clave": "MU101",
+            "nombre": "ANALISIS DE LAS FORMAS II"
+        },
+        {
+            "clave": "MU501",
+            "nombre": "APRECIACION MUSICAL"
+        },
+        {
+            "clave": "MU501",
+            "nombre": "APRECIACION MUSICAL"
+        },
+        {
+            "clave": "MU190",
+            "nombre": "APRECIACION MUSICAL I"
+        },
+        {
+            "clave": "MU191",
+            "nombre": "APRECIACION MUSICAL II"
+        },
+        {
+            "clave": "MU192",
+            "nombre": "APRECIACION MUSICAL III"
+        },
+        {
+            "clave": "MU193",
+            "nombre": "APRECIACION MUSICAL IV"
+        },
+        {
+            "clave": "MU162",
+            "nombre": "ARMONIA I"
+        },
+        {
+            "clave": "MU163",
+            "nombre": "ARMONIA II"
+        },
+        {
+            "clave": "MU164",
+            "nombre": "ARMONIA III"
+        },
+        {
+            "clave": "MU165",
+            "nombre": "ARMONIA IV"
+        },
+        {
+            "clave": "MU170",
+            "nombre": "CANTO COMPLEMENTARIO I"
+        },
+        {
+            "clave": "MU171",
+            "nombre": "CANTO COMPLEMENTARIO II"
+        },
+        {
+            "clave": "MU172",
+            "nombre": "CANTO COMPLEMENTARIO III"
+        },
+        {
+            "clave": "MU173",
+            "nombre": "CANTO COMPLEMENTARIO IV"
+        },
+        {
+            "clave": "MU174",
+            "nombre": "CANTO COMPLEMENTARIO V"
+        },
+        {
+            "clave": "MU175",
+            "nombre": "CANTO COMPLEMENTARIO VI"
+        },
+        {
+            "clave": "MU176",
+            "nombre": "CANTO COMPLEMENTARIO VII"
+        },
+        {
+            "clave": "MU177",
+            "nombre": "CANTO COMPLEMENTARIO VIII"
+        },
+        {
+            "clave": "MU150",
+            "nombre": "CANTO GREGORIANO I"
+        },
+        {
+            "clave": "MU151",
+            "nombre": "CANTO GREGORIANO II"
+        },
+        {
+            "clave": "MU290",
+            "nombre": "CANTO I"
+        },
+        {
+            "clave": "MU290",
+            "nombre": "CANTO I"
+        },
+        {
+            "clave": "MU291",
+            "nombre": "CANTO II"
+        },
+        {
+            "clave": "MU291",
+            "nombre": "CANTO II"
+        },
+        {
+            "clave": "MU292",
+            "nombre": "CANTO III"
+        },
+        {
+            "clave": "MU292",
+            "nombre": "CANTO III"
+        },
+        {
+            "clave": "MU293",
+            "nombre": "CANTO IV"
+        },
+        {
+            "clave": "MU293",
+            "nombre": "CANTO IV"
+        },
+        {
+            "clave": "MU294",
+            "nombre": "CANTO V"
+        },
+        {
+            "clave": "MU294",
+            "nombre": "CANTO V"
+        },
+        {
+            "clave": "MU296",
+            "nombre": "CANTO VI"
+        },
+        {
+            "clave": "MU296",
+            "nombre": "CANTO VI"
+        },
+        {
+            "clave": "MU297",
+            "nombre": "CANTO VII"
+        },
+        {
+            "clave": "MU297",
+            "nombre": "CANTO VII"
+        },
+        {
+            "clave": "MU298",
+            "nombre": "CANTO VIII"
+        },
+        {
+            "clave": "MU298",
+            "nombre": "CANTO VIII"
+        },
+        {
+            "clave": "MU515",
+            "nombre": "CATEGORIAS NATIVAS Y ESTRUCTURA DEL CANTO Y LA DANZA EN LA AMERICA INDIGENA"
+        },
+        {
+            "clave": "MU218",
+            "nombre": "COMPOSICION I"
+        },
+        {
+            "clave": "MU219",
+            "nombre": "COMPOSICION II"
+        },
+        {
+            "clave": "MU220",
+            "nombre": "COMPOSICION III"
+        },
+        {
+            "clave": "MU221",
+            "nombre": "COMPOSICION IV"
+        },
+        {
+            "clave": "MU222",
+            "nombre": "COMPOSICION V"
+        },
+        {
+            "clave": "MU223",
+            "nombre": "COMPOSICION VI"
+        },
+        {
+            "clave": "MU265",
+            "nombre": "CONJUNTOS CORALES I"
+        },
+        {
+            "clave": "MU265",
+            "nombre": "CONJUNTOS CORALES I"
+        },
+        {
+            "clave": "MU266",
+            "nombre": "CONJUNTOS CORALES II"
+        },
+        {
+            "clave": "MU266",
+            "nombre": "CONJUNTOS CORALES II"
+        },
+        {
+            "clave": "MU267",
+            "nombre": "CONJUNTOS CORALES III"
+        },
+        {
+            "clave": "MU267",
+            "nombre": "CONJUNTOS CORALES III"
+        },
+        {
+            "clave": "MU268",
+            "nombre": "CONJUNTOS CORALES IV"
+        },
+        {
+            "clave": "MU268",
+            "nombre": "CONJUNTOS CORALES IV"
+        },
+        {
+            "clave": "MU269",
+            "nombre": "CONJUNTOS CORALES V"
+        },
+        {
+            "clave": "MU270",
+            "nombre": "CONJUNTOS CORALES VI"
+        },
+        {
+            "clave": "MU271",
+            "nombre": "CONJUNTOS CORALES VII"
+        },
+        {
+            "clave": "MU272",
+            "nombre": "CONJUNTOS CORALES VIII"
+        },
+        {
+            "clave": "MU166",
+            "nombre": "CONTRAPUNTO I"
+        },
+        {
+            "clave": "MU167",
+            "nombre": "CONTRAPUNTO II"
+        },
+        {
+            "clave": "MU168",
+            "nombre": "CONTRAPUNTO III"
+        },
+        {
+            "clave": "MU169",
+            "nombre": "CONTRAPUNTO IV"
+        },
+        {
+            "clave": "MU319",
+            "nombre": "COORDINACION MUSICAL I"
+        },
+        {
+            "clave": "MU320",
+            "nombre": "COORDINACION MUSICAL II"
+        },
+        {
+            "clave": "MU321",
+            "nombre": "COORDINACION MUSICAL III"
+        },
+        {
+            "clave": "MU322",
+            "nombre": "COORDINACION MUSICAL IV"
+        },
+        {
+            "clave": "MU204",
+            "nombre": "DIRECCION CORAL I"
+        },
+        {
+            "clave": "MU205",
+            "nombre": "DIRECCION CORAL II"
+        },
+        {
+            "clave": "MU206",
+            "nombre": "DIRECCION CORAL III"
+        },
+        {
+            "clave": "MU207",
+            "nombre": "DIRECCION CORAL IV"
+        },
+        {
+            "clave": "MU208",
+            "nombre": "DIRECCION CORAL V"
+        },
+        {
+            "clave": "MU209",
+            "nombre": "DIRECCION CORAL VI"
+        },
+        {
+            "clave": "MU160",
+            "nombre": "DIRECCION GREGORIANA I"
+        },
+        {
+            "clave": "MU161",
+            "nombre": "DIRECCION GREGORIANA II"
+        },
+        {
+            "clave": "MU234",
+            "nombre": "DIRECCION ORQUESTAL I"
+        },
+        {
+            "clave": "MU235",
+            "nombre": "DIRECCION ORQUESTAL II"
+        },
+        {
+            "clave": "MU307",
+            "nombre": "EDUCACION AUDITIVA I"
+        },
+        {
+            "clave": "MU308",
+            "nombre": "EDUCACION AUDITIVA II"
+        },
+        {
+            "clave": "MU309",
+            "nombre": "EDUCACION AUDITIVA III"
+        },
+        {
+            "clave": "MU310",
+            "nombre": "EDUCACION AUDITIVA IV"
+        },
+        {
+            "clave": "MU311",
+            "nombre": "EDUCACION AUDITIVA V"
+        },
+        {
+            "clave": "MU312",
+            "nombre": "EDUCACION AUDITIVA VI"
+        },
+        {
+            "clave": "MU313",
+            "nombre": "EDUCACION RITMICA I"
+        },
+        {
+            "clave": "MU314",
+            "nombre": "EDUCACION RITMICA II"
+        },
+        {
+            "clave": "MU315",
+            "nombre": "EDUCACION RITMICA III"
+        },
+        {
+            "clave": "MU316",
+            "nombre": "EDUCACION RITMICA IV"
+        },
+        {
+            "clave": "MU317",
+            "nombre": "EDUCACION RITMICA V"
+        },
+        {
+            "clave": "MU318",
+            "nombre": "EDUCACION RITMICA VI"
+        },
+        {
+            "clave": "MU508",
+            "nombre": "ENSAMBLE DE MUSICA ETNICA I"
+        },
+        {
+            "clave": "MU513",
+            "nombre": "ENSAMBLE DE MUSICA ETNICA II"
+        },
+        {
+            "clave": "MU517",
+            "nombre": "ENSAMBLE DE MUSICA ETNICA III"
+        },
+        {
+            "clave": "MU521",
+            "nombre": "ENSAMBLE DE MUSICA ETNICA IV"
+        },
+        {
+            "clave": "MU144",
+            "nombre": "ENSAMBLE VOCAL I"
+        },
+        {
+            "clave": "MU145",
+            "nombre": "ENSAMBLE VOCAL II"
+        },
+        {
+            "clave": "MU146",
+            "nombre": "ENSAMBLE VOCAL III"
+        },
+        {
+            "clave": "MU147",
+            "nombre": "ENSAMBLE VOCAL IV"
+        },
+        {
+            "clave": "MU148",
+            "nombre": "ENSAMBLE VOCAL V"
+        },
+        {
+            "clave": "MU149",
+            "nombre": "ENSAMBLE VOCAL VI"
+        },
+        {
+            "clave": "MU510",
+            "nombre": "ESTRUCTURA Y FORMA DE LOS GENEROS CRIOLLOS Y AFROAMERICANOS"
+        },
+        {
+            "clave": "MU509",
+            "nombre": "ESTRUCTURA Y FORMA DEL SON MEXICANO"
+        },
+        {
+            "clave": "MU505",
+            "nombre": "FOLKLORE MUSICAL MEXICANO"
+        },
+        {
+            "clave": "MU202",
+            "nombre": "FUGA I"
+        },
+        {
+            "clave": "MU203",
+            "nombre": "FUGA II"
+        },
+        {
+            "clave": "MU506",
+            "nombre": "FUNDAMENTOS DE LA ETNOMUSICOLOGIA"
+        },
+        {
+            "clave": "MU511",
+            "nombre": "FUNDAMENTOS DE LA MUSICOLOGIA"
+        },
+        {
+            "clave": "MU299",
+            "nombre": "INSTRUMENTO I"
+        },
+        {
+            "clave": "MU226",
+            "nombre": "INSTRUMENTO I"
+        },
+        {
+            "clave": "MU323",
+            "nombre": "INSTRUMENTO I"
+        },
+        {
+            "clave": "MU300",
+            "nombre": "INSTRUMENTO II"
+        },
+        {
+            "clave": "MU227",
+            "nombre": "INSTRUMENTO II"
+        },
+        {
+            "clave": "MU324",
+            "nombre": "INSTRUMENTO II"
+        },
+        {
+            "clave": "MU301",
+            "nombre": "INSTRUMENTO III"
+        },
+        {
+            "clave": "MU228",
+            "nombre": "INSTRUMENTO III"
+        },
+        {
+            "clave": "MU325",
+            "nombre": "INSTRUMENTO III"
+        },
+        {
+            "clave": "MU302",
+            "nombre": "INSTRUMENTO IV"
+        },
+        {
+            "clave": "MU229",
+            "nombre": "INSTRUMENTO IV"
+        },
+        {
+            "clave": "MU326",
+            "nombre": "INSTRUMENTO IV"
+        },
+        {
+            "clave": "MU279",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO I"
+        },
+        {
+            "clave": "MU280",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO II"
+        },
+        {
+            "clave": "MU281",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO III"
+        },
+        {
+            "clave": "MU282",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO IV"
+        },
+        {
+            "clave": "MU283",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO V"
+        },
+        {
+            "clave": "MU284",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO VI"
+        },
+        {
+            "clave": "MU285",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO VII"
+        },
+        {
+            "clave": "MU286",
+            "nombre": "INSTRUMENTO O CANTO COMPLEMENTARIO VIII"
+        },
+        {
+            "clave": "MU303",
+            "nombre": "INSTRUMENTO V"
+        },
+        {
+            "clave": "MU230",
+            "nombre": "INSTRUMENTO V"
+        },
+        {
+            "clave": "MU327",
+            "nombre": "INSTRUMENTO V"
+        },
+        {
+            "clave": "MU304",
+            "nombre": "INSTRUMENTO VI"
+        },
+        {
+            "clave": "MU231",
+            "nombre": "INSTRUMENTO VI"
+        },
+        {
+            "clave": "MU328",
+            "nombre": "INSTRUMENTO VI"
+        },
+        {
+            "clave": "MU305",
+            "nombre": "INSTRUMENTO VII"
+        },
+        {
+            "clave": "MU305",
+            "nombre": "INSTRUMENTO VII"
+        },
+        {
+            "clave": "MU306",
+            "nombre": "INSTRUMENTO VIII"
+        },
+        {
+            "clave": "MU306",
+            "nombre": "INSTRUMENTO VIII"
+        },
+        {
+            "clave": "MU504",
+            "nombre": "INTRODUCCION A LA MUSICOTERAPIA"
+        },
+        {
+            "clave": "MU516",
+            "nombre": "LABORATORIO DE TRANSCRIPCION I"
+        },
+        {
+            "clave": "MU520",
+            "nombre": "LABORATORIO DE TRANSCRIPCION II"
+        },
+        {
+            "clave": "MU199",
+            "nombre": "LECTURA A PRIMERA VISTA I"
+        },
+        {
+            "clave": "MU200",
+            "nombre": "LECTURA A PRIMERA VISTA II"
+        },
+        {
+            "clave": "MU201",
+            "nombre": "LECTURA A PRIMERA VISTA III"
+        },
+        {
+            "clave": "MU194",
+            "nombre": "LITERATURA MUSICAL I"
+        },
+        {
+            "clave": "MU195",
+            "nombre": "LITERATURA MUSICAL II"
+        },
+        {
+            "clave": "MU196",
+            "nombre": "LITERATURA MUSICAL III"
+        },
+        {
+            "clave": "MU197",
+            "nombre": "LITERATURA ORQUESTAL I"
+        },
+        {
+            "clave": "MU198",
+            "nombre": "LITERATURA ORQUESTAL II"
+        },
+        {
+            "clave": "MU503",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION DE LA MUSICA"
+        },
+        {
+            "clave": "MU519",
+            "nombre": "MUSICA DE AFRICA"
+        },
+        {
+            "clave": "MU522",
+            "nombre": "MUSICA DE ASIA"
+        },
+        {
+            "clave": "MU262",
+            "nombre": "MUSICA DE CAMARA I"
+        },
+        {
+            "clave": "MU262",
+            "nombre": "MUSICA DE CAMARA I"
+        },
+        {
+            "clave": "MU263",
+            "nombre": "MUSICA DE CAMARA II"
+        },
+        {
+            "clave": "MU263",
+            "nombre": "MUSICA DE CAMARA II"
+        },
+        {
+            "clave": "MU264",
+            "nombre": "MUSICA DE CAMARA III"
+        },
+        {
+            "clave": "MU264",
+            "nombre": "MUSICA DE CAMARA III"
+        },
+        {
+            "clave": "MU113",
+            "nombre": "MUSICA DE CAMARA IV"
+        },
+        {
+            "clave": "MU114",
+            "nombre": "MUSICA DE CAMARA V"
+        },
+        {
+            "clave": "MU115",
+            "nombre": "MUSICA DE CAMARA VI"
+        },
+        {
+            "clave": "MU116",
+            "nombre": "MUSICA DE CAMARA VII"
+        },
+        {
+            "clave": "MU117",
+            "nombre": "MUSICA DE CAMARA VIII"
+        },
+        {
+            "clave": "MU254",
+            "nombre": "MUSICA EN CINE"
+        },
+        {
+            "clave": "MU247",
+            "nombre": "MUSICA I"
+        },
+        {
+            "clave": "MU248",
+            "nombre": "MUSICA II"
+        },
+        {
+            "clave": "MU249",
+            "nombre": "MUSICA III"
+        },
+        {
+            "clave": "MU250",
+            "nombre": "MUSICA IV"
+        },
+        {
+            "clave": "MU186",
+            "nombre": "MUSICA MEXICANA I"
+        },
+        {
+            "clave": "MU187",
+            "nombre": "MUSICA MEXICANA II"
+        },
+        {
+            "clave": "MU188",
+            "nombre": "MUSICA MEXICANA III"
+        },
+        {
+            "clave": "MU189",
+            "nombre": "MUSICA MEXICANA IV"
+        },
+        {
+            "clave": "MU251",
+            "nombre": "MUSICA V"
+        },
+        {
+            "clave": "MU252",
+            "nombre": "MUSICA VI"
+        },
+        {
+            "clave": "MU253",
+            "nombre": "MUSICA VII"
+        },
+        {
+            "clave": "MU242",
+            "nombre": "MUSICA Y MOVIMIENTO I"
+        },
+        {
+            "clave": "MU243",
+            "nombre": "MUSICA Y MOVIMIENTO II"
+        },
+        {
+            "clave": "MU244",
+            "nombre": "MUSICA Y MOVIMIENTO III"
+        },
+        {
+            "clave": "MU245",
+            "nombre": "MUSICA Y MOVIMIENTO IV"
+        },
+        {
+            "clave": "MU246",
+            "nombre": "MUSICA Y MOVIMIENTO V"
+        },
+        {
+            "clave": "MU514",
+            "nombre": "MUSICA, CANTO Y DANZA EN AMERICA INDIGENA"
+        },
+        {
+            "clave": "MU518",
+            "nombre": "MUSICA, CANTO Y DANZA EN OCEANIA"
+        },
+        {
+            "clave": "MU240",
+            "nombre": "MUSICOTERAPIA I"
+        },
+        {
+            "clave": "MU241",
+            "nombre": "MUSICOTERAPIA II"
+        },
+        {
+            "clave": "MU224",
+            "nombre": "ORQUESTACION I"
+        },
+        {
+            "clave": "MU225",
+            "nombre": "ORQUESTACION II"
+        },
+        {
+            "clave": "MU256",
+            "nombre": "PIANO COMPLEMENTARIO I"
+        },
+        {
+            "clave": "MU256",
+            "nombre": "PIANO COMPLEMENTARIO I"
+        },
+        {
+            "clave": "MU257",
+            "nombre": "PIANO COMPLEMENTARIO II"
+        },
+        {
+            "clave": "MU257",
+            "nombre": "PIANO COMPLEMENTARIO II"
+        },
+        {
+            "clave": "MU258",
+            "nombre": "PIANO COMPLEMENTARIO III"
+        },
+        {
+            "clave": "MU258",
+            "nombre": "PIANO COMPLEMENTARIO III"
+        },
+        {
+            "clave": "MU259",
+            "nombre": "PIANO COMPLEMENTARIO IV"
+        },
+        {
+            "clave": "MU259",
+            "nombre": "PIANO COMPLEMENTARIO IV"
+        },
+        {
+            "clave": "MU260",
+            "nombre": "PIANO COMPLEMENTARIO V"
+        },
+        {
+            "clave": "MU260",
+            "nombre": "PIANO COMPLEMENTARIO V"
+        },
+        {
+            "clave": "MU261",
+            "nombre": "PIANO COMPLEMENTARIO VI"
+        },
+        {
+            "clave": "MU261",
+            "nombre": "PIANO COMPLEMENTARIO VI"
+        },
+        {
+            "clave": "MU108",
+            "nombre": "PIANO COMPLEMENTARIO VII"
+        },
+        {
+            "clave": "MU109",
+            "nombre": "PIANO COMPLEMENTARIO VIII"
+        },
+        {
+            "clave": "MU273",
+            "nombre": "PRACTICA DE REPERTORIO I"
+        },
+        {
+            "clave": "MU273",
+            "nombre": "PRACTICA DE REPERTORIO I"
+        },
+        {
+            "clave": "MU274",
+            "nombre": "PRACTICA DE REPERTORIO II"
+        },
+        {
+            "clave": "MU274",
+            "nombre": "PRACTICA DE REPERTORIO II"
+        },
+        {
+            "clave": "MU275",
+            "nombre": "PRACTICA DE REPERTORIO III"
+        },
+        {
+            "clave": "MU275",
+            "nombre": "PRACTICA DE REPERTORIO III"
+        },
+        {
+            "clave": "MU276",
+            "nombre": "PRACTICA DE REPERTORIO IV"
+        },
+        {
+            "clave": "MU276",
+            "nombre": "PRACTICA DE REPERTORIO IV"
+        },
+        {
+            "clave": "MU277",
+            "nombre": "PRACTICA DE REPERTORIO V"
+        },
+        {
+            "clave": "MU277",
+            "nombre": "PRACTICA DE REPERTORIO V"
+        },
+        {
+            "clave": "MU278",
+            "nombre": "PRACTICA DE REPERTORIO VI"
+        },
+        {
+            "clave": "MU278",
+            "nombre": "PRACTICA DE REPERTORIO VI"
+        },
+        {
+            "clave": "MU142",
+            "nombre": "PRACTICA DE REPERTORIO VII"
+        },
+        {
+            "clave": "MU143",
+            "nombre": "PRACTICA DE REPERTORIO VIII"
+        },
+        {
+            "clave": "MU287",
+            "nombre": "PRACTICA ORQUESTAL I"
+        },
+        {
+            "clave": "MU287",
+            "nombre": "PRACTICA ORQUESTAL I"
+        },
+        {
+            "clave": "MU288",
+            "nombre": "PRACTICA ORQUESTAL II"
+        },
+        {
+            "clave": "MU288",
+            "nombre": "PRACTICA ORQUESTAL II"
+        },
+        {
+            "clave": "MU289",
+            "nombre": "PRACTICA ORQUESTAL III"
+        },
+        {
+            "clave": "MU289",
+            "nombre": "PRACTICA ORQUESTAL III"
+        },
+        {
+            "clave": "MU181",
+            "nombre": "PRACTICA ORQUESTAL IV"
+        },
+        {
+            "clave": "MU182",
+            "nombre": "PRACTICA ORQUESTAL V"
+        },
+        {
+            "clave": "MU183",
+            "nombre": "PRACTICA ORQUESTAL VI"
+        },
+        {
+            "clave": "MU184",
+            "nombre": "PRACTICA ORQUESTAL VII"
+        },
+        {
+            "clave": "MU185",
+            "nombre": "PRACTICA ORQUESTAL VIII"
+        },
+        {
+            "clave": "MU152",
+            "nombre": "SOLFEO I"
+        },
+        {
+            "clave": "MU153",
+            "nombre": "SOLFEO II"
+        },
+        {
+            "clave": "MU154",
+            "nombre": "SOLFEO III"
+        },
+        {
+            "clave": "MU155",
+            "nombre": "SOLFEO IV"
+        },
+        {
+            "clave": "MU118",
+            "nombre": "SOLFEO SUPERIOR I"
+        },
+        {
+            "clave": "MU119",
+            "nombre": "SOLFEO SUPERIOR II"
+        },
+        {
+            "clave": "MU120",
+            "nombre": "SOLFEO SUPERIOR III"
+        },
+        {
+            "clave": "MU121",
+            "nombre": "SOLFEO SUPERIOR IV"
+        },
+        {
+            "clave": "MU156",
+            "nombre": "SOLFEO V"
+        },
+        {
+            "clave": "MU157",
+            "nombre": "SOLFEO VI"
+        },
+        {
+            "clave": "MU158",
+            "nombre": "SOLFEO VII"
+        },
+        {
+            "clave": "MU159",
+            "nombre": "SOLFEO VIII"
+        },
+        {
+            "clave": "MU237",
+            "nombre": "TALLER DE LAUDERIA"
+        },
+        {
+            "clave": "MU239",
+            "nombre": "TALLER DE OPERA"
+        },
+        {
+            "clave": "MU329",
+            "nombre": "TALLER DE PERCUSION"
+        },
+        {
+            "clave": "MU523",
+            "nombre": "TEMAS SELECTOS DE LA ETNOMUSICOLOGIA"
+        },
+        {
+            "clave": "MU507",
+            "nombre": "TEORIA DEL FOLKLORE"
+        },
+        {
+            "clave": "MU512",
+            "nombre": "TEORIAS DEL PERFORMANCE EN ETNOMUSICOLOGIA"
+        },
+        {
+            "clave": "IB400",
+            "nombre": "ADMINISTRACION DE PROYECTOS"
+        },
+        {
+            "clave": "IB490",
+            "nombre": "ADMINISTRACION TECNICA DE OBRA Y GESTION EMPRESARIAL"
+        },
+        {
+            "clave": "I0664",
+            "nombre": "ALEMAN  I"
+        },
+        {
+            "clave": "I0666",
+            "nombre": "ALEMAN  III"
+        },
+        {
+            "clave": "IB300",
+            "nombre": "AMBIENTACION DE ESPACIOS INTERIORES"
+        },
+        {
+            "clave": "IB411",
+            "nombre": "ANALISIS DE LA GESTION METROPOLITANO"
+        },
+        {
+            "clave": "IB428",
+            "nombre": "ANALISIS DE LAS POLITICAS DE SUELO URBANO Y VIVIENDA"
+        },
+        {
+            "clave": "IJ210",
+            "nombre": "ANALISIS DE MATERIALES Y TECNICAS BASICAS EN LA CONSTRUCCION"
+        },
+        {
+            "clave": "IB395",
+            "nombre": "ANALISIS DE POLITICAS TERRITORIALES AMBIENTALES"
+        },
+        {
+            "clave": "IB527",
+            "nombre": "ANALISIS E INTERPRETACION DE LA ARQUITECTURA Y EL URBANISMO EN JALISCO"
+        },
+        {
+            "clave": "IB500",
+            "nombre": "ANALISIS E INTERPRETACION DE LA REALIDAD NACIONAL"
+        },
+        {
+            "clave": "IB289",
+            "nombre": "ANALISIS E INTERPRETACION DE LAS ARTES PLASTICAS"
+        },
+        {
+            "clave": "IB498",
+            "nombre": "ANALISIS E INTERPRETACION DE LAS TEORIAS DE LA ARQUITECTURA"
+        },
+        {
+            "clave": "IB331",
+            "nombre": "ANALISIS E INTERPRETACION DE LAS TEORIAS DE LA ARQUITECTURA APLICADA A ESPACIOS EFIMEROS"
+        },
+        {
+            "clave": "IB528",
+            "nombre": "ANALISIS E INTERPRETACION DE LAS TEORIAS DE LA CONSERVACION DEL PATRIMONIO EDIFICADO"
+        },
+        {
+            "clave": "IB394",
+            "nombre": "ANALISIS E INTERPRETACION DE LAS TEORIAS DE LA CONSERVACION DEL PATRIMONIO NATURAL Y EDIFICADO"
+        },
+        {
+            "clave": "IB522",
+            "nombre": "ANALISIS MORFOLOGICO"
+        },
+        {
+            "clave": "IB529",
+            "nombre": "ANALISIS Y CONTEXTUALIZACION DE LAS CIUDADES DIGITALES"
+        },
+        {
+            "clave": "IB328",
+            "nombre": "ANALISIS Y CRITERIOS DE INTERVENCION DE LA CONSERVACION PATRIMONIAL"
+        },
+        {
+            "clave": "IB407",
+            "nombre": "ANALISIS Y EVALUACION DE PROCESOS DE METROPOLIZACION"
+        },
+        {
+            "clave": "IA410",
+            "nombre": "ANALISIS Y REPRESENTACION DE LA ARQUITECTURA"
+        },
+        {
+            "clave": "IB373",
+            "nombre": "APLICACION DE ESTADISTICA AL URBANISMO"
+        },
+        {
+            "clave": "IB429",
+            "nombre": "APLICACION DE ESTRATEGIAS PARA EL ORDENAMIENTO DE SUELO Y VIVIENDA"
+        },
+        {
+            "clave": "IB419",
+            "nombre": "APLICACION DE ESTRATEGIAS Y GESTION DE MOVILIDAD URBANA Y TERRITORIAL"
+        },
+        {
+            "clave": "IB285",
+            "nombre": "APLICACION DE LA EXPRESION GRAFICA A MANO ALZADA"
+        },
+        {
+            "clave": "IB551",
+            "nombre": "APLICACION DE LA TECNOLOGIA EDIFICATORIA"
+        },
+        {
+            "clave": "IB480",
+            "nombre": "APLICACION DE LA TOPOGRAFIA PARA LA ARQUITECTURA"
+        },
+        {
+            "clave": "IB360",
+            "nombre": "APLICACION DE LAS MATEMATICAS AL URBANISMO"
+        },
+        {
+            "clave": "IB393",
+            "nombre": "APLICACION DE SISTEMAS DE INFORMACION GEOGRAFICA A LA PLANEACION"
+        },
+        {
+            "clave": "IB420",
+            "nombre": "APLICACION DE TECNOLOGIAS PARA EL ESTUDIO DE LA MOVILIDAD CON LOS SISTEMAS DE TRANSPORTE"
+        },
+        {
+            "clave": "IB535",
+            "nombre": "ARQUITECTURA RURAL Y DESARROLLO SUSTENTABLE"
+        },
+        {
+            "clave": "IB550",
+            "nombre": "ARQUITECTURA TEXTIL"
+        },
+        {
+            "clave": "IB359",
+            "nombre": "CARACTERIZACION GEOGRAFICA DE LA POBLACION"
+        },
+        {
+            "clave": "IB557",
+            "nombre": "CONCEPTOS DE PSICOLOGIA AMBIENTAL"
+        },
+        {
+            "clave": "IB308",
+            "nombre": "CONCEPTOS DE PSICOLOGIA AMBIENTAL EN EL INTERIORISMO"
+        },
+        {
+            "clave": "IB507",
+            "nombre": "CONFIGURACION DEL ESPACIO TRIDIMENSIONAL A PARTIR GEOMETRIA DESCRIPTIVA"
+        },
+        {
+            "clave": "IB440",
+            "nombre": "CONOCIMIENTOS DE UN IDIOMA EXTRANAJERO I"
+        },
+        {
+            "clave": "IB438",
+            "nombre": "CONOCIMIENTOS DEL IDIOMA INGLES I"
+        },
+        {
+            "clave": "IB492",
+            "nombre": "CONTROL TECNICO DE OBRA"
+        },
+        {
+            "clave": "IA412",
+            "nombre": "CREATIVIDAD Y PROYECTO ARQUITECTONICO"
+        },
+        {
+            "clave": "IB503",
+            "nombre": "CRITICA DE LA ARQUITECTURA"
+        },
+        {
+            "clave": "IB336",
+            "nombre": "DESARROLLO DE PORTAFOLIO GRAFICO DEL PROYECTO"
+        },
+        {
+            "clave": "IB532",
+            "nombre": "DESARROLLO DEL PORTAFOLIO GRAFICO DEL PROYECTO"
+        },
+        {
+            "clave": "IB392",
+            "nombre": "DIAGNOSTICO DE LA PROBLEMATICA DE LAS INFRAESTRUCTURAS URBANAS Y TERRITORIALES"
+        },
+        {
+            "clave": "IB517",
+            "nombre": "ECOLOGIA URBANA"
+        },
+        {
+            "clave": "IB454",
+            "nombre": "EDUCACION VISUAL"
+        },
+        {
+            "clave": "IB362",
+            "nombre": "EDUCACION VISUAL PARA EL URBANISMO"
+        },
+        {
+            "clave": "IB520",
+            "nombre": "EL HABITAT EN LOS PROCESOS DE METROPOLIZACION"
+        },
+        {
+            "clave": "IB483",
+            "nombre": "ESTRUCTURAS ESTATICAMENTE DETERMINADAS"
+        },
+        {
+            "clave": "IB485",
+            "nombre": "ESTRUCTURAS ESTATICAMENTE INDETERMINADAS"
+        },
+        {
+            "clave": "IB545",
+            "nombre": "ESTUDIO DE CENTROS URBANOS"
+        },
+        {
+            "clave": "IB435",
+            "nombre": "ESTUDIOS DE CENTROS URBANOS"
+        },
+        {
+            "clave": "IB403",
+            "nombre": "EVALUACION DE RIESGOS EN EL TERRITORIO"
+        },
+        {
+            "clave": "IB361",
+            "nombre": "EXPRESION GRAFICA DEL ENTORNO"
+        },
+        {
+            "clave": "IB445",
+            "nombre": "FOTOGRAFIA BASICA"
+        },
+        {
+            "clave": "I0661",
+            "nombre": "FRANCES  II"
+        },
+        {
+            "clave": "I0663",
+            "nombre": "FRANCES  IV"
+        },
+        {
+            "clave": "IB496",
+            "nombre": "FUNDAMENTACION Y PROCESOS DE INVESTIGACION"
+        },
+        {
+            "clave": "IB357",
+            "nombre": "FUNDAMENTOS CONCEPTUALES APLICABLES AL URBANISMO"
+        },
+        {
+            "clave": "IB478",
+            "nombre": "FUNDAMENTOS DE EDIFICACION"
+        },
+        {
+            "clave": "IB481",
+            "nombre": "FUNDAMENTOS DE ESTRUCTURAS"
+        },
+        {
+            "clave": "IB371",
+            "nombre": "FUNDAMENTOS DE LA SOCIOLOGIA PARA EL URBANISMO"
+        },
+        {
+            "clave": "IB380",
+            "nombre": "FUNDAMENTOS DEL ORDENAMIENTO TERRITORIAL"
+        },
+        {
+            "clave": "IB421",
+            "nombre": "FUNDAMENTOS TEORICOS DEL ESPACIO PUBLICO"
+        },
+        {
+            "clave": "IB512",
+            "nombre": "FUNDAMENTOS Y CRITERIOS DE ENVOLVENTES"
+        },
+        {
+            "clave": "IB295",
+            "nombre": "FUNDAMENTOS Y PROCESOS DE INVESTIGACION AVANZADA"
+        },
+        {
+            "clave": "IB530",
+            "nombre": "GEOMETRIA APLICADA"
+        },
+        {
+            "clave": "IB386",
+            "nombre": "GESTION FINANCIERA PARA LA PLANEACION"
+        },
+        {
+            "clave": "IB416",
+            "nombre": "GESTION Y EFICIENCIA ENERGETICA"
+        },
+        {
+            "clave": "IB323",
+            "nombre": "GESTION Y EVALUACION DE PROYECTOS DE INTERIORISMO"
+        },
+        {
+            "clave": "IB450",
+            "nombre": "INDUCCION A LA FORMACION UNIVERSITARIA"
+        },
+        {
+            "clave": "I0656",
+            "nombre": "INGLES  I"
+        },
+        {
+            "clave": "I0658",
+            "nombre": "INGLES  III"
+        },
+        {
+            "clave": "IB369",
+            "nombre": "INTERPRETACION DE UNIDAD VECINAL Y BARRIAL"
+        },
+        {
+            "clave": "IB504",
+            "nombre": "INVESTIGACION Y ANALISIS DE LA ARQUITECTURA MEXICANA DE LA COLONIA A LAS INSTITUCIONES"
+        },
+        {
+            "clave": "IB502",
+            "nombre": "INVESTIGACION Y ANALISIS DE LA ARQUITECTURA MEXICANA PRECOLOMBINA"
+        },
+        {
+            "clave": "IB505",
+            "nombre": "INVESTIGACION Y ANALISIS DE LA ARQUITECTURA Y EL URBANISMO MEXICANO DE LAS INSTITUCIONES A LA ACTUALIDAD"
+        },
+        {
+            "clave": "IB501",
+            "nombre": "INVESTIGACION Y CONTEXTUALIZACION DE LA ARQUITECTURA Y EL URBANISMO DE LA CIUDAD INDUSTRIAL A LA ACTUALIDAD"
+        },
+        {
+            "clave": "IB374",
+            "nombre": "INVESTIGACION Y CONTEXTUALIZACION DE LA ARQUITECTURA Y EL URBANISMO DEL PERIODO COLONIAL EN AMERICA"
+        },
+        {
+            "clave": "IB499",
+            "nombre": "INVESTIGACION Y CONTEXTUALIZACION DE LA ARQUITECTURA Y EL URBANISMO DEL RENACIMIENTO A LA CIUDAD INDUSTRIAL"
+        },
+        {
+            "clave": "IB497",
+            "nombre": "INVESTIGACION Y CONTEXTUALIZACION DE LA ARQUITECTURA Y EL URBANISMO DESDE SUS INICIOS AL FIN DEL MEDIOEVO"
+        },
+        {
+            "clave": "IB314",
+            "nombre": "INVESTIGACION Y CONTEXTUALIZACION DEL ESPACIO INTERIOR DESDE EL FIN DE LA CIUDAD INDUSTRIAL HASTA LA ACTUALIDAD"
+        },
+        {
+            "clave": "I0668",
+            "nombre": "JAPONES  I"
+        },
+        {
+            "clave": "I0670",
+            "nombre": "JAPONES  III"
+        },
+        {
+            "clave": "IB342",
+            "nombre": "MARKETING PARA EL INTERIORISMO"
+        },
+        {
+            "clave": "IB479",
+            "nombre": "MATEMATICAS PARA ARQUITECTURA"
+        },
+        {
+            "clave": "IB531",
+            "nombre": "MULTIMEDIA PARA ARQUITECTURA"
+        },
+        {
+            "clave": "IB526",
+            "nombre": "PATOLOGIAS EDIFICATORIAS Y ESTRUCTURALES"
+        },
+        {
+            "clave": "IB509",
+            "nombre": "PERSPECTIVA APLICADA A LA ARQUITECTURA Y EXPRESION GRAFICA ARQUITECTONICA"
+        },
+        {
+            "clave": "IB389",
+            "nombre": "PLANEACION DE UNIDAD DISTRITAL"
+        },
+        {
+            "clave": "IB404",
+            "nombre": "PLANEACION METROPOLITANA"
+        },
+        {
+            "clave": "IB409",
+            "nombre": "PLANEACION REGIONAL"
+        },
+        {
+            "clave": "IB327",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IB353",
+            "nombre": "PRINCIPIOS BASICOS DE MUSEOGRAFIA"
+        },
+        {
+            "clave": "IB472",
+            "nombre": "PRINCIPIOS SOCIOLOGICOS DEL PROYECTO ARQUITECTONICO Y URBANO"
+        },
+        {
+            "clave": "IB468",
+            "nombre": "PRINCIPIOS URBANOS APLICABLES AL PROYECTO ARQUITECTONICO Y URBANO"
+        },
+        {
+            "clave": "IB422",
+            "nombre": "PROCESO DE USO Y APROPIACION DEL ESPACIO PUBLICO"
+        },
+        {
+            "clave": "IB354",
+            "nombre": "PROCESOS DE ORGANIZACION EMPRESARIAL"
+        },
+        {
+            "clave": "IB427",
+            "nombre": "PROCESOS DE PRODUCCION DE VIVIENDA"
+        },
+        {
+            "clave": "IB486",
+            "nombre": "PROCESOS EDIFICATORIOS INTEGRALES CONTEMPORANEOS"
+        },
+        {
+            "clave": "IB488",
+            "nombre": "PROCESOS EDIFICATORIOS SUSTENTABLES"
+        },
+        {
+            "clave": "IB482",
+            "nombre": "PROCESOS EDIFICATORIOS TRADICIONALES"
+        },
+        {
+            "clave": "IB469",
+            "nombre": "PROCESOS LEGALES PARA EL PROYECTO ARQUITECTONICO Y URBANO"
+        },
+        {
+            "clave": "IB363",
+            "nombre": "PROCESOS METODOLOGICOS DE LA PLANEACION"
+        },
+        {
+            "clave": "IB473",
+            "nombre": "PROCESOS NORMATIVOS PARA EL PROYECTO ARQUITECTONICO Y URBANO"
+        },
+        {
+            "clave": "IB364",
+            "nombre": "PROCESOS REGULATORIOS DEL URBANISMO"
+        },
+        {
+            "clave": "IB470",
+            "nombre": "PROCESOS REGULATORIOS PARA EL PROYECTO ARQUITECTONICO Y URBANO"
+        },
+        {
+            "clave": "IB338",
+            "nombre": "PRODUCCION DE ESTAMPADO"
+        },
+        {
+            "clave": "IB516",
+            "nombre": "PROYECTO BIOCLIMATICO"
+        },
+        {
+            "clave": "IB513",
+            "nombre": "PROYECTO DE GRAN ESCALA"
+        },
+        {
+            "clave": "IB410",
+            "nombre": "PROYECTO DE IMPACTO METROPOLITANO"
+        },
+        {
+            "clave": "IB390",
+            "nombre": "PROYECTO URBANO DE IMPACTO AL CENTRO DE POBLACION"
+        },
+        {
+            "clave": "IB405",
+            "nombre": "PROYECTO URBANO DE IMPACTO MUNICIPAL"
+        },
+        {
+            "clave": "IB515",
+            "nombre": "PROYECTO VIVIENDA Y SOCIEDAD"
+        },
+        {
+            "clave": "IB376",
+            "nombre": "REPRESENTACION DIGITAL"
+        },
+        {
+            "clave": "IB508",
+            "nombre": "REPRESENTACION DIGITAL"
+        },
+        {
+            "clave": "IB510",
+            "nombre": "REPRESENTACION DIGITAL TRIDIMENSIONAL"
+        },
+        {
+            "clave": "IB283",
+            "nombre": "REPRESENTACION TECNICA ARQUITECTONICA"
+        },
+        {
+            "clave": "IB506",
+            "nombre": "REPRESENTACION TECNICA ARQUITECTONICA"
+        },
+        {
+            "clave": "IB525",
+            "nombre": "RIESGO SISMICO"
+        },
+        {
+            "clave": "IB452",
+            "nombre": "SEMINARIO DE INVESTIGACION"
+        },
+        {
+            "clave": "IB484",
+            "nombre": "SISTEMAS INTEGRALES HIDROSANITARIOS Y ELECTRICOS"
+        },
+        {
+            "clave": "IB491",
+            "nombre": "SISTEMAS INTEGRALES MECANICOS Y ESPECIALES"
+        },
+        {
+            "clave": "IC121",
+            "nombre": "SUSTENTABILIDAD DE ESPACIOS INTERIORES"
+        },
+        {
+            "clave": "IB553",
+            "nombre": "TALLER DE AUTO CONSTRUCCION"
+        },
+        {
+            "clave": "IB494",
+            "nombre": "TALLER DE COSTOS Y PRESUPUESTOS"
+        },
+        {
+            "clave": "IB460",
+            "nombre": "TALLER DE CREATIVIDAD ARQUITECTONICA"
+        },
+        {
+            "clave": "IB511",
+            "nombre": "TALLER DE CREATIVIDAD GRAFICA Y VOLUMETRICA"
+        },
+        {
+            "clave": "IB464",
+            "nombre": "TALLER DE GERENCIA DE PROYECTOS ARQUITECTONICOS"
+        },
+        {
+            "clave": "IB514",
+            "nombre": "TALLER DE GESTION DE PROYECTOS ARQUITECTONICOS"
+        },
+        {
+            "clave": "IB346",
+            "nombre": "TALLER DE GRAFIAS"
+        },
+        {
+            "clave": "IB549",
+            "nombre": "TALLER DE HERRERIA"
+        },
+        {
+            "clave": "IB548",
+            "nombre": "TALLER DE LUMINOTECNIA"
+        },
+        {
+            "clave": "IB495",
+            "nombre": "TALLER INTEGRAL DE EDIFICACION"
+        },
+        {
+            "clave": "IB493",
+            "nombre": "TALLER INTEGRAL DE EDIFICACION CONCEPTUAL"
+        },
+        {
+            "clave": "IB477",
+            "nombre": "TALLER INTEGRAL DE URBANISMO"
+        },
+        {
+            "clave": "IB476",
+            "nombre": "TALLER INTEGRAL DE URBANISMO CONCEPTUAL"
+        },
+        {
+            "clave": "IA419",
+            "nombre": "TECNOLOGIAS INFORMATICAS APLICADAS AL ANALISIS URBANO Y TERRITORIAL"
+        },
+        {
+            "clave": "IB430",
+            "nombre": "TOPICO SELECTO I"
+        },
+        {
+            "clave": "IB432",
+            "nombre": "TOPICO SELECTO III"
+        },
+        {
+            "clave": "PR135",
+            "nombre": "ANIMACION I"
+        },
+        {
+            "clave": "PR136",
+            "nombre": "ANIMACION II"
+        },
+        {
+            "clave": "PR122",
+            "nombre": "AUTOEDICION I"
+        },
+        {
+            "clave": "PR123",
+            "nombre": "AUTOEDICION II"
+        },
+        {
+            "clave": "PR124",
+            "nombre": "AUTOEDICION III"
+        }
+    ]
+}

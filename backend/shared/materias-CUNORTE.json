@@ -1,0 +1,4608 @@
+{
+    "materias": [
+        {
+            "clave": "C0033",
+            "nombre": "DIDACTICA GENERAL"
+        },
+        {
+            "clave": "C0041",
+            "nombre": "EDUCACION SEXUAL"
+        },
+        {
+            "clave": "C0044",
+            "nombre": "ENFERMERIA MATERNO INFANTIL"
+        },
+        {
+            "clave": "C0056",
+            "nombre": "ENFERMERIA PSIQUIATRICA"
+        },
+        {
+            "clave": "C0026",
+            "nombre": "ETIMOLOGIAS MEDICAS"
+        },
+        {
+            "clave": "C0042",
+            "nombre": "GINECO OBSTETRICIA"
+        },
+        {
+            "clave": "C0023",
+            "nombre": "LEGISLACION EN ENFERMERIA"
+        },
+        {
+            "clave": "C0035",
+            "nombre": "MICROBIOLOGIA Y PARASITOLOGIA"
+        },
+        {
+            "clave": "C0040",
+            "nombre": "PLANIFICACION FAMILIAR"
+        },
+        {
+            "clave": "C0024",
+            "nombre": "PSICOLOGIA SOCIAL"
+        },
+        {
+            "clave": "I8029",
+            "nombre": "ACABADO DE PIEZAS PLASTICAS"
+        },
+        {
+            "clave": "I1607",
+            "nombre": "ACERCAMIENTO AL ESTUDIO DE ECOSISTEMAS"
+        },
+        {
+            "clave": "I7162",
+            "nombre": "ACONDICIONAMIENTO DEL CUERPO HUMANO"
+        },
+        {
+            "clave": "I7998",
+            "nombre": "ACTIVE COMMUNICATION"
+        },
+        {
+            "clave": "I2347",
+            "nombre": "ACTIVIDAD FISICA Y DESARROLLO DEPORTIVO"
+        },
+        {
+            "clave": "I0147",
+            "nombre": "ACTIVIDAD FISICA Y DESARROLLO PERSONAL"
+        },
+        {
+            "clave": "I7126",
+            "nombre": "ACTIVIDAD Y FORMACION DEPORTIVA"
+        },
+        {
+            "clave": "I7891",
+            "nombre": "ACTIVIDADES FISICAS SALUDABLES"
+        },
+        {
+            "clave": "IE447",
+            "nombre": "ACTUACION EN ACCIONES DE PROTECCION CIVIL"
+        },
+        {
+            "clave": "G0349",
+            "nombre": "ADIESTRAMIENTO EN ALIMENTOS Y BEBIDAS"
+        },
+        {
+            "clave": "G0349",
+            "nombre": "ADIESTRAMIENTO EN ALIMENTOS Y BEBIDAS"
+        },
+        {
+            "clave": "G0349",
+            "nombre": "ADIESTRAMIENTO EN ALIMENTOS Y BEBIDAS"
+        },
+        {
+            "clave": "G0347",
+            "nombre": "ADIESTRAMIENTO EN HOTELERIA"
+        },
+        {
+            "clave": "G0347",
+            "nombre": "ADIESTRAMIENTO EN HOTELERIA"
+        },
+        {
+            "clave": "G0347",
+            "nombre": "ADIESTRAMIENTO EN HOTELERIA"
+        },
+        {
+            "clave": "G0649",
+            "nombre": "ADIESTRAMIENTO I"
+        },
+        {
+            "clave": "G0650",
+            "nombre": "ADIESTRAMIENTO II"
+        },
+        {
+            "clave": "G0651",
+            "nombre": "ADIESTRAMIENTO III"
+        },
+        {
+            "clave": "G0463",
+            "nombre": "ADIESTRAMIENTO INDUSTRIAL I"
+        },
+        {
+            "clave": "G0464",
+            "nombre": "ADIESTRAMIENTO INDUSTRIAL II"
+        },
+        {
+            "clave": "G0465",
+            "nombre": "ADIESTRAMIENTO INDUSTRIAL III"
+        },
+        {
+            "clave": "G0528",
+            "nombre": "ADIESTRAMIENTO INDUSTRIAL IV"
+        },
+        {
+            "clave": "G0394",
+            "nombre": "ADMINISTRACION AGROPECUARIA"
+        },
+        {
+            "clave": "I7992",
+            "nombre": "ADMINISTRACION APLICADA"
+        },
+        {
+            "clave": "I5750",
+            "nombre": "ADMINISTRACION CORPORATIVA"
+        },
+        {
+            "clave": "G0276",
+            "nombre": "ADMINISTRACION DE LA PRODUCCION"
+        },
+        {
+            "clave": "G0267",
+            "nombre": "ADMINISTRACION DE LA PRODUCCION"
+        },
+        {
+            "clave": "G0635",
+            "nombre": "ADMINISTRACION DE LA PRODUCCION"
+        },
+        {
+            "clave": "G0276",
+            "nombre": "ADMINISTRACION DE LA PRODUCCION"
+        },
+        {
+            "clave": "G0225",
+            "nombre": "ADMINISTRACION DE LA PRODUCCION CERAMICA II"
+        },
+        {
+            "clave": "G0187",
+            "nombre": "ADMINISTRACION DE LABORATORIO DENTAL"
+        },
+        {
+            "clave": "G0624",
+            "nombre": "ADMINISTRACION DE RECURSOS HUMANOS"
+        },
+        {
+            "clave": "G0624",
+            "nombre": "ADMINISTRACION DE RECURSOS HUMANOS"
+        },
+        {
+            "clave": "IE579",
+            "nombre": "ADMINISTRACION DE RECURSOS HUMANOS Y MATERIALES"
+        },
+        {
+            "clave": "G0629",
+            "nombre": "ADMINISTRACION DE RECURSOS MATERIALES"
+        },
+        {
+            "clave": "G0797",
+            "nombre": "ADMINISTRACION EN ENFERMERIA"
+        },
+        {
+            "clave": "G0797",
+            "nombre": "ADMINISTRACION EN ENFERMERIA"
+        },
+        {
+            "clave": "I7316",
+            "nombre": "ADMINISTRACION FINANCIERA"
+        },
+        {
+            "clave": "G0274",
+            "nombre": "ADMINISTRACION FINANCIERA"
+        },
+        {
+            "clave": "G0274",
+            "nombre": "ADMINISTRACION FINANCIERA"
+        },
+        {
+            "clave": "G0289",
+            "nombre": "ADMINISTRACION GENERAL"
+        },
+        {
+            "clave": "G0260",
+            "nombre": "ADMINISTRACION I"
+        },
+        {
+            "clave": "G0260",
+            "nombre": "ADMINISTRACION I"
+        },
+        {
+            "clave": "G0266",
+            "nombre": "ADMINISTRACION II"
+        },
+        {
+            "clave": "G0275",
+            "nombre": "ADMINISTRACION III"
+        },
+        {
+            "clave": "G0275",
+            "nombre": "ADMINISTRACION III"
+        },
+        {
+            "clave": "I7102",
+            "nombre": "ADMINISTRACION Y CONTROL DE CALIDAD"
+        },
+        {
+            "clave": "G0153",
+            "nombre": "ADMINISTRACION Y NORMATIVIDAD"
+        },
+        {
+            "clave": "G0520",
+            "nombre": "ADMINISTRACION Y PRODUCTIVIDAD"
+        },
+        {
+            "clave": "G0348",
+            "nombre": "AGENCIA DE VIAJES"
+        },
+        {
+            "clave": "G0348",
+            "nombre": "AGENCIA DE VIAJES"
+        },
+        {
+            "clave": "G0348",
+            "nombre": "AGENCIA DE VIAJES"
+        },
+        {
+            "clave": "I7926",
+            "nombre": "AGROFISICA Y ENERGIA"
+        },
+        {
+            "clave": "G0594",
+            "nombre": "AIRE ACONDICIONADO"
+        },
+        {
+            "clave": "I7099",
+            "nombre": "AJUSTE DE BANCO Y TALADRO"
+        },
+        {
+            "clave": "I2364",
+            "nombre": "ALEMAN BASICO COMPLEMENTARIO"
+        },
+        {
+            "clave": "I2361",
+            "nombre": "ALEMAN INICIAL"
+        },
+        {
+            "clave": "I2360",
+            "nombre": "ALEMAN JUNIOR"
+        },
+        {
+            "clave": "IC078",
+            "nombre": "ALGEBRA ELEMENTAL"
+        },
+        {
+            "clave": "I7127",
+            "nombre": "ALGEBRA Y GEOMETRIA"
+        },
+        {
+            "clave": "G0345",
+            "nombre": "ALIMENTOS Y BEBIDAS"
+        },
+        {
+            "clave": "G0345",
+            "nombre": "ALIMENTOS Y BEBIDAS"
+        },
+        {
+            "clave": "G0345",
+            "nombre": "ALIMENTOS Y BEBIDAS"
+        },
+        {
+            "clave": "IE549",
+            "nombre": "AMBIENTE NATURAL SUSTENTABLE"
+        },
+        {
+            "clave": "I5754",
+            "nombre": "AMBITO EMPRENDEDOR"
+        },
+        {
+            "clave": "I7982",
+            "nombre": "ANALISIS DE AGUAS"
+        },
+        {
+            "clave": "I5790",
+            "nombre": "ANALISIS DE MICROORGANISMOS"
+        },
+        {
+            "clave": "I7986",
+            "nombre": "ANALISIS DE PROCESOS"
+        },
+        {
+            "clave": "IE552",
+            "nombre": "ANALISIS DE PROCESOS SOCIALES"
+        },
+        {
+            "clave": "G0646",
+            "nombre": "ANALISIS DE SISTEMAS ADMINISTRATIVOS"
+        },
+        {
+            "clave": "IC099",
+            "nombre": "ANALISIS DE TEXTOS"
+        },
+        {
+            "clave": "I0128",
+            "nombre": "ANALISIS ECONOMICO"
+        },
+        {
+            "clave": "G0483",
+            "nombre": "ANALISIS ESPECIAL DE ALIMENTOS I"
+        },
+        {
+            "clave": "G0249",
+            "nombre": "ANALISIS ESPECIALES"
+        },
+        {
+            "clave": "I5796",
+            "nombre": "ANALISIS FISICOQUIMICO DEL AGUA"
+        },
+        {
+            "clave": "I7251",
+            "nombre": "ANALISIS FISICOQUIMICOS"
+        },
+        {
+            "clave": "G0460",
+            "nombre": "ANALISIS INDUSTRIAL II"
+        },
+        {
+            "clave": "IE510",
+            "nombre": "ANALISIS INSTRUMENTAL"
+        },
+        {
+            "clave": "G0481",
+            "nombre": "ANALISIS INSTRUMENTAL"
+        },
+        {
+            "clave": "G0538",
+            "nombre": "ANALISIS INSTRUMENTAL"
+        },
+        {
+            "clave": "G0496",
+            "nombre": "ANALISIS METALURGICO I"
+        },
+        {
+            "clave": "G0506",
+            "nombre": "ANALISIS METALURGICO III"
+        },
+        {
+            "clave": "I7085",
+            "nombre": "ANALISIS NUMERICO"
+        },
+        {
+            "clave": "I7213",
+            "nombre": "ANALISIS PROXIMAL DE ALIMENTOS"
+        },
+        {
+            "clave": "G0428",
+            "nombre": "ANALISIS QUIMICO CUANTITATIVO"
+        },
+        {
+            "clave": "I0120",
+            "nombre": "ANALISIS Y ARGUMENTO"
+        },
+        {
+            "clave": "G0608",
+            "nombre": "ANALISIS Y CONTROL DE ARENA"
+        },
+        {
+            "clave": "I7317",
+            "nombre": "ANALISIS Y RESOLUCION DE PROBLEMAS"
+        },
+        {
+            "clave": "G0658",
+            "nombre": "ANATOMIA CLINICA"
+        },
+        {
+            "clave": "G0770",
+            "nombre": "ANATOMIA CLINICA Y FISIOLOGIA"
+        },
+        {
+            "clave": "G0176",
+            "nombre": "ANATOMIA DENTAL"
+        },
+        {
+            "clave": "IE511",
+            "nombre": "ANATOMIA Y FISIOLOGIA VEGETAL"
+        },
+        {
+            "clave": "IE548",
+            "nombre": "APLICACION DE LA FISICA EN LA MANUFACTURA"
+        },
+        {
+            "clave": "I4951",
+            "nombre": "APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "I4963",
+            "nombre": "APLICACION Y USO DE ENERGIA"
+        },
+        {
+            "clave": "I6371",
+            "nombre": "APPLICATION OF CONCEPTS IN THE COSNTRUCTION"
+        },
+        {
+            "clave": "G0137",
+            "nombre": "APRECIACION ARTISTICA"
+        },
+        {
+            "clave": "IE515",
+            "nombre": "APRECIACION DEL ARTE"
+        },
+        {
+            "clave": "ID267",
+            "nombre": "APRECIACION DEL ARTE Y ARTE DE LA CULTURA ORIGINARIA"
+        },
+        {
+            "clave": "IE610",
+            "nombre": "APRECIACION DEL ARTE Y LA LITERATURA"
+        },
+        {
+            "clave": "I7232",
+            "nombre": "APROVECHAMIENTO DE DESECHOS INDUSTRIALES"
+        },
+        {
+            "clave": "I7875",
+            "nombre": "AREAS DE SERVICIO AL HUESPED"
+        },
+        {
+            "clave": "ID257",
+            "nombre": "ARITMETICA Y GEOMETRIA"
+        },
+        {
+            "clave": "I7971",
+            "nombre": "ARITMETICA Y GEOMETRIA EN EL AGRO"
+        },
+        {
+            "clave": "I4946",
+            "nombre": "ARQUITECTURA DE COMPUTADORAS"
+        },
+        {
+            "clave": "IE560",
+            "nombre": "ARTE LITERARIO"
+        },
+        {
+            "clave": "G0220",
+            "nombre": "ARTE POPULAR II"
+        },
+        {
+            "clave": "I2355",
+            "nombre": "ARTE Y CULTURA REGIONAL"
+        },
+        {
+            "clave": "I6376",
+            "nombre": "ARTE Y ESTETICA"
+        },
+        {
+            "clave": "I7309",
+            "nombre": "ARTE Y ESTETICA"
+        },
+        {
+            "clave": "I7240",
+            "nombre": "ATENCION A EMERGENCIAS"
+        },
+        {
+            "clave": "I1542",
+            "nombre": "ATENCION AL CLIENTE"
+        },
+        {
+            "clave": "IC112",
+            "nombre": "ATENCION PRIMARIA A LA SALUD"
+        },
+        {
+            "clave": "G0277",
+            "nombre": "AUDITORIA ADMINISTRATIVA"
+        },
+        {
+            "clave": "I0134",
+            "nombre": "AUTOCONOCIMIENTO Y PERSONALIDAD"
+        },
+        {
+            "clave": "I2340",
+            "nombre": "AUTODETERMINACION Y APRENDIZAJE"
+        },
+        {
+            "clave": "I4944",
+            "nombre": "BASES DE DATOS"
+        },
+        {
+            "clave": "I4997",
+            "nombre": "BASIC ENGLISH FOR POTTERY"
+        },
+        {
+            "clave": "I7997",
+            "nombre": "BASIC INTERACTION"
+        },
+        {
+            "clave": "IE467",
+            "nombre": "BELLAS ARTES Y GENERO LITERARIO"
+        },
+        {
+            "clave": "IE425",
+            "nombre": "BELLAS ARTES Y GENEROS LITERARIOS"
+        },
+        {
+            "clave": "I5739",
+            "nombre": "BIENESTAR Y SALUD"
+        },
+        {
+            "clave": "I0139",
+            "nombre": "BIOLOGIA  I"
+        },
+        {
+            "clave": "IE415",
+            "nombre": "BIOLOGIA HUMANA"
+        },
+        {
+            "clave": "G0020",
+            "nombre": "BIOLOGIA I"
+        },
+        {
+            "clave": "G0152",
+            "nombre": "BIOLOGIA I"
+        },
+        {
+            "clave": "G0407",
+            "nombre": "BIOLOGIA I"
+        },
+        {
+            "clave": "G0099",
+            "nombre": "BIOLOGIA II"
+        },
+        {
+            "clave": "G0366",
+            "nombre": "BIOLOGIA II"
+        },
+        {
+            "clave": "I7869",
+            "nombre": "BIOMAS Y ECOSISTEMAS TURISTICOS"
+        },
+        {
+            "clave": "I6953",
+            "nombre": "BIOMECANICA ORTODONCICA Y ORTOPEDICA"
+        },
+        {
+            "clave": "I7868",
+            "nombre": "BIOQUIMICA DE LOS ALIMENTOS"
+        },
+        {
+            "clave": "G0434",
+            "nombre": "BIOQUIMICA GENERAL"
+        },
+        {
+            "clave": "IE530",
+            "nombre": "BIOTECNOLOGIA ALIMENTARIA"
+        },
+        {
+            "clave": "I7985",
+            "nombre": "BIOTECNOLOGIAS INDUSTRIALES"
+        },
+        {
+            "clave": "I1604",
+            "nombre": "BUENAS PRACTICAS DE MANUFACTURA DE ALIMENTOS"
+        },
+        {
+            "clave": "I7111",
+            "nombre": "BUSINESS ENGLISH"
+        },
+        {
+            "clave": "I4821",
+            "nombre": "CALCULO DIFERENCIAL"
+        },
+        {
+            "clave": "IE499",
+            "nombre": "CALCULO EN LA BIOTECNOLOGIA"
+        },
+        {
+            "clave": "I4824",
+            "nombre": "CALCULO INTEGRAL"
+        },
+        {
+            "clave": "G0263",
+            "nombre": "CALCULO MERCANTIL"
+        },
+        {
+            "clave": "I4825",
+            "nombre": "CALCULO VECTORIAL"
+        },
+        {
+            "clave": "I7976",
+            "nombre": "CALCULOS ADMINISTRATIVOS"
+        },
+        {
+            "clave": "I7199",
+            "nombre": "CALCULOS Y ECUACIONES QUIMICAS"
+        },
+        {
+            "clave": "I5787",
+            "nombre": "CALIDAD DE LOS PROCESOS INDUSTRIALES"
+        },
+        {
+            "clave": "I8021",
+            "nombre": "CALIDAD EN EL LABORATORIO"
+        },
+        {
+            "clave": "G0295",
+            "nombre": "CALIDAD TOTAL"
+        },
+        {
+            "clave": "G0295",
+            "nombre": "CALIDAD TOTAL"
+        },
+        {
+            "clave": "G0539",
+            "nombre": "CALIDAD TOTAL"
+        },
+        {
+            "clave": "I6471",
+            "nombre": "CALIDAD Y SEGURIDAD INDUSTRIAL"
+        },
+        {
+            "clave": "I6426",
+            "nombre": "CALOR, ELECTRICIDAD Y OPTICA"
+        },
+        {
+            "clave": "IE502",
+            "nombre": "CANTIDADES FISICAS Y FENOMENOS TERMICOS"
+        },
+        {
+            "clave": "I4965",
+            "nombre": "CARACTERISTICAS DEL COMPORTAMIENTO HUMANO"
+        },
+        {
+            "clave": "G0564",
+            "nombre": "CENTRALES ELECTRICAS Y SUBESTACIONES"
+        },
+        {
+            "clave": "I5720",
+            "nombre": "CHINO MANDARIN BASICO COMPLEMENTARIO"
+        },
+        {
+            "clave": "I5717",
+            "nombre": "CHINO MANDARIN INICIAL"
+        },
+        {
+            "clave": "I5716",
+            "nombre": "CHINO MANDARIN JUNIOR"
+        },
+        {
+            "clave": "G0140",
+            "nombre": "CIENCIA Y TECNOLOGIA"
+        },
+        {
+            "clave": "G0255",
+            "nombre": "CIENCIAS DE LA COMUNICACION"
+        },
+        {
+            "clave": "G0255",
+            "nombre": "CIENCIAS DE LA COMUNICACION"
+        },
+        {
+            "clave": "G0603",
+            "nombre": "CIENCIAS DE LOS MATERIALES II"
+        },
+        {
+            "clave": "I7892",
+            "nombre": "CIRCUITOS ELECTRICOS"
+        },
+        {
+            "clave": "G0554",
+            "nombre": "CIRCUITOS I"
+        },
+        {
+            "clave": "I6434",
+            "nombre": "CITOLOGIA DEL CANCER"
+        },
+        {
+            "clave": "I6432",
+            "nombre": "CITOLOGIA INFLAMATORIA"
+        },
+        {
+            "clave": "IE348",
+            "nombre": "CIUDADANIA GLOBAL"
+        },
+        {
+            "clave": "I7156",
+            "nombre": "CIVILIZACIONES Y CULTURAS"
+        },
+        {
+            "clave": "I6338",
+            "nombre": "COMERCIAL LANGUAGE"
+        },
+        {
+            "clave": "I5727",
+            "nombre": "COMERCIO ELECTRONICO"
+        },
+        {
+            "clave": "G0279",
+            "nombre": "COMERCIO INTERNACIONAL"
+        },
+        {
+            "clave": "I6480",
+            "nombre": "COMERCIO LICITO"
+        },
+        {
+            "clave": "I7999",
+            "nombre": "COMMUNICATION IN CONTEXT"
+        },
+        {
+            "clave": "G0638",
+            "nombre": "COMPILADORES Y SISTEMAS OPERATIVOS"
+        },
+        {
+            "clave": "G0638",
+            "nombre": "COMPILADORES Y SISTEMAS OPERATIVOS"
+        },
+        {
+            "clave": "I6423",
+            "nombre": "COMPONENTES CELULARES"
+        },
+        {
+            "clave": "I7303",
+            "nombre": "COMPORTAMIENTO ETICO Y HUMANISTA"
+        },
+        {
+            "clave": "I6472",
+            "nombre": "COMPORTAMIENTO ORGANIZACIONAL"
+        },
+        {
+            "clave": "I7233",
+            "nombre": "COMPREHENSION AND PRACTICING"
+        },
+        {
+            "clave": "I7311",
+            "nombre": "COMPRENSION DE LOS FENOMENOS NATURALES"
+        },
+        {
+            "clave": "IE427",
+            "nombre": "COMPRENSION DEL INGLES"
+        },
+        {
+            "clave": "IE520",
+            "nombre": "COMPRENSION DEL INGLES"
+        },
+        {
+            "clave": "I0121",
+            "nombre": "COMPRENSION Y EXPOSICION"
+        },
+        {
+            "clave": "I2356",
+            "nombre": "COMPRENSION Y EXPRESION VERBAL"
+        },
+        {
+            "clave": "I7081",
+            "nombre": "COMPRESION DE LOS FENOMENOS FISICOS"
+        },
+        {
+            "clave": "I7228",
+            "nombre": "COMPUESTOS QUIMICOS"
+        },
+        {
+            "clave": "G0144",
+            "nombre": "COMPUTACION APLICADA"
+        },
+        {
+            "clave": "G0299",
+            "nombre": "COMPUTACION APLICADA I"
+        },
+        {
+            "clave": "G0299",
+            "nombre": "COMPUTACION APLICADA I"
+        },
+        {
+            "clave": "G0258",
+            "nombre": "COMPUTACION APLICADA II"
+        },
+        {
+            "clave": "G0258",
+            "nombre": "COMPUTACION APLICADA II"
+        },
+        {
+            "clave": "G0258",
+            "nombre": "COMPUTACION APLICADA II"
+        },
+        {
+            "clave": "G0278",
+            "nombre": "COMPUTACION APLICADA III"
+        },
+        {
+            "clave": "G0197",
+            "nombre": "COMPUTACION MEDICA"
+        },
+        {
+            "clave": "I5723",
+            "nombre": "COMPUTER AND ENGLISH"
+        },
+        {
+            "clave": "IE668",
+            "nombre": "COMUNICACION CIENTIFICA"
+        },
+        {
+            "clave": "IE429",
+            "nombre": "COMUNICACION EN INGLES"
+        },
+        {
+            "clave": "IE670",
+            "nombre": "COMUNICACION EN INGLES"
+        },
+        {
+            "clave": "I7886",
+            "nombre": "COMUNICACION ORAL Y ESCRITA"
+        },
+        {
+            "clave": "I7117",
+            "nombre": "COMUNICACION Y ANALISIS CRITICO"
+        },
+        {
+            "clave": "I1596",
+            "nombre": "CONCEPTOS BASICOS DE CIRCUITOS E INSTRUMENTACION"
+        },
+        {
+            "clave": "I1595",
+            "nombre": "CONCEPTOS Y FUNDAMENTOS DE ELECTRICIDAD"
+        },
+        {
+            "clave": "I1230",
+            "nombre": "CONCIENCIA CORPORAL"
+        },
+        {
+            "clave": "IE680",
+            "nombre": "CONFIGURACION DE REDES"
+        },
+        {
+            "clave": "I7896",
+            "nombre": "CONSERVACION DEL AMBIENTE"
+        },
+        {
+            "clave": "I6337",
+            "nombre": "CONSTRUCCION Y ANALISIS DE TEXTOS"
+        },
+        {
+            "clave": "I6369",
+            "nombre": "CONSTRUCTION AND COMUNICATION OF IDEAS"
+        },
+        {
+            "clave": "G0303",
+            "nombre": "CONTABILIDAD DE COSTOS"
+        },
+        {
+            "clave": "I6474",
+            "nombre": "CONTABILIDAD FISCAL"
+        },
+        {
+            "clave": "G0282",
+            "nombre": "CONTABILIDAD I"
+        },
+        {
+            "clave": "G0253",
+            "nombre": "CONTABILIDAD I"
+        },
+        {
+            "clave": "G0636",
+            "nombre": "CONTABILIDAD I"
+        },
+        {
+            "clave": "G0257",
+            "nombre": "CONTABILIDAD II"
+        },
+        {
+            "clave": "G0640",
+            "nombre": "CONTABILIDAD II"
+        },
+        {
+            "clave": "G0286",
+            "nombre": "CONTABILIDAD II"
+        },
+        {
+            "clave": "G0257",
+            "nombre": "CONTABILIDAD II"
+        },
+        {
+            "clave": "G0291",
+            "nombre": "CONTABILIDAD III"
+        },
+        {
+            "clave": "G0305",
+            "nombre": "CONTABILIDADES ESPECIALES"
+        },
+        {
+            "clave": "G0243",
+            "nombre": "CONTAMINACION INDUSTRIAL"
+        },
+        {
+            "clave": "I7965",
+            "nombre": "CONTEXTO NACIONAL Y MUNDIAL"
+        },
+        {
+            "clave": "G0489",
+            "nombre": "CONTROL DE CALIDAD"
+        },
+        {
+            "clave": "G0542",
+            "nombre": "CONTROL DE CALIDAD"
+        },
+        {
+            "clave": "I7978",
+            "nombre": "CONTROL DE CALIDAD EN EL LABORATORIO"
+        },
+        {
+            "clave": "G0246",
+            "nombre": "CONTROL DE CALIDAD I"
+        },
+        {
+            "clave": "G0250",
+            "nombre": "CONTROL DE CALIDAD II"
+        },
+        {
+            "clave": "I6400",
+            "nombre": "CONTROL DE CALIDAD Y MATERIALES"
+        },
+        {
+            "clave": "IE333",
+            "nombre": "CONTROL DE PLAGAS"
+        },
+        {
+            "clave": "I7327",
+            "nombre": "CONTROL ELECTROMECANICO"
+        },
+        {
+            "clave": "I5757",
+            "nombre": "CONTROL FINANCIERO"
+        },
+        {
+            "clave": "I2357",
+            "nombre": "CORRECCION DE ESTILO Y CRITICA PROPOSITIVA"
+        },
+        {
+            "clave": "I6438",
+            "nombre": "CORTE Y TINCION ESTANDAR"
+        },
+        {
+            "clave": "I7885",
+            "nombre": "COSTUMBRES Y TRADICIONES EN MEXICO"
+        },
+        {
+            "clave": "IC062",
+            "nombre": "CREACION Y LENGUAJE CINEMATOGRAFICO"
+        },
+        {
+            "clave": "IE487",
+            "nombre": "CRIMINALISTICA DE CAMPO"
+        },
+        {
+            "clave": "ID281",
+            "nombre": "CRITICA Y PROPUESTA"
+        },
+        {
+            "clave": "I5020",
+            "nombre": "CUERPOS, ENGOBES Y VIDRIOS CERAMICOS"
+        },
+        {
+            "clave": "I7230",
+            "nombre": "CUIDADO DEL AMBIENTE"
+        },
+        {
+            "clave": "I7159",
+            "nombre": "CUIDADO DEL MEDIO AMBIENTE"
+        },
+        {
+            "clave": "I1609",
+            "nombre": "CULTIVO DE PLANTAS Y SU IMPLEMENTACION EN AMBIENTES REDUCIDOS"
+        },
+        {
+            "clave": "I5769",
+            "nombre": "CULTURA AMBIENTAL"
+        },
+        {
+            "clave": "I5770",
+            "nombre": "CULTURA DEL USO DEL AGUA"
+        },
+        {
+            "clave": "I5751",
+            "nombre": "CULTURA ORGANIZACIONAL"
+        },
+        {
+            "clave": "I6473",
+            "nombre": "DATOS Y DOCUMENTOS CONTABLES"
+        },
+        {
+            "clave": "I5015",
+            "nombre": "DECORADO ACROMATICO Y CROMATICO"
+        },
+        {
+            "clave": "I5017",
+            "nombre": "DECORADO TRADICIONAL Y CONTEMPORANEO"
+        },
+        {
+            "clave": "I0130",
+            "nombre": "DEMOCRACIA Y SOBERANIA NACIONAL"
+        },
+        {
+            "clave": "IE465",
+            "nombre": "DEONTOLOGIA DE LA SEGURIDAD"
+        },
+        {
+            "clave": "G0252",
+            "nombre": "DERECHO CONSTITUCIONAL"
+        },
+        {
+            "clave": "G0268",
+            "nombre": "DERECHO FISCAL"
+        },
+        {
+            "clave": "G0268",
+            "nombre": "DERECHO FISCAL"
+        },
+        {
+            "clave": "G0298",
+            "nombre": "DERECHO LABORAL"
+        },
+        {
+            "clave": "G0298",
+            "nombre": "DERECHO LABORAL"
+        },
+        {
+            "clave": "G0256",
+            "nombre": "DERECHO MERCANTIL"
+        },
+        {
+            "clave": "G0256",
+            "nombre": "DERECHO MERCANTIL"
+        },
+        {
+            "clave": "G0292",
+            "nombre": "DERECHO MERCANTIL Y FISCAL"
+        },
+        {
+            "clave": "I5012",
+            "nombre": "DESARROLLO DE HABILIDADES COGNITIVAS"
+        },
+        {
+            "clave": "IE527",
+            "nombre": "DESARROLLO DE PRODUCTOS POR FERMENTACION"
+        },
+        {
+            "clave": "I7913",
+            "nombre": "DESARROLLO DE SOFTWARE"
+        },
+        {
+            "clave": "IE642",
+            "nombre": "DESARROLLO HISTORICO DE LA CIENCIA Y TECNOLOGIA"
+        },
+        {
+            "clave": "I5011",
+            "nombre": "DESARROLLO HISTORICO DE MEXICO Y CONTEXTO INTERNACIONAL"
+        },
+        {
+            "clave": "IE492",
+            "nombre": "DESARROLLO HUMANO MULTIDIMENSIONAL"
+        },
+        {
+            "clave": "I6386",
+            "nombre": "DESARROLLO PERSONAL Y PROYECTO DE VIDA"
+        },
+        {
+            "clave": "I7310",
+            "nombre": "DESARROLLO SUSTENTABLE"
+        },
+        {
+            "clave": "I6954",
+            "nombre": "DESARROLLO SUSTENTABLE"
+        },
+        {
+            "clave": "I0123",
+            "nombre": "DESCRIPCION Y COMUNICACION"
+        },
+        {
+            "clave": "I7067",
+            "nombre": "DESIGNING INDUSTRIAL PAPERS"
+        },
+        {
+            "clave": "I5789",
+            "nombre": "DETERMINACIONES ANALITICAS"
+        },
+        {
+            "clave": "I7955",
+            "nombre": "DEVELOPMENT OF COMMUNICATIVE SKISS"
+        },
+        {
+            "clave": "G0210",
+            "nombre": "DIAGNOSTICO CITOLOGICO INTEGRADO"
+        },
+        {
+            "clave": "IE452",
+            "nombre": "DIAGNOSTICO DE SEGURIDAD"
+        },
+        {
+            "clave": "IE494",
+            "nombre": "DIAGNOSTICO EN SEGURIDAD"
+        },
+        {
+            "clave": "G0628",
+            "nombre": "DIAGRAMA DE FLUJO"
+        },
+        {
+            "clave": "I7328",
+            "nombre": "DIAGRAMAS Y PLANOS ELECTRICOS"
+        },
+        {
+            "clave": "I7088",
+            "nombre": "DIBUJO ASISTIDO POR COMPUTADORA"
+        },
+        {
+            "clave": "IA831",
+            "nombre": "DIBUJO ASISTIDO POR COMPUTADORA"
+        },
+        {
+            "clave": "I3761",
+            "nombre": "DIBUJO BASICO"
+        },
+        {
+            "clave": "I7087",
+            "nombre": "DIBUJO DE ELEMENTOS MECANICOS"
+        },
+        {
+            "clave": "G0133",
+            "nombre": "DIBUJO DE EXPRESION"
+        },
+        {
+            "clave": "G0555",
+            "nombre": "DIBUJO DE PLANOS ELECTRICOS"
+        },
+        {
+            "clave": "G0577",
+            "nombre": "DIBUJO II"
+        },
+        {
+            "clave": "I7183",
+            "nombre": "DIBUJO TECNICO EN METALURGIA"
+        },
+        {
+            "clave": "G0777",
+            "nombre": "DIDACTICA GENERAL"
+        },
+        {
+            "clave": "G0725",
+            "nombre": "DIDACTICA GENERAL"
+        },
+        {
+            "clave": "I4957",
+            "nombre": "DIMENSIONES ESPACIALES"
+        },
+        {
+            "clave": "I5008",
+            "nombre": "DINAMICA DE LAS ACTIVIDADES PRODUCTIVAS"
+        },
+        {
+            "clave": "I6414",
+            "nombre": "DINAMICAS SOCIALES"
+        },
+        {
+            "clave": "I7321",
+            "nombre": "DOMOTICA Y SENSORICA"
+        },
+        {
+            "clave": "G0475",
+            "nombre": "ECOLOGIA REGIONAL"
+        },
+        {
+            "clave": "IE505",
+            "nombre": "ECOLOGIA Y ESPACIOS GEOGRAFICOS"
+        },
+        {
+            "clave": "IE461",
+            "nombre": "ECOLOGIA Y SEGURIDAD EN EL MANEJO DE MATERIALES PELIGROSOS"
+        },
+        {
+            "clave": "G0293",
+            "nombre": "ECONOMIA ADMINISTRATIVA"
+        },
+        {
+            "clave": "I5767",
+            "nombre": "ECONOMIA Y GESTION DOCUMENTAL"
+        },
+        {
+            "clave": "I4826",
+            "nombre": "ECUACIONES DIFERENCIALES"
+        },
+        {
+            "clave": "ID270",
+            "nombre": "EDUCACION CIVICA"
+        },
+        {
+            "clave": "G0150",
+            "nombre": "EDUCACION FISICA O ARTISTICA"
+        },
+        {
+            "clave": "G0167",
+            "nombre": "EDUCACION FISICA O ARTISTICA"
+        },
+        {
+            "clave": "G0690",
+            "nombre": "EDUCACION FISICA O ARTISTICA"
+        },
+        {
+            "clave": "I4926",
+            "nombre": "EDUCACION PARA LA SALUD"
+        },
+        {
+            "clave": "G0796",
+            "nombre": "EDUCACION PARA LA SALUD"
+        },
+        {
+            "clave": "G0796",
+            "nombre": "EDUCACION PARA LA SALUD"
+        },
+        {
+            "clave": "G0782",
+            "nombre": "EDUCACION SEXUAL"
+        },
+        {
+            "clave": "G0757",
+            "nombre": "EDUCACION SEXUAL"
+        },
+        {
+            "clave": "I8008",
+            "nombre": "EJERCITACION FISICA PARA LA SALUD"
+        },
+        {
+            "clave": "IC061",
+            "nombre": "EL CORTOMETRAJE Y SU TEXTO NARRATIVO"
+        },
+        {
+            "clave": "I7201",
+            "nombre": "EL CUERPO HUMANO"
+        },
+        {
+            "clave": "I7245",
+            "nombre": "EL HOMBRE EN SU ENTORNO"
+        },
+        {
+            "clave": "I7893",
+            "nombre": "EL HOMBRE Y LOS ELEMENTOS QUIMICOS"
+        },
+        {
+            "clave": "I1212",
+            "nombre": "EL MUNDO ATRAVES DE LA CAMARA"
+        },
+        {
+            "clave": "I6447",
+            "nombre": "EL TEXTO  Y SU COMPRENSION"
+        },
+        {
+            "clave": "I0164",
+            "nombre": "ELABORACION DE GRAFICOS"
+        },
+        {
+            "clave": "I1588",
+            "nombre": "ELABORACION DE PROYECTOS Y ESTRATEGIAS EDUCATIVAS"
+        },
+        {
+            "clave": "I6372",
+            "nombre": "ELABORACION E INTERPRETACION DE TEXTOS"
+        },
+        {
+            "clave": "I7132",
+            "nombre": "ELECTRICIDAD Y ELECTRONICA DE HARDWARE"
+        },
+        {
+            "clave": "IE599",
+            "nombre": "ELECTROMAGNETISMO Y OPTICA"
+        },
+        {
+            "clave": "G0565",
+            "nombre": "ELECTRONICA I"
+        },
+        {
+            "clave": "G0647",
+            "nombre": "ELEMENTOS DE ANALISIS NUMERICOS"
+        },
+        {
+            "clave": "ID317",
+            "nombre": "ELEMENTOS DE LA FORMA"
+        },
+        {
+            "clave": "I6968",
+            "nombre": "ELEMENTOS DE LA PROTESIS PARCIAL FIJA"
+        },
+        {
+            "clave": "I1208",
+            "nombre": "ELEMENTOS DE LA TECNICA VOCAL E INSTRUMENTAL"
+        },
+        {
+            "clave": "G0239",
+            "nombre": "ELEMENTOS DE ORGANIZACION INDUSTRIAL"
+        },
+        {
+            "clave": "I1597",
+            "nombre": "ELEMENTOS DE UNA INSTALACION"
+        },
+        {
+            "clave": "I6344",
+            "nombre": "EMPRESA Y ENTORNO AMBIENTAL"
+        },
+        {
+            "clave": "IE414",
+            "nombre": "ENERGIA Y MOVIMIENTO"
+        },
+        {
+            "clave": "G0788",
+            "nombre": "ENFERMERIA CLINICA"
+        },
+        {
+            "clave": "IC118",
+            "nombre": "ENFERMERIA EN SALUD PUBLICA"
+        },
+        {
+            "clave": "G0669",
+            "nombre": "ENFERMERIA EN SALUD PUBLICA"
+        },
+        {
+            "clave": "G0734",
+            "nombre": "ENFERMERIA EN SALUD PUBLICA"
+        },
+        {
+            "clave": "G0784",
+            "nombre": "ENFERMERIA GINECOBSTETRICA"
+        },
+        {
+            "clave": "G0755",
+            "nombre": "ENFERMERIA MATERNO INFANTIL"
+        },
+        {
+            "clave": "G0742",
+            "nombre": "ENFERMERIA MEDICO QUIRURGICA I"
+        },
+        {
+            "clave": "G0747",
+            "nombre": "ENFERMERIA MEDICO QUIRURGICA II"
+        },
+        {
+            "clave": "G0692",
+            "nombre": "ENFERMERIA PEDIATRICA"
+        },
+        {
+            "clave": "G0754",
+            "nombre": "ENFERMERIA PEDIATRICA"
+        },
+        {
+            "clave": "G0702",
+            "nombre": "ENFERMERIA PSIQUIATRICA"
+        },
+        {
+            "clave": "G0763",
+            "nombre": "ENFERMERIA PSIQUIATRICA"
+        },
+        {
+            "clave": "G0790",
+            "nombre": "ENFERMERIA QUIRURGICA"
+        },
+        {
+            "clave": "G0700",
+            "nombre": "ENFERMERIA SANITARIA"
+        },
+        {
+            "clave": "G0761",
+            "nombre": "ENFERMERIA SANITARIA"
+        },
+        {
+            "clave": "I5740",
+            "nombre": "ENFOQUES MATEMATICOS"
+        },
+        {
+            "clave": "I7300",
+            "nombre": "ENGLISH CONVERSATION"
+        },
+        {
+            "clave": "I7929",
+            "nombre": "ENGLISH FOR AGRICULTURE AND COMMUNICATION"
+        },
+        {
+            "clave": "I4933",
+            "nombre": "ENGLISH FOR COMPUTER AND INFORMATION SCIENCE"
+        },
+        {
+            "clave": "I4931",
+            "nombre": "ENGLISH FOR SOCIAL SITUATIONS AND COMMUNICATION"
+        },
+        {
+            "clave": "I7186",
+            "nombre": "ENGLISH FOR SPECIFIC PURPOSES"
+        },
+        {
+            "clave": "I7958",
+            "nombre": "ENGLISH IN THE FIELD"
+        },
+        {
+            "clave": "I7853",
+            "nombre": "ENGLISH SERVICE"
+        },
+        {
+            "clave": "I4974",
+            "nombre": "ENGLISH WRITING AND DRAFTING OF DOCUMENTS"
+        },
+        {
+            "clave": "I7177",
+            "nombre": "ENSAYOS FISICOS DESTRUCTIVOS Y NO DESTRUCTIVOS"
+        },
+        {
+            "clave": "I6460",
+            "nombre": "ENTORNO BIOTICO"
+        },
+        {
+            "clave": "IE513",
+            "nombre": "ENTORNO SOCIOECONOMICO"
+        },
+        {
+            "clave": "IE640",
+            "nombre": "ENTORNO SOCIOECONOMICO"
+        },
+        {
+            "clave": "IE528",
+            "nombre": "ENZIMOLOGIA Y BIOCATALISIS"
+        },
+        {
+            "clave": "I7116",
+            "nombre": "EQUIDAD POLITICA Y CIVICA"
+        },
+        {
+            "clave": "I7872",
+            "nombre": "EQUIVALENCIAS PROPORCIONALES"
+        },
+        {
+            "clave": "I8015",
+            "nombre": "ESTADISTICA APLICADA"
+        },
+        {
+            "clave": "I6466",
+            "nombre": "ESTADISTICA PARA MARKETING"
+        },
+        {
+            "clave": "I1217",
+            "nombre": "ESTAMPA REGIONAL I"
+        },
+        {
+            "clave": "I6396",
+            "nombre": "ESTATICA Y CALCULO ESTRUCTURAL"
+        },
+        {
+            "clave": "I5775",
+            "nombre": "ESTEQUIOMETRIA Y CARBONO"
+        },
+        {
+            "clave": "ID268",
+            "nombre": "ESTILO DE VIDA SALUDABLE"
+        },
+        {
+            "clave": "ID282",
+            "nombre": "ESTILO Y CORRECION"
+        },
+        {
+            "clave": "I6941",
+            "nombre": "ESTRATEGIAS DE LA COMUNICACION"
+        },
+        {
+            "clave": "G0634",
+            "nombre": "ESTRUCTURA DE DATOS I"
+        },
+        {
+            "clave": "G0641",
+            "nombre": "ESTRUCTURA DE DATOS II"
+        },
+        {
+            "clave": "I6974",
+            "nombre": "ESTRUCTURA DE LA MICROEMPRESA"
+        },
+        {
+            "clave": "I6960",
+            "nombre": "ESTRUCTURA Y FUNCION DEL APARATO MASTICATORIO"
+        },
+        {
+            "clave": "G0304",
+            "nombre": "ESTUDIO CONTABLE DE LOS IMPUESTOS"
+        },
+        {
+            "clave": "I1574",
+            "nombre": "ESTUDIO DE CASOS"
+        },
+        {
+            "clave": "I6950",
+            "nombre": "ESTUDIO DEL CUERPO HUMANO"
+        },
+        {
+            "clave": "IE570",
+            "nombre": "ESTUDIO DEL TRABAJO"
+        },
+        {
+            "clave": "IE335",
+            "nombre": "ESTUFADO DE MADERA"
+        },
+        {
+            "clave": "I6348",
+            "nombre": "ETICA EN EL MANEJO DE EFECTIVO"
+        },
+        {
+            "clave": "I5009",
+            "nombre": "ETICA PROFESIONAL"
+        },
+        {
+            "clave": "I8011",
+            "nombre": "ETICA PROFESIONAL"
+        },
+        {
+            "clave": "G0302",
+            "nombre": "ETICA PROFESIONAL"
+        },
+        {
+            "clave": "I2353",
+            "nombre": "ETICA Y POLITICA"
+        },
+        {
+            "clave": "I7157",
+            "nombre": "ETICA Y RELACIONES LABORALES"
+        },
+        {
+            "clave": "G0772",
+            "nombre": "ETIMOLOGIAS MEDICAS"
+        },
+        {
+            "clave": "G0720",
+            "nombre": "ETIMOLOGIAS MEDICAS"
+        },
+        {
+            "clave": "I1590",
+            "nombre": "EVALUACION DEL IMPACTO DE PROYECTO DE EDUCACION AMBIENTAL"
+        },
+        {
+            "clave": "IE609",
+            "nombre": "EVOLUCION DE LOS ENERGETICOS"
+        },
+        {
+            "clave": "I6945",
+            "nombre": "EVOLUCION ODONTOLOGICA"
+        },
+        {
+            "clave": "I1225",
+            "nombre": "EXPERIENCIA CROMATICA"
+        },
+        {
+            "clave": "G0404",
+            "nombre": "EXPERIMENTACION AGROPECUARIA"
+        },
+        {
+            "clave": "I1205",
+            "nombre": "EXPRESION DRAMATICA"
+        },
+        {
+            "clave": "ID318",
+            "nombre": "EXPRESION GRAFICA"
+        },
+        {
+            "clave": "IC095",
+            "nombre": "EXPRESION ORAL Y ESCRITA"
+        },
+        {
+            "clave": "IE666",
+            "nombre": "EXPRESION ORAL Y ESCRITA"
+        },
+        {
+            "clave": "I7963",
+            "nombre": "EXPRESIONES ARTISTICAS Y LITERARIAS"
+        },
+        {
+            "clave": "G0728",
+            "nombre": "FARMACOLOGIA I"
+        },
+        {
+            "clave": "G0739",
+            "nombre": "FARMACOLOGIA II"
+        },
+        {
+            "clave": "I6952",
+            "nombre": "FENOMENOS FISICO QUIMICOS"
+        },
+        {
+            "clave": "I8002",
+            "nombre": "FENOMENOS FISICOS DE LA MATERIA"
+        },
+        {
+            "clave": "IE504",
+            "nombre": "FENOMENOS Y FUNCIONES QUIMICAS"
+        },
+        {
+            "clave": "IE665",
+            "nombre": "FILOSOFIA EMPRESARIAL"
+        },
+        {
+            "clave": "G0111",
+            "nombre": "FILOSOFIA I"
+        },
+        {
+            "clave": "G0390",
+            "nombre": "FILOSOFIA I"
+        },
+        {
+            "clave": "G0332",
+            "nombre": "FILOSOFIA I"
+        },
+        {
+            "clave": "G0332",
+            "nombre": "FILOSOFIA I"
+        },
+        {
+            "clave": "G0332",
+            "nombre": "FILOSOFIA I"
+        },
+        {
+            "clave": "G0112",
+            "nombre": "FILOSOFIA II"
+        },
+        {
+            "clave": "G0339",
+            "nombre": "FILOSOFIA II"
+        },
+        {
+            "clave": "G0697",
+            "nombre": "FILOSOFIA II"
+        },
+        {
+            "clave": "G0339",
+            "nombre": "FILOSOFIA II"
+        },
+        {
+            "clave": "G0425",
+            "nombre": "FILOSOFIA II"
+        },
+        {
+            "clave": "G0339",
+            "nombre": "FILOSOFIA II"
+        },
+        {
+            "clave": "G0047",
+            "nombre": "FILOSOFIA III"
+        },
+        {
+            "clave": "G0469",
+            "nombre": "FILOSOFIA III"
+        },
+        {
+            "clave": "G0791",
+            "nombre": "FISIATRIA Y REHABILITACION"
+        },
+        {
+            "clave": "I7161",
+            "nombre": "FISICA EN METALURGIA"
+        },
+        {
+            "clave": "IE455",
+            "nombre": "FISICA EN TECNICAS POLICIALES"
+        },
+        {
+            "clave": "G0009",
+            "nombre": "FISICA I"
+        },
+        {
+            "clave": "G0707",
+            "nombre": "FISICA I"
+        },
+        {
+            "clave": "G0365",
+            "nombre": "FISICA I"
+        },
+        {
+            "clave": "G0316",
+            "nombre": "FISICA I"
+        },
+        {
+            "clave": "G0316",
+            "nombre": "FISICA I"
+        },
+        {
+            "clave": "G0316",
+            "nombre": "FISICA I"
+        },
+        {
+            "clave": "I0142",
+            "nombre": "FISICA II"
+        },
+        {
+            "clave": "G0104",
+            "nombre": "FISICA II"
+        },
+        {
+            "clave": "G0374",
+            "nombre": "FISICA II"
+        },
+        {
+            "clave": "G0324",
+            "nombre": "FISICA II"
+        },
+        {
+            "clave": "G0324",
+            "nombre": "FISICA II"
+        },
+        {
+            "clave": "G0324",
+            "nombre": "FISICA II"
+        },
+        {
+            "clave": "G0027",
+            "nombre": "FISICA III"
+        },
+        {
+            "clave": "G0417",
+            "nombre": "FISICA III"
+        },
+        {
+            "clave": "G0058",
+            "nombre": "FISICA MODERNA"
+        },
+        {
+            "clave": "I2344",
+            "nombre": "FISICA Y CONOCIMIENTO CIENTIFICO"
+        },
+        {
+            "clave": "G0429",
+            "nombre": "FISICO QUIMICA II"
+        },
+        {
+            "clave": "G0379",
+            "nombre": "FISIOLOGIA ANIMAL"
+        },
+        {
+            "clave": "G0178",
+            "nombre": "FISIOLOGIA DE LA OCLUSION"
+        },
+        {
+            "clave": "I6331",
+            "nombre": "FLUJO DE EFECTIVO"
+        },
+        {
+            "clave": "I0131",
+            "nombre": "FORMACION CIUDADANA"
+        },
+        {
+            "clave": "I7961",
+            "nombre": "FORMACION HUMANA"
+        },
+        {
+            "clave": "I2337",
+            "nombre": "FRANCES BASICO"
+        },
+        {
+            "clave": "I2339",
+            "nombre": "FRANCES COMUNICATIVO"
+        },
+        {
+            "clave": "I2336",
+            "nombre": "FRANCES INICIAL COMPLEMENTARIO"
+        },
+        {
+            "clave": "I2270",
+            "nombre": "FRANCES JUNIOR"
+        },
+        {
+            "clave": "I1215",
+            "nombre": "FRONTERAS DE LA IMAGEN"
+        },
+        {
+            "clave": "I7224",
+            "nombre": "FUNCIONES MATEMATICAS"
+        },
+        {
+            "clave": "I7928",
+            "nombre": "FUNDAMENTOS BIOLOGICOS"
+        },
+        {
+            "clave": "IC086",
+            "nombre": "FUNDAMENTOS DE FISICA"
+        },
+        {
+            "clave": "G0251",
+            "nombre": "FUNDAMENTOS DE LA ADMINISTRACION"
+        },
+        {
+            "clave": "I3753",
+            "nombre": "FUNDAMENTOS DE LA NUTRICION"
+        },
+        {
+            "clave": "I5010",
+            "nombre": "FUNDAMENTOS DE PERCEPCION VISUAL"
+        },
+        {
+            "clave": "IE679",
+            "nombre": "FUNDAMENTOS DE RED"
+        },
+        {
+            "clave": "I7119",
+            "nombre": "FUNDAMENTOS FILOSOFICOS Y LA EMPRESA"
+        },
+        {
+            "clave": "IE436",
+            "nombre": "GARANTIAS CONSTITUCIONALES Y DERECHOS HUMANOS"
+        },
+        {
+            "clave": "G0433",
+            "nombre": "GENERADORES Y MAQUINAS DE VAPOR"
+        },
+        {
+            "clave": "G0396",
+            "nombre": "GENETICA GENERAL Y APLICADA"
+        },
+        {
+            "clave": "IE420",
+            "nombre": "GEOGRAFIA HUMANA"
+        },
+        {
+            "clave": "I4986",
+            "nombre": "GEOGRAFIA INDUSTRIAL Y ESTRATEGIAS DE DESARROLLO"
+        },
+        {
+            "clave": "I2352",
+            "nombre": "GEOGRAFIA PARA LA SUSTENTABILIDAD"
+        },
+        {
+            "clave": "G0337",
+            "nombre": "GEOGRAFIA TURISTICA"
+        },
+        {
+            "clave": "G0337",
+            "nombre": "GEOGRAFIA TURISTICA"
+        },
+        {
+            "clave": "G0337",
+            "nombre": "GEOGRAFIA TURISTICA"
+        },
+        {
+            "clave": "I7168",
+            "nombre": "GEOMETRIA ACTIVA"
+        },
+        {
+            "clave": "IE545",
+            "nombre": "GEOMETRIA ANALITICA Y TRIGONOMETRIA"
+        },
+        {
+            "clave": "IC079",
+            "nombre": "GEOMETRIA BASICA"
+        },
+        {
+            "clave": "I6467",
+            "nombre": "GEOMETRIA PARA EMPAQUE"
+        },
+        {
+            "clave": "IE463",
+            "nombre": "GESTION ADMINISTRATIVA Y CULTURA ORGANIZACIONAL"
+        },
+        {
+            "clave": "I6367",
+            "nombre": "GESTION ADMINISTRATIVA Y FINANCIERA"
+        },
+        {
+            "clave": "I7171",
+            "nombre": "GESTION DE LA CALIDAD"
+        },
+        {
+            "clave": "ID284",
+            "nombre": "GESTION DE LA INFORMACION"
+        },
+        {
+            "clave": "I7142",
+            "nombre": "GESTION DE SISTEMAS Y BASES DE DATOS"
+        },
+        {
+            "clave": "I7880",
+            "nombre": "GESTION EN ALIMENTOS Y BEBIDAS"
+        },
+        {
+            "clave": "I4989",
+            "nombre": "GESTION Y PRESENTACION DE PROYECTOS"
+        },
+        {
+            "clave": "G0750",
+            "nombre": "GINECO OBSTETRICIA I"
+        },
+        {
+            "clave": "I8006",
+            "nombre": "GRUPOS FUNCIONALES ORGANICOS"
+        },
+        {
+            "clave": "IE411",
+            "nombre": "HABILIDAD NUMERICA Y GRAFICA"
+        },
+        {
+            "clave": "I0125",
+            "nombre": "HABILIDAD VERBAL"
+        },
+        {
+            "clave": "IE424",
+            "nombre": "HABILIDADES DEL PENSAMIENTO LOGICO"
+        },
+        {
+            "clave": "I7190",
+            "nombre": "HABILIDADES INFORMATICAS"
+        },
+        {
+            "clave": "I6410",
+            "nombre": "HE CAN PROCESS THE TISSUES"
+        },
+        {
+            "clave": "I8010",
+            "nombre": "HECHOS HISTORICOS Y PATRIMONIO CULTURAL"
+        },
+        {
+            "clave": "I4939",
+            "nombre": "HERRAMIENTAS COMPUTACIONALES"
+        },
+        {
+            "clave": "G0148",
+            "nombre": "HERRAMIENTAS Y EQUIPO"
+        },
+        {
+            "clave": "I6342",
+            "nombre": "HIGIENE Y MANEJO DE MERCANCIAS"
+        },
+        {
+            "clave": "IE577",
+            "nombre": "HIGIENE Y SEGURIDAD"
+        },
+        {
+            "clave": "I6343",
+            "nombre": "HIGIENE Y SEGURIDAD EN EL ALMACEN"
+        },
+        {
+            "clave": "G0416",
+            "nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL"
+        },
+        {
+            "clave": "G0203",
+            "nombre": "HISTOQUIMICA DE SISTEMA NERVIOSO"
+        },
+        {
+            "clave": "G0198",
+            "nombre": "HISTOQUIMICA DE TEJIDO CONECTIVO"
+        },
+        {
+            "clave": "ID265",
+            "nombre": "HISTORIA DE MEXICO E HISTORIA Y CULTURA DEL PUEBLO ORIGINARIO"
+        },
+        {
+            "clave": "G0326",
+            "nombre": "HISTORIA I"
+        },
+        {
+            "clave": "G0326",
+            "nombre": "HISTORIA I"
+        },
+        {
+            "clave": "G0326",
+            "nombre": "HISTORIA I"
+        },
+        {
+            "clave": "G0334",
+            "nombre": "HISTORIA II"
+        },
+        {
+            "clave": "G0334",
+            "nombre": "HISTORIA II"
+        },
+        {
+            "clave": "G0334",
+            "nombre": "HISTORIA II"
+        },
+        {
+            "clave": "G0031",
+            "nombre": "HISTORIA INTERNACIONAL"
+        },
+        {
+            "clave": "G0708",
+            "nombre": "HISTORIA INTERNACIONAL"
+        },
+        {
+            "clave": "G0688",
+            "nombre": "HISTORIA INTERNACIONAL"
+        },
+        {
+            "clave": "G0040",
+            "nombre": "HISTORIA NACIONAL"
+        },
+        {
+            "clave": "G0709",
+            "nombre": "HISTORIA NACIONAL"
+        },
+        {
+            "clave": "G0696",
+            "nombre": "HISTORIA NACIONAL"
+        },
+        {
+            "clave": "G0108",
+            "nombre": "HISTORIA REGIONAL"
+        },
+        {
+            "clave": "I6380",
+            "nombre": "HISTORIA REGIONAL Y NACIONAL"
+        },
+        {
+            "clave": "IC060",
+            "nombre": "HISTORIA Y GENEROS CINEMATOGRAFICOS"
+        },
+        {
+            "clave": "I7308",
+            "nombre": "HISTORIA Y SOCIEDAD"
+        },
+        {
+            "clave": "I1564",
+            "nombre": "HISTORIAS DE LAS IDEAS POLITICAS"
+        },
+        {
+            "clave": "I5724",
+            "nombre": "HUMAN RESOURCES AND ENGLISH LANGUAJE"
+        },
+        {
+            "clave": "I2354",
+            "nombre": "IDENTIDAD Y CIUDADANIA"
+        },
+        {
+            "clave": "I0136",
+            "nombre": "IDENTIDAD Y FILOSOFIA"
+        },
+        {
+            "clave": "I6420",
+            "nombre": "IMAGENES DIGITALES"
+        },
+        {
+            "clave": "I6425",
+            "nombre": "IMPACTO AMBIENTAL"
+        },
+        {
+            "clave": "G0230",
+            "nombre": "IMPACTO ECOLOGICO"
+        },
+        {
+            "clave": "G0290",
+            "nombre": "IMPUESTOS I"
+        },
+        {
+            "clave": "G0296",
+            "nombre": "IMPUESTOS II"
+        },
+        {
+            "clave": "I6334",
+            "nombre": "INDICADORES EMPRESARIALES"
+        },
+        {
+            "clave": "I7948",
+            "nombre": "INDUSTRIALIZACION DE PRODUCTOS AGROPECUARIOS"
+        },
+        {
+            "clave": "I6356",
+            "nombre": "INFORMACION DOCUMENTAL"
+        },
+        {
+            "clave": "I6411",
+            "nombre": "INFORMACION MEDIADA POR TECNOLOGIA"
+        },
+        {
+            "clave": "G0336",
+            "nombre": "INFORMATICA APLICADA AL TURISMO"
+        },
+        {
+            "clave": "G0336",
+            "nombre": "INFORMATICA APLICADA AL TURISMO"
+        },
+        {
+            "clave": "G0336",
+            "nombre": "INFORMATICA APLICADA AL TURISMO"
+        },
+        {
+            "clave": "IE667",
+            "nombre": "INGLES BASICO"
+        },
+        {
+            "clave": "IE522",
+            "nombre": "INGLES EN LA BIOTECNOLOGIA"
+        },
+        {
+            "clave": "IC096",
+            "nombre": "INGLES I"
+        },
+        {
+            "clave": "IC098",
+            "nombre": "INGLES III"
+        },
+        {
+            "clave": "IE557",
+            "nombre": "INGLES PARA LOS NEGOCIOS"
+        },
+        {
+            "clave": "IE671",
+            "nombre": "INGLES PARA LOS NEGOCIOS"
+        },
+        {
+            "clave": "IE470",
+            "nombre": "INGLES TECNICO"
+        },
+        {
+            "clave": "G0335",
+            "nombre": "INGLES TECNICO I"
+        },
+        {
+            "clave": "G0335",
+            "nombre": "INGLES TECNICO I"
+        },
+        {
+            "clave": "G0335",
+            "nombre": "INGLES TECNICO I"
+        },
+        {
+            "clave": "G0343",
+            "nombre": "INGLES TECNICO II"
+        },
+        {
+            "clave": "G0343",
+            "nombre": "INGLES TECNICO II"
+        },
+        {
+            "clave": "G0343",
+            "nombre": "INGLES TECNICO II"
+        },
+        {
+            "clave": "G0351",
+            "nombre": "INGLES TECNICO III"
+        },
+        {
+            "clave": "G0351",
+            "nombre": "INGLES TECNICO III"
+        },
+        {
+            "clave": "G0351",
+            "nombre": "INGLES TECNICO III"
+        },
+        {
+            "clave": "I4980",
+            "nombre": "INNOVACION, VANGUARDIA Y CREATIVIDAD"
+        },
+        {
+            "clave": "IE532",
+            "nombre": "INOCUIDAD ALIMENTARIA"
+        },
+        {
+            "clave": "I4978",
+            "nombre": "INSPECCION FUNCIONAL Y ESTETICA"
+        },
+        {
+            "clave": "I7918",
+            "nombre": "INSTALACION DE SOFTWARE"
+        },
+        {
+            "clave": "I7139",
+            "nombre": "INSTALACION Y SOPORTE DE REDES"
+        },
+        {
+            "clave": "I7332",
+            "nombre": "INSTALACIONES ELECTRICAS INDUSTRIALES"
+        },
+        {
+            "clave": "I1598",
+            "nombre": "INSTALACIONES ELECTRICAS RESIDENCIALES Y SU NORMATIVIDAD"
+        },
+        {
+            "clave": "G0165",
+            "nombre": "INSTALACIONES ELECTRICAS Y ESPECIALES"
+        },
+        {
+            "clave": "G0157",
+            "nombre": "INSTALACIONES HIDRAULICAS Y SANITARIAS"
+        },
+        {
+            "clave": "G0593",
+            "nombre": "INSTALACIONES INDUSTRIALES"
+        },
+        {
+            "clave": "I7098",
+            "nombre": "INSTALACIONES INDUSTRIALES Y EQUIPOS"
+        },
+        {
+            "clave": "I7979",
+            "nombre": "INSTRUMENTACION ANALITICA"
+        },
+        {
+            "clave": "IE687",
+            "nombre": "INSTRUMENTOS PARA ESTUDIOS DE AUDIO Y VIDEO"
+        },
+        {
+            "clave": "IE685",
+            "nombre": "INSTRUMENTOS PARA LABORATORIO O TALLER"
+        },
+        {
+            "clave": "G0209",
+            "nombre": "INTEGRACION DE PROCESOS Y TECNICAS HISTOLOGICAS"
+        },
+        {
+            "clave": "I6439",
+            "nombre": "INTEGRACION TECNICA"
+        },
+        {
+            "clave": "I5768",
+            "nombre": "INTEGRIDAD LABORAL"
+        },
+        {
+            "clave": "IE417",
+            "nombre": "INTERACCIONES QUIMICAS"
+        },
+        {
+            "clave": "I6340",
+            "nombre": "INTERNACIONAL LANGUAGE FOR BUSINESS"
+        },
+        {
+            "clave": "I4923",
+            "nombre": "INTERPRETACION DE LA REALIDAD SOCIAL"
+        },
+        {
+            "clave": "I7153",
+            "nombre": "INTERPRETACION DE PLANOS"
+        },
+        {
+            "clave": "I0159",
+            "nombre": "INTERPRETACION DE TEXTOS EN INGLES II"
+        },
+        {
+            "clave": "I0161",
+            "nombre": "INTERPRETACION DE TEXTOS EN INGLES IV"
+        },
+        {
+            "clave": "IE433",
+            "nombre": "INTERPRETACION Y ARGUMENTACION JURIDICA"
+        },
+        {
+            "clave": "IE449",
+            "nombre": "INTERVENCION EN CRISIS"
+        },
+        {
+            "clave": "IC175",
+            "nombre": "INTERVENCIONES DE ENFERMERIA EN LA COMUNIDAD"
+        },
+        {
+            "clave": "IC174",
+            "nombre": "INTERVENCIONES EN EL ADULTO MAYOR"
+        },
+        {
+            "clave": "IC110",
+            "nombre": "INTERVENCIONES EN EL SERVICIO DE CIRUGIA"
+        },
+        {
+            "clave": "G0622",
+            "nombre": "INTRODUCCION A LA COMPUTACION"
+        },
+        {
+            "clave": "G0076",
+            "nombre": "INTRODUCCION A LA CONTABILIDAD"
+        },
+        {
+            "clave": "G0792",
+            "nombre": "INTRODUCCION A LA PSICOLOGIA"
+        },
+        {
+            "clave": "G0726",
+            "nombre": "INTRODUCCION A LA PSICOLOGIA"
+        },
+        {
+            "clave": "G0300",
+            "nombre": "INTRODUCCION A LAS FINANZAS"
+        },
+        {
+            "clave": "G0114",
+            "nombre": "INTRODUCCION AL ARTE"
+        },
+        {
+            "clave": "G0360",
+            "nombre": "INTRODUCCION AL ARTE"
+        },
+        {
+            "clave": "G0313",
+            "nombre": "INTRODUCCION AL ARTE"
+        },
+        {
+            "clave": "G0408",
+            "nombre": "INTRODUCCION AL ARTE"
+        },
+        {
+            "clave": "G0313",
+            "nombre": "INTRODUCCION AL ARTE"
+        },
+        {
+            "clave": "G0074",
+            "nombre": "INTRODUCCION AL CALCULO"
+        },
+        {
+            "clave": "G0283",
+            "nombre": "INTRODUCCION AL ESTUDIO DEL DERECHO"
+        },
+        {
+            "clave": "G0329",
+            "nombre": "INTRODUCCION AL TURISMO"
+        },
+        {
+            "clave": "G0329",
+            "nombre": "INTRODUCCION AL TURISMO"
+        },
+        {
+            "clave": "G0329",
+            "nombre": "INTRODUCCION AL TURISMO"
+        },
+        {
+            "clave": "I7065",
+            "nombre": "INTRODUCING YOURSELF"
+        },
+        {
+            "clave": "G0264",
+            "nombre": "INVESTIGACION DE MERCADOS"
+        },
+        {
+            "clave": "I7194",
+            "nombre": "INVESTIGACION TECNOLOGICA"
+        },
+        {
+            "clave": "IE440",
+            "nombre": "JUSTICIA PENAL Y JUICIO ORAL"
+        },
+        {
+            "clave": "IE441",
+            "nombre": "JUSTICIA PENAL Y JUSTICIA RESTAURATIVA"
+        },
+        {
+            "clave": "IE443",
+            "nombre": "JUSTICIA PENAL Y LA INVESTIGACION"
+        },
+        {
+            "clave": "I5762",
+            "nombre": "KNOWING YOURSELF IN THE OFFICE"
+        },
+        {
+            "clave": "I5766",
+            "nombre": "LA COMUNICACION EN EL LABORATORIO"
+        },
+        {
+            "clave": "I6445",
+            "nombre": "LA COMUNICACION Y LA PALABRA"
+        },
+        {
+            "clave": "I1222",
+            "nombre": "LA CREACION E INTERPRETACION"
+        },
+        {
+            "clave": "I1575",
+            "nombre": "LA EMPRESA"
+        },
+        {
+            "clave": "I6446",
+            "nombre": "LA ESTRUCTURACION DE LAS IDEAS"
+        },
+        {
+            "clave": "I7197",
+            "nombre": "LA MATERIA Y SUS PROPIEDADES"
+        },
+        {
+            "clave": "I1570",
+            "nombre": "LA SELECION DE COLOR EN LA SERIGRAFIA"
+        },
+        {
+            "clave": "I5771",
+            "nombre": "LA VIDA Y SUS INTERACCIONES"
+        },
+        {
+            "clave": "G0626",
+            "nombre": "LABORATORIO DE COMPUTO I"
+        },
+        {
+            "clave": "G0631",
+            "nombre": "LABORATORIO DE COMPUTO II"
+        },
+        {
+            "clave": "G0637",
+            "nombre": "LABORATORIO DE COMPUTO III"
+        },
+        {
+            "clave": "G0643",
+            "nombre": "LABORATORIO DE COMPUTO IV"
+        },
+        {
+            "clave": "IE614",
+            "nombre": "LABORATORIO DE GENERACION FOTOVOLTAICA"
+        },
+        {
+            "clave": "IE626",
+            "nombre": "LABORATORIO DE SISTEMAS TERMICOS SOLARES"
+        },
+        {
+            "clave": "G0553",
+            "nombre": "LABORATORIO ELECTRICO II"
+        },
+        {
+            "clave": "I6962",
+            "nombre": "LABORATORIO, MATERIALES Y EQUIPO DENTAL"
+        },
+        {
+            "clave": "I6958",
+            "nombre": "LAS FINANZAS EN EL LABORATORIO"
+        },
+        {
+            "clave": "IA834",
+            "nombre": "LEARNING ENGLISH"
+        },
+        {
+            "clave": "I1536",
+            "nombre": "LECTURA RECREATIVA"
+        },
+        {
+            "clave": "I7113",
+            "nombre": "LECTURA Y REDACCION"
+        },
+        {
+            "clave": "ID279",
+            "nombre": "LECTURA Y REDACCION"
+        },
+        {
+            "clave": "I6479",
+            "nombre": "LEGALIDAD DE LAS ORGANIZACIONES"
+        },
+        {
+            "clave": "I5792",
+            "nombre": "LEGISLACION AMBIENTAL"
+        },
+        {
+            "clave": "IE537",
+            "nombre": "LEGISLACION AMBIENTAL"
+        },
+        {
+            "clave": "G0567",
+            "nombre": "LEGISLACION ELECTRICA"
+        },
+        {
+            "clave": "G0694",
+            "nombre": "LEGISLACION EN ENFERMERIA"
+        },
+        {
+            "clave": "G0751",
+            "nombre": "LEGISLACION EN ENFERMERIA"
+        },
+        {
+            "clave": "G0630",
+            "nombre": "LEGISLACION EN INFORMATICA"
+        },
+        {
+            "clave": "IC089",
+            "nombre": "LEGISLACION EN SALUD"
+        },
+        {
+            "clave": "IE578",
+            "nombre": "LEGISLACION INDUSTRIAL"
+        },
+        {
+            "clave": "G0486",
+            "nombre": "LEGISLACION INDUSTRIAL"
+        },
+        {
+            "clave": "I7995",
+            "nombre": "LEGISLACION INDUSTRIAL Y MARKETING"
+        },
+        {
+            "clave": "G0500",
+            "nombre": "LEGISLACION MINERA"
+        },
+        {
+            "clave": "I0092",
+            "nombre": "LENGUA EXTRANJERA I"
+        },
+        {
+            "clave": "G0090",
+            "nombre": "LENGUA EXTRANJERA I"
+        },
+        {
+            "clave": "G0359",
+            "nombre": "LENGUA EXTRANJERA I"
+        },
+        {
+            "clave": "G0311",
+            "nombre": "LENGUA EXTRANJERA I"
+        },
+        {
+            "clave": "G0311",
+            "nombre": "LENGUA EXTRANJERA I"
+        },
+        {
+            "clave": "G0311",
+            "nombre": "LENGUA EXTRANJERA I"
+        },
+        {
+            "clave": "I2345",
+            "nombre": "LENGUA EXTRANJERA I"
+        },
+        {
+            "clave": "I2346",
+            "nombre": "LENGUA EXTRANJERA II"
+        },
+        {
+            "clave": "G0091",
+            "nombre": "LENGUA EXTRANJERA II"
+        },
+        {
+            "clave": "G0368",
+            "nombre": "LENGUA EXTRANJERA II"
+        },
+        {
+            "clave": "G0319",
+            "nombre": "LENGUA EXTRANJERA II"
+        },
+        {
+            "clave": "G0319",
+            "nombre": "LENGUA EXTRANJERA II"
+        },
+        {
+            "clave": "G0319",
+            "nombre": "LENGUA EXTRANJERA II"
+        },
+        {
+            "clave": "I0099",
+            "nombre": "LENGUA EXTRANJERA III"
+        },
+        {
+            "clave": "G0327",
+            "nombre": "LENGUA EXTRANJERA III"
+        },
+        {
+            "clave": "G0327",
+            "nombre": "LENGUA EXTRANJERA III"
+        },
+        {
+            "clave": "G0327",
+            "nombre": "LENGUA EXTRANJERA III"
+        },
+        {
+            "clave": "G0327",
+            "nombre": "LENGUA EXTRANJERA III"
+        },
+        {
+            "clave": "I0863",
+            "nombre": "LENGUA EXTRANJERA IV"
+        },
+        {
+            "clave": "G0288",
+            "nombre": "LENGUA EXTRANJERA IV"
+        },
+        {
+            "clave": "G0288",
+            "nombre": "LENGUA EXTRANJERA IV"
+        },
+        {
+            "clave": "I0118",
+            "nombre": "LENGUA EXTRANJERA V"
+        },
+        {
+            "clave": "G0265",
+            "nombre": "LENGUA EXTRANJERA V"
+        },
+        {
+            "clave": "I0119",
+            "nombre": "LENGUA EXTRANJERA VI"
+        },
+        {
+            "clave": "ID272",
+            "nombre": "LENGUA ORIGINARIA II"
+        },
+        {
+            "clave": "ID274",
+            "nombre": "LENGUA ORIGINARIA IV"
+        },
+        {
+            "clave": "ID276",
+            "nombre": "LENGUA ORIGINARIA VI"
+        },
+        {
+            "clave": "G0627",
+            "nombre": "LENGUAJE DE PROGRAMACION I"
+        },
+        {
+            "clave": "G0632",
+            "nombre": "LENGUAJE DE PROGRAMACION II"
+        },
+        {
+            "clave": "I4943",
+            "nombre": "LENGUAJE DE PROGRAMACION WEB"
+        },
+        {
+            "clave": "I5728",
+            "nombre": "LENGUAJE INTEGRAL"
+        },
+        {
+            "clave": "IE519",
+            "nombre": "LENGUAJE Y COMUNICACION"
+        },
+        {
+            "clave": "I6433",
+            "nombre": "LESIONES PREMALIGNAS"
+        },
+        {
+            "clave": "I7259",
+            "nombre": "LIDERAZGO EN LA INDUSTRIA"
+        },
+        {
+            "clave": "IE541",
+            "nombre": "LIDERAZGO Y NEGOCIACION"
+        },
+        {
+            "clave": "IE630",
+            "nombre": "LIDERAZGO Y NEGOCIACION"
+        },
+        {
+            "clave": "IE422",
+            "nombre": "LIDERAZGO Y TRABAJO EN EQUIPO"
+        },
+        {
+            "clave": "I7333",
+            "nombre": "LINEAS DE TRANSMISION Y DISTRIBUCION"
+        },
+        {
+            "clave": "I4975",
+            "nombre": "LISTENING AND SPEAKING ENGLISH"
+        },
+        {
+            "clave": "G0088",
+            "nombre": "LITERATURA I"
+        },
+        {
+            "clave": "G0046",
+            "nombre": "LITERATURA II"
+        },
+        {
+            "clave": "I7246",
+            "nombre": "LOGICA FILOSOFICA"
+        },
+        {
+            "clave": "IE562",
+            "nombre": "LOGICA FILOSOFICA"
+        },
+        {
+            "clave": "I7107",
+            "nombre": "LOWER INTERMEDIATE ENGLISH"
+        },
+        {
+            "clave": "I1584",
+            "nombre": "MANEJO ALIMENTOS Y BEBIDAS"
+        },
+        {
+            "clave": "I8017",
+            "nombre": "MANEJO DE ESPACIOS Y CANTIDADES"
+        },
+        {
+            "clave": "I7229",
+            "nombre": "MANEJO DE LAS UNIDADES FISICAS"
+        },
+        {
+            "clave": "I7078",
+            "nombre": "MANEJO DE RESIDUOS PROCESADOS"
+        },
+        {
+            "clave": "I7867",
+            "nombre": "MANEJOS DE SUSTANCIAS QUIMICAS"
+        },
+        {
+            "clave": "I4948",
+            "nombre": "MANTENIMIENTO DE COMPUTADORAS"
+        },
+        {
+            "clave": "I7094",
+            "nombre": "MANTENIMIENTO INDUSTRIAL"
+        },
+        {
+            "clave": "I7914",
+            "nombre": "MANTENIMIENTO Y PRUEBAS DE SOFTWARE"
+        },
+        {
+            "clave": "I7090",
+            "nombre": "MAQUINADO DE PIEZAS EN EL CEPILLO"
+        },
+        {
+            "clave": "I7095",
+            "nombre": "MAQUINADO Y SIMULACION POR COMPUTADORA"
+        },
+        {
+            "clave": "I7939",
+            "nombre": "MAQUINARIA AGROPECUARIA"
+        },
+        {
+            "clave": "G0579",
+            "nombre": "MAQUINAS DE COMBUSTION INTERNA"
+        },
+        {
+            "clave": "G0579",
+            "nombre": "MAQUINAS DE COMBUSTION INTERNA"
+        },
+        {
+            "clave": "G0576",
+            "nombre": "MAQUINAS DE VAPOR"
+        },
+        {
+            "clave": "G0563",
+            "nombre": "MAQUINAS ELECTRICAS II"
+        },
+        {
+            "clave": "G0586",
+            "nombre": "MAQUINAS HIDRAULICAS"
+        },
+        {
+            "clave": "G0586",
+            "nombre": "MAQUINAS HIDRAULICAS"
+        },
+        {
+            "clave": "G0589",
+            "nombre": "MAQUINAS NEUMATICAS"
+        },
+        {
+            "clave": "IE567",
+            "nombre": "MAQUINAS Y HERRAMIENTAS"
+        },
+        {
+            "clave": "IE434",
+            "nombre": "MARCO NORMATIVA DE LA SEGURIDAD PUBLICA"
+        },
+        {
+            "clave": "I7193",
+            "nombre": "MARCO NORMATIVO Y GESTION EMPRESARIAL"
+        },
+        {
+            "clave": "I2359",
+            "nombre": "MATEMATICA AVANZADA"
+        },
+        {
+            "clave": "I0155",
+            "nombre": "MATEMATICA Y CIENCIA II"
+        },
+        {
+            "clave": "I2343",
+            "nombre": "MATEMATICA Y VIDA COTIDIANA"
+        },
+        {
+            "clave": "I0157",
+            "nombre": "MATEMATICA Y VIDA COTIDIANA II"
+        },
+        {
+            "clave": "IC081",
+            "nombre": "MATEMATICAS APLICADAS"
+        },
+        {
+            "clave": "IC077",
+            "nombre": "MATEMATICAS BASICAS"
+        },
+        {
+            "clave": "G0001",
+            "nombre": "MATEMATICAS I"
+        },
+        {
+            "clave": "G0312",
+            "nombre": "MATEMATICAS I"
+        },
+        {
+            "clave": "G0664",
+            "nombre": "MATEMATICAS I"
+        },
+        {
+            "clave": "G0312",
+            "nombre": "MATEMATICAS I"
+        },
+        {
+            "clave": "G0312",
+            "nombre": "MATEMATICAS I"
+        },
+        {
+            "clave": "G0008",
+            "nombre": "MATEMATICAS II"
+        },
+        {
+            "clave": "G0711",
+            "nombre": "MATEMATICAS II"
+        },
+        {
+            "clave": "G0364",
+            "nombre": "MATEMATICAS II"
+        },
+        {
+            "clave": "G0320",
+            "nombre": "MATEMATICAS II"
+        },
+        {
+            "clave": "G0320",
+            "nombre": "MATEMATICAS II"
+        },
+        {
+            "clave": "G0320",
+            "nombre": "MATEMATICAS II"
+        },
+        {
+            "clave": "G0017",
+            "nombre": "MATEMATICAS III"
+        },
+        {
+            "clave": "G0712",
+            "nombre": "MATEMATICAS III"
+        },
+        {
+            "clave": "G0373",
+            "nombre": "MATEMATICAS III"
+        },
+        {
+            "clave": "G0328",
+            "nombre": "MATEMATICAS III"
+        },
+        {
+            "clave": "G0328",
+            "nombre": "MATEMATICAS III"
+        },
+        {
+            "clave": "G0328",
+            "nombre": "MATEMATICAS III"
+        },
+        {
+            "clave": "G0082",
+            "nombre": "MATEMATICAS IV"
+        },
+        {
+            "clave": "G0284",
+            "nombre": "MATEMATICAS MERCANTILES"
+        },
+        {
+            "clave": "I1543",
+            "nombre": "MATEMATICAS RECREATIVAS"
+        },
+        {
+            "clave": "G0431",
+            "nombre": "MATEMATICAS V"
+        },
+        {
+            "clave": "I2349",
+            "nombre": "MATEMATICAS Y CIENCIA"
+        },
+        {
+            "clave": "I7312",
+            "nombre": "MATERIA Y ENERGIA"
+        },
+        {
+            "clave": "I5788",
+            "nombre": "MATERIAL Y EQUIPO DE LABORATORIO"
+        },
+        {
+            "clave": "G0218",
+            "nombre": "MATERIALES CERAMICOS II"
+        },
+        {
+            "clave": "G0228",
+            "nombre": "MATERIALES CERAMICOS IV"
+        },
+        {
+            "clave": "G0179",
+            "nombre": "MATERIALES DENTALES"
+        },
+        {
+            "clave": "I8004",
+            "nombre": "MATERIALES POLIMERICOS"
+        },
+        {
+            "clave": "G0534",
+            "nombre": "MATERIAS PRIMAS"
+        },
+        {
+            "clave": "G0519",
+            "nombre": "MATERIAS PRIMAS II"
+        },
+        {
+            "clave": "I7969",
+            "nombre": "MECANICA DE FLUIDOS"
+        },
+        {
+            "clave": "G0581",
+            "nombre": "MECANICA DE FLUIDOS"
+        },
+        {
+            "clave": "G0581",
+            "nombre": "MECANICA DE FLUIDOS"
+        },
+        {
+            "clave": "G0584",
+            "nombre": "MECANICA DE MATERIALES"
+        },
+        {
+            "clave": "G0440",
+            "nombre": "MECANICA DE MATERIALES"
+        },
+        {
+            "clave": "G0584",
+            "nombre": "MECANICA DE MATERIALES"
+        },
+        {
+            "clave": "I4928",
+            "nombre": "MECANICA FISICA EN LA PROGRAMACION"
+        },
+        {
+            "clave": "G0580",
+            "nombre": "MECANICA II"
+        },
+        {
+            "clave": "G0580",
+            "nombre": "MECANICA II"
+        },
+        {
+            "clave": "G0395",
+            "nombre": "MEDICINA PREVENTIVA"
+        },
+        {
+            "clave": "I5783",
+            "nombre": "MEDIDAS PARAMETRICAS"
+        },
+        {
+            "clave": "I5738",
+            "nombre": "MEDIO AMBIENTE Y TRABAJO"
+        },
+        {
+            "clave": "IE673",
+            "nombre": "MEDIOS DE TRANSMISION NO GUIADOS"
+        },
+        {
+            "clave": "G0344",
+            "nombre": "MERCADOTECNIA I"
+        },
+        {
+            "clave": "G0344",
+            "nombre": "MERCADOTECNIA I"
+        },
+        {
+            "clave": "G0344",
+            "nombre": "MERCADOTECNIA I"
+        },
+        {
+            "clave": "G0352",
+            "nombre": "MERCADOTECNIA II"
+        },
+        {
+            "clave": "G0352",
+            "nombre": "MERCADOTECNIA II"
+        },
+        {
+            "clave": "G0352",
+            "nombre": "MERCADOTECNIA II"
+        },
+        {
+            "clave": "G0497",
+            "nombre": "METALURGIA EXTRACTIVA I"
+        },
+        {
+            "clave": "G0490",
+            "nombre": "METALURGIA FISICA I"
+        },
+        {
+            "clave": "G0493",
+            "nombre": "METALURGIA FISICA II"
+        },
+        {
+            "clave": "I7895",
+            "nombre": "METODO CIENTIFICO"
+        },
+        {
+            "clave": "G0795",
+            "nombre": "METODOLOGIA CIENTIFICA"
+        },
+        {
+            "clave": "G0724",
+            "nombre": "METODOLOGIA CIENTIFICA"
+        },
+        {
+            "clave": "I7115",
+            "nombre": "METODOLOGIA DEL APRENDIZAJE"
+        },
+        {
+            "clave": "I6388",
+            "nombre": "METODOS ALGEBRAICOS"
+        },
+        {
+            "clave": "IE479",
+            "nombre": "METODOS ALTERNOS DE SOLUCION DE CONFLICTOS"
+        },
+        {
+            "clave": "I7991",
+            "nombre": "METODOS ESTADISTICOS"
+        },
+        {
+            "clave": "I8023",
+            "nombre": "METODOS INSTRUMENTALES DE ANALISIS"
+        },
+        {
+            "clave": "I5743",
+            "nombre": "METODOS NUMERICOS"
+        },
+        {
+            "clave": "I7319",
+            "nombre": "METODOS NUMERICOS APLICADOS"
+        },
+        {
+            "clave": "IE438",
+            "nombre": "METODOS Y TECNICAS DE INVESTIGACION CRIMINAL"
+        },
+        {
+            "clave": "I3758",
+            "nombre": "METROLOGIA APLICADA"
+        },
+        {
+            "clave": "I5772",
+            "nombre": "MEXICO Y CONTEXTO INTERNACIONAL"
+        },
+        {
+            "clave": "G0248",
+            "nombre": "MICROBIOLOGIA APLICADA"
+        },
+        {
+            "clave": "I7220",
+            "nombre": "MICROBIOLOGIA DE LOS ALIMENTOS"
+        },
+        {
+            "clave": "G0477",
+            "nombre": "MICROBIOLOGIA GENERAL"
+        },
+        {
+            "clave": "G0485",
+            "nombre": "MICROBIOLOGIA INDUSTRIAL II"
+        },
+        {
+            "clave": "G0775",
+            "nombre": "MICROBIOLOGIA Y PARASITOLOGIA"
+        },
+        {
+            "clave": "G0775",
+            "nombre": "MICROBIOLOGIA Y PARASITOLOGIA"
+        },
+        {
+            "clave": "I1592",
+            "nombre": "MICROORGANISMOS DIVERSIDAD E IMPORTANCIA"
+        },
+        {
+            "clave": "G0491",
+            "nombre": "MINERALOGIA I"
+        },
+        {
+            "clave": "I4985",
+            "nombre": "MODELADO DE PROTOTIPOS"
+        },
+        {
+            "clave": "I1549",
+            "nombre": "MODELADO DE PROYECTOS VIRTUALES"
+        },
+        {
+            "clave": "G0617",
+            "nombre": "MODELADO II"
+        },
+        {
+            "clave": "I7182",
+            "nombre": "MODELOS Y MOLDEO"
+        },
+        {
+            "clave": "I8027",
+            "nombre": "MOLDES Y HERRAMENTALES"
+        },
+        {
+            "clave": "I7334",
+            "nombre": "MOTOCOMPRESORES Y LINEA BLANCA"
+        },
+        {
+            "clave": "I6362",
+            "nombre": "MOVIMIENTOS CONTABLES"
+        },
+        {
+            "clave": "I5774",
+            "nombre": "MUNDO NATURAL Y TECNOLOGIA"
+        },
+        {
+            "clave": "IE540",
+            "nombre": "NEGOCIOS EN INTERNET"
+        },
+        {
+            "clave": "IE629",
+            "nombre": "NEGOCIOS EN INTERNET"
+        },
+        {
+            "clave": "I7322",
+            "nombre": "NEUMATICA Y ELECTRONEUMATICA"
+        },
+        {
+            "clave": "I5737",
+            "nombre": "NOCIONES CIENTIFICAS EN LA EMPRESA"
+        },
+        {
+            "clave": "G0287",
+            "nombre": "NOCIONES DE DERECHO CONSTITUCIONAL Y ADMINISTRATIVO"
+        },
+        {
+            "clave": "I7937",
+            "nombre": "NOCIONES DE EPISTEMOLOGIA"
+        },
+        {
+            "clave": "I6352",
+            "nombre": "NORMAS AMBIENTALES INTERNACIONALES"
+        },
+        {
+            "clave": "I6368",
+            "nombre": "NORMATIVIDAD ADUANERA Y ARANCELARIA"
+        },
+        {
+            "clave": "I6973",
+            "nombre": "NORMATIVIDAD EMPRESARIAL"
+        },
+        {
+            "clave": "I4987",
+            "nombre": "NORMATIVIDAD NACIONAL E INTERNACIONAL"
+        },
+        {
+            "clave": "I4823",
+            "nombre": "NUMEROS COMPLEJOS"
+        },
+        {
+            "clave": "ID297",
+            "nombre": "NUTRICION ANIMAL"
+        },
+        {
+            "clave": "I3755",
+            "nombre": "NUTRICION Y SALUD EN LA ADOLESCENCIA"
+        },
+        {
+            "clave": "G0679",
+            "nombre": "NUTRIOLOGIA Y DIETOLOGIA"
+        },
+        {
+            "clave": "I6364",
+            "nombre": "OBLIGACIONES FISCALES"
+        },
+        {
+            "clave": "I1540",
+            "nombre": "OFFICE SECRETARIAL"
+        },
+        {
+            "clave": "IE559",
+            "nombre": "OFIMATICA ESTRATEGICA"
+        },
+        {
+            "clave": "I8028",
+            "nombre": "OPERACION DE MAQUINARIA"
+        },
+        {
+            "clave": "I7211",
+            "nombre": "OPERACIONES BASICAS DE LABORATORIO"
+        },
+        {
+            "clave": "I7210",
+            "nombre": "OPERACIONES BASICAS EN LA INDUSTRIA ALIMENTARIA"
+        },
+        {
+            "clave": "I5781",
+            "nombre": "OPERACIONES FORMALES"
+        },
+        {
+            "clave": "I6332",
+            "nombre": "OPERACIONES MERCANTILES ADUANERAS"
+        },
+        {
+            "clave": "I7973",
+            "nombre": "OPERACIONES NUMERICAS"
+        },
+        {
+            "clave": "G0043",
+            "nombre": "OPTATIVA  II"
+        },
+        {
+            "clave": "G0035",
+            "nombre": "OPTATIVA I"
+        },
+        {
+            "clave": "I1541",
+            "nombre": "ORGANIZACION  Y CLASIFICACION DE ARCHIVOS"
+        },
+        {
+            "clave": "I6436",
+            "nombre": "ORGANIZACION DE LABORATORIO"
+        },
+        {
+            "clave": "I5026",
+            "nombre": "ORGANIZACION Y OPERACION DE EMPRESAS"
+        },
+        {
+            "clave": "I6449",
+            "nombre": "ORGANIZATION AND ADVICES"
+        },
+        {
+            "clave": "G0518",
+            "nombre": "ORIENTACION PROFESIONAL"
+        },
+        {
+            "clave": "G0618",
+            "nombre": "ORIENTACION PROFESIONAL"
+        },
+        {
+            "clave": "I6971",
+            "nombre": "ORTODONCIA REMOVIBLE"
+        },
+        {
+            "clave": "G0787",
+            "nombre": "PATOLOGIA CLINICA"
+        },
+        {
+            "clave": "G0677",
+            "nombre": "PATOLOGIA MEDICO QUIRURGICA I"
+        },
+        {
+            "clave": "G0685",
+            "nombre": "PATOLOGIA MEDICO QUIRURGICA II"
+        },
+        {
+            "clave": "G0789",
+            "nombre": "PATOLOGIA QUIRURGICA"
+        },
+        {
+            "clave": "IC114",
+            "nombre": "PATOLOGIAS DEL ADULTO MAYOR"
+        },
+        {
+            "clave": "G0341",
+            "nombre": "PATRIMONIO TURISTICO"
+        },
+        {
+            "clave": "G0341",
+            "nombre": "PATRIMONIO TURISTICO"
+        },
+        {
+            "clave": "G0341",
+            "nombre": "PATRIMONIO TURISTICO"
+        },
+        {
+            "clave": "I7075",
+            "nombre": "PENSAMIENTO ABSTRACTO"
+        },
+        {
+            "clave": "I7306",
+            "nombre": "PENSAMIENTO LOGICO Y ABSTRACTO"
+        },
+        {
+            "clave": "IE477",
+            "nombre": "PERSPECTIVA MULTIDIMENSIONAL DE LA SEGURIDAD"
+        },
+        {
+            "clave": "I7952",
+            "nombre": "PLAGAS, ENFERMEDADES Y METODOS DE COMBATE"
+        },
+        {
+            "clave": "I7096",
+            "nombre": "PLANEACION Y PROGRAMACION CNC"
+        },
+        {
+            "clave": "G0781",
+            "nombre": "PLANIFICACION FAMILIAR"
+        },
+        {
+            "clave": "IE432",
+            "nombre": "PLANIMETRIA DEL LUGAR DE HECHOS"
+        },
+        {
+            "clave": "I5797",
+            "nombre": "PLANTAS DE TRATAMIENTO DE AGUAS"
+        },
+        {
+            "clave": "ID292",
+            "nombre": "PLANTAS MEDICINALES"
+        },
+        {
+            "clave": "IE451",
+            "nombre": "POLITICAS POLICIALES"
+        },
+        {
+            "clave": "G0189",
+            "nombre": "PORCELANA DENTAL"
+        },
+        {
+            "clave": "G0598",
+            "nombre": "PRACTICA DE MOLDEO I"
+        },
+        {
+            "clave": "I7236",
+            "nombre": "PRACTICA DEL HABLA"
+        },
+        {
+            "clave": "G0269",
+            "nombre": "PRACTICAS ADMINISTRATIVAS"
+        },
+        {
+            "clave": "G0269",
+            "nombre": "PRACTICAS ADMINISTRATIVAS"
+        },
+        {
+            "clave": "G0294",
+            "nombre": "PRACTICAS DE OFICINA"
+        },
+        {
+            "clave": "IE566",
+            "nombre": "PRACTICAS DE VIDA SALUDABLE"
+        },
+        {
+            "clave": "IE635",
+            "nombre": "PRACTICAS DE VIDA SALUDABLE"
+        },
+        {
+            "clave": "I4990",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "I7223",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IA799",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IA801",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IA803",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IA805",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IA807",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IA809",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IA811",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IA836",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IE497",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "I5730",
+            "nombre": "PRACTICAS SOCIALES"
+        },
+        {
+            "clave": "I7185",
+            "nombre": "PRACTICING ENGLISH"
+        },
+        {
+            "clave": "I8018",
+            "nombre": "PREPARACION DE MATERIALES PLASTICOS"
+        },
+        {
+            "clave": "I6402",
+            "nombre": "PRESUPUESTOS Y PROGRAMACION DE OBRAS"
+        },
+        {
+            "clave": "IE439",
+            "nombre": "PREVENCION SOCIAL DEL DELITO Y VIOLENCIA"
+        },
+        {
+            "clave": "IE448",
+            "nombre": "PRIMEROS AUXILIOS"
+        },
+        {
+            "clave": "I1571",
+            "nombre": "PRINCIPIOS BASICOS ADMINISTRATIVOS CONTABLES"
+        },
+        {
+            "clave": "I1555",
+            "nombre": "PRINCIPIOS BASICOS DE SALUD PUBLICA"
+        },
+        {
+            "clave": "G0330",
+            "nombre": "PRINCIPIOS DE ADMINISTRACION"
+        },
+        {
+            "clave": "G0330",
+            "nombre": "PRINCIPIOS DE ADMINISTRACION"
+        },
+        {
+            "clave": "G0330",
+            "nombre": "PRINCIPIOS DE ADMINISTRACION"
+        },
+        {
+            "clave": "I4936",
+            "nombre": "PRINCIPIOS DE PROGRAMACION"
+        },
+        {
+            "clave": "I7899",
+            "nombre": "PRINCIPIOS ETICOS"
+        },
+        {
+            "clave": "IA828",
+            "nombre": "PROBABILIDAD Y ESTADISTICA"
+        },
+        {
+            "clave": "IC080",
+            "nombre": "PROBABILIDAD Y ESTADISTICA"
+        },
+        {
+            "clave": "IE454",
+            "nombre": "PROBABILIDAD Y ESTADISTICA"
+        },
+        {
+            "clave": "G0648",
+            "nombre": "PROBABILIDAD Y ESTADISTICA"
+        },
+        {
+            "clave": "I7879",
+            "nombre": "PROCEDIMIENTOS OPERATIVOS"
+        },
+        {
+            "clave": "I7152",
+            "nombre": "PROCESAMIENTO DE INFORMACION"
+        },
+        {
+            "clave": "I6437",
+            "nombre": "PROCESAMIENTO TISULAR"
+        },
+        {
+            "clave": "IC106",
+            "nombre": "PROCESO ENFERMERO"
+        },
+        {
+            "clave": "I5784",
+            "nombre": "PROCESOS ADMINISTRATIVOS Y ARCHIVONOMIA"
+        },
+        {
+            "clave": "I7206",
+            "nombre": "PROCESOS ALEATORIOS"
+        },
+        {
+            "clave": "I6412",
+            "nombre": "PROCESOS COMUNICATIVOS"
+        },
+        {
+            "clave": "I7180",
+            "nombre": "PROCESOS DE MANUFACTURA"
+        },
+        {
+            "clave": "G0215",
+            "nombre": "PROCESOS DE PRODUCCION CERAMICA I"
+        },
+        {
+            "clave": "G0224",
+            "nombre": "PROCESOS DE PRODUCCION CERAMICA III"
+        },
+        {
+            "clave": "G0235",
+            "nombre": "PROCESOS DE PRODUCCION CERAMICA V"
+        },
+        {
+            "clave": "I7903",
+            "nombre": "PROCESOS ECONOMICOS"
+        },
+        {
+            "clave": "I7173",
+            "nombre": "PROCESOS ELECTROLITICOS"
+        },
+        {
+            "clave": "I7243",
+            "nombre": "PROCESOS HISTORICOS"
+        },
+        {
+            "clave": "G0450",
+            "nombre": "PROCESOS INDUSTRIALES II"
+        },
+        {
+            "clave": "I6455",
+            "nombre": "PROCESOS SOCIOECONOMICOS DE MEXICO"
+        },
+        {
+            "clave": "I7249",
+            "nombre": "PROCESOS Y TECNOLOGIA INDUSTRIAL"
+        },
+        {
+            "clave": "G0397",
+            "nombre": "PRODUCCION AGRICOLA"
+        },
+        {
+            "clave": "ID295",
+            "nombre": "PRODUCCION PECUARIA"
+        },
+        {
+            "clave": "I7863",
+            "nombre": "PRODUCTIVIDAD ORGANIZACIONAL"
+        },
+        {
+            "clave": "I4988",
+            "nombre": "PRODUCTOS Y MANUFACTURA SUSTENTABLE"
+        },
+        {
+            "clave": "G0119",
+            "nombre": "PROGRAMA DE EXTENSION Y DIFUSION CULTURAL"
+        },
+        {
+            "clave": "I0168",
+            "nombre": "PROGRAMACION  II"
+        },
+        {
+            "clave": "G0170",
+            "nombre": "PROGRAMACION DE OBRAS"
+        },
+        {
+            "clave": "I0170",
+            "nombre": "PROGRAMACION DE VIDEO JUEGOS"
+        },
+        {
+            "clave": "I0169",
+            "nombre": "PROGRAMACION III"
+        },
+        {
+            "clave": "I4937",
+            "nombre": "PROGRAMACION ORIENTADA A OBJETOS"
+        },
+        {
+            "clave": "I2462",
+            "nombre": "PROGRAMACION TEMATICA"
+        },
+        {
+            "clave": "I2453",
+            "nombre": "PROGRAMACION WEB"
+        },
+        {
+            "clave": "I0173",
+            "nombre": "PROGRAMACION WEB I"
+        },
+        {
+            "clave": "I0174",
+            "nombre": "PROGRAMACION WEB II"
+        },
+        {
+            "clave": "G0049",
+            "nombre": "PROGRAMAS DE EXTENSION Y DIFUSION CULTURAL"
+        },
+        {
+            "clave": "G0041",
+            "nombre": "PROGRAMAS DE EXTENSIONY DIFUSION CULTURAL"
+        },
+        {
+            "clave": "I4804",
+            "nombre": "PROMOCION DE LA LECTURA"
+        },
+        {
+            "clave": "G0771",
+            "nombre": "PROPEDEUTICA DE ENFERMERIA"
+        },
+        {
+            "clave": "G0771",
+            "nombre": "PROPEDEUTICA DE ENFERMERIA"
+        },
+        {
+            "clave": "G0731",
+            "nombre": "PROPEDEUTICA DE ENFERMERIA II"
+        },
+        {
+            "clave": "I6359",
+            "nombre": "PROTECCION DEL AMBIENTE Y CADENAS LOGISTICAS"
+        },
+        {
+            "clave": "G0182",
+            "nombre": "PROTESIS FIJA I"
+        },
+        {
+            "clave": "I6967",
+            "nombre": "PROTESIS REMOVIBLE EN EL LABORATORIO"
+        },
+        {
+            "clave": "G0186",
+            "nombre": "PROTESIS REMOVIBLE II"
+        },
+        {
+            "clave": "I6965",
+            "nombre": "PROTESIS TOTAL EN EL LABORATORIO"
+        },
+        {
+            "clave": "G0184",
+            "nombre": "PROTESIS TOTAL II"
+        },
+        {
+            "clave": "IA797",
+            "nombre": "PROYECTO DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IC246",
+            "nombre": "PROYECTO INTEGRADOR"
+        },
+        {
+            "clave": "ID299",
+            "nombre": "PROYECTO PRODUCTIVO II"
+        },
+        {
+            "clave": "I5759",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "I7339",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IA813",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IA815",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IA817",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IA819",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IA821",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IA823",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IA825",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IE495",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IE542",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "IE631",
+            "nombre": "PROYECTOS DE APLICACION E INNOVACION TECNOLOGICA"
+        },
+        {
+            "clave": "G0621",
+            "nombre": "PROYECTOS DE FUNDICION"
+        },
+        {
+            "clave": "I4966",
+            "nombre": "PSICOLOGIA DE LA PERCEPCION"
+        },
+        {
+            "clave": "G0768",
+            "nombre": "PSICOLOGIA SOCIAL"
+        },
+        {
+            "clave": "G0735",
+            "nombre": "PSICOLOGIA SOCIAL"
+        },
+        {
+            "clave": "G0435",
+            "nombre": "QUIMICA AGRICOLA"
+        },
+        {
+            "clave": "G0238",
+            "nombre": "QUIMICA ANALITICA II"
+        },
+        {
+            "clave": "I7927",
+            "nombre": "QUIMICA DE LA VIDA"
+        },
+        {
+            "clave": "I8007",
+            "nombre": "QUIMICA DEL CARBONO"
+        },
+        {
+            "clave": "G0010",
+            "nombre": "QUIMICA I"
+        },
+        {
+            "clave": "G0317",
+            "nombre": "QUIMICA I"
+        },
+        {
+            "clave": "G0663",
+            "nombre": "QUIMICA I"
+        },
+        {
+            "clave": "G0317",
+            "nombre": "QUIMICA I"
+        },
+        {
+            "clave": "G0406",
+            "nombre": "QUIMICA I"
+        },
+        {
+            "clave": "G0317",
+            "nombre": "QUIMICA I"
+        },
+        {
+            "clave": "G0019",
+            "nombre": "QUIMICA II"
+        },
+        {
+            "clave": "G0325",
+            "nombre": "QUIMICA II"
+        },
+        {
+            "clave": "G0673",
+            "nombre": "QUIMICA II"
+        },
+        {
+            "clave": "G0325",
+            "nombre": "QUIMICA II"
+        },
+        {
+            "clave": "G0412",
+            "nombre": "QUIMICA II"
+        },
+        {
+            "clave": "G0325",
+            "nombre": "QUIMICA II"
+        },
+        {
+            "clave": "G0102",
+            "nombre": "QUIMICA III"
+        },
+        {
+            "clave": "G0418",
+            "nombre": "QUIMICA III"
+        },
+        {
+            "clave": "G0424",
+            "nombre": "QUIMICA IV"
+        },
+        {
+            "clave": "IE603",
+            "nombre": "QUIMICA ORGANICA"
+        },
+        {
+            "clave": "G0543",
+            "nombre": "QUIMICA VI MACROMOLECULAR"
+        },
+        {
+            "clave": "I0132",
+            "nombre": "RAICES CULTURALES"
+        },
+        {
+            "clave": "I6956",
+            "nombre": "RAZON, PROPORCION Y ALGEBRA"
+        },
+        {
+            "clave": "I7924",
+            "nombre": "RAZONAMIENTO ALGEBRAICO Y GEOMETRICO"
+        },
+        {
+            "clave": "I7238",
+            "nombre": "RAZONAMIENTO VERBAL"
+        },
+        {
+            "clave": "I7226",
+            "nombre": "RAZONAMIENTO Y RESOLUCION DE PROBLEMAS"
+        },
+        {
+            "clave": "I4929",
+            "nombre": "REACCIONES QUIMICAS"
+        },
+        {
+            "clave": "I5000",
+            "nombre": "REACCIONES QUIMICAS CERAMICAS"
+        },
+        {
+            "clave": "I6929",
+            "nombre": "READING AND COMPREHENSION"
+        },
+        {
+            "clave": "I7066",
+            "nombre": "READING AND UNDERSTAND"
+        },
+        {
+            "clave": "IE607",
+            "nombre": "REALIDAD ENERGETICA EN MEXICO"
+        },
+        {
+            "clave": "I1583",
+            "nombre": "RECEPCION EN HOTELERIA"
+        },
+        {
+            "clave": "I0150",
+            "nombre": "RECREACION Y APROVECHAMIENTO DEL TIEMPO LIBRE"
+        },
+        {
+            "clave": "I7921",
+            "nombre": "RECURSOS HUMANOS"
+        },
+        {
+            "clave": "I7169",
+            "nombre": "RECURSOS HUMANOS Y RELACIONES HUMANAS"
+        },
+        {
+            "clave": "I4972",
+            "nombre": "REDACCION DE DOCUMENTOS"
+        },
+        {
+            "clave": "I7960",
+            "nombre": "REDACCION DE INFORMES"
+        },
+        {
+            "clave": "IE595",
+            "nombre": "REDACCION DE REPORTES TECNICOS EN INGLES"
+        },
+        {
+            "clave": "I5765",
+            "nombre": "REDACCION E INFORMATICA"
+        },
+        {
+            "clave": "IE426",
+            "nombre": "REDACCION Y ARGUMENTACION DE TEXTOS"
+        },
+        {
+            "clave": "I4947",
+            "nombre": "REDES DE COMPUTADORAS"
+        },
+        {
+            "clave": "G0642",
+            "nombre": "REDES DE COMPUTADORAS"
+        },
+        {
+            "clave": "I0133",
+            "nombre": "REFLEXION ETICA"
+        },
+        {
+            "clave": "I1229",
+            "nombre": "REFLEXION EXISTENCIAL"
+        },
+        {
+            "clave": "I3756",
+            "nombre": "REGIMENES ALIMENTICIOS"
+        },
+        {
+            "clave": "I5746",
+            "nombre": "RELACIONES HUMANAS"
+        },
+        {
+            "clave": "G0285",
+            "nombre": "RELACIONES HUMANAS"
+        },
+        {
+            "clave": "G0272",
+            "nombre": "RELACIONES HUMANAS"
+        },
+        {
+            "clave": "G0342",
+            "nombre": "RELACIONES HUMANAS"
+        },
+        {
+            "clave": "G0342",
+            "nombre": "RELACIONES HUMANAS"
+        },
+        {
+            "clave": "G0342",
+            "nombre": "RELACIONES HUMANAS"
+        },
+        {
+            "clave": "I7337",
+            "nombre": "RELACIONES HUMANAS E INDUSTRIALES"
+        },
+        {
+            "clave": "G0063",
+            "nombre": "RELACIONES HUMANAS Y DESARROLLO HUMANO"
+        },
+        {
+            "clave": "I7071",
+            "nombre": "RELACIONES INDUSTRIALES"
+        },
+        {
+            "clave": "G0273",
+            "nombre": "RELACIONES INDUSTRIALES"
+        },
+        {
+            "clave": "I6419",
+            "nombre": "RELACIONES INTERPERSONALES"
+        },
+        {
+            "clave": "I6481",
+            "nombre": "RELACIONES LABORALES"
+        },
+        {
+            "clave": "I5782",
+            "nombre": "RELACIONES Y ECUACIONES"
+        },
+        {
+            "clave": "IC057",
+            "nombre": "REPARACION DE FRENOS CONVENCIONALES"
+        },
+        {
+            "clave": "I5013",
+            "nombre": "REPRESENTACION GRAFICA"
+        },
+        {
+            "clave": "I4981",
+            "nombre": "REPRESENTACION GRAFICA DE PRODUCTOS"
+        },
+        {
+            "clave": "G0147",
+            "nombre": "REPRESENTACION TRIDIMENSIONAL"
+        },
+        {
+            "clave": "I7947",
+            "nombre": "REPRODUCCION ANIMAL"
+        },
+        {
+            "clave": "G0174",
+            "nombre": "RESISTENCIA DE MATERIALES"
+        },
+        {
+            "clave": "I6415",
+            "nombre": "RESPONSABILIDAD CIVICA Y SOCIAL"
+        },
+        {
+            "clave": "I1551",
+            "nombre": "RIESGOS Y MEDIDAS PREVENTIVAS DE SEGURIDAD"
+        },
+        {
+            "clave": "I1561",
+            "nombre": "RUTINAS BASICAS"
+        },
+        {
+            "clave": "I1556",
+            "nombre": "SALUD BIOPSICOSOCIAL"
+        },
+        {
+            "clave": "IE418",
+            "nombre": "SALUD INTEGRAL"
+        },
+        {
+            "clave": "IC093",
+            "nombre": "SALUD MENTAL"
+        },
+        {
+            "clave": "G0668",
+            "nombre": "SALUD PUBLICA"
+        },
+        {
+            "clave": "G0721",
+            "nombre": "SALUD PUBLICA I"
+        },
+        {
+            "clave": "IE536",
+            "nombre": "SALUD PUBLICA Y AMBIENTE"
+        },
+        {
+            "clave": "I7314",
+            "nombre": "SALUD Y NATURALEZA"
+        },
+        {
+            "clave": "IE331",
+            "nombre": "SANIDAD ANIMAL"
+        },
+        {
+            "clave": "ID300",
+            "nombre": "SANIDAD VEGETAL"
+        },
+        {
+            "clave": "I7984",
+            "nombre": "SEGURIDAD INDUSTRIAL Y AMBIENTAL"
+        },
+        {
+            "clave": "G0301",
+            "nombre": "SEGURIDAD SOCIAL"
+        },
+        {
+            "clave": "I7103",
+            "nombre": "SEGURIDAD Y LEGISLACION INDUSTRIAL"
+        },
+        {
+            "clave": "I5752",
+            "nombre": "SEGURIDAD Y SALUD"
+        },
+        {
+            "clave": "G0004",
+            "nombre": "SEMINARIO DE APRENDIZAJE Y DESARROLLO"
+        },
+        {
+            "clave": "G0362",
+            "nombre": "SEMINARIO DE APRENDIZAJE Y DESARROLLO"
+        },
+        {
+            "clave": "G0310",
+            "nombre": "SEMINARIO DE APRENDIZAJE Y DESARROLLO"
+        },
+        {
+            "clave": "G0097",
+            "nombre": "SEMINARIO DE EDUCACION AMBIENTAL"
+        },
+        {
+            "clave": "G0470",
+            "nombre": "SEMINARIO DE EDUCACION AMBIENTAL"
+        },
+        {
+            "clave": "G0136",
+            "nombre": "SEMINARIO DE INVESTIGACION SOCIAL"
+        },
+        {
+            "clave": "G0340",
+            "nombre": "SEMINARIO TALLER DE NUEVAS OPCIONES TURISTICAS"
+        },
+        {
+            "clave": "G0340",
+            "nombre": "SEMINARIO TALLER DE NUEVAS OPCIONES TURISTICAS"
+        },
+        {
+            "clave": "G0340",
+            "nombre": "SEMINARIO TALLER DE NUEVAS OPCIONES TURISTICAS"
+        },
+        {
+            "clave": "G0350",
+            "nombre": "SEMINARIO TALLER DE TITULACION"
+        },
+        {
+            "clave": "G0350",
+            "nombre": "SEMINARIO TALLER DE TITULACION"
+        },
+        {
+            "clave": "G0350",
+            "nombre": "SEMINARIO TALLER DE TITULACION"
+        },
+        {
+            "clave": "IA794",
+            "nombre": "SERVICIO SOCIAL"
+        },
+        {
+            "clave": "I0151",
+            "nombre": "SEXUALIDAD HUMANA"
+        },
+        {
+            "clave": "I4973",
+            "nombre": "SINTESIS Y DESCRIPCION DE INFORMACION"
+        },
+        {
+            "clave": "IE535",
+            "nombre": "SISTEMAS BIOLOGICOS EN EL TRATAMIENTO DE RESIDUOS ORGANICOS"
+        },
+        {
+            "clave": "I7181",
+            "nombre": "SISTEMAS DE ALIMENTACION"
+        },
+        {
+            "clave": "I7919",
+            "nombre": "SISTEMAS DE GESTION DE BASES DE DATOS"
+        },
+        {
+            "clave": "IE446",
+            "nombre": "SISTEMAS DE GESTION PARA LA INVESTIGACION Y PREVENCION DEL DELITO"
+        },
+        {
+            "clave": "I4956",
+            "nombre": "SISTEMAS DE MEDICION ESPACIAL Y TEMPORAL"
+        },
+        {
+            "clave": "I4958",
+            "nombre": "SISTEMAS DE PROYECCION"
+        },
+        {
+            "clave": "I7974",
+            "nombre": "SISTEMAS NUMERICOS"
+        },
+        {
+            "clave": "I7131",
+            "nombre": "SISTEMAS OPERATIVOS"
+        },
+        {
+            "clave": "G0297",
+            "nombre": "SISTEMAS Y PROCEDIMIENTOS"
+        },
+        {
+            "clave": "G0062",
+            "nombre": "SOCIEDAD CIVIL Y CIENCIAS SOCIALES"
+        },
+        {
+            "clave": "I5733",
+            "nombre": "SOCIEDAD ECONOMICA"
+        },
+        {
+            "clave": "I7192",
+            "nombre": "SOCIOECONOMIA NACIONAL E INTERNACIONAL"
+        },
+        {
+            "clave": "G0723",
+            "nombre": "SOCIOLOGIA I"
+        },
+        {
+            "clave": "I7154",
+            "nombre": "SOCIOLOGIA INDUSTRIAL"
+        },
+        {
+            "clave": "I5747",
+            "nombre": "SOFTWARE ADMINISTRATIVO"
+        },
+        {
+            "clave": "I7080",
+            "nombre": "SOFTWARE ADMINISTRATIVO"
+        },
+        {
+            "clave": "I7931",
+            "nombre": "SOFTWARE AGROPECUARIO"
+        },
+        {
+            "clave": "I6475",
+            "nombre": "SOFTWARE CONTABLE"
+        },
+        {
+            "clave": "G0633",
+            "nombre": "SOFTWARE DE APLICACION I"
+        },
+        {
+            "clave": "G0639",
+            "nombre": "SOFTWARE DE APLICACION II"
+        },
+        {
+            "clave": "I6361",
+            "nombre": "SOFTWARE DE DISTRIBUCION CAPILAR"
+        },
+        {
+            "clave": "I6355",
+            "nombre": "SOFTWARE DE REGISTRO DE MERCANCIAS"
+        },
+        {
+            "clave": "I1545",
+            "nombre": "SOLUCION DE PROBLEMAS DE TEORIA DE NUMEROS"
+        },
+        {
+            "clave": "I7170",
+            "nombre": "SOLUCION DE PROBLEMAS Y TOMA DE DECISIONES"
+        },
+        {
+            "clave": "I6398",
+            "nombre": "SUPERVISION DE CONSTRUCCION"
+        },
+        {
+            "clave": "IC117",
+            "nombre": "SUPERVISION DE INTERVENCIONES EN ENFERMERIA"
+        },
+        {
+            "clave": "I6443",
+            "nombre": "SUSTANCIAS DEL TEJIDO NERVIOSO"
+        },
+        {
+            "clave": "I7077",
+            "nombre": "SUSTANCIAS Y COMPUESTOS QUIMICOS"
+        },
+        {
+            "clave": "IE336",
+            "nombre": "SUSTENTABILIDAD AGROPECUARIA"
+        },
+        {
+            "clave": "I4925",
+            "nombre": "SUSTENTABILIDAD ECOLOGICA"
+        },
+        {
+            "clave": "G0715",
+            "nombre": "TALLER DE ARTE"
+        },
+        {
+            "clave": "G0024",
+            "nombre": "TALLER DE ARTE  II"
+        },
+        {
+            "clave": "G0115",
+            "nombre": "TALLER DE ARTE I"
+        },
+        {
+            "clave": "G0117",
+            "nombre": "TALLER DE ARTE III"
+        },
+        {
+            "clave": "ID327",
+            "nombre": "TALLER DE CERAMICA"
+        },
+        {
+            "clave": "G0242",
+            "nombre": "TALLER DE COMPUTO"
+        },
+        {
+            "clave": "G0129",
+            "nombre": "TALLER DE CREATIVIDAD"
+        },
+        {
+            "clave": "G0385",
+            "nombre": "TALLER DE EDUCACION FISICA"
+        },
+        {
+            "clave": "G0321",
+            "nombre": "TALLER DE EDUCACION FISICA"
+        },
+        {
+            "clave": "G0321",
+            "nombre": "TALLER DE EDUCACION FISICA"
+        },
+        {
+            "clave": "G0016",
+            "nombre": "TALLER DE EDUCACION FISICA  I"
+        },
+        {
+            "clave": "G0033",
+            "nombre": "TALLER DE EDUCACION FISICA  III"
+        },
+        {
+            "clave": "G0121",
+            "nombre": "TALLER DE EDUCACION FISICA II"
+        },
+        {
+            "clave": "G0059",
+            "nombre": "TALLER DE ESTRATEGIAS PARA LA SOLUCION DE PROBLEMAS"
+        },
+        {
+            "clave": "G0064",
+            "nombre": "TALLER DE EXPRESION ESCRITA Y CREACION LITERARIA"
+        },
+        {
+            "clave": "G0128",
+            "nombre": "TALLER DE EXPRESION Y CREACION LITERARIA"
+        },
+        {
+            "clave": "G0604",
+            "nombre": "TALLER DE FUNDICION II"
+        },
+        {
+            "clave": "G0616",
+            "nombre": "TALLER DE FUNDICION IV"
+        },
+        {
+            "clave": "G0055",
+            "nombre": "TALLER DE INVESTIGACION DOCUMENTAL"
+        },
+        {
+            "clave": "IE558",
+            "nombre": "TALLER DE LECTURA Y REDACCION"
+        },
+        {
+            "clave": "G0002",
+            "nombre": "TALLER DE LOGICA"
+        },
+        {
+            "clave": "G0308",
+            "nombre": "TALLER DE LOGICA"
+        },
+        {
+            "clave": "G0656",
+            "nombre": "TALLER DE LOGICA"
+        },
+        {
+            "clave": "G0308",
+            "nombre": "TALLER DE LOGICA"
+        },
+        {
+            "clave": "G0308",
+            "nombre": "TALLER DE LOGICA"
+        },
+        {
+            "clave": "G0072",
+            "nombre": "TALLER DE MAQUETAS"
+        },
+        {
+            "clave": "G0356",
+            "nombre": "TALLER DE PROGRAMACION COMPUTO"
+        },
+        {
+            "clave": "G0084",
+            "nombre": "TALLER DE PROGRAMACION Y COMPUTO"
+        },
+        {
+            "clave": "G0657",
+            "nombre": "TALLER DE PROGRAMACION Y COMPUTO"
+        },
+        {
+            "clave": "G0623",
+            "nombre": "TALLER DE PROGRAMACION Y COMPUTO"
+        },
+        {
+            "clave": "I3762",
+            "nombre": "TALLER DE TEXTILES Y TEXTURAS"
+        },
+        {
+            "clave": "G0552",
+            "nombre": "TALLER I"
+        },
+        {
+            "clave": "G0578",
+            "nombre": "TALLER II"
+        },
+        {
+            "clave": "G0556",
+            "nombre": "TALLER II"
+        },
+        {
+            "clave": "G0561",
+            "nombre": "TALLER III"
+        },
+        {
+            "clave": "G0588",
+            "nombre": "TALLER IV"
+        },
+        {
+            "clave": "G0566",
+            "nombre": "TALLER IV"
+        },
+        {
+            "clave": "IE624",
+            "nombre": "TALLER MECANICO Y DE SOLDADURA"
+        },
+        {
+            "clave": "G0462",
+            "nombre": "TALLER OPTATIVO"
+        },
+        {
+            "clave": "G0034",
+            "nombre": "TALLER OPTATIVO  I"
+        },
+        {
+            "clave": "G0123",
+            "nombre": "TALLER OPTATIVO I"
+        },
+        {
+            "clave": "G0592",
+            "nombre": "TALLER V"
+        },
+        {
+            "clave": "G0592",
+            "nombre": "TALLER V"
+        },
+        {
+            "clave": "IE674",
+            "nombre": "TECNICAS DE CONEXION"
+        },
+        {
+            "clave": "IE524",
+            "nombre": "TECNICAS DE MEJORAMIENTO GENETICO VEGETAL"
+        },
+        {
+            "clave": "I7980",
+            "nombre": "TECNICAS FISICOQUIMICAS DE ANALISIS INDUSTRIALES"
+        },
+        {
+            "clave": "G0195",
+            "nombre": "TECNICAS HISTOLOGICAS II"
+        },
+        {
+            "clave": "G0142",
+            "nombre": "TECNICAS VISUALES DE AMBIENTACION"
+        },
+        {
+            "clave": "I6374",
+            "nombre": "TECNICISMOS EN LA CONSTRUCCION"
+        },
+        {
+            "clave": "G0476",
+            "nombre": "TECNOLOGIA DE ALIMENTOS I"
+        },
+        {
+            "clave": "I7250",
+            "nombre": "TECNOLOGIA DE POLIMEROS"
+        },
+        {
+            "clave": "G0582",
+            "nombre": "TECNOLOGIA ELECTRICA"
+        },
+        {
+            "clave": "G0582",
+            "nombre": "TECNOLOGIA ELECTRICA"
+        },
+        {
+            "clave": "G0420",
+            "nombre": "TECNOLOGIA I"
+        },
+        {
+            "clave": "G0533",
+            "nombre": "TECNOLOGIA I"
+        },
+        {
+            "clave": "G0427",
+            "nombre": "TECNOLOGIA II"
+        },
+        {
+            "clave": "G0535",
+            "nombre": "TECNOLOGIA II"
+        },
+        {
+            "clave": "G0438",
+            "nombre": "TECNOLOGIA III"
+        },
+        {
+            "clave": "G0540",
+            "nombre": "TECNOLOGIA III"
+        },
+        {
+            "clave": "G0449",
+            "nombre": "TECNOLOGIA IV"
+        },
+        {
+            "clave": "G0545",
+            "nombre": "TECNOLOGIA IV"
+        },
+        {
+            "clave": "G0557",
+            "nombre": "TECNOLOGIA MECANICA"
+        },
+        {
+            "clave": "G0504",
+            "nombre": "TECNOLOGIA METALURGICA II"
+        },
+        {
+            "clave": "I2341",
+            "nombre": "TECNOLOGIAS DE LA INFORMACION"
+        },
+        {
+            "clave": "I7959",
+            "nombre": "TECNOLOGIAS DE LA INFORMACION"
+        },
+        {
+            "clave": "I2341",
+            "nombre": "TECNOLOGIAS DE LA INFORMACION"
+        },
+        {
+            "clave": "I0127",
+            "nombre": "TECNOLOGIAS DE LA INFORMACION II"
+        },
+        {
+            "clave": "IE601",
+            "nombre": "TEORIA DE CIRCUITOS DE CD Y CA"
+        },
+        {
+            "clave": "G0050",
+            "nombre": "TEORIA DE LA INFORMACION DOCUMENTAL"
+        },
+        {
+            "clave": "G0060",
+            "nombre": "TEORIA DE LA ORGANIZACION"
+        },
+        {
+            "clave": "G0517",
+            "nombre": "TEORIA DEL CURTIDO"
+        },
+        {
+            "clave": "I5003",
+            "nombre": "TERMODINAMICA DE LAS REACCIONES"
+        },
+        {
+            "clave": "IE484",
+            "nombre": "TERORIAS CRIMINOLOGICAS Y VICTIMOLOGICAS"
+        },
+        {
+            "clave": "I5763",
+            "nombre": "THE WORDING AND INFORMATION"
+        },
+        {
+            "clave": "I7871",
+            "nombre": "TOMA DE DECISIONES EN PROPORCION"
+        },
+        {
+            "clave": "I1550",
+            "nombre": "TOPICOS RELACIONADOS CON EL DIBUJO ASISTIDO POR COMPUTADORA"
+        },
+        {
+            "clave": "G0149",
+            "nombre": "TOPOGRAFIA I"
+        },
+        {
+            "clave": "G0508",
+            "nombre": "TOPOGRAFIA MINERA"
+        },
+        {
+            "clave": "I7221",
+            "nombre": "TOXICOLOGIA DE ALIMENTOS"
+        },
+        {
+            "clave": "G0488",
+            "nombre": "TOXICOLOGIA DE ALIMENTOS"
+        },
+        {
+            "clave": "I6366",
+            "nombre": "TRANSACCIONES INTERNACIONALES"
+        },
+        {
+            "clave": "I8022",
+            "nombre": "TRANSFORMACION DE LA MATERIA PRIMA"
+        },
+        {
+            "clave": "ID298",
+            "nombre": "TRANSFORMACION DE PRODUCTOS AGROPECUARIOS"
+        },
+        {
+            "clave": "IE547",
+            "nombre": "TRATADO DE QUIMICA EN LA INDUSTRIA"
+        },
+        {
+            "clave": "G0459",
+            "nombre": "TRATAMIENTO DE AGUAS"
+        },
+        {
+            "clave": "IE534",
+            "nombre": "TRATAMIENTO DE AGUAS INDUSTRIALES"
+        },
+        {
+            "clave": "I7988",
+            "nombre": "TRATAMIENTO DE AGUAS RESIDUALES"
+        },
+        {
+            "clave": "G0247",
+            "nombre": "TRATAMIENTOS DE DESECHOS INDUSTRIALES"
+        },
+        {
+            "clave": "I7860",
+            "nombre": "TURISMO SOCIAL"
+        },
+        {
+            "clave": "I7148",
+            "nombre": "UNDERSTANDING ENGLISH"
+        },
+        {
+            "clave": "IE385",
+            "nombre": "UNDERSTANDING ENGLISH"
+        },
+        {
+            "clave": "IE556",
+            "nombre": "USO DEL INGLES EN EL CONTEXTO INDUSTRIAL"
+        },
+        {
+            "clave": "IC107",
+            "nombre": "UTILIZACION DE FARMACOS"
+        },
+        {
+            "clave": "IE563",
+            "nombre": "VALORES ETICOS EN LA PRODUCCION"
+        },
+        {
+            "clave": "I5732",
+            "nombre": "VALORES Y CONVIVENCIA"
+        },
+        {
+            "clave": "I7968",
+            "nombre": "VARIABLES DE LOS PROCESOS FISICOQUIMICOS"
+        },
+        {
+            "clave": "I6461",
+            "nombre": "VIDA ORGANIZACIONAL Y SUSTENTABLE"
+        },
+        {
+            "clave": "I2342",
+            "nombre": "VIDA SALUDABLE"
+        },
+        {
+            "clave": "I1578",
+            "nombre": "VIVENCIA EMPRENDEDORA"
+        },
+        {
+            "clave": "G0446",
+            "nombre": "ZIMOLOGIA I"
+        },
+        {
+            "clave": "G0400",
+            "nombre": "ZOOTECNIA AVICOLA Y APICOLA"
+        },
+        {
+            "clave": "G0393",
+            "nombre": "ZOOTECNIA GENERAL"
+        },
+        {
+            "clave": "G0402",
+            "nombre": "ZOOTECNIA PORCICOLA"
+        }
+    ]
+}

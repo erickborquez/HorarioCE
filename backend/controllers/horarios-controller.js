@@ -41,39 +41,39 @@ const getSingleHorario = async (req,res) => {
 }
 
 const crearHorario = async (req, res, next) =>{
-    const {id, materias} = req.body;
+  const { id, materias } = req.body;
 
-    let existingHorario;
-    try{
-        existingHorario = await Horarios.findOne({id});
-    }catch (err){
-        const error = new HttpError("Internal error, please try again later", 500);
-        return next(error);
-    }
-    if(existingHorario){
-        const error = new HttpError(
-            "Horario exists already, please update instead",
-            402
-        );
-        return next(error);
-    }
+  let existingHorario;
+  try {
+    existingHorario = await Horarios.findOne({ id });
+  } catch (err) {
+    const error = new HttpError("Internal error, please try again later", 500);
+    return next(error);
+  }
+  if (existingHorario) {
+    const error = new HttpError(
+      "Horario exists already, please update instead",
+      402
+    );
+    return next(error);
+  }
 
-    const nuevoHorario = new Horarios({
-        id,
-        materias,
+  const nuevoHorario = new Horarios({
+    id,
+    materias,
+  });
+
+  try {
+    await nuevoHorario.save();
+    res
+      .status(200)
+      .json({ data: { horario: nuevoHorario.toObject({ getters: true }) } });
+  } catch (err) {
+    res.status(400).json({
+      message: "Some error occured - POST",
+      err,
     });
-
-    try {
-        await nuevoHorario.save();
-        res
-          .status(200)
-          .json({ data: { horario: nuevoHorario.toObject({ getters: true }) } });
-      } catch (err) {
-        res.status(400).json({
-          message: "Some error occured - POST",
-          err,
-        });
-      }
+  }
 }
 
 const updateHorario = async (req, res, next) => {
