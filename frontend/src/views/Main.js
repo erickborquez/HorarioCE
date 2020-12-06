@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import StyledSelect from "../components/StyledSelect";
 import { makeStyles } from "@material-ui/core";
 import backgroundLogo from "../assets/images/background.svg"
+import Landing from "./Landing"
 import Preferences from "../views/Preferences"
 
 const useStyles = makeStyles(() => ({
@@ -20,25 +21,13 @@ const weyes = [
   { value: "yona5", label: "YonatánYonatánYonatánYonatánYonatánYonatán 5" },
 ];
 
+
 const Main = () => {
-  const classes = useStyles();
-  const [selected, setSelected] = useState(null);
-
-  const handleWeyesChange = (event, value) => {
-    setSelected(value.props.value);
-  };
   return (
-    <div className={classes.root}>
-      <div style={{ width: "50%" }}>
-        <StyledSelect
-          options={weyes}
-          value={selected}
-          handleChange={handleWeyesChange}
-          nullInitialValue
-        />
-      </div>
+    <div>
     </div>
-  );
-};
+  )
+}
 
-export default Main;
+export default Main
+

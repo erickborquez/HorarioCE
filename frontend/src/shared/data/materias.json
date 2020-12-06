@@ -1,4 +1,42 @@
 {
+    "materias2":[
+        {
+        "name": "ALGORITMIA",
+        "nrc": "42268",
+        "clave": "I5884",
+        "dates": [
+            {
+                "day": "MARTES",
+                "start": "1700",
+                "end": "1855"
+            },
+            {
+                "day": "JUEVES",
+                "start": "1700",
+                "end": "1855"
+            }
+        ],
+        "professor": "LUPERCIO CORONEL, RAMIRO"
+        },
+        {
+            "name": "Hola",
+            "nrc": "59549",
+            "clave": "I5884",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "0700",
+                    "end": "0855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "0700",
+                    "end": "0755"
+                }
+            ],
+            "professor": "GARCIA HERNANDEZ, MARTIN"
+        } 
+    ],
     "materias": [
         {
             "name": "ALGORITMIA",

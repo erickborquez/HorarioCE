@@ -1,7 +1,6 @@
 import React, { Children } from "react";
 
 import clsx from "clsx";
-
 import AppBar from "@material-ui/core/AppBar";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Divider from "@material-ui/core/Divider";
@@ -17,17 +16,17 @@ import MailIcon from "@material-ui/icons/Mail";
 import MenuIcon from "@material-ui/icons/Menu";
 import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
-import AppleIcon from '@material-ui/icons/Apple';
-import ScheduleOutlinedIcon from '@material-ui/icons/ScheduleOutlined';
+import AppleIcon from "@material-ui/icons/Apple";
+import ScheduleOutlinedIcon from "@material-ui/icons/ScheduleOutlined";
 
 import { makeStyles, useTheme, withTheme } from "@material-ui/core/styles";
 
 import Logo from "../../assets/images/logo.svg";
 import createPalette from "@material-ui/core/styles/createPalette";
-import StyledSelect from "../../components/StyledSelect"
+import StyledSelect from "../../components/StyledSelect";
 
 const DRAWER_WIDTH = 240;
-const DRAWER_HEIGHT = 800;
+const DRAWER_HEIGHT = 1000;
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -37,14 +36,12 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.up("sm")]: {
       width: DRAWER_WIDTH,
       flexShrink: 0,
-      
     },
   },
   appBar: {
     [theme.breakpoints.up("sm")]: {
       width: `calc(100% - ${DRAWER_WIDTH}px)`,
       marginLeft: DRAWER_WIDTH,
-    
     },
   },
   menuButton: {
@@ -64,7 +61,6 @@ const useStyles = makeStyles((theme) => ({
     flexGrow: 1,
     marginTop: 64,
     minHeight: DRAWER_WIDTH,
-    
   },
   sidebarHeader: {
     display: "flex",
@@ -83,23 +79,20 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const carrers = [
-  { value: "0", label: "Ingeniería Civil"},
+  { value: "0", label: "Ingeniería Civil" },
   { value: "1", label: "Ingeniería en Alimentos y Biotecnología" },
   { value: "2", label: "Ingeniería Topográfica" },
   { value: "3", label: "Ingeniería Industrial" },
   { value: "4", label: "Ingeniería Mecánica Eléctrica" },
-  { value: "5", label: "Ingeniería Química"},
-  { value: "6", label: "Ingeniería en Logística y Transporte"},
-  { value: "7", label: "Ingeniería Informática"},
-  { value: "8", label: "Ingeniería Biomédica"},
-  { value: "9", label: "Ingeniería en Computación"},
-  { value: "10", label: "Ingeniería en Comunicaciones y Electrónica"},
-  { value: "11", label: "Ingeniería Fotónica"},
-  { value: "12", label: "Ingeniería Robótica"},
-  
+  { value: "5", label: "Ingeniería Química" },
+  { value: "6", label: "Ingeniería en Logística y Transporte" },
+  { value: "7", label: "Ingeniería Informática" },
+  { value: "8", label: "Ingeniería Biomédica" },
+  { value: "9", label: "Ingeniería en Computación" },
+  { value: "10", label: "Ingeniería en Comunicaciones y Electrónica" },
+  { value: "11", label: "Ingeniería Fotónica" },
+  { value: "12", label: "Ingeniería Robótica" },
 ];
-
-
 
 function ResponsiveDrawer({ children, window, ...props }) {
   const classes = useStyles();
@@ -118,7 +111,7 @@ function ResponsiveDrawer({ children, window, ...props }) {
       <div></div>
       <Divider />
       <List>
-        {["HorarioCE", "Preferencias",].map((text, index) => (
+        {["HorarioCE", "Preferencias"].map((text, index) => (
           <ListItem button key={text}>
             <ListItemText primary={text} />
           </ListItem>
@@ -131,13 +124,11 @@ function ResponsiveDrawer({ children, window, ...props }) {
   const container =
     window !== undefined ? () => window().document.body : undefined;
 
-    
   return (
     <div className={classes.root}>
       <CssBaseline />
       <AppBar position="fixed" className={classes.appBar}>
         <Toolbar>
-        
           <IconButton
             color="inherit"
             aria-label="open drawer"
@@ -186,7 +177,6 @@ function ResponsiveDrawer({ children, window, ...props }) {
       </nav>
       <main className={classes.content}>{children}</main>
     </div>
-
   );
 }
 
