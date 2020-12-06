@@ -5,8 +5,6 @@ import MenuItem from "@material-ui/core/MenuItem";
 import FormControl from "@material-ui/core/FormControl";
 import Select from "@material-ui/core/Select";
 
-
-
 const useStyles = makeStyles((theme) => ({
   formControl: {
     width: "100%",
@@ -41,10 +39,7 @@ const classes = useStyles();
         defaultValue=""
         id="grouped-select"
         className={classes.background}
-        className={classes.control}
-
-          
-        
+        className={classes.control} 
       >
         {options.map((option) => (
           <MenuItem key={option.value} value={option.value}>

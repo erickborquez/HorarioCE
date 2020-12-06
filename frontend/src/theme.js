@@ -12,7 +12,14 @@ const theme = createMuiTheme({
       light: "#6cf2c1",
       main: "#2ebf91",
       dark: "#008e63",
+      gradient: "#8360C3",
     },
+
+    landing: {
+      main: "#8360C3",
+    },
+
+    
   },
 });
 

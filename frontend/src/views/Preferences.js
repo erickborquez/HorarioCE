@@ -5,15 +5,12 @@ import { makeStyles } from "@material-ui/core";
 import theme from "../theme";
 import StyledSelect from "../components/StyledSelect";
 import * as data from "../shared/data/materias.json";
-import Grid from "../components/Grid";
-//import { borders } from "@material-ui/system";
-//import InputLabel from "@material-ui/core/InputLabel";
+import GridStyle from "../components/GridStyle";
 
 const useStyles = makeStyles((theme) => ({
   root: {
     "& > *": {
       margin: theme.spacing(1),
-      width: "25ch",
       background: theme.palette.primary.dark,
       borderRadius: 10,
     },
@@ -35,24 +32,25 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const word = data.profesores;
+const info = data.materias2;
 
 const Preferences = () => {
   const classes = useStyles();
   const [nrc, setNrc] = useState("");
-  const [teacher, setTeacher] = useState("");
   const [selected, setSelected] = useState(null);
+  const [schedule, setSchedule] = useState(null);
 
   const handleWordChange = (event, value) => {
     setSelected(value.props.value);
   };
 
+  const handleScheduleChange = (event, value) => {
+    setSchedule(value.props.nrc);
+  };
+
   const onChange = (e) => {
     setNrc(e.target.value);
     //setTeacher(event.target.value);
-  };
-
-  const onChangeTeacher = (e) => {
-    setTeacher(e.target.value);
   };
 
   const handleOnChange = (event, value) => {
@@ -86,7 +84,13 @@ const Preferences = () => {
       <Button disabled={!nrc} color="secondary" variant="contained">
         Continuar
       </Button>
-      <Grid/>
+
+      <GridStyle
+        options={info}
+        value={schedule}
+        handleChange={handleScheduleChange}
+        nullInitialValue
+      />
     </form>
   );
 };
