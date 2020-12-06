@@ -1,15 +1,13 @@
 import React, { useState } from "react";
 import TextField from "@material-ui/core/TextField";
 import Button from "@material-ui/core/Button";
-import { Accordion, makeStyles } from "@material-ui/core";
+import { makeStyles } from "@material-ui/core";
 import theme from "../theme";
-import { borders } from "@material-ui/system";
 import StyledSelect from "../components/StyledSelect";
-import * as data from '../shared/data/materias.json';
-import InputLabel from "@material-ui/core/InputLabel";
-
-
-
+import * as data from "../shared/data/materias.json";
+import Grid from "../components/Grid";
+//import { borders } from "@material-ui/system";
+//import InputLabel from "@material-ui/core/InputLabel";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -34,9 +32,7 @@ const useStyles = makeStyles((theme) => ({
   floatingLabelFocusStyle: {
     color: theme.palette.secondary.light,
   },
-
 }));
-
 
 const word = data.profesores;
 
@@ -48,7 +44,7 @@ const Preferences = () => {
 
   const handleWordChange = (event, value) => {
     setSelected(value.props.value);
-  }
+  };
 
   const onChange = (e) => {
     setNrc(e.target.value);
@@ -62,7 +58,6 @@ const Preferences = () => {
   const handleOnChange = (event, value) => {
     setSelected(value.props.value);
   };
-
 
   return (
     <form className={classes.root} noValidate autoComplete="off">
@@ -81,16 +76,17 @@ const Preferences = () => {
       />
       <br></br>
       <div style={{ width: "50%" }}>
-      <StyledSelect
+        <StyledSelect
           options={word}
           value={selected}
           handleChange={handleWordChange}
           nullInitialValue
         />
-      </div> 
+      </div>
       <Button disabled={!nrc} color="secondary" variant="contained">
         Continuar
       </Button>
+      <Grid/>
     </form>
   );
 };
