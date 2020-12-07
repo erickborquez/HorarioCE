@@ -1,0 +1,180 @@
+{
+    "materias": [
+        {
+            "nrc": "57150",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D01",
+            "horas": [
+                "0900-1055"
+            ],
+            "dias": [
+                ">. M . J . .<"
+            ],
+            "professor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN"
+        },
+        {
+            "nrc": "57237",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D02",
+            "horas": [
+                "1100-1255",
+                "1100-1255"
+            ],
+            "dias": [
+                ">L . . . . .<",
+                ">. . I . . .<"
+            ],
+            "professor": "CORTES NAVARRO, LAURA ESTHER"
+        },
+        {
+            "nrc": "57423",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D03",
+            "horas": [
+                "1300-1655"
+            ],
+            "dias": [
+                ">. . . . V .<"
+            ],
+            "professor": "HUERTA CISNEROS, FEDERICO ANTONIO"
+        },
+        {
+            "nrc": "57480",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D04",
+            "horas": [
+                "1900-2055"
+            ],
+            "dias": [
+                ">L . I . . .<"
+            ],
+            "professor": "CORTES NAVARRO, LAURA ESTHER"
+        },
+        {
+            "nrc": "57506",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D05",
+            "horas": [
+                "0900-1055",
+                "0900-1055"
+            ],
+            "dias": [
+                ">L . . . . .<",
+                ">. . I . . .<"
+            ],
+            "professor": "GONZALEZ SOLIS, FERNANDO RENAN"
+        },
+        {
+            "nrc": "57309",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D06",
+            "horas": [
+                "0900-1055"
+            ],
+            "dias": [
+                ">. M . J . .<"
+            ],
+            "professor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        },
+        {
+            "nrc": "56959",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D07",
+            "horas": [
+                "1100-1255"
+            ],
+            "dias": [
+                ">L . I . . .<"
+            ],
+            "professor": "DE LA CRUZ GARCIA, ELBA LILIA"
+        },
+        {
+            "nrc": "57263",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D08",
+            "horas": [
+                "1300-1455"
+            ],
+            "dias": [
+                ">L . I . . .<"
+            ],
+            "professor": "CORTES NAVARRO, LAURA ESTHER"
+        },
+        {
+            "nrc": "57146",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D09",
+            "horas": [
+                "1500-1655",
+                "1500-1655"
+            ],
+            "dias": [
+                ">L . . . . .<",
+                ">. . I . . .<"
+            ],
+            "professor": "FERNANDEZ LUNA, MA"
+        },
+        {
+            "nrc": "57095",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D10",
+            "horas": [
+                "1700-1855"
+            ],
+            "dias": [
+                ">. M . J . .<"
+            ],
+            "professor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        },
+        {
+            "nrc": "57430",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D11",
+            "horas": [
+                "1300-1455",
+                "1300-1455"
+            ],
+            "dias": [
+                ">L . . . . .<",
+                ">. . I . . .<"
+            ],
+            "professor": "CERVANTES LOMELI, ADRIAN"
+        },
+        {
+            "nrc": "10641",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D12",
+            "horas": [
+                "1700-1855"
+            ],
+            "dias": [
+                ">L . I . . .<"
+            ],
+            "professor": "TORRES CORTEZ, OMAR RAFAEL"
+        },
+        {
+            "nrc": "84333",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D13",
+            "horas": [
+                "0900-1255"
+            ],
+            "dias": [
+                ">. . . . V .<"
+            ],
+            "professor": "CERVANTES LOMELI, ADRIAN"
+        },
+        {
+            "nrc": "88750",
+            "nombre": "METODOS MATEMATICOS III",
+            "seccion": "D15",
+            "horas": [
+                "0700-0855"
+            ],
+            "dias": [
+                ">. M . J . .<"
+            ],
+            "professor": "LOPEZ CONTRERAS, NARDA LIZBET"
+        }
+    ]
+}

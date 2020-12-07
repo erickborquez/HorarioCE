@@ -6,6 +6,8 @@ const logger = require("morgan");
 const mongoose = require("mongoose");
 require("dotenv").config();
 
+app.use(cors());
+
 mongoose
   .connect(process.env.MONGO_URI, {
     useUnifiedTopology: true,
@@ -16,10 +18,9 @@ mongoose
   .catch((err) => console.error(err));
 
 const HttpError = require("./models/http-error");
-const port = process.env.port || 3000;
+const port = process.env.port || 5000;
 
 app.use(logger("dev"));
-app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 

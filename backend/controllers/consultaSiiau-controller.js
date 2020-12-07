@@ -28,9 +28,30 @@ const getOferta = async (centro, codigo) => {
   return data;
 };
 
+/*
+        "name": "ALGORITMIA",
+        "nrc": "42268",
+        "seccion":string,
+        "clave": "I5884",
+        "dates": [
+            {
+                "day": "MARTES",
+                "start": "1700",
+                "end": "1855"
+            },
+            {
+                "day": "JUEVES",
+                "start": "1700",
+                "end": "1855"
+            }
+        ],
+        "professor": "LUPERCIO CORONEL, RAMIRO"
+        },
+        */
+
 const formatOferta = (oferta) => {
   const matched = oferta.match(regGeneral);
-  let matchedStr = matched.oString();
+  let matchedStr = matched.toString();
   const materiaCompleta = matchedStr.match(regExp);
   const materiasSiiau = [];
   materiaCompleta.forEach((materia) => {
@@ -88,7 +109,9 @@ const getSiiauData = async (req, res) => {
   const { centro, codigo } = req.params;
 
   try {
+    console.log("BEFORE REQUEST");
     const oferta = await getOferta(centro, codigo);
+    console.log("AFTER REQUEST");
     const materias = _getSiiauData(centro, oferta);
     res.status(200).json({
       data: materias,
