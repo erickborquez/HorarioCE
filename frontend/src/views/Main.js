@@ -106,7 +106,7 @@ const Main = () => {
         dark
         section={3}
         open={section > 2}
-        disabled={section < 3 && section !== 3}
+        disabled={section !== 3}
         onBack={() => dispatch({ type: "back" })}
         nextDisabled
       >
