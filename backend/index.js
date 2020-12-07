@@ -18,7 +18,7 @@ mongoose
   .catch((err) => console.error(err));
 
 const HttpError = require("./models/http-error");
-const port = process.env.port || 5000;
+const port = process.env.port || 6000;
 
 app.use(logger("dev"));
 app.use(bodyParser.urlencoded({ extended: true }));
