@@ -5,7 +5,7 @@ import { makeStyles } from "@material-ui/core";
 import theme from "../theme";
 import StyledSelect from "../components/StyledSelect";
 import * as data from "../shared/data/materias.json";
-import GridStyle from "../components/GridStyle";
+import Schedule from "../components/Schedule";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -18,7 +18,6 @@ const useStyles = makeStyles((theme) => ({
 
   sideLogo: {
     color: "secondary",
-
     font: theme.palette.secondary.light,
   },
 
@@ -85,7 +84,7 @@ const Preferences = () => {
         Continuar
       </Button>
 
-      <GridStyle
+      <Schedule
         options={info}
         value={schedule}
         handleChange={handleScheduleChange}

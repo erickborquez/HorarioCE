@@ -1,0 +1,5104 @@
+{
+    "materias": [
+        {
+            "clave": "P0377",
+            "nombre": "NUTRICION DE RUMIANTES"
+        },
+        {
+            "clave": "BC120",
+            "nombre": "ALGEBRA LINEAL"
+        },
+        {
+            "clave": "BC127",
+            "nombre": "ANALISIS CLINICOS"
+        },
+        {
+            "clave": "BC128",
+            "nombre": "ANALISIS FISICOQUIMICOS APLICADOS"
+        },
+        {
+            "clave": "BC101",
+            "nombre": "BIOLOGIA CELULAR"
+        },
+        {
+            "clave": "BC124",
+            "nombre": "BIOLOGIA DE LOS PROCESOS PATOLOGICOS"
+        },
+        {
+            "clave": "BC113",
+            "nombre": "BIOLOGIA DEL DESARROLLO"
+        },
+        {
+            "clave": "BC510",
+            "nombre": "BIOLOGIA FORENSE"
+        },
+        {
+            "clave": "BC108",
+            "nombre": "BIOLOGIA MOLECULAR"
+        },
+        {
+            "clave": "BC104",
+            "nombre": "CALCULO DIFERENCIAL E INTEGRAL"
+        },
+        {
+            "clave": "BC122",
+            "nombre": "CIRUGIA EXPERIMENTAL ANIMAL"
+        },
+        {
+            "clave": "BC121",
+            "nombre": "GENETICA AVANZADA"
+        },
+        {
+            "clave": "BC111",
+            "nombre": "GENETICA EVOLUTIVA"
+        },
+        {
+            "clave": "BC107",
+            "nombre": "HISTORIA DE LA BIOLOGIA"
+        },
+        {
+            "clave": "BC123",
+            "nombre": "INGENIERIA GENETICA"
+        },
+        {
+            "clave": "BC117",
+            "nombre": "METODOS ANALITICOS"
+        },
+        {
+            "clave": "BPP03",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "BC118",
+            "nombre": "QUIMICA ANALITICA"
+        },
+        {
+            "clave": "BC126",
+            "nombre": "TECNICAS SUBACUATICAS"
+        },
+        {
+            "clave": "BC125",
+            "nombre": "TOPICOS SELECTOS EN BIOLOGIA EXPERIMENTAL"
+        },
+        {
+            "clave": "PS109",
+            "nombre": "ADMINISTRACION DE EMPRESAS PECUARIAS"
+        },
+        {
+            "clave": "PS110",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES AGRICOLAS"
+        },
+        {
+            "clave": "PS111",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES AVICOLAS"
+        },
+        {
+            "clave": "PS112",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES DE BOVINOS"
+        },
+        {
+            "clave": "PS113",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES DE LA FAUNA SILVESTRE"
+        },
+        {
+            "clave": "PS115",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES PORCICOLAS"
+        },
+        {
+            "clave": "PS116",
+            "nombre": "ADMINISTRACION DE RECURSOS HUMANOS"
+        },
+        {
+            "clave": "PS114",
+            "nombre": "ADMINISTRACION FORESTAL"
+        },
+        {
+            "clave": "PG112",
+            "nombre": "AGRICULTURA ORGANICA"
+        },
+        {
+            "clave": "BC127",
+            "nombre": "ANALISIS CLINICOS"
+        },
+        {
+            "clave": "BC128",
+            "nombre": "ANALISIS FISICOQUIMICOS APLICADOS"
+        },
+        {
+            "clave": "PN101",
+            "nombre": "ANDROLOGIA VETERINARIA"
+        },
+        {
+            "clave": "PS163",
+            "nombre": "AVALUOS DE BIENES AGROPECUARIOS Y FORESTALES"
+        },
+        {
+            "clave": "MV107",
+            "nombre": "BACTERIOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "BC113",
+            "nombre": "BIOLOGIA DEL DESARROLLO"
+        },
+        {
+            "clave": "BC108",
+            "nombre": "BIOLOGIA MOLECULAR"
+        },
+        {
+            "clave": "BZ144",
+            "nombre": "BIOTECNOLOGIA ALIMENTARIA"
+        },
+        {
+            "clave": "PN130",
+            "nombre": "BIOTECNOLOGIA DE LA REPRODUCCION"
+        },
+        {
+            "clave": "BZ145",
+            "nombre": "BIOTECNOLOGIA PARA EL CULTIVO DE HONGOS COMESTIBLES"
+        },
+        {
+            "clave": "BZ146",
+            "nombre": "BIOTECNOLOGIA VEGETAL"
+        },
+        {
+            "clave": "CM108",
+            "nombre": "CALIDAD DE AGUAS"
+        },
+        {
+            "clave": "PF134",
+            "nombre": "CELULOSA Y PAPEL"
+        },
+        {
+            "clave": "MV130",
+            "nombre": "CIRUGIA DE TEJIDOS BLANDOS Y ORTOPEDIA EN PERROS Y GATOS"
+        },
+        {
+            "clave": "MV110",
+            "nombre": "CIRUGIA VETERINARIA"
+        },
+        {
+            "clave": "MV129",
+            "nombre": "CLINICA Y MANEJO DE FAUNA SILVESTRE"
+        },
+        {
+            "clave": "CM103",
+            "nombre": "CONSERVACION DEL SUELO Y AGUA"
+        },
+        {
+            "clave": "PS121",
+            "nombre": "CONTABILIDAD AGROPECUARIA"
+        },
+        {
+            "clave": "PG117",
+            "nombre": "CONTROL BIOLOGICO"
+        },
+        {
+            "clave": "PG119",
+            "nombre": "CONTROL DE PLAGAS HORTICOLAS"
+        },
+        {
+            "clave": "PG120",
+            "nombre": "CONTROL INTEGRADO DE PLAGAS AGRICOLAS"
+        },
+        {
+            "clave": "PG111",
+            "nombre": "CONTROL INTEGRADO DE PLAGAS FORESTALES"
+        },
+        {
+            "clave": "PS122",
+            "nombre": "CREDITO AGROPECUARIO"
+        },
+        {
+            "clave": "EC107",
+            "nombre": "CULTIVOS DE APOYO Y NUTRICION EN LA ACUICULTURA"
+        },
+        {
+            "clave": "PF129",
+            "nombre": "DASONOMIA URBANA"
+        },
+        {
+            "clave": "PS123",
+            "nombre": "DERECHO AGRARIO"
+        },
+        {
+            "clave": "PS124",
+            "nombre": "DESARROLLO ORGANIZACIONAL"
+        },
+        {
+            "clave": "PS125",
+            "nombre": "DESARROLLO RURAL"
+        },
+        {
+            "clave": "PS127",
+            "nombre": "DESARROLLO SUSTENTABLE"
+        },
+        {
+            "clave": "PS128",
+            "nombre": "DETERMINACION Y CONTROL DE COSTOS"
+        },
+        {
+            "clave": "MV118",
+            "nombre": "DIAGNOSTICO VETERINARIO"
+        },
+        {
+            "clave": "EC118",
+            "nombre": "ECOFISIOLOGIA DE ORGANISMOS ACUATICOS"
+        },
+        {
+            "clave": "EC112",
+            "nombre": "ECOFISIOLOGIA VEGETAL"
+        },
+        {
+            "clave": "EC104",
+            "nombre": "ECOLOGIA DE COMUNIDADES"
+        },
+        {
+            "clave": "EC103",
+            "nombre": "ECOLOGIA DE POBLACIONES"
+        },
+        {
+            "clave": "PF111",
+            "nombre": "ECOLOGIA FORESTAL"
+        },
+        {
+            "clave": "CM110",
+            "nombre": "ECONOMIA AMBIENTAL"
+        },
+        {
+            "clave": "PF102",
+            "nombre": "ELEMENTOS DE TOPOGRAFIA"
+        },
+        {
+            "clave": "SA115",
+            "nombre": "ENFERMEDADES EXOTICAS DE LOS ANIMALES DOMESTICOS"
+        },
+        {
+            "clave": "PN108",
+            "nombre": "ENFERMEDADES HEREDITARIAS DE LA PRODUCCION ANIMAL"
+        },
+        {
+            "clave": "PN110",
+            "nombre": "ESTRES Y ADAPTACION ANIMAL"
+        },
+        {
+            "clave": "PF106",
+            "nombre": "ESTRUCTURA Y CALIDAD DE LA MADERA"
+        },
+        {
+            "clave": "PN111",
+            "nombre": "ETOLOGIA DE LOS ANIMALES DOMESTICOS"
+        },
+        {
+            "clave": "PN112",
+            "nombre": "FABRICACION DE ALIMENTOS PECUARIOS"
+        },
+        {
+            "clave": "MV111",
+            "nombre": "FARMACOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "CM106",
+            "nombre": "FERTILIDAD DE SUELOS"
+        },
+        {
+            "clave": "SA105",
+            "nombre": "FISICOQUIMICA ALIMENTARIA"
+        },
+        {
+            "clave": "EC113",
+            "nombre": "FISIOLOGIA DE CULTIVOS AGRICOLAS"
+        },
+        {
+            "clave": "MV113",
+            "nombre": "FISIOLOGIA DE LA DIGESTION"
+        },
+        {
+            "clave": "MV134",
+            "nombre": "FISIOLOGIA DE LA PRODUCCION"
+        },
+        {
+            "clave": "MV114",
+            "nombre": "FISIOLOGIA DE LA REPRODUCCION"
+        },
+        {
+            "clave": "BZ147",
+            "nombre": "FLORA Y VEGETACION DE LA NUEVA GALICIA"
+        },
+        {
+            "clave": "PS131",
+            "nombre": "FORMULACION Y EVALUACION DE PROYECTOS DE INVERSION"
+        },
+        {
+            "clave": "PG103",
+            "nombre": "FRUTICULTURA GENERAL"
+        },
+        {
+            "clave": "PN138",
+            "nombre": "GANADERIA DIVERSIFICADA"
+        },
+        {
+            "clave": "PN103",
+            "nombre": "GENETICA ANIMAL"
+        },
+        {
+            "clave": "BC121",
+            "nombre": "GENETICA AVANZADA"
+        },
+        {
+            "clave": "MV131",
+            "nombre": "GENETICA CLINICA"
+        },
+        {
+            "clave": "PG132",
+            "nombre": "GENETICA CUANTITATIVA"
+        },
+        {
+            "clave": "BC111",
+            "nombre": "GENETICA EVOLUTIVA"
+        },
+        {
+            "clave": "PN139",
+            "nombre": "GENOTECNIA ANIMAL"
+        },
+        {
+            "clave": "PG133",
+            "nombre": "GENOTECNIA VEGETAL"
+        },
+        {
+            "clave": "PN100",
+            "nombre": "GINECOLOGIA Y OBSTETRICIA VETERINARIA"
+        },
+        {
+            "clave": "PF100",
+            "nombre": "HIDRAULICA E HIDROLOGIA"
+        },
+        {
+            "clave": "SA108",
+            "nombre": "HIGIENE Y TECNOLOGIA DE LA CARNE"
+        },
+        {
+            "clave": "SA109",
+            "nombre": "HIGIENE Y TECNOLOGIA DE LA LECHE"
+        },
+        {
+            "clave": "BZ102",
+            "nombre": "HISTOLOGIA Y ANATOMIA VEGETAL"
+        },
+        {
+            "clave": "CM113",
+            "nombre": "IMPACTO AMBIENTAL"
+        },
+        {
+            "clave": "PF114",
+            "nombre": "INDUSTRIAS FORESTALES"
+        },
+        {
+            "clave": "BC123",
+            "nombre": "INGENIERIA GENETICA"
+        },
+        {
+            "clave": "PF104",
+            "nombre": "INGENIERIA PECUARIA"
+        },
+        {
+            "clave": "MV105",
+            "nombre": "INMUNOLOGIA CLINICA"
+        },
+        {
+            "clave": "PN113",
+            "nombre": "INSEMINACION ARTIFICIAL"
+        },
+        {
+            "clave": "PS126",
+            "nombre": "INTRODUCCION A LAS TEORIAS DE DESARROLLO ECONOMICO"
+        },
+        {
+            "clave": "PF115",
+            "nombre": "INVENTARIOS FORESTALES"
+        },
+        {
+            "clave": "PS133",
+            "nombre": "INVESTIGACION DE MERCADOS AGROPECUARIOS Y FORESTALES"
+        },
+        {
+            "clave": "PS165",
+            "nombre": "LEGISLACION AMBIENTAL"
+        },
+        {
+            "clave": "PS135",
+            "nombre": "LEGISLACION DE MERCADOS DE PRODUCTOS AGROPECUARIOS"
+        },
+        {
+            "clave": "PS136",
+            "nombre": "LEGISLACION EN MATERIA DE AGUA Y ALIMENTOS"
+        },
+        {
+            "clave": "PS137",
+            "nombre": "LEGISLACION FORESTAL"
+        },
+        {
+            "clave": "PS138",
+            "nombre": "LEGISLACION PECUARIA"
+        },
+        {
+            "clave": "PG102",
+            "nombre": "MALEZA Y FITOPATOGENOS"
+        },
+        {
+            "clave": "PN116",
+            "nombre": "MANEJO DE ANIMALES DE ZOOLOGICO Y FAUNA SILVESTRE"
+        },
+        {
+            "clave": "PF128",
+            "nombre": "MANEJO DE AREAS NATURALES"
+        },
+        {
+            "clave": "CM114",
+            "nombre": "MANEJO DE CUENCAS"
+        },
+        {
+            "clave": "PG138",
+            "nombre": "MANEJO DE HUERTOS"
+        },
+        {
+            "clave": "CM115",
+            "nombre": "MANEJO DE LA VIDA SILVESTRE"
+        },
+        {
+            "clave": "SA107",
+            "nombre": "MANEJO HIGIENICO DE ALIMENTOS"
+        },
+        {
+            "clave": "PG139",
+            "nombre": "MANEJO Y CONSERVACION DE GRANOS Y SEMILLAS"
+        },
+        {
+            "clave": "CM126",
+            "nombre": "MANEJO Y PLANIFICACION DE AREAS SILVESTRES I"
+        },
+        {
+            "clave": "CM127",
+            "nombre": "MANEJO Y PLANIFICACION DE AREAS SILVESTRES II"
+        },
+        {
+            "clave": "PS140",
+            "nombre": "MATEMATICAS FINANCIERAS"
+        },
+        {
+            "clave": "BZ115",
+            "nombre": "MECANISMOS DE ADAPTACION ANIMAL"
+        },
+        {
+            "clave": "PN107",
+            "nombre": "MEJORAMIENTO GENETICO ANIMAL"
+        },
+        {
+            "clave": "PG140",
+            "nombre": "MEJORAMIENTO GENETICO DE ESPECIES FORRAJERAS"
+        },
+        {
+            "clave": "PG141",
+            "nombre": "MEJORAMIENTO GENETICO DE HORTALIZAS"
+        },
+        {
+            "clave": "PG110",
+            "nombre": "MEJORAMIENTO GENETICO FORESTAL"
+        },
+        {
+            "clave": "BC117",
+            "nombre": "METODOS ANALITICOS"
+        },
+        {
+            "clave": "PS143",
+            "nombre": "METODOS CUANTITATIVOS"
+        },
+        {
+            "clave": "PS145",
+            "nombre": "METODOS DE EXTENSION"
+        },
+        {
+            "clave": "PS101",
+            "nombre": "METODOS ESTADISTICOS"
+        },
+        {
+            "clave": "PG142",
+            "nombre": "METODOS Y EQUIPO DE APLICACION DE AGROQUIMICOS"
+        },
+        {
+            "clave": "SA106",
+            "nombre": "MICROBIOLOGIA ALIMENTARIA"
+        },
+        {
+            "clave": "CM129",
+            "nombre": "MICROBIOLOGIA DEL SUELO"
+        },
+        {
+            "clave": "MV132",
+            "nombre": "MICROBIOLOGIA PECUARIA"
+        },
+        {
+            "clave": "PS148",
+            "nombre": "MUESTREO ESTADISTICO"
+        },
+        {
+            "clave": "PN104",
+            "nombre": "NUTRICION ANIMAL I"
+        },
+        {
+            "clave": "PN105",
+            "nombre": "NUTRICION ANIMAL II"
+        },
+        {
+            "clave": "CM133",
+            "nombre": "NUTRICION VEGETAL"
+        },
+        {
+            "clave": "PF117",
+            "nombre": "ORDENACION FORESTAL"
+        },
+        {
+            "clave": "CM116",
+            "nombre": "ORDENAMIENTO ECOLOGICO"
+        },
+        {
+            "clave": "PS149",
+            "nombre": "ORGANIZACION DE PRODUCTORES"
+        },
+        {
+            "clave": "MV106",
+            "nombre": "PARASITOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "PN114",
+            "nombre": "PATOLOGIA DE LA REPRODUCCION"
+        },
+        {
+            "clave": "MV109",
+            "nombre": "PATOLOGIA GENERAL VETERINARIA"
+        },
+        {
+            "clave": "MV117",
+            "nombre": "PATOLOGIA SISTEMICA"
+        },
+        {
+            "clave": "CM118",
+            "nombre": "PLANEACION DEL DESARROLLO"
+        },
+        {
+            "clave": "PS150",
+            "nombre": "PLANEACION Y PROGRAMACION AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "PF119",
+            "nombre": "PLANTACIONES FORESTALES"
+        },
+        {
+            "clave": "PS151",
+            "nombre": "PRACTICAS DE ADMINISTRACION AGROPECUARIA"
+        },
+        {
+            "clave": "PG145",
+            "nombre": "PRACTICAS DE FITOTECNIA"
+        },
+        {
+            "clave": "PS152",
+            "nombre": "PRACTICAS DE FORMULACION Y EVALUACION DE PROYECTOS DE INVERSION"
+        },
+        {
+            "clave": "PN137",
+            "nombre": "PRACTICAS PECUARIAS"
+        },
+        {
+            "clave": "PF131",
+            "nombre": "PRESERVACION DE LA MADERA"
+        },
+        {
+            "clave": "PF120",
+            "nombre": "PRESERVACION FORESTAL"
+        },
+        {
+            "clave": "PG146",
+            "nombre": "PROBLEMAS ESPECIALES DE CONTROL BIOLOGICO"
+        },
+        {
+            "clave": "PN128",
+            "nombre": "PRODUCCION APICOLA"
+        },
+        {
+            "clave": "PN117",
+            "nombre": "PRODUCCION AVICOLA"
+        },
+        {
+            "clave": "PN125",
+            "nombre": "PRODUCCION AVICOLA NO CONVENCIONAL"
+        },
+        {
+            "clave": "PN126",
+            "nombre": "PRODUCCION CUNICOLA"
+        },
+        {
+            "clave": "PN118",
+            "nombre": "PRODUCCION DE BOVINOS CARNE"
+        },
+        {
+            "clave": "PN119",
+            "nombre": "PRODUCCION DE BOVINOS LECHE"
+        },
+        {
+            "clave": "PG101",
+            "nombre": "PRODUCCION DE CULTIVOS"
+        },
+        {
+            "clave": "PG108",
+            "nombre": "PRODUCCION DE CULTIVOS FORRAJEROS"
+        },
+        {
+            "clave": "PG147",
+            "nombre": "PRODUCCION DE ESPECIES ORNAMENTALES"
+        },
+        {
+            "clave": "PN140",
+            "nombre": "PRODUCCION DE OVINOS Y CAPRINOS"
+        },
+        {
+            "clave": "EC117",
+            "nombre": "PRODUCCION EN SISTEMAS ACUATICOS"
+        },
+        {
+            "clave": "SA117",
+            "nombre": "PRODUCCION PECUARIA E IMPACTO AMBIENTAL"
+        },
+        {
+            "clave": "PN127",
+            "nombre": "PRODUCCION PISCICOLA"
+        },
+        {
+            "clave": "PN121",
+            "nombre": "PRODUCCION PORCINA"
+        },
+        {
+            "clave": "PG151",
+            "nombre": "PRODUCCION Y EVALUACION DE AGENTES DE CONTROL BIOLOGICO"
+        },
+        {
+            "clave": "PF135",
+            "nombre": "PRODUCTOS QUIMICOS DERIVADOS DE LA MADERA"
+        },
+        {
+            "clave": "MV112",
+            "nombre": "PROPEDEUTICA CLINICA"
+        },
+        {
+            "clave": "PF110",
+            "nombre": "PROPIEDADES TECNOLOGICAS DE LA MADERA"
+        },
+        {
+            "clave": "BC118",
+            "nombre": "QUIMICA ANALITICA"
+        },
+        {
+            "clave": "CM120",
+            "nombre": "RESTAURACION DE AMBIENTES DEGRADADOS"
+        },
+        {
+            "clave": "PF101",
+            "nombre": "RIEGO Y DRENAJE"
+        },
+        {
+            "clave": "CM121",
+            "nombre": "RIESGO AMBIENTAL"
+        },
+        {
+            "clave": "MV133",
+            "nombre": "SANIDAD ANIMAL"
+        },
+        {
+            "clave": "PF122",
+            "nombre": "SILVICULTURA TROPICAL"
+        },
+        {
+            "clave": "CM122",
+            "nombre": "SISTEMAS DE INFORMACION GEOGRAFICA"
+        },
+        {
+            "clave": "PG153",
+            "nombre": "SISTEMAS DE PRODUCCION AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "PN106",
+            "nombre": "SISTEMAS DE PRODUCCION ANIMAL"
+        },
+        {
+            "clave": "PS156",
+            "nombre": "TECNICAS DE INVESTIGACION FORESTAL"
+        },
+        {
+            "clave": "PS157",
+            "nombre": "TECNICAS DE INVESTIGACION PECUARIA"
+        },
+        {
+            "clave": "PS158",
+            "nombre": "TECNICAS DE INVESTIGACION SOCIAL"
+        },
+        {
+            "clave": "PS159",
+            "nombre": "TECNICAS DE OPTIMIZACION"
+        },
+        {
+            "clave": "PN133",
+            "nombre": "TECNOLOGIA DE PRODUCTOS OVINOS Y CAPRINOS"
+        },
+        {
+            "clave": "PN134",
+            "nombre": "TECNOLOGIA DE SUBPRODUCTOS OVINOS Y CAPRINOS"
+        },
+        {
+            "clave": "PS160",
+            "nombre": "TEORIA GERENCIAL"
+        },
+        {
+            "clave": "BZ150",
+            "nombre": "TOPICOS SELECTOS DE ETNOBIOLOGIA"
+        },
+        {
+            "clave": "SA113",
+            "nombre": "TOXICOLOGIA ALIMENTARIA"
+        },
+        {
+            "clave": "CM123",
+            "nombre": "TOXICOLOGIA AMBIENTAL"
+        },
+        {
+            "clave": "PG155",
+            "nombre": "TOXICOLOGIA Y RESISTENCIA A PLAGUICIDAS"
+        },
+        {
+            "clave": "PS162",
+            "nombre": "VALORACION AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "MV108",
+            "nombre": "VIROLOGIA VETERINARIA"
+        },
+        {
+            "clave": "PF125",
+            "nombre": "VIVEROS FORESTALES"
+        },
+        {
+            "clave": "PF127",
+            "nombre": "VIVEROS Y PLANTACIONES FORESTALES"
+        },
+        {
+            "clave": "PN136",
+            "nombre": "ZOOTECNIA APLICADA"
+        },
+        {
+            "clave": "PS109",
+            "nombre": "ADMINISTRACION DE EMPRESAS PECUARIAS"
+        },
+        {
+            "clave": "PN101",
+            "nombre": "ANDROLOGIA VETERINARIA"
+        },
+        {
+            "clave": "PN100",
+            "nombre": "GINECOLOGIA Y OBSTETRICIA VETERINARIA"
+        },
+        {
+            "clave": "PN125",
+            "nombre": "PRODUCCION AVICOLA NO CONVENCIONAL"
+        },
+        {
+            "clave": "PN127",
+            "nombre": "PRODUCCION PISCICOLA"
+        },
+        {
+            "clave": "BZ144",
+            "nombre": "BIOTECNOLOGIA ALIMENTARIA"
+        },
+        {
+            "clave": "BZ145",
+            "nombre": "BIOTECNOLOGIA PARA EL CULTIVO DE HONGOS COMESTIBLES"
+        },
+        {
+            "clave": "BZ146",
+            "nombre": "BIOTECNOLOGIA VEGETAL"
+        },
+        {
+            "clave": "BZ119",
+            "nombre": "BOTANICA FORESTAL"
+        },
+        {
+            "clave": "BZ156",
+            "nombre": "BOTANICA GENERAL Y SISTEMATICA"
+        },
+        {
+            "clave": "BZ152",
+            "nombre": "COLECCIONES BOTANICAS"
+        },
+        {
+            "clave": "BZ120",
+            "nombre": "COLORANTES ORGANICOS"
+        },
+        {
+            "clave": "BZ148",
+            "nombre": "DIBUJO CIENTIFICO"
+        },
+        {
+            "clave": "BZ155",
+            "nombre": "ENTOMOLOGIA GENERAL"
+        },
+        {
+            "clave": "BZ121",
+            "nombre": "EXTINCION DE ESPECIES"
+        },
+        {
+            "clave": "BZ101",
+            "nombre": "FISIOLOGIA ANIMAL COMPARADA"
+        },
+        {
+            "clave": "BZ147",
+            "nombre": "FLORA Y VEGETACION DE LA NUEVA GALICIA"
+        },
+        {
+            "clave": "BZ132",
+            "nombre": "GRUPOS ZOOLOGICOS"
+        },
+        {
+            "clave": "BZ102",
+            "nombre": "HISTOLOGIA Y ANATOMIA VEGETAL"
+        },
+        {
+            "clave": "BZ100",
+            "nombre": "HISTOLOGIA Y EMBRIOLOGIA ANIMAL COMPARADA"
+        },
+        {
+            "clave": "BZ115",
+            "nombre": "MECANISMOS DE ADAPTACION ANIMAL"
+        },
+        {
+            "clave": "BZ143",
+            "nombre": "OTROS GRUPOS VEGETALES"
+        },
+        {
+            "clave": "BZ109",
+            "nombre": "PLANTAS CRIPTOGAMAS"
+        },
+        {
+            "clave": "BZ149",
+            "nombre": "TOPICOS SELECTOS DE BIOTECNOLOGIA"
+        },
+        {
+            "clave": "BZ122",
+            "nombre": "TOPICOS SELECTOS DE BOTANICA"
+        },
+        {
+            "clave": "BZ150",
+            "nombre": "TOPICOS SELECTOS DE ETNOBIOLOGIA"
+        },
+        {
+            "clave": "BZ123",
+            "nombre": "TOPICOS SELECTOS DE ZOOLOGIA"
+        },
+        {
+            "clave": "IA536",
+            "nombre": "ADMINISTRACION AGRICOLA"
+        },
+        {
+            "clave": "B0068",
+            "nombre": "ADMINISTRACION DE EMPRESAS II"
+        },
+        {
+            "clave": "IL139",
+            "nombre": "ADMINISTRACION Y FINANZAS DE EMPRESAS PORCINAS"
+        },
+        {
+            "clave": "IK714",
+            "nombre": "ALMACENAMIENTO Y CONSERVACION DE SEMILLAS"
+        },
+        {
+            "clave": "I1248",
+            "nombre": "ANALISIS DE LOS SISTEMAS DE PRODUCCION AGRICOLA Y FORESTAL"
+        },
+        {
+            "clave": "I1247",
+            "nombre": "ANALISIS DE LOS SISTEMAS DE PRODUCCION PECUARIA"
+        },
+        {
+            "clave": "B0088",
+            "nombre": "ANALISIS DEL FENOMENO SOCIOCULTURAL EN LA ALIMENTACION HUMANA II"
+        },
+        {
+            "clave": "I1237",
+            "nombre": "ANALISIS FINANCIERO DE EMPRESAS AGROPECUARIAS"
+        },
+        {
+            "clave": "I2780",
+            "nombre": "ANATOMIA Y FISIOLOGIA HUMANA"
+        },
+        {
+            "clave": "IC668",
+            "nombre": "AUTOMATIZACION EN SISTEMAS PROTEGIDOS"
+        },
+        {
+            "clave": "B0120",
+            "nombre": "BIOLOGIA CELULAR"
+        },
+        {
+            "clave": "B0110",
+            "nombre": "BIOTECNOLOGIA ALIMENTARIA"
+        },
+        {
+            "clave": "B0111",
+            "nombre": "BIOTECNOLOGIA PARA EL CULTIVO DE HONGOS COMESTIBLES"
+        },
+        {
+            "clave": "I1249",
+            "nombre": "CADENA DE SISTEMA PRODUCTO DE LA REGION CENTRO OCCIDENTE"
+        },
+        {
+            "clave": "B0083",
+            "nombre": "CARACTERIZACION, PREVENCION Y CONTROL DE RIESGOS ASOCIADOS AL CONSUMO DE ALIMENTOS II"
+        },
+        {
+            "clave": "I1470",
+            "nombre": "COMPORTAMIENTO ANIMAL"
+        },
+        {
+            "clave": "B0133",
+            "nombre": "CONCEPCIONES DE MUNDO Y SENTIDO DE REALIDAD"
+        },
+        {
+            "clave": "IC669",
+            "nombre": "CONTROL BIORRACIONAL DE PLAGAS Y ENFERMEDADES"
+        },
+        {
+            "clave": "I1240",
+            "nombre": "CREACION DE PLANES DE NEGOCIOS"
+        },
+        {
+            "clave": "B0113",
+            "nombre": "CULTIVOS INDUSTRIALIZABLES"
+        },
+        {
+            "clave": "I2782",
+            "nombre": "CULTURA GASTRONOMICA"
+        },
+        {
+            "clave": "I2906",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2908",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2910",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2912",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2914",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2916",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2918",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2920",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2922",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2924",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2906",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2908",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2910",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2912",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2914",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2916",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2918",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2920",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2922",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "I2924",
+            "nombre": "CURSO BASICO"
+        },
+        {
+            "clave": "B0210",
+            "nombre": "CURSO BASICO II"
+        },
+        {
+            "clave": "B0212",
+            "nombre": "CURSO BASICO IV"
+        },
+        {
+            "clave": "I1253",
+            "nombre": "DESARROLLO DE HABILIDADES DE CONSULTORIA"
+        },
+        {
+            "clave": "I2783",
+            "nombre": "DESARROLLO HUMANO"
+        },
+        {
+            "clave": "IK712",
+            "nombre": "DESCRIPCION Y CARACTERIZACION VARIETAL DE ESPECIES VEGETALES"
+        },
+        {
+            "clave": "B0069",
+            "nombre": "DIAGNOSTICO DE LA INDUSTRIA ALIMENTARIA"
+        },
+        {
+            "clave": "IA534",
+            "nombre": "ECOFISIOLOGIA DE CULTIVOS"
+        },
+        {
+            "clave": "I1483",
+            "nombre": "ECOFISIOLOGIA DE ORGANISMOS ACUATICOS"
+        },
+        {
+            "clave": "I1472",
+            "nombre": "ECOLOGIA DE POBLACIONES"
+        },
+        {
+            "clave": "B0124",
+            "nombre": "ECOLOGIA GENERAL"
+        },
+        {
+            "clave": "B0122",
+            "nombre": "ECONOMIA GENERAL"
+        },
+        {
+            "clave": "I3276",
+            "nombre": "ELABORACION Y EVALUACION DE PROYECTOS PRODUCTIVOS"
+        },
+        {
+            "clave": "I3271",
+            "nombre": "ENDOCRINOLOGIA DE LA REPRODUCCION"
+        },
+        {
+            "clave": "I1465",
+            "nombre": "ESTANCIA ACADEMICA O DE VINCULACION"
+        },
+        {
+            "clave": "I1494",
+            "nombre": "ESTANCIA ACADEMICA O DE VINCULACION"
+        },
+        {
+            "clave": "I0679",
+            "nombre": "ESTANCIA ACADEMICA O DE VINCULACION  I"
+        },
+        {
+            "clave": "I1496",
+            "nombre": "ESTANCIA ACADEMICA O DE VINCULACION II"
+        },
+        {
+            "clave": "I3095",
+            "nombre": "ESTANCIA ACADEMICA O DE VINCULACION III"
+        },
+        {
+            "clave": "IA543",
+            "nombre": "ESTANCIA EN EMPRESAS"
+        },
+        {
+            "clave": "B0079",
+            "nombre": "ESTANCIA EN INDUSTRIA ALIMENTARIA II"
+        },
+        {
+            "clave": "IK709",
+            "nombre": "ESTUDIO DEL DETERIODO DE SEMILLAS"
+        },
+        {
+            "clave": "ID336",
+            "nombre": "EVALUACION DE AGRONEGOCIOS"
+        },
+        {
+            "clave": "I1499",
+            "nombre": "EVALUACION DE LA BIODIVERSIDAD EN DIFERENTES ESCALAS ESPACIALES"
+        },
+        {
+            "clave": "B0073",
+            "nombre": "EVALUACION DE LA COMPOSICION DEL ALIMENTO II"
+        },
+        {
+            "clave": "B0071",
+            "nombre": "EVALUACION MICROBIOLOGICA DE ALIMENTOS II"
+        },
+        {
+            "clave": "B0074",
+            "nombre": "EVALUACION TOXICOLOGICA DEL ALIMENTO I"
+        },
+        {
+            "clave": "B0134",
+            "nombre": "EVOLUCION HISTORICA DE LAS RELACIONES SOCIEDAD NATURALEZA"
+        },
+        {
+            "clave": "IJ569",
+            "nombre": "FISIOLOGIA Y BIOQUIMICA DE SEMILLAS"
+        },
+        {
+            "clave": "I3268",
+            "nombre": "FORRAJES Y PASTIZALES"
+        },
+        {
+            "clave": "I1252",
+            "nombre": "FUTUROS AGROPECAURIOS"
+        },
+        {
+            "clave": "I2787",
+            "nombre": "GASTRONOMIA AVANZADA II"
+        },
+        {
+            "clave": "I1492",
+            "nombre": "GENETICA ECOLOGICA"
+        },
+        {
+            "clave": "IL133",
+            "nombre": "GENETICA PORCINA"
+        },
+        {
+            "clave": "I1254",
+            "nombre": "GESTION DE AGRONEGOCIOS"
+        },
+        {
+            "clave": "IA532",
+            "nombre": "GESTION DEL CLIMA EN AMBIENTES PROTEGIDOS"
+        },
+        {
+            "clave": "I2789",
+            "nombre": "GESTION EMPRESARIAL II"
+        },
+        {
+            "clave": "IL144",
+            "nombre": "INDUSTRIALIZACION DEL CERDO"
+        },
+        {
+            "clave": "I1256",
+            "nombre": "INOCUIDAD ALIMENTARIA"
+        },
+        {
+            "clave": "B0114",
+            "nombre": "INSPECCION DE ALIMENTOS DE ORIGEN ANIMAL"
+        },
+        {
+            "clave": "I1255",
+            "nombre": "INTEGRACION DE CADENAS PRODUCTIVAS"
+        },
+        {
+            "clave": "I1235",
+            "nombre": "INTRODUCCION A LOS AGRONEGOCIOS"
+        },
+        {
+            "clave": "B0063",
+            "nombre": "LECTOCOMPRENSION DE LITERATURA TECNICA EN INGLES I"
+        },
+        {
+            "clave": "IA540",
+            "nombre": "MANEJO DE SISTEMAS PRESURIZADOS DE FERTIRRIEGO"
+        },
+        {
+            "clave": "IA541",
+            "nombre": "MANEJO INTEGRADO DE ENFERMEDADES EN CULTIVOS PROTEGIDOS"
+        },
+        {
+            "clave": "IK706",
+            "nombre": "MANEJO Y CONSERVACION DE GERMOPLASMA VEGETAL"
+        },
+        {
+            "clave": "B0127",
+            "nombre": "MERCADOS Y COMERCIALIZACION DE PRODUCTOS AGROPECUARIOS"
+        },
+        {
+            "clave": "I1238",
+            "nombre": "MERCADOTECNIA AGROPECUARIA"
+        },
+        {
+            "clave": "B0132",
+            "nombre": "METODOLOGIAS DE INVESTIGACION"
+        },
+        {
+            "clave": "I1259",
+            "nombre": "METODOS DE EXTENSIONISMO"
+        },
+        {
+            "clave": "I1239",
+            "nombre": "METODOS DE INVESTIGACION"
+        },
+        {
+            "clave": "IL137",
+            "nombre": "METODOS ESTADISTICOS"
+        },
+        {
+            "clave": "I2790",
+            "nombre": "MICROBIOLOGIA INDUSTRIAL"
+        },
+        {
+            "clave": "IJ573",
+            "nombre": "NORMATIVIDAD DE SEMILLAS"
+        },
+        {
+            "clave": "IA533",
+            "nombre": "NUTRICION DE CULTIVOS"
+        },
+        {
+            "clave": "I3270",
+            "nombre": "NUTRICION DE RUMIANTES"
+        },
+        {
+            "clave": "I2791",
+            "nombre": "NUTRICION ESPECIAL"
+        },
+        {
+            "clave": "B0143",
+            "nombre": "OPTATIVA I"
+        },
+        {
+            "clave": "B0131",
+            "nombre": "PARADIGMAS DE LA INVESTIGACION EDUCATIVA"
+        },
+        {
+            "clave": "I1236",
+            "nombre": "PLANEACION ESTRATEGICA"
+        },
+        {
+            "clave": "IL145",
+            "nombre": "PLANEACION Y EVALUACION DE EMPRESAS PORCINAS"
+        },
+        {
+            "clave": "B0094",
+            "nombre": "PREPARACION GASTRONOMICA I"
+        },
+        {
+            "clave": "B0116",
+            "nombre": "PRESUPUESTOS Y FINANZAS"
+        },
+        {
+            "clave": "I2792",
+            "nombre": "PROCESOS TECNOLOGICOS EN LA TRANSFORMACION DE ALIMENTOS"
+        },
+        {
+            "clave": "ID334",
+            "nombre": "PRODUCCION DE ESPECIES AROMATICAS"
+        },
+        {
+            "clave": "IK708",
+            "nombre": "PRODUCCION DE SEMILLAS DE ESPECIES ALTERNATIVAS"
+        },
+        {
+            "clave": "IC386",
+            "nombre": "PRODUCCION ORGANICA"
+        },
+        {
+            "clave": "I2795",
+            "nombre": "PROGRAMA DE EXCELENCIA SANITARIA EN ESTABLECIMIENTO DE PREPARACION Y SERVICIO DE ALIMENTOS Y BEBIDAS"
+        },
+        {
+            "clave": "B0086",
+            "nombre": "PROTECCION AMBIENTAL EN LA INDUSTRIA ALIMENTARIA"
+        },
+        {
+            "clave": "B0062",
+            "nombre": "PROYECTO DE INVESTIGACION II"
+        },
+        {
+            "clave": "B0130",
+            "nombre": "RECONSTRUCCION DEL CONOCIMIENTO Y LOS SABERES AMBIENTALES"
+        },
+        {
+            "clave": "I1485",
+            "nombre": "RECURSOS FITOGENETICOS"
+        },
+        {
+            "clave": "B0066",
+            "nombre": "REDACCION Y EXPRESION ORAL EN INGLES II"
+        },
+        {
+            "clave": "B0077",
+            "nombre": "REGULACION EN MATERIA DE ALIMENTOS II"
+        },
+        {
+            "clave": "IL135",
+            "nombre": "REPRODUCCION PORCINA"
+        },
+        {
+            "clave": "I3266",
+            "nombre": "SANIDAD ANIMAL"
+        },
+        {
+            "clave": "IL140",
+            "nombre": "SEMINARIO DE COMERCIALIZACION Y MERCADOS"
+        },
+        {
+            "clave": "I3258",
+            "nombre": "SEMINARIO DE INVESTIGACION II"
+        },
+        {
+            "clave": "I3261",
+            "nombre": "SEMINARIO DE INVESTIGACION IV"
+        },
+        {
+            "clave": "I1245",
+            "nombre": "SEMINARIO DE OPCION TERMINAL I"
+        },
+        {
+            "clave": "I1246",
+            "nombre": "SEMINARIO DE OPCION TERMINAL II"
+        },
+        {
+            "clave": "B0140",
+            "nombre": "SEMINARIO DE TESIS II"
+        },
+        {
+            "clave": "B0080",
+            "nombre": "SEMINARIO I"
+        },
+        {
+            "clave": "B0220",
+            "nombre": "SEMINARIO II"
+        },
+        {
+            "clave": "B0081",
+            "nombre": "SEMINARIO II"
+        },
+        {
+            "clave": "B0221",
+            "nombre": "SEMINARIO III"
+        },
+        {
+            "clave": "B0105",
+            "nombre": "SEMINARIO III"
+        },
+        {
+            "clave": "B0222",
+            "nombre": "SEMINARIO IV"
+        },
+        {
+            "clave": "B0222",
+            "nombre": "SEMINARIO IV"
+        },
+        {
+            "clave": "I1257",
+            "nombre": "SIGNOS DISTINTIVOS DE CALIDAD"
+        },
+        {
+            "clave": "ID331",
+            "nombre": "SISTEMA DE PRODUCCION DE FRUTILLA"
+        },
+        {
+            "clave": "ID332",
+            "nombre": "SISTEMA DE PRODUCCION DE PLANTAS ORNAMENTALES"
+        },
+        {
+            "clave": "I1258",
+            "nombre": "SISTEMAS AGROALIMENTARIOS LOCALIZADOS"
+        },
+        {
+            "clave": "I1250",
+            "nombre": "SISTEMAS AGROINDUSTRIALES"
+        },
+        {
+            "clave": "IK711",
+            "nombre": "SISTEMAS DE INFORMACION AMBIENTAL EN LA PRODUCCION DE SEMILLAS"
+        },
+        {
+            "clave": "I3263",
+            "nombre": "SISTEMAS DE PRODUCCION PECUARIA"
+        },
+        {
+            "clave": "I1464",
+            "nombre": "TECNICAS BASICAS DE BIOLOGIA MOLECULAR EN ECOLOGIA"
+        },
+        {
+            "clave": "I1460",
+            "nombre": "TECNICAS DE CAMPO Y LABORATORIO EN ECOFISIOLOGIA VEGETAL"
+        },
+        {
+            "clave": "I1244",
+            "nombre": "TECNICAS Y METODOLOGIAS PARA EL DESARROLLO REGIONAL"
+        },
+        {
+            "clave": "I1446",
+            "nombre": "TEMAS SELECTOS EN ECOLOGIA"
+        },
+        {
+            "clave": "I3659",
+            "nombre": "TEMAS SELECTOS EN ECOLOGIA"
+        },
+        {
+            "clave": "I3661",
+            "nombre": "TEMAS SELECTOS EN ECOLOGIA"
+        },
+        {
+            "clave": "I3663",
+            "nombre": "TEMAS SELECTOS EN ECOLOGIA"
+        },
+        {
+            "clave": "I3275",
+            "nombre": "TEMAS SELECTOS II"
+        },
+        {
+            "clave": "B0141",
+            "nombre": "TEORIAS DEL APRENDIZAJE Y LA EVALUACION"
+        },
+        {
+            "clave": "I2949",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2951",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2953",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2955",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2957",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2959",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2961",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2963",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2965",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2967",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2969",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2971",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2973",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2975",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2977",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2948",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2950",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2952",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2954",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2956",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2958",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2960",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2962",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2964",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2966",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2968",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2970",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2972",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2974",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "I2976",
+            "nombre": "TOPICO SELECTO"
+        },
+        {
+            "clave": "B0213",
+            "nombre": "TOPICO SELECTO I"
+        },
+        {
+            "clave": "B0214",
+            "nombre": "TOPICO SELECTO II"
+        },
+        {
+            "clave": "B0216",
+            "nombre": "TOPICO SELECTO IV"
+        },
+        {
+            "clave": "I3066",
+            "nombre": "TOPICO SELECTO RESTAURACION ECOLOGICA"
+        },
+        {
+            "clave": "B0217",
+            "nombre": "TOPICO SELECTO V"
+        },
+        {
+            "clave": "I2586",
+            "nombre": "TOPICO SELECTO VII"
+        },
+        {
+            "clave": "I2589",
+            "nombre": "TOPICO SELECTO X"
+        },
+        {
+            "clave": "IJ575",
+            "nombre": "TOPICOS SELECTOS"
+        },
+        {
+            "clave": "I2796",
+            "nombre": "TOPICOS SELECTOS EN ALIMENTACION CIENCIA DE LOS ALIMENTOS I"
+        },
+        {
+            "clave": "I1486",
+            "nombre": "TOPICOS SELECTOS EN ECOLOGIA FUNCIONAL ANIMAL"
+        },
+        {
+            "clave": "I1484",
+            "nombre": "TOPICOS SELECTOS EN ECOLOGIA FUNCIONAL VEGETAL"
+        },
+        {
+            "clave": "I2798",
+            "nombre": "TOXICOLOGIA ANALITICA"
+        },
+        {
+            "clave": "I2683",
+            "nombre": "TRABAJO DE CONCLUSION DE TESIS DE DOCTORADO"
+        },
+        {
+            "clave": "B0226",
+            "nombre": "TRABAJO DE CONCLUSION DE TESIS DE MAESTRIA"
+        },
+        {
+            "clave": "I2606",
+            "nombre": "TRABAJO DE CONCLUSION DE TESIS DOCTORADO"
+        },
+        {
+            "clave": "I0610",
+            "nombre": "TRABAJO DE CONCLUSION DE TESIS DOCTORADO"
+        },
+        {
+            "clave": "I4776",
+            "nombre": "TRABAJO DE CONCLUSION DE TESIS DOCTORADO"
+        },
+        {
+            "clave": "I2598",
+            "nombre": "TRABAJO DE INVESTIGACION I"
+        },
+        {
+            "clave": "IJ572",
+            "nombre": "TRABAJO DE INVESTIGACION I"
+        },
+        {
+            "clave": "I4771",
+            "nombre": "TRABAJO DE INVESTIGACION I"
+        },
+        {
+            "clave": "I2599",
+            "nombre": "TRABAJO DE INVESTIGACION II"
+        },
+        {
+            "clave": "IK699",
+            "nombre": "TRABAJO DE INVESTIGACION II"
+        },
+        {
+            "clave": "I4772",
+            "nombre": "TRABAJO DE INVESTIGACION II"
+        },
+        {
+            "clave": "I4773",
+            "nombre": "TRABAJO DE INVESTIGACION III"
+        },
+        {
+            "clave": "I2600",
+            "nombre": "TRABAJO DE INVESTIGACION III"
+        },
+        {
+            "clave": "I2601",
+            "nombre": "TRABAJO DE INVESTIGACION IV"
+        },
+        {
+            "clave": "I2601",
+            "nombre": "TRABAJO DE INVESTIGACION IV"
+        },
+        {
+            "clave": "I2602",
+            "nombre": "TRABAJO DE INVESTIGACION V"
+        },
+        {
+            "clave": "I2602",
+            "nombre": "TRABAJO DE INVESTIGACION V"
+        },
+        {
+            "clave": "I2603",
+            "nombre": "TRABAJO DE INVESTIGACION VI"
+        },
+        {
+            "clave": "I2604",
+            "nombre": "TRABAJO DE INVESTIGACION VII"
+        },
+        {
+            "clave": "I2605",
+            "nombre": "TRABAJO DE INVESTIGACION VIII"
+        },
+        {
+            "clave": "I1242",
+            "nombre": "TRANSFERENCIA DE TECNOLOGIA"
+        },
+        {
+            "clave": "CM140",
+            "nombre": "ADMINISTRACION DE LOS RECURSOS NATURALES"
+        },
+        {
+            "clave": "CM107",
+            "nombre": "AMENAZAS NATURALES"
+        },
+        {
+            "clave": "CM108",
+            "nombre": "CALIDAD DE AGUAS"
+        },
+        {
+            "clave": "CM103",
+            "nombre": "CONSERVACION DEL SUELO Y AGUA"
+        },
+        {
+            "clave": "CM128",
+            "nombre": "DEGRADACION DE SISTEMAS TERRESTRES"
+        },
+        {
+            "clave": "CM109",
+            "nombre": "DIDACTICA DE LA BIOLOGIA"
+        },
+        {
+            "clave": "CM110",
+            "nombre": "ECONOMIA AMBIENTAL"
+        },
+        {
+            "clave": "SCM01",
+            "nombre": "ECONOMIA Y SALUD AMBIENTAL"
+        },
+        {
+            "clave": "CM132",
+            "nombre": "EDAFOLOGIA FORESTAL"
+        },
+        {
+            "clave": "CM138",
+            "nombre": "EDUCACION AMBIENTAL"
+        },
+        {
+            "clave": "SCM02",
+            "nombre": "EDUCACION PARA LA SALUD AMBIENTAL"
+        },
+        {
+            "clave": "SCM03",
+            "nombre": "EPIDEMIOLOGIA BASICA"
+        },
+        {
+            "clave": "SCM05",
+            "nombre": "ESTANCIA DE VINCULACION I"
+        },
+        {
+            "clave": "SCM06",
+            "nombre": "ESTANCIA DE VINCULACION II"
+        },
+        {
+            "clave": "SCM07",
+            "nombre": "ESTANCIA DE VINCULACION III"
+        },
+        {
+            "clave": "SCM08",
+            "nombre": "ESTANCIA DE VINCULACION IV"
+        },
+        {
+            "clave": "SCM09",
+            "nombre": "ETICA AMBIENTAL"
+        },
+        {
+            "clave": "CM106",
+            "nombre": "FERTILIDAD DE SUELOS"
+        },
+        {
+            "clave": "CM124",
+            "nombre": "FERTILIZACION BIOLOGICA"
+        },
+        {
+            "clave": "CM112",
+            "nombre": "FOTOINTERPRETACION Y CARTOGRAFIA"
+        },
+        {
+            "clave": "SCM10",
+            "nombre": "GESTION AMBIENTAL"
+        },
+        {
+            "clave": "CM113",
+            "nombre": "IMPACTO AMBIENTAL"
+        },
+        {
+            "clave": "CM113",
+            "nombre": "IMPACTO AMBIENTAL"
+        },
+        {
+            "clave": "CM125",
+            "nombre": "INTRODUCCION A LA PERCEPCION REMOTA"
+        },
+        {
+            "clave": "SCM11",
+            "nombre": "LEGISLACION AMBIENTAL DE LA SALUD"
+        },
+        {
+            "clave": "CM114",
+            "nombre": "MANEJO DE CUENCAS"
+        },
+        {
+            "clave": "CM114",
+            "nombre": "MANEJO DE CUENCAS"
+        },
+        {
+            "clave": "CM141",
+            "nombre": "MANEJO DE DESECHOS"
+        },
+        {
+            "clave": "CM115",
+            "nombre": "MANEJO DE LA VIDA SILVESTRE"
+        },
+        {
+            "clave": "SCM12",
+            "nombre": "MANEJO DE LA VULNERABILIDAD"
+        },
+        {
+            "clave": "CM126",
+            "nombre": "MANEJO Y PLANIFICACION DE AREAS SILVESTRES I"
+        },
+        {
+            "clave": "CM127",
+            "nombre": "MANEJO Y PLANIFICACION DE AREAS SILVESTRES II"
+        },
+        {
+            "clave": "CM105",
+            "nombre": "METEOROLOGIA Y CLIMATOLOGIA"
+        },
+        {
+            "clave": "CM137",
+            "nombre": "METODOS DE INVESTIGACION EDUCATIVA"
+        },
+        {
+            "clave": "CM129",
+            "nombre": "MICROBIOLOGIA DEL SUELO"
+        },
+        {
+            "clave": "CM133",
+            "nombre": "NUTRICION VEGETAL"
+        },
+        {
+            "clave": "CM116",
+            "nombre": "ORDENAMIENTO ECOLOGICO"
+        },
+        {
+            "clave": "CM118",
+            "nombre": "PLANEACION DEL DESARROLLO"
+        },
+        {
+            "clave": "SCM17",
+            "nombre": "PLANEACION TERRITORIAL"
+        },
+        {
+            "clave": "BPP00",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "BPPOO",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "SCM18",
+            "nombre": "PROCEDIMIENTOS ANALITICOS I"
+        },
+        {
+            "clave": "SCM19",
+            "nombre": "PROCEDIMIENTOS ANALITICOS II"
+        },
+        {
+            "clave": "SCM20",
+            "nombre": "PROCESOS DE CONTAMINACION Y DEGRADACION AMBIENTAL"
+        },
+        {
+            "clave": "SCM21",
+            "nombre": "PSICOLOGIA AMBIENTAL"
+        },
+        {
+            "clave": "CM131",
+            "nombre": "QUIMICA AGRICOLA"
+        },
+        {
+            "clave": "CM120",
+            "nombre": "RESTAURACION DE AMBIENTES DEGRADADOS"
+        },
+        {
+            "clave": "SCM22",
+            "nombre": "RIESGO AMBIENTAL"
+        },
+        {
+            "clave": "SCM22",
+            "nombre": "RIESGO AMBIENTAL"
+        },
+        {
+            "clave": "SCM23",
+            "nombre": "SANEAMIENTO BASICO"
+        },
+        {
+            "clave": "SCM24",
+            "nombre": "SEMINARIO DE ESPECIALIZACION I"
+        },
+        {
+            "clave": "SCM25",
+            "nombre": "SEMINARIO DE ESPECIALIZACION II"
+        },
+        {
+            "clave": "CM529",
+            "nombre": "SISTEMAS DE INFORMACION GEOGRAFICA"
+        },
+        {
+            "clave": "CM529",
+            "nombre": "SISTEMAS DE INFORMACION GEOGRAFICA"
+        },
+        {
+            "clave": "CM136",
+            "nombre": "TEORIA CURRICULAR"
+        },
+        {
+            "clave": "CM134",
+            "nombre": "TEORIAS DEL APRENDIZAJE"
+        },
+        {
+            "clave": "SCM26",
+            "nombre": "TOPICOS SELECTOS DE SALUD AMBIENTAL I"
+        },
+        {
+            "clave": "SCM27",
+            "nombre": "TOPICOS SELECTOS DE SALUD AMBIENTAL II"
+        },
+        {
+            "clave": "SCM28",
+            "nombre": "TOXICOLOGIA AMBIENTAL"
+        },
+        {
+            "clave": "SCM28",
+            "nombre": "TOXICOLOGIA AMBIENTAL"
+        },
+        {
+            "clave": "SCM29",
+            "nombre": "TOXICOLOGIA BASICA"
+        },
+        {
+            "clave": "SCM30",
+            "nombre": "VIGILANCIA EPIDEMIOLOGICA"
+        },
+        {
+            "clave": "IL009",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL I"
+        },
+        {
+            "clave": "IL010",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL II"
+        },
+        {
+            "clave": "IL011",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL III"
+        },
+        {
+            "clave": "IL012",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL IV"
+        },
+        {
+            "clave": "IL017",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL IX"
+        },
+        {
+            "clave": "IL013",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL V"
+        },
+        {
+            "clave": "IL014",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL VI"
+        },
+        {
+            "clave": "IL015",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL VII"
+        },
+        {
+            "clave": "IL016",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL VIII"
+        },
+        {
+            "clave": "IL027",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA  IX"
+        },
+        {
+            "clave": "IL019",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA I"
+        },
+        {
+            "clave": "C0224",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA III"
+        },
+        {
+            "clave": "C0225",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA IV"
+        },
+        {
+            "clave": "C0230",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA IX"
+        },
+        {
+            "clave": "IL023",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA V"
+        },
+        {
+            "clave": "C0228",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA VII"
+        },
+        {
+            "clave": "C0229",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA VIII"
+        },
+        {
+            "clave": "C0201",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA X"
+        },
+        {
+            "clave": "IL024",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TERORICA VI"
+        },
+        {
+            "clave": "C0221",
+            "nombre": "ACTIVIDAD OMPLEMENTARIA METODOLOGICA INSTRUMENTAL X"
+        },
+        {
+            "clave": "I4742",
+            "nombre": "ACTIVIDADES OPTATIVAS ABIERTAS II"
+        },
+        {
+            "clave": "IE718",
+            "nombre": "ANALISIS DE CASOS"
+        },
+        {
+            "clave": "I6728",
+            "nombre": "AREA DE ESPECIALIZACION SELECTICA I"
+        },
+        {
+            "clave": "I6730",
+            "nombre": "AREA DE ESPECIALIZACION SELECTIVA III"
+        },
+        {
+            "clave": "IE716",
+            "nombre": "BIOETICA APLICADA"
+        },
+        {
+            "clave": "IE717",
+            "nombre": "BIOETICA Y DERECHO"
+        },
+        {
+            "clave": "IE715",
+            "nombre": "BIOETICA Y SOCIEDAD"
+        },
+        {
+            "clave": "IK925",
+            "nombre": "BIOLOGIA MOLECULAR"
+        },
+        {
+            "clave": "C0243",
+            "nombre": "CURSO OPTATIVO I"
+        },
+        {
+            "clave": "C0244",
+            "nombre": "CURSO OPTATIVO II"
+        },
+        {
+            "clave": "I0975",
+            "nombre": "DESARROLLO DE PROYECTO DE INVESTIGACION II"
+        },
+        {
+            "clave": "I0977",
+            "nombre": "DESARROLLO DE PROYECTO DE INVESTIGACION IV"
+        },
+        {
+            "clave": "I0973",
+            "nombre": "ECONOMIA Y SALUD AMBIENTAL"
+        },
+        {
+            "clave": "I4737",
+            "nombre": "EDUCACION Y COMUNICACION"
+        },
+        {
+            "clave": "I6720",
+            "nombre": "EPISTEMOLOGIA DE LA CIENCIA APLICADA A LA SALUD AMBIENTAL"
+        },
+        {
+            "clave": "IE714",
+            "nombre": "ETICA PARA LA BIOETICA"
+        },
+        {
+            "clave": "IL005",
+            "nombre": "FILOSOFIA DE LA CIENCIA"
+        },
+        {
+            "clave": "I0980",
+            "nombre": "GESTION AMBIENTAL"
+        },
+        {
+            "clave": "C0194",
+            "nombre": "GESTION DE PROYECTOS DE INVESTIGACION"
+        },
+        {
+            "clave": "IL007",
+            "nombre": "INNOVACION, TRANSFERENCIA CIENTIFICA Y TECNOLOGIA EN CIENCIAS DE LA SALUD"
+        },
+        {
+            "clave": "I4734",
+            "nombre": "INTERVENCION TECNICA PARA LA SALUD AMBIENTAL"
+        },
+        {
+            "clave": "I0989",
+            "nombre": "MANEJO DE LA VULNERABILIDAD"
+        },
+        {
+            "clave": "IE710",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION I"
+        },
+        {
+            "clave": "I4728",
+            "nombre": "METODOS DE ANALISIS ESTADISTICO APLICADOS A LA SALUD AMBIENTAL"
+        },
+        {
+            "clave": "IE726",
+            "nombre": "PRACTICA EN BIOETICA I"
+        },
+        {
+            "clave": "I4738",
+            "nombre": "PROCEDIMIENTOS ANALITICOS DE LABORATORIO I"
+        },
+        {
+            "clave": "I0978",
+            "nombre": "PROCEDIMIENTOS ANALITICOS I"
+        },
+        {
+            "clave": "I0963",
+            "nombre": "PROCESOS DE CONTAMINACION Y DEGRADACION AMBIENTAL"
+        },
+        {
+            "clave": "C0235",
+            "nombre": "PROSEMINARIO I"
+        },
+        {
+            "clave": "C0236",
+            "nombre": "PROSEMINARIO II"
+        },
+        {
+            "clave": "I8149",
+            "nombre": "PROSEMINARIO III"
+        },
+        {
+            "clave": "I8149",
+            "nombre": "PROSEMINARIO III"
+        },
+        {
+            "clave": "I8151",
+            "nombre": "PROSEMINARIO IV"
+        },
+        {
+            "clave": "I8151",
+            "nombre": "PROSEMINARIO IV"
+        },
+        {
+            "clave": "C0250",
+            "nombre": "PROSEMINARIO VI"
+        },
+        {
+            "clave": "C0252",
+            "nombre": "PROSEMINARIO VIII"
+        },
+        {
+            "clave": "I0984",
+            "nombre": "RIESGO AMBIENTAL"
+        },
+        {
+            "clave": "I0982",
+            "nombre": "SEMINARIO DE ESPECIALIZACION I"
+        },
+        {
+            "clave": "C0231",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO I"
+        },
+        {
+            "clave": "C0232",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO II"
+        },
+        {
+            "clave": "C0233",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO III"
+        },
+        {
+            "clave": "C0234",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO IV"
+        },
+        {
+            "clave": "C0245",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO V"
+        },
+        {
+            "clave": "C0247",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO VII"
+        },
+        {
+            "clave": "I6726",
+            "nombre": "SEMINARIO DE GESTION DEL CONOCIMIENTO I"
+        },
+        {
+            "clave": "C0153",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA I"
+        },
+        {
+            "clave": "C0155",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA III"
+        },
+        {
+            "clave": "C0195",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA V"
+        },
+        {
+            "clave": "C0197",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA VII"
+        },
+        {
+            "clave": "C0182",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS I"
+        },
+        {
+            "clave": "C0184",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS III"
+        },
+        {
+            "clave": "C0204",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS V"
+        },
+        {
+            "clave": "C0206",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS VII"
+        },
+        {
+            "clave": "C0239",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA I"
+        },
+        {
+            "clave": "C0240",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA II"
+        },
+        {
+            "clave": "C0241",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA III"
+        },
+        {
+            "clave": "C0242",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA IV"
+        },
+        {
+            "clave": "C0253",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA V"
+        },
+        {
+            "clave": "C0255",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA VII"
+        },
+        {
+            "clave": "IE713",
+            "nombre": "SEMINARIO DE TITULACION"
+        },
+        {
+            "clave": "IE720",
+            "nombre": "SEMINARIO II"
+        },
+        {
+            "clave": "IE722",
+            "nombre": "SEMINARIO IV"
+        },
+        {
+            "clave": "I9941",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN INMUNOLOGIA I"
+        },
+        {
+            "clave": "I9942",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN INMUNOLOGIA II"
+        },
+        {
+            "clave": "I9943",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN INMUNOLOGIA III"
+        },
+        {
+            "clave": "I9944",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN INMUNOLOGIA IV"
+        },
+        {
+            "clave": "IK973",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN INMUNOLOGIA V"
+        },
+        {
+            "clave": "IK975",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN INMUNOLOGIA VII"
+        },
+        {
+            "clave": "IK985",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN NEUROCIENCIAS I"
+        },
+        {
+            "clave": "IK988",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN NEUROCIENCIAS IV"
+        },
+        {
+            "clave": "IK990",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN NEUROCIENCIAS VI"
+        },
+        {
+            "clave": "IK992",
+            "nombre": "SEMINARIOS DE INVESTIGACION EN NEUROCIENCIAS VIII"
+        },
+        {
+            "clave": "IE729",
+            "nombre": "TEMAS SELECTOS II"
+        },
+        {
+            "clave": "IK928",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA I"
+        },
+        {
+            "clave": "IK930",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA III"
+        },
+        {
+            "clave": "IK936",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA IX"
+        },
+        {
+            "clave": "IK933",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA VI"
+        },
+        {
+            "clave": "IK935",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA VIII"
+        },
+        {
+            "clave": "IK938",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA XI"
+        },
+        {
+            "clave": "IK941",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA XIV"
+        },
+        {
+            "clave": "IK942",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA XV"
+        },
+        {
+            "clave": "IK944",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA XVII"
+        },
+        {
+            "clave": "IK947",
+            "nombre": "TOPICOS SELECTOS EN INMUNOLOGIA XX"
+        },
+        {
+            "clave": "IK950",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS II"
+        },
+        {
+            "clave": "IK952",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS IV"
+        },
+        {
+            "clave": "IK953",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS V"
+        },
+        {
+            "clave": "IK955",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS VII"
+        },
+        {
+            "clave": "IK958",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS X"
+        },
+        {
+            "clave": "IK960",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS XII"
+        },
+        {
+            "clave": "IK962",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS XIV"
+        },
+        {
+            "clave": "IK963",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS XV"
+        },
+        {
+            "clave": "IK965",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS XVII"
+        },
+        {
+            "clave": "IK968",
+            "nombre": "TOPICOS SELECTOS EN NEUROCIENCIAS XX"
+        },
+        {
+            "clave": "I0979",
+            "nombre": "TOXICOLOGIA BASICA"
+        },
+        {
+            "clave": "C0157",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA I"
+        },
+        {
+            "clave": "C0158",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA II"
+        },
+        {
+            "clave": "C0159",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA III"
+        },
+        {
+            "clave": "C0160",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA IV"
+        },
+        {
+            "clave": "C0199",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA V"
+        },
+        {
+            "clave": "IK982",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA VI"
+        },
+        {
+            "clave": "IK983",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA VII"
+        },
+        {
+            "clave": "IK984",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA VIII"
+        },
+        {
+            "clave": "IK993",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS I"
+        },
+        {
+            "clave": "IK994",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS II"
+        },
+        {
+            "clave": "IK995",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS III"
+        },
+        {
+            "clave": "IK996",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS IV"
+        },
+        {
+            "clave": "IK997",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS V"
+        },
+        {
+            "clave": "IK998",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS VI"
+        },
+        {
+            "clave": "IK999",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS VII"
+        },
+        {
+            "clave": "IL001",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS VIII"
+        },
+        {
+            "clave": "BT002",
+            "nombre": "TRABAJO DE TESIS"
+        },
+        {
+            "clave": "BT002",
+            "nombre": "TRABAJO DE TESIS"
+        },
+        {
+            "clave": "EC105",
+            "nombre": "BIOLOGIA PESQUERA"
+        },
+        {
+            "clave": "EC114",
+            "nombre": "BIOQUIMICA ECOLOGICA"
+        },
+        {
+            "clave": "EC106",
+            "nombre": "CONSERVACION BIOLOGICA"
+        },
+        {
+            "clave": "EC107",
+            "nombre": "CULTIVOS DE APOYO Y NUTRICION EN LA ACUICULTURA"
+        },
+        {
+            "clave": "EC101",
+            "nombre": "DESARROLLO VEGETAL"
+        },
+        {
+            "clave": "EC118",
+            "nombre": "ECOFISIOLOGIA DE ORGANISMOS ACUATICOS"
+        },
+        {
+            "clave": "EC112",
+            "nombre": "ECOFISIOLOGIA VEGETAL"
+        },
+        {
+            "clave": "EC108",
+            "nombre": "ECOLOGIA COSTERA"
+        },
+        {
+            "clave": "EC104",
+            "nombre": "ECOLOGIA DE COMUNIDADES"
+        },
+        {
+            "clave": "EC125",
+            "nombre": "ECOLOGIA DE PASTIZALES"
+        },
+        {
+            "clave": "EC103",
+            "nombre": "ECOLOGIA DE POBLACIONES"
+        },
+        {
+            "clave": "EC100",
+            "nombre": "ECOLOGIA GENERAL"
+        },
+        {
+            "clave": "EC113",
+            "nombre": "FISIOLOGIA DE CULTIVOS AGRICOLAS"
+        },
+        {
+            "clave": "EC102",
+            "nombre": "FISIOLOGIA VEGETAL"
+        },
+        {
+            "clave": "EC120",
+            "nombre": "LIMNOLOGIA I"
+        },
+        {
+            "clave": "EC121",
+            "nombre": "LIMNOLOGIA II"
+        },
+        {
+            "clave": "EC117",
+            "nombre": "PRODUCCION EN SISTEMAS ACUATICOS"
+        },
+        {
+            "clave": "EC109",
+            "nombre": "RECURSOS MARINOS"
+        },
+        {
+            "clave": "EC111",
+            "nombre": "TOPICOS SELECTOS EN ACUICULTURA"
+        },
+        {
+            "clave": "EC116",
+            "nombre": "TOPICOS SELECTOS EN ECOLOGIA EVOLUTIVA"
+        },
+        {
+            "clave": "EC110",
+            "nombre": "TOPICOS SELECTOS EN ECOLOGIA MARINA"
+        },
+        {
+            "clave": "EC115",
+            "nombre": "TOPICOS SELECTOS EN ECOLOGIA TERRESTRE"
+        },
+        {
+            "clave": "EC124",
+            "nombre": "TOPICOS SELECTOS EN LIMNOLOGIA"
+        },
+        {
+            "clave": "IF524",
+            "nombre": "PROSEMINARIO I"
+        },
+        {
+            "clave": "IG233",
+            "nombre": "PROSEMINARIO II"
+        },
+        {
+            "clave": "I0007",
+            "nombre": "PROSEMINARIO III"
+        },
+        {
+            "clave": "I0019",
+            "nombre": "PROSEMINARIO V"
+        },
+        {
+            "clave": "I0021",
+            "nombre": "PROSEMINARIO VII"
+        },
+        {
+            "clave": "I0015",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO  V"
+        },
+        {
+            "clave": "IF554",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO I"
+        },
+        {
+            "clave": "IG758",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO II"
+        },
+        {
+            "clave": "IG752",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO III"
+        },
+        {
+            "clave": "IG753",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO IV"
+        },
+        {
+            "clave": "I0017",
+            "nombre": "SEMINARIO DE ESTUDIO DIRIGIDO VII"
+        },
+        {
+            "clave": "I0024",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA  VI"
+        },
+        {
+            "clave": "IF556",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA I"
+        },
+        {
+            "clave": "IG748",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA II"
+        },
+        {
+            "clave": "IG754",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA III"
+        },
+        {
+            "clave": "IG755",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA IV"
+        },
+        {
+            "clave": "I0025",
+            "nombre": "SEMINARIO DE INVESTIGACION SUPERVISADA VII"
+        },
+        {
+            "clave": "IG751",
+            "nombre": "SEMINARIO DE TESIS"
+        },
+        {
+            "clave": "IG757",
+            "nombre": "SEMINARIO DE TESIS II"
+        },
+        {
+            "clave": "FO541",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL I"
+        },
+        {
+            "clave": "FO542",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL II"
+        },
+        {
+            "clave": "FO543",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL III"
+        },
+        {
+            "clave": "FO544",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL IV"
+        },
+        {
+            "clave": "FO545",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA METODOLOGICA INSTRUMENTAL V"
+        },
+        {
+            "clave": "FO546",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA I"
+        },
+        {
+            "clave": "FO547",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA II"
+        },
+        {
+            "clave": "FO548",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA III"
+        },
+        {
+            "clave": "FO549",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA IV"
+        },
+        {
+            "clave": "FO550",
+            "nombre": "ACTIVIDAD COMPLEMENTARIA TEORICA V"
+        },
+        {
+            "clave": "FO503",
+            "nombre": "BIOLOGIA CELULAR Y MOLECULAR"
+        },
+        {
+            "clave": "FO521",
+            "nombre": "FILOSOFIA DE LA CIENCIA"
+        },
+        {
+            "clave": "FO522",
+            "nombre": "GESTION DE PROYECTOS DE INVESTIGACION"
+        },
+        {
+            "clave": "FO502",
+            "nombre": "INSTRUMENTACION ANALITICA Y TECNICAS EXPERIMENTALES"
+        },
+        {
+            "clave": "FO501",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION"
+        },
+        {
+            "clave": "FO510",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA I"
+        },
+        {
+            "clave": "FO511",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA II"
+        },
+        {
+            "clave": "FO512",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA III"
+        },
+        {
+            "clave": "FO513",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA IV"
+        },
+        {
+            "clave": "FO523",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA V"
+        },
+        {
+            "clave": "FO524",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA VI"
+        },
+        {
+            "clave": "FO525",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA VII"
+        },
+        {
+            "clave": "FO526",
+            "nombre": "SEMINARIO DE INVESTIGACION EN INMUNOLOGIA VIII"
+        },
+        {
+            "clave": "FO514",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA I"
+        },
+        {
+            "clave": "FO515",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA II"
+        },
+        {
+            "clave": "FO516",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA III"
+        },
+        {
+            "clave": "FO517",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA IV"
+        },
+        {
+            "clave": "FO527",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA V"
+        },
+        {
+            "clave": "FO528",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA VI"
+        },
+        {
+            "clave": "FO529",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA VII"
+        },
+        {
+            "clave": "FO530",
+            "nombre": "TRABAJO DE INVESTIGACION EN INMUNOLOGIA VIII"
+        },
+        {
+            "clave": "IH049",
+            "nombre": "FORMACION INTEGRAL"
+        },
+        {
+            "clave": "IH704",
+            "nombre": "OPTATIVA I"
+        },
+        {
+            "clave": "IH705",
+            "nombre": "OPTATIVA II"
+        },
+        {
+            "clave": "IH706",
+            "nombre": "OPTATIVA III"
+        },
+        {
+            "clave": "IH707",
+            "nombre": "OPTATIVA IV"
+        },
+        {
+            "clave": "IH708",
+            "nombre": "OPTATIVA V"
+        },
+        {
+            "clave": "IH709",
+            "nombre": "OPTATIVA VI"
+        },
+        {
+            "clave": "MV100",
+            "nombre": "ANATOMIA VETERINARIA"
+        },
+        {
+            "clave": "MV107",
+            "nombre": "BACTERIOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "MV130",
+            "nombre": "CIRUGIA DE TEJIDOS BLANDOS Y ORTOPEDIA EN PERROS Y GATOS"
+        },
+        {
+            "clave": "MV110",
+            "nombre": "CIRUGIA VETERINARIA"
+        },
+        {
+            "clave": "MV122",
+            "nombre": "CLINICA DE AVES"
+        },
+        {
+            "clave": "MV121",
+            "nombre": "CLINICA DE BOVINOS"
+        },
+        {
+            "clave": "MV125",
+            "nombre": "CLINICA DE CAPRINOS"
+        },
+        {
+            "clave": "MV123",
+            "nombre": "CLINICA DE EQUINOS"
+        },
+        {
+            "clave": "MV128",
+            "nombre": "CLINICA DE GATOS"
+        },
+        {
+            "clave": "MV124",
+            "nombre": "CLINICA DE OVINOS"
+        },
+        {
+            "clave": "MV126",
+            "nombre": "CLINICA DE PERROS"
+        },
+        {
+            "clave": "MV127",
+            "nombre": "CLINICA DE PORCINOS"
+        },
+        {
+            "clave": "MV129",
+            "nombre": "CLINICA Y MANEJO DE FAUNA SILVESTRE"
+        },
+        {
+            "clave": "MV118",
+            "nombre": "DIAGNOSTICO VETERINARIO"
+        },
+        {
+            "clave": "MV102",
+            "nombre": "EMBRIOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "MV120",
+            "nombre": "EXTERIOR DE LOS ANIMALES DOMESTICOS"
+        },
+        {
+            "clave": "MV111",
+            "nombre": "FARMACOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "MV113",
+            "nombre": "FISIOLOGIA DE LA DIGESTION"
+        },
+        {
+            "clave": "MV134",
+            "nombre": "FISIOLOGIA DE LA PRODUCCION"
+        },
+        {
+            "clave": "MV114",
+            "nombre": "FISIOLOGIA DE LA REPRODUCCION"
+        },
+        {
+            "clave": "MV103",
+            "nombre": "FISIOLOGIA GENERAL"
+        },
+        {
+            "clave": "MV131",
+            "nombre": "GENETICA CLINICA"
+        },
+        {
+            "clave": "MV101",
+            "nombre": "HISTOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "MV105",
+            "nombre": "INMUNOLOGIA CLINICA"
+        },
+        {
+            "clave": "MV119",
+            "nombre": "MICOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "MV132",
+            "nombre": "MICROBIOLOGIA PECUARIA"
+        },
+        {
+            "clave": "MV106",
+            "nombre": "PARASITOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "MV109",
+            "nombre": "PATOLOGIA GENERAL VETERINARIA"
+        },
+        {
+            "clave": "MV117",
+            "nombre": "PATOLOGIA SISTEMICA"
+        },
+        {
+            "clave": "BPP01",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "MV112",
+            "nombre": "PROPEDEUTICA CLINICA"
+        },
+        {
+            "clave": "MV133",
+            "nombre": "SANIDAD ANIMAL"
+        },
+        {
+            "clave": "MV116",
+            "nombre": "TERAPEUTICA VETERINARIA"
+        },
+        {
+            "clave": "MV108",
+            "nombre": "VIROLOGIA VETERINARIA"
+        },
+        {
+            "clave": "IF157",
+            "nombre": "ADMINISTRACION AGROPECUARIA"
+        },
+        {
+            "clave": "IK695",
+            "nombre": "ANALISIS DE RIESGOS"
+        },
+        {
+            "clave": "IF232",
+            "nombre": "ANALISIS INSTRUMENTAL EN DIETAS PARA LA PRODUCCION ANIMAL"
+        },
+        {
+            "clave": "IF158",
+            "nombre": "ANATOMIA FUNCIONAL I"
+        },
+        {
+            "clave": "IF159",
+            "nombre": "ANATOMIA FUNCIONAL II"
+        },
+        {
+            "clave": "IF144",
+            "nombre": "ANATOMIA VETERINARIA"
+        },
+        {
+            "clave": "IF028",
+            "nombre": "ANATOMIA Y FISIOLOGIA ANIMAL COMPARADA"
+        },
+        {
+            "clave": "IF008",
+            "nombre": "BIOLOGIA CELULAR"
+        },
+        {
+            "clave": "IF079",
+            "nombre": "BIOLOGIA DE LA CONSERVACION"
+        },
+        {
+            "clave": "IF032",
+            "nombre": "BIOLOGIA GENERAL"
+        },
+        {
+            "clave": "IK688",
+            "nombre": "BIOLOGIA MOLECULAR"
+        },
+        {
+            "clave": "IK688",
+            "nombre": "BIOLOGIA MOLECULAR"
+        },
+        {
+            "clave": "IK693",
+            "nombre": "BIOQUIMICA ESTRUCTURAL"
+        },
+        {
+            "clave": "IF138",
+            "nombre": "BIOQUIMICA GENERAL"
+        },
+        {
+            "clave": "IF186",
+            "nombre": "BIOQUIMICA VETERINARIA"
+        },
+        {
+            "clave": "IK592",
+            "nombre": "BIOTECNOLOGIA ALIMENTARIA"
+        },
+        {
+            "clave": "IF233",
+            "nombre": "CALIDAD E INOCUIDAD DE PRODUCTOS PECUARIOS I"
+        },
+        {
+            "clave": "IF234",
+            "nombre": "CALIDAD E INOCUIDAD DE PRODUCTOS PECUARIOS II"
+        },
+        {
+            "clave": "IF011",
+            "nombre": "CIENCIAS DE LA TIERRA I"
+        },
+        {
+            "clave": "IF030",
+            "nombre": "CIENCIAS DE LA TIERRA II"
+        },
+        {
+            "clave": "IF250",
+            "nombre": "CIRUGIA ESPECIALIZANTE EN EQUINOS"
+        },
+        {
+            "clave": "IF187",
+            "nombre": "CIRUGIA VETERINARIA EN ESPECIES MAYORES"
+        },
+        {
+            "clave": "IF235",
+            "nombre": "CLINICA DE AVES DE GRANJA"
+        },
+        {
+            "clave": "IF252",
+            "nombre": "CLINICA DE AVES EN CAUTIVERIO"
+        },
+        {
+            "clave": "IF236",
+            "nombre": "CLINICA DE BOVINOS"
+        },
+        {
+            "clave": "IF237",
+            "nombre": "CLINICA DE CANINOS Y FELINOS"
+        },
+        {
+            "clave": "IF253",
+            "nombre": "CLINICA DE CARNIVOROS EN CAUTIVERIO"
+        },
+        {
+            "clave": "IF238",
+            "nombre": "CLINICA DE EQUINOS"
+        },
+        {
+            "clave": "IF239",
+            "nombre": "CLINICA DE OVINOS Y CAPRINOS"
+        },
+        {
+            "clave": "IF240",
+            "nombre": "CLINICA DE PORCINOS"
+        },
+        {
+            "clave": "IF145",
+            "nombre": "CLINICA MEDICA VETERINARIA I"
+        },
+        {
+            "clave": "IF218",
+            "nombre": "CLINICA MEDICA VETERINARIA II"
+        },
+        {
+            "clave": "IF219",
+            "nombre": "CLINICA MEDICA VETERINARIA III"
+        },
+        {
+            "clave": "IF016",
+            "nombre": "COMUNICACION DE LAS CIENCIAS BIOLOGICAS"
+        },
+        {
+            "clave": "IF051",
+            "nombre": "CONSERVACION BIOLOGICA"
+        },
+        {
+            "clave": "IF046",
+            "nombre": "DESARROLLO DE EMPRENDEDORES"
+        },
+        {
+            "clave": "F0211",
+            "nombre": "DESARROLLO DE PROYECTO DE INVESTIGACION I"
+        },
+        {
+            "clave": "F0212",
+            "nombre": "DESARROLLO DE PROYECTO DE INVESTIGACION II"
+        },
+        {
+            "clave": "F0214",
+            "nombre": "DESARROLLO DE PROYECTO DE INVESTIGACION IV"
+        },
+        {
+            "clave": "IF035",
+            "nombre": "DESARROLLO VEGETAL"
+        },
+        {
+            "clave": "IF058",
+            "nombre": "DIDACTICA DE LA BIOLOGIA"
+        },
+        {
+            "clave": "IF067",
+            "nombre": "ECOLOGIA CUANTITATIVA DE COMUNIDADES"
+        },
+        {
+            "clave": "IF031",
+            "nombre": "ECOLOGIA DE COMUNIDADES Y ECOSISTEMAS"
+        },
+        {
+            "clave": "IF077",
+            "nombre": "ECOLOGIA DE ECOSISTEMAS COSTEROS"
+        },
+        {
+            "clave": "IF037",
+            "nombre": "ECOLOGIA DE POBLACIONES"
+        },
+        {
+            "clave": "IF066",
+            "nombre": "ECOLOGIA DE POBLACIONES APLICADA AL MANEJO DE RECURSOS BIOTICOS"
+        },
+        {
+            "clave": "IF080",
+            "nombre": "ECOLOGIA DEL PAISAJE"
+        },
+        {
+            "clave": "IF075",
+            "nombre": "ECOLOGIA MARINA"
+        },
+        {
+            "clave": "IF064",
+            "nombre": "ECONOMIA Y DESARROLLO"
+        },
+        {
+            "clave": "F0210",
+            "nombre": "ECONOMIA Y SALUD AMBIENTAL"
+        },
+        {
+            "clave": "IF076",
+            "nombre": "ECOSISTEMAS MARINOS"
+        },
+        {
+            "clave": "IF033",
+            "nombre": "EDUCACION AMBIENTAL"
+        },
+        {
+            "clave": "F0224",
+            "nombre": "EDUCACION PARA LA SALUD AMBIENTAL"
+        },
+        {
+            "clave": "IF254",
+            "nombre": "ENFERMEDADES TRANSFRONTERIZAS DE ANIMALES DE PRODUCCION"
+        },
+        {
+            "clave": "F0223",
+            "nombre": "ETICA AMBIENTAL"
+        },
+        {
+            "clave": "IK598",
+            "nombre": "EVALUACION SENSORIAL"
+        },
+        {
+            "clave": "IF220",
+            "nombre": "FARMACOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "IF010",
+            "nombre": "FISICA APLICADA A LAS CIENCIAS BIOLOGICAS"
+        },
+        {
+            "clave": "IK541",
+            "nombre": "FISICOQUIMICA ALIMENTARIA"
+        },
+        {
+            "clave": "IF036",
+            "nombre": "FISIOLOGIA VEGETAL"
+        },
+        {
+            "clave": "IK758",
+            "nombre": "FORMACION INTEGRAL"
+        },
+        {
+            "clave": "IK604",
+            "nombre": "FORMULACION Y EVALUACION DE PROYECTOS DE INVERSION"
+        },
+        {
+            "clave": "IF018",
+            "nombre": "GENETICA I"
+        },
+        {
+            "clave": "IF019",
+            "nombre": "GENETICA II"
+        },
+        {
+            "clave": "IK689",
+            "nombre": "GENETICA MICROBIANA"
+        },
+        {
+            "clave": "I2151",
+            "nombre": "GENETICA MOLECULAR"
+        },
+        {
+            "clave": "IF070",
+            "nombre": "GENETICA ORIENTADA A BIOMEDICINA"
+        },
+        {
+            "clave": "IF221",
+            "nombre": "GENETICA VETERINARIA"
+        },
+        {
+            "clave": "IK686",
+            "nombre": "GENOTOXICIDAD ALIMENTARIA"
+        },
+        {
+            "clave": "F0217",
+            "nombre": "GESTION AMBIENTAL"
+        },
+        {
+            "clave": "IF045",
+            "nombre": "GIMNOSPERMAS Y ANGIOSPERMAS"
+        },
+        {
+            "clave": "IK697",
+            "nombre": "HACCP Y SISTEMAS DE CONTROLES PREVENTIVOS"
+        },
+        {
+            "clave": "IF151",
+            "nombre": "HISTOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "IF034",
+            "nombre": "HISTOLOGIA Y ANATOMIA VEGETAL"
+        },
+        {
+            "clave": "IF027",
+            "nombre": "HISTOLOGIA Y EMBRIOLOGIA ANIMAL"
+        },
+        {
+            "clave": "IF222",
+            "nombre": "INFECTOLOGIA VETERINARIA I"
+        },
+        {
+            "clave": "IF223",
+            "nombre": "INFECTOLOGIA VETERINARIA II"
+        },
+        {
+            "clave": "IF053",
+            "nombre": "INGENIERIA GENETICA"
+        },
+        {
+            "clave": "IF224",
+            "nombre": "INMUNOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "IK232",
+            "nombre": "INNOVACION Y CREATIVIDAD"
+        },
+        {
+            "clave": "IK694",
+            "nombre": "INOCUIDAD ALIMENTARIA"
+        },
+        {
+            "clave": "IF255",
+            "nombre": "INSPECCION DE ALIMENTO DE ORIGEN ANIMAL"
+        },
+        {
+            "clave": "IF256",
+            "nombre": "INSTRUMENTACION ANALITICA"
+        },
+        {
+            "clave": "IF029",
+            "nombre": "INTRODUCCION A LA BIOTECNOLOGIA"
+        },
+        {
+            "clave": "IF022",
+            "nombre": "INTRODUCCION AL TRABAJO DE LABORATORIO Y CAMPO"
+        },
+        {
+            "clave": "IF041",
+            "nombre": "INVERTEBRADOS NO ARTROPODOS"
+        },
+        {
+            "clave": "F0202",
+            "nombre": "LEGISLACION AMBIENTAL Y DE LA SALUD"
+        },
+        {
+            "clave": "IK606",
+            "nombre": "LOGISTICA INTERNACIONAL EN LA INDUSTRIA ALIMENTARIA"
+        },
+        {
+            "clave": "IF153",
+            "nombre": "MANEJO DE LA SALUD Y BIENESTAR ANIMAL I"
+        },
+        {
+            "clave": "IF225",
+            "nombre": "MANEJO DE LA SALUD Y BIENESTAR ANIMAL II"
+        },
+        {
+            "clave": "F0226",
+            "nombre": "MANEJO DE LA VULNERABILIDAD"
+        },
+        {
+            "clave": "IF226",
+            "nombre": "MANEJO DE PRADERAS EN PRODUCCION ANIMAL"
+        },
+        {
+            "clave": "IF078",
+            "nombre": "MANEJO INTEGRADO DE ZONA COSTERA"
+        },
+        {
+            "clave": "F0499",
+            "nombre": "MATEMATICAS DISCRETAS"
+        },
+        {
+            "clave": "IF257",
+            "nombre": "MEDICINA ALTERNATIVA"
+        },
+        {
+            "clave": "IF227",
+            "nombre": "MEJORAMIENTO GENETICO"
+        },
+        {
+            "clave": "IF139",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION"
+        },
+        {
+            "clave": "IF014",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION EN LAS CIENCIAS BIOLOGICAS"
+        },
+        {
+            "clave": "IF052",
+            "nombre": "METODOS BIOGEOGRAFICOS"
+        },
+        {
+            "clave": "IK611",
+            "nombre": "METODOS DE ANALISIS MICROBIOLOGICO Y TOXICOLOGICO DE ALIMENTOS"
+        },
+        {
+            "clave": "IK691",
+            "nombre": "METODOS MOLECULARES PARA LA DETECCION DE PATOGENOS EN ALIMENTOS"
+        },
+        {
+            "clave": "IK682",
+            "nombre": "MICROBIOLOGIA AVANZADA"
+        },
+        {
+            "clave": "IF258",
+            "nombre": "MICROBIOLOGIA DE ALIMENTOS"
+        },
+        {
+            "clave": "IF258",
+            "nombre": "MICROBIOLOGIA DE ALIMENTOS"
+        },
+        {
+            "clave": "IK612",
+            "nombre": "MICROBIOLOGIA DE ALIMENTOS II"
+        },
+        {
+            "clave": "IF056",
+            "nombre": "MICROBIOLOGIA INDUSTRIAL"
+        },
+        {
+            "clave": "IF056",
+            "nombre": "MICROBIOLOGIA INDUSTRIAL"
+        },
+        {
+            "clave": "IK692",
+            "nombre": "NANOSISTEMAS APLICADAS A LA INOCUIDAD ALIMENTARIA"
+        },
+        {
+            "clave": "IF063",
+            "nombre": "NORMATIVIDAD AMBIENTAL E INSTRUMENTOS DE GESTION"
+        },
+        {
+            "clave": "IF228",
+            "nombre": "NUTRICION ANIMAL"
+        },
+        {
+            "clave": "IF081",
+            "nombre": "OPTATIVA I"
+        },
+        {
+            "clave": "IF082",
+            "nombre": "OPTATIVA II"
+        },
+        {
+            "clave": "IF083",
+            "nombre": "OPTATIVA III"
+        },
+        {
+            "clave": "IF084",
+            "nombre": "OPTATIVA IV"
+        },
+        {
+            "clave": "IF089",
+            "nombre": "OPTATIVA IX"
+        },
+        {
+            "clave": "IF085",
+            "nombre": "OPTATIVA V"
+        },
+        {
+            "clave": "IF086",
+            "nombre": "OPTATIVA VI"
+        },
+        {
+            "clave": "IF087",
+            "nombre": "OPTATIVA VII"
+        },
+        {
+            "clave": "IF088",
+            "nombre": "OPTATIVA VIII"
+        },
+        {
+            "clave": "IF090",
+            "nombre": "OPTATIVA X"
+        },
+        {
+            "clave": "IF091",
+            "nombre": "OPTATIVA XI"
+        },
+        {
+            "clave": "IF092",
+            "nombre": "OPTATIVA XII"
+        },
+        {
+            "clave": "IF229",
+            "nombre": "PATOLOGIA VETERINARIA"
+        },
+        {
+            "clave": "F0225",
+            "nombre": "PLANEACION TERRITORIAL"
+        },
+        {
+            "clave": "IF048",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IF048",
+            "nombre": "PRACTICAS PROFESIONALES"
+        },
+        {
+            "clave": "IF068",
+            "nombre": "PROBLEMAS ECOLOGICOS CONTEMPORANEOS"
+        },
+        {
+            "clave": "F0215",
+            "nombre": "PROCEDIMIENTOS ANALITICOS I"
+        },
+        {
+            "clave": "F0222",
+            "nombre": "PROCEDIMIENTOS ANALITICOS II"
+        },
+        {
+            "clave": "F0200",
+            "nombre": "PROCESOS DE CONTAMINACION Y DEGRADACION AMBIENTAL"
+        },
+        {
+            "clave": "IF059",
+            "nombre": "PROCESOS DE DEGRADACION AMBIENTAL LOCAL"
+        },
+        {
+            "clave": "IF074",
+            "nombre": "PROCESOS OCEANOGRAFICOS COSTEROS"
+        },
+        {
+            "clave": "IK593",
+            "nombre": "PROCESOS TECNOLOGICOS EN LA INDUSTRIA ALIMENTARIA"
+        },
+        {
+            "clave": "IF259",
+            "nombre": "PRODUCCION DE ABEJAS"
+        },
+        {
+            "clave": "IF242",
+            "nombre": "PRODUCCION DE AVES DE ENGORDA"
+        },
+        {
+            "clave": "IF243",
+            "nombre": "PRODUCCION DE AVES DE POSTURA"
+        },
+        {
+            "clave": "IF260",
+            "nombre": "PRODUCCION DE AVES NO CONVENCIONALES"
+        },
+        {
+            "clave": "IF244",
+            "nombre": "PRODUCCION DE BOVINOS DE CARNE"
+        },
+        {
+            "clave": "IF245",
+            "nombre": "PRODUCCION DE BOVINOS LECHE"
+        },
+        {
+            "clave": "IF246",
+            "nombre": "PRODUCCION DE CERDOS"
+        },
+        {
+            "clave": "IF247",
+            "nombre": "PRODUCCION DE OVINOS Y CAPRINOS"
+        },
+        {
+            "clave": "IF261",
+            "nombre": "PRODUCCION DE VERTEBRADOS NO CONVENCIONALES"
+        },
+        {
+            "clave": "IK597",
+            "nombre": "PROYECTO INTEGRADOR II"
+        },
+        {
+            "clave": "IF060",
+            "nombre": "PROYECTOS DE EDUCACION AMBIENTAL PARA LA SUTENTABILIDAD"
+        },
+        {
+            "clave": "F0218",
+            "nombre": "PSICOLOGIA AMBIENTAL"
+        },
+        {
+            "clave": "IK687",
+            "nombre": "QUIMICA INSTRUMENTAL"
+        },
+        {
+            "clave": "IF073",
+            "nombre": "RECURSOS MARINOS"
+        },
+        {
+            "clave": "IK696",
+            "nombre": "REGLAMENTACION EN CALIDAD E INOCUIDAD ALIMENTARIA"
+        },
+        {
+            "clave": "IF230",
+            "nombre": "REPRODUCCION ANIMAL"
+        },
+        {
+            "clave": "F0221",
+            "nombre": "RIESGO AMBIENTAL"
+        },
+        {
+            "clave": "IF248",
+            "nombre": "ROTATIVO EN CLINICA MEDICA"
+        },
+        {
+            "clave": "F0209",
+            "nombre": "SANEAMIENTO BASICO"
+        },
+        {
+            "clave": "IK677",
+            "nombre": "SEMINARIO DE AVANCE DE TESIS I"
+        },
+        {
+            "clave": "IK678",
+            "nombre": "SEMINARIO DE AVANCE DE TESIS II"
+        },
+        {
+            "clave": "IK679",
+            "nombre": "SEMINARIO DE AVANCE DE TESIS III"
+        },
+        {
+            "clave": "F0219",
+            "nombre": "SEMINARIO DE ESPECIALIZACION I"
+        },
+        {
+            "clave": "F0227",
+            "nombre": "SEMINARIO DE ESPECIALIZACION II"
+        },
+        {
+            "clave": "IJ741",
+            "nombre": "SEMINARIO DE INVESTIGACION"
+        },
+        {
+            "clave": "IF038",
+            "nombre": "SEMINARIO DE INVESTIGACION BIOLOGICA"
+        },
+        {
+            "clave": "IF047",
+            "nombre": "SEMINARIO DE PROYECTOS INTERVENCION EN CIENCIAS BIOLOGICAS"
+        },
+        {
+            "clave": "IK676",
+            "nombre": "SISTEMAS DE GESTION DE LA INOCUIDAD"
+        },
+        {
+            "clave": "IF231",
+            "nombre": "SISTEMAS DE PRODUCCION ANIMAL"
+        },
+        {
+            "clave": "IK546",
+            "nombre": "SOCIO ANTROPOLOGIA DE LA ALIMENTACION"
+        },
+        {
+            "clave": "IF062",
+            "nombre": "SOCIOLOGIA AMBIENTAL"
+        },
+        {
+            "clave": "IK599",
+            "nombre": "TECNOLOGIA DE LOS ALIMENTOS DE ORIGEN ANIMAL II"
+        },
+        {
+            "clave": "IK600",
+            "nombre": "TECNOLOGIA DE LOS ALIMENTOS DE ORIGEN VEGETAL II"
+        },
+        {
+            "clave": "IF262",
+            "nombre": "TECNOLOGIA DE PRODUCTOS DE ORIGEN ANIMAL"
+        },
+        {
+            "clave": "IK681",
+            "nombre": "TECNOLOGIAS PARA EL CONTROL MICROBIANO"
+        },
+        {
+            "clave": "IF093",
+            "nombre": "TOPICOS SELECTOS I"
+        },
+        {
+            "clave": "IF094",
+            "nombre": "TOPICOS SELECTOS II"
+        },
+        {
+            "clave": "IF095",
+            "nombre": "TOPICOS SELECTOS III"
+        },
+        {
+            "clave": "IF096",
+            "nombre": "TOPICOS SELECTOS IV"
+        },
+        {
+            "clave": "F0220",
+            "nombre": "TOXICOLOGIA AMBIENTAL"
+        },
+        {
+            "clave": "F0220",
+            "nombre": "TOXICOLOGIA AMBIENTAL"
+        },
+        {
+            "clave": "F0216",
+            "nombre": "TOXICOLOGIA BASICA"
+        },
+        {
+            "clave": "IF263",
+            "nombre": "TOXICOLOGIA DE ALIMENTOS"
+        },
+        {
+            "clave": "IJ740",
+            "nombre": "TOXICOLOGIA DE ALIMENTOS"
+        },
+        {
+            "clave": "IK613",
+            "nombre": "TOXICOLOGIA DE LOS ALIMENTOS II"
+        },
+        {
+            "clave": "F0204",
+            "nombre": "VIGILANCIA EPIDEMIOLOGICA"
+        },
+        {
+            "clave": "NC506",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS I"
+        },
+        {
+            "clave": "NC507",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS II"
+        },
+        {
+            "clave": "NC508",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS III"
+        },
+        {
+            "clave": "NC509",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS IV"
+        },
+        {
+            "clave": "NC514",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS V"
+        },
+        {
+            "clave": "NC515",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS VI"
+        },
+        {
+            "clave": "NC516",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS VII"
+        },
+        {
+            "clave": "NC517",
+            "nombre": "SEMINARIO DE INVESTIGACION EN NEUROCIENCIAS VIII"
+        },
+        {
+            "clave": "NC510",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS I"
+        },
+        {
+            "clave": "NC511",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS II"
+        },
+        {
+            "clave": "NC512",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS III"
+        },
+        {
+            "clave": "NC513",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS IV"
+        },
+        {
+            "clave": "NC518",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS V"
+        },
+        {
+            "clave": "NC519",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS VI"
+        },
+        {
+            "clave": "NC520",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS VII"
+        },
+        {
+            "clave": "NC521",
+            "nombre": "TRABAJO DE INVESTIGACION EN NEUROCIENCIAS VIII"
+        },
+        {
+            "clave": "PG112",
+            "nombre": "AGRICULTURA ORGANICA"
+        },
+        {
+            "clave": "PG553",
+            "nombre": "ALMACENAMIENTO Y CONSERVACION DE SEMILLAS"
+        },
+        {
+            "clave": "PG545",
+            "nombre": "ANALISIS GENETICOS DE CARACTERES CUANTITATIVOS"
+        },
+        {
+            "clave": "PG521",
+            "nombre": "ANALISIS INSTRUMENTAL DE PRODUCTOS NATURALES"
+        },
+        {
+            "clave": "PG505",
+            "nombre": "ANALISIS MULTIVARIADO"
+        },
+        {
+            "clave": "PG552",
+            "nombre": "BENEFICIO DE SEMILLAS"
+        },
+        {
+            "clave": "PG552",
+            "nombre": "BENEFICIO DE SEMILLAS"
+        },
+        {
+            "clave": "PG512",
+            "nombre": "BIOTECNOLOGIA I"
+        },
+        {
+            "clave": "PG513",
+            "nombre": "BIOTECNOLOGIA II"
+        },
+        {
+            "clave": "PG557",
+            "nombre": "CONTROL AVANZADO DE ENFERMEDADES DE PLANTAS"
+        },
+        {
+            "clave": "PG556",
+            "nombre": "CONTROL AVANZADO DE INSECTOS"
+        },
+        {
+            "clave": "PG117",
+            "nombre": "CONTROL BIOLOGICO"
+        },
+        {
+            "clave": "PG118",
+            "nombre": "CONTROL DE CALIDAD DE SEMILLAS"
+        },
+        {
+            "clave": "PG536",
+            "nombre": "CONTROL DE CALIDAD EN SEMILLAS"
+        },
+        {
+            "clave": "PG119",
+            "nombre": "CONTROL DE PLAGAS HORTICOLAS"
+        },
+        {
+            "clave": "PG120",
+            "nombre": "CONTROL INTEGRADO DE PLAGAS AGRICOLAS"
+        },
+        {
+            "clave": "PG111",
+            "nombre": "CONTROL INTEGRADO DE PLAGAS FORESTALES"
+        },
+        {
+            "clave": "PG549",
+            "nombre": "CULTIVO DE TEJIDOS"
+        },
+        {
+            "clave": "PG121",
+            "nombre": "CULTIVOS INDUSTRIALIZABLES"
+        },
+        {
+            "clave": "PG528",
+            "nombre": "EL MICROCLIMA DEL MEDIO DE AMBIENTE BIOLOGICO"
+        },
+        {
+            "clave": "PG527",
+            "nombre": "FERTILIDAD DE SUELOS"
+        },
+        {
+            "clave": "PG126",
+            "nombre": "FISIOLOGIA Y MANEJO DE POSTCOSECHA"
+        },
+        {
+            "clave": "PG546",
+            "nombre": "FITOMEJORAMIENTO DE AUTOGAMAS"
+        },
+        {
+            "clave": "PG509",
+            "nombre": "FITOMEJORAMIENTO PARA CONDICIONES ADVERSAS"
+        },
+        {
+            "clave": "PG509",
+            "nombre": "FITOMEJORAMIENTO PARA CONDICIONES ADVERSAS"
+        },
+        {
+            "clave": "PG554",
+            "nombre": "FITOPATOLOGIA AVANZADA"
+        },
+        {
+            "clave": "PG103",
+            "nombre": "FRUTICULTURA GENERAL"
+        },
+        {
+            "clave": "PG100",
+            "nombre": "FUNDAMENTOS DE LA PRODUCCION AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "PG510",
+            "nombre": "GENETICA CUANTITATIVA"
+        },
+        {
+            "clave": "PG510",
+            "nombre": "GENETICA CUANTITATIVA"
+        },
+        {
+            "clave": "PG551",
+            "nombre": "GENETICA DE CONSERVACION DE RECURSOS FITOGENETICOS"
+        },
+        {
+            "clave": "PG548",
+            "nombre": "GENETICA MOLECULAR VEGETAL"
+        },
+        {
+            "clave": "PG133",
+            "nombre": "GENOTECNIA VEGETAL"
+        },
+        {
+            "clave": "PG134",
+            "nombre": "GEOGRAFIA AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "PG550",
+            "nombre": "INGENIERIA GENETICA APLICADA A VEGETALES"
+        },
+        {
+            "clave": "PG501",
+            "nombre": "INTRODUCCION A LA ESTADISTICA"
+        },
+        {
+            "clave": "PG542",
+            "nombre": "INVESTIGACION FORESTAL"
+        },
+        {
+            "clave": "PG102",
+            "nombre": "MALEZA Y FITOPATOGENOS"
+        },
+        {
+            "clave": "PG540",
+            "nombre": "MANEJO AMBIENTE DE RECURSOS FORESTALES"
+        },
+        {
+            "clave": "PG156",
+            "nombre": "MANEJO DE AREAS VERDES"
+        },
+        {
+            "clave": "PG138",
+            "nombre": "MANEJO DE HUERTOS"
+        },
+        {
+            "clave": "PG106",
+            "nombre": "MANEJO DE PASTIZALES"
+        },
+        {
+            "clave": "PG107",
+            "nombre": "MANEJO DE PRADERAS"
+        },
+        {
+            "clave": "PG516",
+            "nombre": "MANEJO DE RECURSOS FITOGENETICOS"
+        },
+        {
+            "clave": "PG157",
+            "nombre": "MANEJO DE VIVEROS"
+        },
+        {
+            "clave": "PG555",
+            "nombre": "MANEJO FISIOLOGIA Y CONTROL DE MALEZA"
+        },
+        {
+            "clave": "PG139",
+            "nombre": "MANEJO Y CONSERVACION DE GRANOS Y SEMILLAS"
+        },
+        {
+            "clave": "PG526",
+            "nombre": "MANEJO Y CONSERVACION DE SUELOS Y AGUA"
+        },
+        {
+            "clave": "PG104",
+            "nombre": "MECANIZACION AGRICOLA"
+        },
+        {
+            "clave": "PG508",
+            "nombre": "MEJORAMIENTO DE PLANTAS AVANZADO"
+        },
+        {
+            "clave": "PG506",
+            "nombre": "MEJORAMIENTO DE PLANTAS I"
+        },
+        {
+            "clave": "PG507",
+            "nombre": "MEJORAMIENTO DE PLANTAS II"
+        },
+        {
+            "clave": "PG140",
+            "nombre": "MEJORAMIENTO GENETICO DE ESPECIES FORRAJERAS"
+        },
+        {
+            "clave": "PG141",
+            "nombre": "MEJORAMIENTO GENETICO DE HORTALIZAS"
+        },
+        {
+            "clave": "PG110",
+            "nombre": "MEJORAMIENTO GENETICO FORESTAL"
+        },
+        {
+            "clave": "PG523",
+            "nombre": "METABOLISMO SECUNDARIO"
+        },
+        {
+            "clave": "PG502",
+            "nombre": "METODOS ESTADISTICOS"
+        },
+        {
+            "clave": "PG142",
+            "nombre": "METODOS Y EQUIPO DE APLICACION DE AGROQUIMICOS"
+        },
+        {
+            "clave": "PG558",
+            "nombre": "MICROBIOLOGIA AGRICOLA"
+        },
+        {
+            "clave": "PG532",
+            "nombre": "MORFOFISIOLOGIA DE SEMILLAS"
+        },
+        {
+            "clave": "PG504",
+            "nombre": "MUESTREO ESTADISTICO"
+        },
+        {
+            "clave": "PG143",
+            "nombre": "NORMAS DE CALIDAD DE PRODUCTOS HORTICOLAS"
+        },
+        {
+            "clave": "PG517",
+            "nombre": "PARASITOLOGIA AGRICOLA AVANZADA"
+        },
+        {
+            "clave": "PG537",
+            "nombre": "PATOLOGIA DE SEMILLAS"
+        },
+        {
+            "clave": "PG145",
+            "nombre": "PRACTICAS DE FITOTECNIA"
+        },
+        {
+            "clave": "PG541",
+            "nombre": "PRESERVACION DEL RECURSO FORESTAL"
+        },
+        {
+            "clave": "PG146",
+            "nombre": "PROBLEMAS ESPECIALES DE CONTROL BIOLOGICO"
+        },
+        {
+            "clave": "PG530",
+            "nombre": "PRODUCCION DE CULTIVOS"
+        },
+        {
+            "clave": "PG530",
+            "nombre": "PRODUCCION DE CULTIVOS"
+        },
+        {
+            "clave": "PG108",
+            "nombre": "PRODUCCION DE CULTIVOS FORRAJEROS"
+        },
+        {
+            "clave": "PG147",
+            "nombre": "PRODUCCION DE ESPECIES ORNAMENTALES"
+        },
+        {
+            "clave": "PG149",
+            "nombre": "PRODUCCION DE SEMILLAS DE CULTIVOS BASICOS"
+        },
+        {
+            "clave": "PG148",
+            "nombre": "PRODUCCION DE SEMILLAS DE ESPECIES FORRAJERAS"
+        },
+        {
+            "clave": "PG150",
+            "nombre": "PRODUCCION DE SEMILLAS DE HORTALIZAS"
+        },
+        {
+            "clave": "PG109",
+            "nombre": "PRODUCCION DE SEMILLAS FORRAJERAS"
+        },
+        {
+            "clave": "PG533",
+            "nombre": "PRODUCCION DE SEMILLAS I"
+        },
+        {
+            "clave": "PG534",
+            "nombre": "PRODUCCION DE SEMILLAS II"
+        },
+        {
+            "clave": "PG151",
+            "nombre": "PRODUCCION Y EVALUACION DE AGENTES DE CONTROL BIOLOGICO"
+        },
+        {
+            "clave": "PG518",
+            "nombre": "PRODUCTOS NATURALES PARA EL CONTROL DE FITOPATOGENOS"
+        },
+        {
+            "clave": "PG519",
+            "nombre": "PRODUCTOS NATURALES PARA EL CONTROL DE INSECTOS"
+        },
+        {
+            "clave": "PG520",
+            "nombre": "PRODUCTOS NATURALES PARA EL CONTROL DE MALEZA"
+        },
+        {
+            "clave": "PG152",
+            "nombre": "PROPAGACION DE PLANTAS"
+        },
+        {
+            "clave": "PG559",
+            "nombre": "SISTEMA DE PRODUCCION AGROPECUARIA"
+        },
+        {
+            "clave": "PG531",
+            "nombre": "SISTEMAS DE PRODUCCION AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "PG531",
+            "nombre": "SISTEMAS DE PRODUCCION AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "PG539",
+            "nombre": "SISTEMAS SILVICOLAS"
+        },
+        {
+            "clave": "PG535",
+            "nombre": "TECNOLOGIA DE SEMILLAS"
+        },
+        {
+            "clave": "PG535",
+            "nombre": "TECNOLOGIA DE SEMILLAS"
+        },
+        {
+            "clave": "PG522",
+            "nombre": "TENICAS Y METODOS DE SEPARACION DE PRODUCTOS NATURALES"
+        },
+        {
+            "clave": "PG155",
+            "nombre": "TOXICOLOGIA Y RESISTENCIA A PLAGUICIDAS"
+        },
+        {
+            "clave": "PG500",
+            "nombre": "TRABAJO DOCUMENTAL"
+        },
+        {
+            "clave": "PN101",
+            "nombre": "ANDROLOGIA VETERINARIA"
+        },
+        {
+            "clave": "PN129",
+            "nombre": "BIOLOGIA DE LA LACTACION"
+        },
+        {
+            "clave": "PN130",
+            "nombre": "BIOTECNOLOGIA DE LA REPRODUCCION"
+        },
+        {
+            "clave": "PN108",
+            "nombre": "ENFERMEDADES HEREDITARIAS DE LA PRODUCCION ANIMAL"
+        },
+        {
+            "clave": "PN109",
+            "nombre": "ENFERMEDADES NUTRICIONALES DE LOS ANIMALES DOMESTICOS"
+        },
+        {
+            "clave": "PN110",
+            "nombre": "ESTRES Y ADAPTACION ANIMAL"
+        },
+        {
+            "clave": "PN111",
+            "nombre": "ETOLOGIA DE LOS ANIMALES DOMESTICOS"
+        },
+        {
+            "clave": "PN112",
+            "nombre": "FABRICACION DE ALIMENTOS PECUARIOS"
+        },
+        {
+            "clave": "PN138",
+            "nombre": "GANADERIA DIVERSIFICADA"
+        },
+        {
+            "clave": "PN103",
+            "nombre": "GENETICA ANIMAL"
+        },
+        {
+            "clave": "PN139",
+            "nombre": "GENOTECNIA ANIMAL"
+        },
+        {
+            "clave": "PN100",
+            "nombre": "GINECOLOGIA Y OBSTETRICIA VETERINARIA"
+        },
+        {
+            "clave": "PN115",
+            "nombre": "INFORMATICA APLICADA A LA MEDICINA VETERINARIA"
+        },
+        {
+            "clave": "PN113",
+            "nombre": "INSEMINACION ARTIFICIAL"
+        },
+        {
+            "clave": "PN116",
+            "nombre": "MANEJO DE ANIMALES DE ZOOLOGICO Y FAUNA SILVESTRE"
+        },
+        {
+            "clave": "PN107",
+            "nombre": "MEJORAMIENTO GENETICO ANIMAL"
+        },
+        {
+            "clave": "PN104",
+            "nombre": "NUTRICION ANIMAL I"
+        },
+        {
+            "clave": "PN105",
+            "nombre": "NUTRICION ANIMAL II"
+        },
+        {
+            "clave": "PN114",
+            "nombre": "PATOLOGIA DE LA REPRODUCCION"
+        },
+        {
+            "clave": "PN137",
+            "nombre": "PRACTICAS PECUARIAS"
+        },
+        {
+            "clave": "PN128",
+            "nombre": "PRODUCCION APICOLA"
+        },
+        {
+            "clave": "PN117",
+            "nombre": "PRODUCCION AVICOLA"
+        },
+        {
+            "clave": "PN125",
+            "nombre": "PRODUCCION AVICOLA NO CONVENCIONAL"
+        },
+        {
+            "clave": "PN122",
+            "nombre": "PRODUCCION CAPRINA"
+        },
+        {
+            "clave": "PN126",
+            "nombre": "PRODUCCION CUNICOLA"
+        },
+        {
+            "clave": "PN118",
+            "nombre": "PRODUCCION DE BOVINOS CARNE"
+        },
+        {
+            "clave": "PN119",
+            "nombre": "PRODUCCION DE BOVINOS LECHE"
+        },
+        {
+            "clave": "PN140",
+            "nombre": "PRODUCCION DE OVINOS Y CAPRINOS"
+        },
+        {
+            "clave": "PN123",
+            "nombre": "PRODUCCION EQUINA"
+        },
+        {
+            "clave": "PN120",
+            "nombre": "PRODUCCION OVINA"
+        },
+        {
+            "clave": "PN127",
+            "nombre": "PRODUCCION PISCICOLA"
+        },
+        {
+            "clave": "PN121",
+            "nombre": "PRODUCCION PORCINA"
+        },
+        {
+            "clave": "PN132",
+            "nombre": "REPRODUCCION EN AVES"
+        },
+        {
+            "clave": "PN106",
+            "nombre": "SISTEMAS DE PRODUCCION ANIMAL"
+        },
+        {
+            "clave": "PN131",
+            "nombre": "SISTEMAS DE REPRODUCCION ANIMAL"
+        },
+        {
+            "clave": "PN133",
+            "nombre": "TECNOLOGIA DE PRODUCTOS OVINOS Y CAPRINOS"
+        },
+        {
+            "clave": "PN134",
+            "nombre": "TECNOLOGIA DE SUBPRODUCTOS OVINOS Y CAPRINOS"
+        },
+        {
+            "clave": "PN136",
+            "nombre": "ZOOTECNIA APLICADA"
+        },
+        {
+            "clave": "PN135",
+            "nombre": "ZOOTECNIA GENERAL"
+        },
+        {
+            "clave": "PF105",
+            "nombre": "ADMINISTRACION DE FAUNA SILVESTRE"
+        },
+        {
+            "clave": "PF503",
+            "nombre": "ANALISIS DE ECOSISTEMAS FORESTALES"
+        },
+        {
+            "clave": "PF506",
+            "nombre": "APROVECHAMIENTO DE PRODUCTOS NO MADERABLES DEL BOSQUE"
+        },
+        {
+            "clave": "PF500",
+            "nombre": "APROVECHAMIENTO FISICO DE LA MADERA"
+        },
+        {
+            "clave": "PF501",
+            "nombre": "APROVECHAMIENTO QUIMICO DE LA MADERA"
+        },
+        {
+            "clave": "PF108",
+            "nombre": "CAMINOS FORESTALES"
+        },
+        {
+            "clave": "PF134",
+            "nombre": "CELULOSA Y PAPEL"
+        },
+        {
+            "clave": "PF118",
+            "nombre": "CONSTRUCCIONES RURALES"
+        },
+        {
+            "clave": "PF129",
+            "nombre": "DASONOMIA URBANA"
+        },
+        {
+            "clave": "PF136",
+            "nombre": "DIBUJO AGROPECUARIO APLICADO"
+        },
+        {
+            "clave": "PF103",
+            "nombre": "DIBUJO AGROPECUARIO Y TOPOGRAFICO"
+        },
+        {
+            "clave": "PF111",
+            "nombre": "ECOLOGIA FORESTAL"
+        },
+        {
+            "clave": "PF102",
+            "nombre": "ELEMENTOS DE TOPOGRAFIA"
+        },
+        {
+            "clave": "PF106",
+            "nombre": "ESTRUCTURA Y CALIDAD DE LA MADERA"
+        },
+        {
+            "clave": "PF113",
+            "nombre": "EXTRACCION Y TRANSPORTE"
+        },
+        {
+            "clave": "PF100",
+            "nombre": "HIDRAULICA E HIDROLOGIA"
+        },
+        {
+            "clave": "PF114",
+            "nombre": "INDUSTRIAS FORESTALES"
+        },
+        {
+            "clave": "PF104",
+            "nombre": "INGENIERIA PECUARIA"
+        },
+        {
+            "clave": "PF115",
+            "nombre": "INVENTARIOS FORESTALES"
+        },
+        {
+            "clave": "PF128",
+            "nombre": "MANEJO DE AREAS NATURALES"
+        },
+        {
+            "clave": "PF132",
+            "nombre": "MAQUINARIA PARA LA TRANSFORMACION DE LA MADERA"
+        },
+        {
+            "clave": "PF116",
+            "nombre": "MAQUINARIA Y EQUIPO FORESTAL"
+        },
+        {
+            "clave": "PF502",
+            "nombre": "MONITOREO DE RECURSOS FORESTALES"
+        },
+        {
+            "clave": "PF117",
+            "nombre": "ORDENACION FORESTAL"
+        },
+        {
+            "clave": "PF119",
+            "nombre": "PLANTACIONES FORESTALES"
+        },
+        {
+            "clave": "PF131",
+            "nombre": "PRESERVACION DE LA MADERA"
+        },
+        {
+            "clave": "PF120",
+            "nombre": "PRESERVACION FORESTAL"
+        },
+        {
+            "clave": "PF135",
+            "nombre": "PRODUCTOS QUIMICOS DERIVADOS DE LA MADERA"
+        },
+        {
+            "clave": "PF110",
+            "nombre": "PROPIEDADES TECNOLOGICAS DE LA MADERA"
+        },
+        {
+            "clave": "PF508",
+            "nombre": "PROTECCION FORESTAL"
+        },
+        {
+            "clave": "PF504",
+            "nombre": "REGULACION FORESTAL"
+        },
+        {
+            "clave": "PF101",
+            "nombre": "RIEGO Y DRENAJE"
+        },
+        {
+            "clave": "PF122",
+            "nombre": "SILVICULTURA TROPICAL"
+        },
+        {
+            "clave": "PF507",
+            "nombre": "SISTEMATICA VEGETAL AVANZADA"
+        },
+        {
+            "clave": "PF133",
+            "nombre": "TABLEROS BASE MADERA"
+        },
+        {
+            "clave": "PF107",
+            "nombre": "TECNOLOGIA DE LA MADERA"
+        },
+        {
+            "clave": "PF125",
+            "nombre": "VIVEROS FORESTALES"
+        },
+        {
+            "clave": "PF127",
+            "nombre": "VIVEROS Y PLANTACIONES FORESTALES"
+        },
+        {
+            "clave": "PS106",
+            "nombre": "ADMINISTRACION AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "PS109",
+            "nombre": "ADMINISTRACION DE EMPRESAS PECUARIAS"
+        },
+        {
+            "clave": "PS110",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES AGRICOLAS"
+        },
+        {
+            "clave": "PS111",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES AVICOLAS"
+        },
+        {
+            "clave": "PS112",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES DE BOVINOS"
+        },
+        {
+            "clave": "PS113",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES DE LA FAUNA SILVESTRE"
+        },
+        {
+            "clave": "PS115",
+            "nombre": "ADMINISTRACION DE EXPLOTACIONES PORCICOLAS"
+        },
+        {
+            "clave": "PS116",
+            "nombre": "ADMINISTRACION DE RECURSOS HUMANOS"
+        },
+        {
+            "clave": "PS114",
+            "nombre": "ADMINISTRACION FORESTAL"
+        },
+        {
+            "clave": "PS117",
+            "nombre": "ADMINISTRACION PUBLICA AGROPECUARIA"
+        },
+        {
+            "clave": "PS166",
+            "nombre": "ADMINISTRACION SUSTENTABLE DE LAS EMPRESAS"
+        },
+        {
+            "clave": "PS118",
+            "nombre": "AGROPROCESOS UNITARIOS"
+        },
+        {
+            "clave": "PS119",
+            "nombre": "ANTROPOLOGIA RURAL"
+        },
+        {
+            "clave": "PS163",
+            "nombre": "AVALUOS DE BIENES AGROPECUARIOS Y FORESTALES"
+        },
+        {
+            "clave": "PS120",
+            "nombre": "COMERCIO INTERNACIONAL DE PRODUCTOS AGROPECUARIOS Y FORESTALES"
+        },
+        {
+            "clave": "PS168",
+            "nombre": "COMPUTACION AVANZADA"
+        },
+        {
+            "clave": "PS167",
+            "nombre": "COMPUTACION BASICA"
+        },
+        {
+            "clave": "PS121",
+            "nombre": "CONTABILIDAD AGROPECUARIA"
+        },
+        {
+            "clave": "PS122",
+            "nombre": "CREDITO AGROPECUARIO"
+        },
+        {
+            "clave": "PS123",
+            "nombre": "DERECHO AGRARIO"
+        },
+        {
+            "clave": "PS124",
+            "nombre": "DESARROLLO ORGANIZACIONAL"
+        },
+        {
+            "clave": "PS125",
+            "nombre": "DESARROLLO RURAL"
+        },
+        {
+            "clave": "PS501",
+            "nombre": "DESARROLLO RURAL SUSTENTABLE"
+        },
+        {
+            "clave": "PS127",
+            "nombre": "DESARROLLO SUSTENTABLE"
+        },
+        {
+            "clave": "PS128",
+            "nombre": "DETERMINACION Y CONTROL DE COSTOS"
+        },
+        {
+            "clave": "PS164",
+            "nombre": "ECONOMIA FORESTAL"
+        },
+        {
+            "clave": "PS107",
+            "nombre": "ECONOMIA GENERAL"
+        },
+        {
+            "clave": "PS131",
+            "nombre": "FORMULACION Y EVALUACION DE PROYECTOS DE INVERSION"
+        },
+        {
+            "clave": "PS169",
+            "nombre": "INTRODUCCION A LA ADMINISTRACION DE EMPRESAS"
+        },
+        {
+            "clave": "PS132",
+            "nombre": "INTRODUCCION A LA ECONOMETRIA"
+        },
+        {
+            "clave": "PS126",
+            "nombre": "INTRODUCCION A LAS TEORIAS DE DESARROLLO ECONOMICO"
+        },
+        {
+            "clave": "PS108",
+            "nombre": "INTRODUCCION AL ESTUDIO DEL DERECHO AGRARIO"
+        },
+        {
+            "clave": "PS133",
+            "nombre": "INVESTIGACION DE MERCADOS AGROPECUARIOS Y FORESTALES"
+        },
+        {
+            "clave": "PS134",
+            "nombre": "INVESTIGACION DE OPERACIONES"
+        },
+        {
+            "clave": "PS165",
+            "nombre": "LEGISLACION AMBIENTAL"
+        },
+        {
+            "clave": "PS135",
+            "nombre": "LEGISLACION DE MERCADOS DE PRODUCTOS AGROPECUARIOS"
+        },
+        {
+            "clave": "PS136",
+            "nombre": "LEGISLACION EN MATERIA DE AGUA Y ALIMENTOS"
+        },
+        {
+            "clave": "PS137",
+            "nombre": "LEGISLACION FORESTAL"
+        },
+        {
+            "clave": "PS138",
+            "nombre": "LEGISLACION PECUARIA"
+        },
+        {
+            "clave": "PS140",
+            "nombre": "MATEMATICAS FINANCIERAS"
+        },
+        {
+            "clave": "PS141",
+            "nombre": "MERCADOS Y COMERCIALIZACION DE PRODUCTOS AGROPECUARIOS"
+        },
+        {
+            "clave": "PS500",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION"
+        },
+        {
+            "clave": "PS500",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION"
+        },
+        {
+            "clave": "PS143",
+            "nombre": "METODOS CUANTITATIVOS"
+        },
+        {
+            "clave": "PS145",
+            "nombre": "METODOS DE EXTENSION"
+        },
+        {
+            "clave": "PS101",
+            "nombre": "METODOS ESTADISTICOS"
+        },
+        {
+            "clave": "PS147",
+            "nombre": "MODELOS DE SIMULACION"
+        },
+        {
+            "clave": "PS148",
+            "nombre": "MUESTREO ESTADISTICO"
+        },
+        {
+            "clave": "PS149",
+            "nombre": "ORGANIZACION DE PRODUCTORES"
+        },
+        {
+            "clave": "PS150",
+            "nombre": "PLANEACION Y PROGRAMACION AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "PS151",
+            "nombre": "PRACTICAS DE ADMINISTRACION AGROPECUARIA"
+        },
+        {
+            "clave": "PS152",
+            "nombre": "PRACTICAS DE FORMULACION Y EVALUACION DE PROYECTOS DE INVERSION"
+        },
+        {
+            "clave": "PS153",
+            "nombre": "PRESUPUESTOS Y FINANZAS"
+        },
+        {
+            "clave": "PS154",
+            "nombre": "PROCESOS UNITARIOS AGROINDUSTRIALES"
+        },
+        {
+            "clave": "PS155",
+            "nombre": "PSICOLOGIA RURAL"
+        },
+        {
+            "clave": "PS104",
+            "nombre": "SEMINARIO DE INVESTIGACION I"
+        },
+        {
+            "clave": "PS105",
+            "nombre": "SEMINARIO DE INVESTIGACION II"
+        },
+        {
+            "clave": "PS103",
+            "nombre": "SOCIOLOGIA RURAL"
+        },
+        {
+            "clave": "PS144",
+            "nombre": "TECNICAS DE COMUNICACION AGROPECUARIA"
+        },
+        {
+            "clave": "PS156",
+            "nombre": "TECNICAS DE INVESTIGACION FORESTAL"
+        },
+        {
+            "clave": "PS157",
+            "nombre": "TECNICAS DE INVESTIGACION PECUARIA"
+        },
+        {
+            "clave": "PS158",
+            "nombre": "TECNICAS DE INVESTIGACION SOCIAL"
+        },
+        {
+            "clave": "PS159",
+            "nombre": "TECNICAS DE OPTIMIZACION"
+        },
+        {
+            "clave": "PS160",
+            "nombre": "TEORIA GERENCIAL"
+        },
+        {
+            "clave": "PS161",
+            "nombre": "TERMINOS DE INTERCAMBIO DE PRODUCTOS AGROPECUARIOS Y FORESTALES"
+        },
+        {
+            "clave": "PS162",
+            "nombre": "VALORACION AGROPECUARIA Y FORESTAL"
+        },
+        {
+            "clave": "TIN00",
+            "nombre": "TRABAJO DE INVESTIGACION"
+        },
+        {
+            "clave": "I1175",
+            "nombre": "ACTIVIDADES EXTRACURRICULARES"
+        },
+        {
+            "clave": "IH227",
+            "nombre": "ADMINISTRACION DE RECURSOS HUMANOS"
+        },
+        {
+            "clave": "IH160",
+            "nombre": "ADMINISTRACION I"
+        },
+        {
+            "clave": "D0659",
+            "nombre": "ANALISIS DE FUENTES DE FINANCIAMIENTO"
+        },
+        {
+            "clave": "D0646",
+            "nombre": "ANALISIS DE VALORES Y RIESGOS DE LOS RECURSOS DEL GRUPO DE INTERES"
+        },
+        {
+            "clave": "D0668",
+            "nombre": "ANALISIS E INTERPRETACION DE ESTADOS FINANCIEROS"
+        },
+        {
+            "clave": "D0644",
+            "nombre": "CARACTERIZACION DE GRUPOS DE PRODUCTORES"
+        },
+        {
+            "clave": "IH232",
+            "nombre": "COMERCIO INTERNACIONAL"
+        },
+        {
+            "clave": "D0684",
+            "nombre": "COMPUTACION BASICA"
+        },
+        {
+            "clave": "IH101",
+            "nombre": "CONTABILIDAD I"
+        },
+        {
+            "clave": "IH102",
+            "nombre": "CONTABILIDAD II"
+        },
+        {
+            "clave": "IH235",
+            "nombre": "DERECHO EN LOS AGRONEGOCIOS I"
+        },
+        {
+            "clave": "IH236",
+            "nombre": "DERECHO EN LOS AGRONEGOCIOS II"
+        },
+        {
+            "clave": "IG590",
+            "nombre": "ECONOMIA I"
+        },
+        {
+            "clave": "IH098",
+            "nombre": "ECONOMIA II"
+        },
+        {
+            "clave": "D0650",
+            "nombre": "ELABORACION DE PERFILES DE INVERSION"
+        },
+        {
+            "clave": "D0650",
+            "nombre": "ELABORACION DE PERFILES DE INVERSION"
+        },
+        {
+            "clave": "D0661",
+            "nombre": "ELABORACION Y REGISTRO DE CONTRATOS"
+        },
+        {
+            "clave": "IH099",
+            "nombre": "ESTADISTICA I"
+        },
+        {
+            "clave": "IH233",
+            "nombre": "ESTRATEGIAS DE PROMOCION Y VENTAS"
+        },
+        {
+            "clave": "IH221",
+            "nombre": "ESTUDIO DE MERCADO"
+        },
+        {
+            "clave": "D0655",
+            "nombre": "ESTUDIO DE MERCADO DEL AGRONEGOCIO"
+        },
+        {
+            "clave": "D0642",
+            "nombre": "ESTUDIO DEL ENTORNO DEL MEDIO AMBIENTE"
+        },
+        {
+            "clave": "D0641",
+            "nombre": "ESTUDIO DEL ENTORNO ECONOMICO Y PRODUCTIVO"
+        },
+        {
+            "clave": "D0651",
+            "nombre": "ESTUDIO DEL PRODUCTO EN EL MERCADO"
+        },
+        {
+            "clave": "D0657",
+            "nombre": "ESTUDIO ECONOMICO DEL AGRONEGOCIO"
+        },
+        {
+            "clave": "D0653",
+            "nombre": "ESTUDIO FINANCIERO"
+        },
+        {
+            "clave": "IH225",
+            "nombre": "ESTUDIO FINANCIERO Y ANALISIS DE RIESGO"
+        },
+        {
+            "clave": "D0654",
+            "nombre": "ESTUDIO ORGANIZACIONAL DEL AGRONEGOCIO"
+        },
+        {
+            "clave": "D0652",
+            "nombre": "ESTUDIO TECNICO ADMINISTRATIVO"
+        },
+        {
+            "clave": "D0656",
+            "nombre": "ESTUDIO TECNICO DEL AGRONEGOCIO"
+        },
+        {
+            "clave": "IH217",
+            "nombre": "ESTUDIO TECNICO Y ORGANIZACIONAL"
+        },
+        {
+            "clave": "D0658",
+            "nombre": "EVALUACION Y ANALISIS DE RIESGO"
+        },
+        {
+            "clave": "D0647",
+            "nombre": "EVALUACION Y PERSPECTIVA DEL GRUPO DE INTERES"
+        },
+        {
+            "clave": "D0685",
+            "nombre": "EXPRESION ORAL Y ESCRITA"
+        },
+        {
+            "clave": "D0685",
+            "nombre": "EXPRESION ORAL Y ESCRITA"
+        },
+        {
+            "clave": "IH234",
+            "nombre": "FINANZAS INTERNACIONALES"
+        },
+        {
+            "clave": "D0669",
+            "nombre": "GERENCIA Y RELACIONES PUBLICAS"
+        },
+        {
+            "clave": "IH237",
+            "nombre": "GESTION DE LA PROPIEDAD INTELECTUAL E INDUSTRIAL"
+        },
+        {
+            "clave": "D0665",
+            "nombre": "GESTION DE LICENCIA Y PROPIEDAD INDUSTRIAL"
+        },
+        {
+            "clave": "D0663",
+            "nombre": "GESTION DE RECURSOS HUMANOS"
+        },
+        {
+            "clave": "D0664",
+            "nombre": "GESTION DE RECURSOS MATERIALES Y TECNICOS"
+        },
+        {
+            "clave": "D0664",
+            "nombre": "GESTION DE RECURSOS MATERIALES Y TECNICOS"
+        },
+        {
+            "clave": "IH222",
+            "nombre": "HABILIDADES DIRECTIVAS"
+        },
+        {
+            "clave": "D0683",
+            "nombre": "IDIOMA EXTRANJERO"
+        },
+        {
+            "clave": "I5134",
+            "nombre": "INGLES I"
+        },
+        {
+            "clave": "I5135",
+            "nombre": "INGLES II"
+        },
+        {
+            "clave": "I5136",
+            "nombre": "INGLES III"
+        },
+        {
+            "clave": "I5137",
+            "nombre": "INGLES IV"
+        },
+        {
+            "clave": "IG593",
+            "nombre": "INTRODUCCION A LOS AGRONEGOCIOS"
+        },
+        {
+            "clave": "IH223",
+            "nombre": "INVESTIGACION DE OPERACIONES I"
+        },
+        {
+            "clave": "D0643",
+            "nombre": "INVESTIGACION PARTICIPATIVA"
+        },
+        {
+            "clave": "D0643",
+            "nombre": "INVESTIGACION PARTICIPATIVA"
+        },
+        {
+            "clave": "D0682",
+            "nombre": "LABORATORIO DE AGRONEGOCIOS AREA ACUICOLA"
+        },
+        {
+            "clave": "D0677",
+            "nombre": "LABORATORIO DE AGRONEGOCIOS AREA AGRICOLA"
+        },
+        {
+            "clave": "D0679",
+            "nombre": "LABORATORIO DE AGRONEGOCIOS AREA FORESTAL"
+        },
+        {
+            "clave": "D0678",
+            "nombre": "LABORATORIO DE AGRONEGOCIOS AREA PECUARIA"
+        },
+        {
+            "clave": "D0681",
+            "nombre": "LABORATORIO DE AGRONEGOCIOS AREA PRODUCTOS ALTERNATIVOS RURALES"
+        },
+        {
+            "clave": "D0680",
+            "nombre": "LABORATORIO DE AGRONEGOCIOS AREA SERVICIOS AMBIENTALES"
+        },
+        {
+            "clave": "D0662",
+            "nombre": "MANEJO DE MINISTRACIONES"
+        },
+        {
+            "clave": "IG589",
+            "nombre": "MATEMATICAS I"
+        },
+        {
+            "clave": "IG591",
+            "nombre": "METODOLOGIA DE LA INVESTIGACION"
+        },
+        {
+            "clave": "D0660",
+            "nombre": "OPERACION Y PARTICIPACION DE COMITES DE CREDITO"
+        },
+        {
+            "clave": "IH245",
+            "nombre": "OPTATIVA I"
+        },
+        {
+            "clave": "IH246",
+            "nombre": "OPTATIVA II"
+        },
+        {
+            "clave": "IH247",
+            "nombre": "OPTATIVA III"
+        },
+        {
+            "clave": "D0648",
+            "nombre": "ORGANIZACION DE GRUPOS DE INTERES"
+        },
+        {
+            "clave": "IH238",
+            "nombre": "PRACTICAS PROFESIONALES SUPERVISADAS"
+        },
+        {
+            "clave": "D0676",
+            "nombre": "PROYECTOS ACUICOLAS"
+        },
+        {
+            "clave": "D0671",
+            "nombre": "PROYECTOS AGRICOLAS"
+        },
+        {
+            "clave": "D0675",
+            "nombre": "PROYECTOS ALTERNATIVOS RURALES"
+        },
+        {
+            "clave": "D0674",
+            "nombre": "PROYECTOS DE SERVICIOS AMBIENTALES"
+        },
+        {
+            "clave": "D0673",
+            "nombre": "PROYECTOS FORESTALES"
+        },
+        {
+            "clave": "D0672",
+            "nombre": "PROYECTOS PECUARIOS"
+        },
+        {
+            "clave": "IH218",
+            "nombre": "PRUEBAS PREOPERATORIO DEL AGRONEGOCIOS"
+        },
+        {
+            "clave": "D0666",
+            "nombre": "PRUEBAS PREOPERATORIOS DEL AGRONEGOCIO"
+        },
+        {
+            "clave": "IH226",
+            "nombre": "SEMINARIO DE TITULACION"
+        },
+        {
+            "clave": "D0645",
+            "nombre": "SENSIBILIZACION DE PRODUCTORES"
+        },
+        {
+            "clave": "D0667",
+            "nombre": "SISTEMA CONTABLE"
+        },
+        {
+            "clave": "D0670",
+            "nombre": "SISTEMAS DE CONTROL DE PROCESOS PRODUCTIVOS"
+        },
+        {
+            "clave": "D0670",
+            "nombre": "SISTEMAS DE CONTROL DE PROCESOS PRODUCTIVOS"
+        },
+        {
+            "clave": "IG592",
+            "nombre": "SISTEMAS DE PRODUCCION PRIMARIA"
+        },
+        {
+            "clave": "IH104",
+            "nombre": "TALLER DE PRODUCTO INTEGRADOR I"
+        },
+        {
+            "clave": "IH228",
+            "nombre": "TALLER DE PRODUCTO INTEGRADOR II"
+        },
+        {
+            "clave": "IH229",
+            "nombre": "TALLER DE PRODUCTO INTEGRADOR III"
+        },
+        {
+            "clave": "IH230",
+            "nombre": "TALLER DE PRODUCTO INTEGRADOR IV"
+        },
+        {
+            "clave": "IH231",
+            "nombre": "TALLER DE PRODUCTO INTEGRADOR V"
+        },
+        {
+            "clave": "I5093",
+            "nombre": "TECNOLOGIAS DE LA INFORMACION"
+        },
+        {
+            "clave": "D0689",
+            "nombre": "TOPICOS SELECTOS EN AGRONEGOCIOS"
+        },
+        {
+            "clave": "D0687",
+            "nombre": "TOPICOS SELECTOS EN DESARROLLO RURAL"
+        },
+        {
+            "clave": "D0688",
+            "nombre": "TOPICOS SELECTOS SERVICIOS AMBIENTALES"
+        },
+        {
+            "clave": "SA103",
+            "nombre": "CIENCIA DE LA CARNE"
+        },
+        {
+            "clave": "SA102",
+            "nombre": "CIENCIA DE LA LECHE"
+        },
+        {
+            "clave": "SA115",
+            "nombre": "ENFERMEDADES EXOTICAS DE LOS ANIMALES DOMESTICOS"
+        },
+        {
+            "clave": "SA105",
+            "nombre": "FISICOQUIMICA ALIMENTARIA"
+        },
+        {
+            "clave": "SA108",
+            "nombre": "HIGIENE Y TECNOLOGIA DE LA CARNE"
+        },
+        {
+            "clave": "SA109",
+            "nombre": "HIGIENE Y TECNOLOGIA DE LA LECHE"
+        },
+        {
+            "clave": "SA111",
+            "nombre": "INSPECCION DE ALIMENTOS DE ORIGEN ANIMAL"
+        },
+        {
+            "clave": "SA104",
+            "nombre": "INTRODUCCION A LA MEDICINA VETERINARIA Y ZOOTECNIA"
+        },
+        {
+            "clave": "SA107",
+            "nombre": "MANEJO HIGIENICO DE ALIMENTOS"
+        },
+        {
+            "clave": "SA112",
+            "nombre": "MEDICINA COMPARADA"
+        },
+        {
+            "clave": "SA106",
+            "nombre": "MICROBIOLOGIA ALIMENTARIA"
+        },
+        {
+            "clave": "SA117",
+            "nombre": "PRODUCCION PECUARIA E IMPACTO AMBIENTAL"
+        },
+        {
+            "clave": "SA113",
+            "nombre": "TOXICOLOGIA ALIMENTARIA"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+  "centros": {
+    "CUAAD": "A",
+    "CUCBA": "B",
+    "CUCEA": "C",
+    "CUCEI": "D",
+    "CUCS": "E",
+    "CUCHSH": "F",
+    "CUALTOS": "G",
+    "CUCIENEGA": "H",
+    "CUCOSTA": "I",
+    "CUCSUR": "J",
+    "CUVALLES": "K",
+    "CUNORTE": "L",
+    "CULAGOS": "N"
+  },
+  "letters": {
+    "A": "CUAAD",
+    "B": "CUCBA",
+    "C": "CUCEA",
+    "D": "CUCEI",
+    "E": "CUCS",
+    "F": "CUCHSH",
+    "G": "CUALTOS",
+    "H": "CUCIENEGA",
+    "I": "CUCOSTA",
+    "J": "CUCSUR",
+    "K": "CUVALLES",
+    "L": "CUNORTE",
+    "N": "CULAGOS"
+  },
+  "labels": [
+    "CUAAD",
+    "CUCBA",
+    "CUCEA",
+    "CUCEI",
+    "CUCS",
+    "CUCHSH",
+    "CUALTOS",
+    "CUCIENEGA",
+    "CUCOSTA",
+    "CUCSUR",
+    "CUVALLES",
+    "CUNORTE",
+    "CULAGOS"
+  ]
+}

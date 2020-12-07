@@ -1,33 +1,97 @@
-import React, { useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 
-import StyledSelect from "../components/StyledSelect";
 import { makeStyles } from "@material-ui/core";
-import backgroundLogo from "../assets/images/background.svg"
-import Landing from "./Landing"
-import Preferences from "../views/Preferences"
 
-const useStyles = makeStyles(() => ({
-  root: {
-    // backgroundColor: "green",
-    backgroundImage: `url('${backgroundLogo}')`, 
-    height: "2000%",
+import Banner from "../components/Banner";
+import Title from "../components/Title";
+import Paragraph from "../components/Paragraph";
+import Section from "../components/Section";
+import SelectCenter from "../components/SelectCenter";
+import SelectMaterias from "../components/SelectMaterias";
+import { PreferencesContext } from "../context/PreferencesContext";
+
+import { getMateria } from "../shared/requests";
+import { normalizeMateria } from "../shared/normalize";
+
+const useStyles = makeStyles((theme) => ({
+  root: {},
+  container: {
+    maxWidth: 1200,
+    padding: 16,
+    textAlign: "center",
+    margin: "0 auto",
+    marginBottom: 80,
+  },
+  subtitle: {
+    fontFamily: "Acme, sans-serif",
+    lineHeight: "25px",
+    fontWeight: "normal",
+    fontSize: "50px",
+    color: theme.palette.primary.dark,
   },
 }));
-const weyes = [
-  { value: "yona1", label: "YonatánYonatánYonatánYonatánYonatánYonatán 1" },
-  { value: "yona2", label: "YonatánYonatánYonatánYonatánYonatánYonatán 2" },
-  { value: "yona3", label: "YonatánYonatánYonatánYonatánYonatánYonatán 3" },
-  { value: "yona4", label: "YonatánYonatánYonatánYonatánYonatánYonatán 4" },
-  { value: "yona5", label: "YonatánYonatánYonatánYonatánYonatánYonatán 5" },
-];
-
 
 const Main = () => {
+  const classes = useStyles();
+  const [section, setSection] = useState(1);
+  const { state, dispatch } = useContext(PreferencesContext);
+
+  useEffect(() => {
+    const init = async () => {
+      const rawMateria = getMateria("I7020");
+      console.log(rawMateria);
+      const materiaNormalized = normalizeMateria(rawMateria);
+      console.log(materiaNormalized);
+    };
+    init();
+  }, []);
+
+  useEffect(() => {
+    if (section === state.section) return;
+
+    const element = document.getElementById(state.section);
+    setTimeout(() => {
+      if (element) element.scrollIntoView();
+    }, 200);
+    setSection(state.section);
+  }, [section, state]);
+
   return (
-    <div>
+    <div className={classes.root}>
+      <Banner />
+      <div className={classes.container}>
+        <Title>¿Cómo funciona?</Title>
+        <Paragraph>
+          Horario CE consulta la oferta academica de la universidad, selecciona
+          tus materias junto con las preferencias para tu horario como las horas
+          en las que quieres asistir y tus profesores favoritos, luego de esto
+          se te presentaran las mejores opciones basadas en tus preferencias.
+        </Paragraph>
+      </div>
+      <Section
+        dark
+        section={1}
+        open
+        disabled={section !== 1}
+        onNext={() => dispatch({ type: "next" })}
+      >
+        <SelectCenter />
+      </Section>
+      <Section
+        section={2}
+        open={section >= 2}
+        disabled={section > 2 && section !== 2}
+        nextDisabled={state.materias.length === 0}
+        onNext={() => dispatch({ type: "next" })}
+        onBack={() => dispatch({ type: "back" })}
+      >
+        <SelectMaterias />
+      </Section>
+      <Section dark section={3}>
+        asfasfasf
+      </Section>
     </div>
-  )
-}
+  );
+};
 
-export default Main
-
+export default Main;

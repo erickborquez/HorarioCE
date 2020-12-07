@@ -1,11 +1,23 @@
 import { makeStyles } from "@material-ui/core";
 import React from "react";
 //import { makeStyles } from "@material-ui/core/styles";
-import "./GridStyle.css";
 
 const useStyles = makeStyles((theme) => ({
-  colorGrip: {
-    background: theme.palette.grid.light,
+  gridContainer: {
+    display: "grid",
+    gridTemplateColumns: "auto auto auto auto auto auto auto",
+    borderRadius: "10px",
+    border: "5px solid black",
+  },
+  gridItem: {
+    boxSizing: "border-box",
+    border: "1px solid black",
+    backgroundColor: "#f3e5f5",
+    fontFamily: "roboto",
+    color: "black",
+    padding: "25px",
+    fontSize: "15px",
+    textAlign: "center",
   },
 }));
 
@@ -16,6 +28,7 @@ const GridStyle = ({
   nullInitialValue = false,
 }) => {
   const data = {};
+  const classes = useStyles();
   options.forEach((option) => {
     let dates = option.dates;
     dates.forEach((date) => {
@@ -27,10 +40,6 @@ const GridStyle = ({
       if (end - start === 155) data[letter + String(start + 100)] = option.name;
     });
   });
-
-  for (let key in data) {
-    console.log(`${key}, ${data[key]}`);
-  }
 
   const days = ["H", "L", "M", "I", "J", "V", "S"];
   const hours = [];
@@ -51,26 +60,21 @@ const GridStyle = ({
     });
   });
 
-  subjects.forEach((sub) => {
-    console.log(`${sub.code}, ${sub.name}`);
-  });
-
   return (
-    <div className="grid-container">
-      <div className="grid-item"></div>
-      <div className="grid-item">LUNES</div>
-      <div className="grid-item">MARTES</div>
-      <div className="grid-item">MIERCOLES</div>
-      <div className="grid-item">JUEVES</div>
-      <div className="grid-item">VIERNES</div>
-      <div className="grid-item">SABADO</div>
+    <div className={classes.gridContainer}>
+      <div className={classes.gridItem}></div>
+      <div className={classes.gridItem}>LUNES</div>
+      <div className={classes.gridItem}>MARTES</div>
+      <div className={classes.gridItem}>MIERCOLES</div>
+      <div className={classes.gridItem}>JUEVES</div>
+      <div className={classes.gridItem}>VIERNES</div>
+      <div className={classes.gridItem}>SABADO</div>
       {subjects.map((sub) => (
-        <div className="grid-item" key={sub.code}>
+        <div className={classes.gridItem} key={sub.code}>
           {sub.name}
         </div>
       ))}
     </div>
   );
 };
-
 export default GridStyle;
