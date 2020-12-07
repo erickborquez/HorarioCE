@@ -26,12 +26,12 @@
                 {
                     "day": "LUNES",
                     "start": "0700",
-                    "end": "0855"
+                    "end": "1055"
                 },
                 {
                     "day": "MIERCOLES",
                     "start": "0700",
-                    "end": "0755"
+                    "end": "1055"
                 }
             ],
             "professor": "GARCIA HERNANDEZ, MARTIN"

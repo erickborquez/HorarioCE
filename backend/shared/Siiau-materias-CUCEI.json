@@ -1,180 +1,2842 @@
 {
     "materias": [
         {
-            "nrc": "57150",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "84374",
             "seccion": "D01",
-            "horas": [
-                "0900-1055"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1100",
+                    "end": "1255"
+                }
             ],
-            "dias": [
-                ">. M . J . .<"
-            ],
-            "professor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN"
+            "professor": "MARTINEZ LOPEZ, VALENTIN"
         },
         {
-            "nrc": "57237",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "82849",
             "seccion": "D02",
-            "horas": [
-                "1100-1255",
-                "1100-1255"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1900",
+                    "end": "2055"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1900",
+                    "end": "2055"
+                }
             ],
-            "dias": [
-                ">L . . . . .<",
-                ">. . I . . .<"
-            ],
-            "professor": "CORTES NAVARRO, LAURA ESTHER"
+            "professor": "IBARRA CHAVEZ, SALOMON EDUARDO"
         },
         {
-            "nrc": "57423",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "93879",
             "seccion": "D03",
-            "horas": [
-                "1300-1655"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1700",
+                    "end": "1855"
+                },
+                {
+                    "day": "LUNES",
+                    "start": "1700",
+                    "end": "1855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1700",
+                    "end": "1855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1700",
+                    "end": "1855"
+                }
             ],
-            "dias": [
-                ">. . . . V .<"
-            ],
-            "professor": "HUERTA CISNEROS, FEDERICO ANTONIO"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
         },
         {
-            "nrc": "57480",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "90923",
             "seccion": "D04",
-            "horas": [
-                "1900-2055"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1700",
+                    "end": "1855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1700",
+                    "end": "1855"
+                }
             ],
-            "dias": [
-                ">L . I . . .<"
-            ],
-            "professor": "CORTES NAVARRO, LAURA ESTHER"
+            "professor": "IBARRA CHAVEZ, SALOMON EDUARDO"
         },
         {
-            "nrc": "57506",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "119893",
             "seccion": "D05",
-            "horas": [
-                "0900-1055",
-                "0900-1055"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "0900",
+                    "end": "1055"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "0900",
+                    "end": "1055"
+                }
             ],
-            "dias": [
-                ">L . . . . .<",
-                ">. . I . . .<"
-            ],
-            "professor": "GONZALEZ SOLIS, FERNANDO RENAN"
+            "professor": "MARTINEZ LOPEZ, VALENTIN"
         },
         {
-            "nrc": "57309",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "130035",
             "seccion": "D06",
-            "horas": [
-                "0900-1055"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "1900",
+                    "end": "2055"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "1900",
+                    "end": "2055"
+                }
             ],
-            "dias": [
-                ">. M . J . .<"
-            ],
-            "professor": "REAL GUERRERO, MARIA DEL SOCORRO"
+            "professor": "IBARRA CHAVEZ, SALOMON EDUARDO"
         },
         {
-            "nrc": "56959",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "138641",
             "seccion": "D07",
-            "horas": [
-                "1100-1255"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
             ],
-            "dias": [
-                ">L . I . . .<"
-            ],
-            "professor": "DE LA CRUZ GARCIA, ELBA LILIA"
+            "professor": "MARTINEZ LOPEZ, VALENTIN"
         },
         {
-            "nrc": "57263",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "153406",
             "seccion": "D08",
-            "horas": [
-                "1300-1455"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "VIERNES",
+                    "start": "0700",
+                    "end": "1055"
+                }
             ],
-            "dias": [
-                ">L . I . . .<"
-            ],
-            "professor": "CORTES NAVARRO, LAURA ESTHER"
+            "professor": "MARTINEZ LOPEZ, VALENTIN"
         },
         {
-            "nrc": "57146",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164139",
             "seccion": "D09",
-            "horas": [
-                "1500-1655",
-                "1500-1655"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1300",
+                    "end": "1455"
+                }
             ],
-            "dias": [
-                ">L . . . . .<",
-                ">. . I . . .<"
-            ],
-            "professor": "FERNANDEZ LUNA, MA"
+            "professor": "MEZA ESPINOSA, JOSE JUAN"
         },
         {
-            "nrc": "57095",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164140",
             "seccion": "D10",
-            "horas": [
-                "1700-1855"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
             ],
-            "dias": [
-                ">. M . J . .<"
-            ],
-            "professor": "REAL GUERRERO, MARIA DEL SOCORRO"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
         },
         {
-            "nrc": "57430",
-            "nombre": "METODOS MATEMATICOS III",
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
             "seccion": "D11",
-            "horas": [
-                "1300-1455",
-                "1300-1455"
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
             ],
-            "dias": [
-                ">L . . . . .<",
-                ">. . I . . .<"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
             ],
-            "professor": "CERVANTES LOMELI, ADRIAN"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
         },
         {
-            "nrc": "10641",
-            "nombre": "METODOS MATEMATICOS III",
-            "seccion": "D12",
-            "horas": [
-                "1700-1855"
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
             ],
-            "dias": [
-                ">L . I . . .<"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
             ],
-            "professor": "TORRES CORTEZ, OMAR RAFAEL"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
         },
         {
-            "nrc": "84333",
-            "nombre": "METODOS MATEMATICOS III",
-            "seccion": "D13",
-            "horas": [
-                "0900-1255"
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
             ],
-            "dias": [
-                ">. . . . V .<"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
             ],
-            "professor": "CERVANTES LOMELI, ADRIAN"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
         },
         {
-            "nrc": "88750",
-            "nombre": "METODOS MATEMATICOS III",
-            "seccion": "D15",
-            "horas": [
-                "0700-0855"
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
             ],
-            "dias": [
-                ">. M . J . .<"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
             ],
-            "professor": "LOPEZ CONTRERAS, NARDA LIZBET"
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1500",
+                    "end": "1655"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1500",
+                    "end": "1655"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES I",
+            "nrc": "164470",
+            "seccion": "D11",
+            "clave": "I7026",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RAMIREZ HERNANDEZ, NORMA"
         }
     ]
 }
