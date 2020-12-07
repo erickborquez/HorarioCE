@@ -37,7 +37,7 @@ const GridStyle = ({
       let letter = date.day[0];
       if (date.day === "MIERCOLES") letter = "I";
       data[letter + String(start)] = option.name;
-      if (end - start === 155) data[letter + String(start + 100)] = option.name;
+      if (end - start === 155 || end - start === 355) data[letter + String(start + 100)] = option.name;
     });
   });
 

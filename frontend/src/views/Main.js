@@ -1,17 +1,17 @@
 import React, { useContext, useEffect, useState } from "react";
-
 import { makeStyles } from "@material-ui/core";
-
 import Banner from "../components/Banner";
+import Button from "../components/Button";
 import Title from "../components/Title";
 import Paragraph from "../components/Paragraph";
 import Section from "../components/Section";
 import SelectCenter from "../components/SelectCenter";
 import SelectMaterias from "../components/SelectMaterias";
 import { PreferencesContext } from "../context/PreferencesContext";
-
 import { getMateria } from "../shared/requests";
 import { normalizeMateria } from "../shared/normalize";
+import { DisplaySchedule } from "../components/DisplaySchedule";
+import { axios } from "axios";
 
 const useStyles = makeStyles((theme) => ({
   root: {},
@@ -48,7 +48,6 @@ const Main = () => {
 
   useEffect(() => {
     if (section === state.section) return;
-
     const element = document.getElementById(state.section);
     setTimeout(() => {
       if (element) element.scrollIntoView();
@@ -56,8 +55,24 @@ const Main = () => {
     setSection(state.section);
   }, [section, state]);
 
+  const handleButtonClick = () => {
+    fetch("/api/siiau/CUCEI/I7020").then(res => {
+      return res.json()
+    });
+  };
+
   return (
-    <div className={classes.root}>
+     <div className={classes.root}>
+  {  <Button
+        style={{ border: "2px solid" }}
+        className={classes.button}
+        onClick = {handleButtonClick}
+        color="secondary"
+        variant="outlined"
+        size="large"
+      >
+        Test
+      </Button> }
       <Banner />
       <div className={classes.container}>
         <Title>¿Cómo funciona?</Title>
@@ -87,8 +102,15 @@ const Main = () => {
       >
         <SelectMaterias />
       </Section>
-      <Section dark section={3}>
-        asfasfasf
+      <Section
+        dark
+        section={3}
+        open={section > 2}
+        disabled={section < 3 && section !== 3}
+        onBack={() => dispatch({ type: "back" })}
+        nextDisabled
+      >
+        <DisplaySchedule />
       </Section>
     </div>
   );
