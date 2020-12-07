@@ -64,22 +64,4 @@ const updateCenter = async (req, res) => {
   }
 };
 
-// const updateAll = async (req, res) => {
-//   const data = [];
-//   for (let centro in centros) {
-//     try {
-//       const oferta = await getOferta(centro);
-//       const materias = _updateCenter(centro, oferta);
-//       data.push({ centro, materias });
-//     } catch (e) {
-//       res.status(500).json({
-//         message: "Hubo un error :(",
-//         error: e,
-//       });
-//     }
-//   }
-//   res.status(200).json({ data: "data" });
-// };
-
 exports.updateCenter = updateCenter;
-// exports.updateAll = updateAll;

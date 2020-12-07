@@ -1,0 +1,171 @@
+{
+    "materias": [
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS",
+            "nrc": "103844",
+            "seccion": "D01",
+            "clave": "I7030",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "0700",
+                    "end": "0855"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "0700",
+                    "end": "0855"
+                }
+            ],
+            "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS",
+            "nrc": "103845",
+            "seccion": "D02",
+            "clave": "I7030",
+            "dates": [
+                {
+                    "day": "MIERCOLES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "VIERNES",
+                    "start": "1300",
+                    "end": "1455"
+                },
+                {
+                    "day": "VIERNES",
+                    "start": "1300",
+                    "end": "1455"
+                }
+            ],
+            "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS",
+            "nrc": "119896",
+            "seccion": "D03",
+            "clave": "I7030",
+            "dates": [
+                {
+                    "day": "MARTES",
+                    "start": "0900",
+                    "end": "1055"
+                },
+                {
+                    "day": "MARTES",
+                    "start": "0900",
+                    "end": "1055"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "0900",
+                    "end": "1055"
+                },
+                {
+                    "day": "JUEVES",
+                    "start": "0900",
+                    "end": "1055"
+                }
+            ],
+            "professor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS",
+            "nrc": "131874",
+            "seccion": "D04",
+            "clave": "I7030",
+            "dates": [
+                {
+                    "day": "MIERCOLES",
+                    "start": "1700",
+                    "end": "1855"
+                },
+                {
+                    "day": "VIERNES",
+                    "start": "1700",
+                    "end": "1855"
+                }
+            ],
+            "professor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS",
+            "nrc": "140727",
+            "seccion": "D05",
+            "clave": "I7030",
+            "dates": [
+                {
+                    "day": "VIERNES",
+                    "start": "1500",
+                    "end": "1855"
+                }
+            ],
+            "professor": "QUINTANILLA MORENO, FRANCISCO JAVIER"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS",
+            "nrc": "153405",
+            "seccion": "D06",
+            "clave": "I7030",
+            "dates": [
+                {
+                    "day": "VIERNES",
+                    "start": "1100",
+                    "end": "1455"
+                }
+            ],
+            "professor": "RIVERA AGUILAR, JANETH GABRIELA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS",
+            "nrc": "164138",
+            "seccion": "D07",
+            "clave": "I7030",
+            "dates": [
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "LUNES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                },
+                {
+                    "day": "MIERCOLES",
+                    "start": "1100",
+                    "end": "1255"
+                }
+            ],
+            "professor": "RIVERA AGUILAR, JANETH GABRIELA"
+        },
+        {
+            "name": "SEMINARIO DE SOLUCION DE PROBLEMAS DE SISTEMAS OPERATIVOS",
+            "nrc": "165791",
+            "seccion": "D08",
+            "clave": "I7030",
+            "dates": [
+                {
+                    "day": "VIERNES",
+                    "start": "1300",
+                    "end": "1655"
+                }
+            ],
+            "professor": "VALDES LOPEZ, JULIO ESTEBAN"
+        }
+    ]
+}
