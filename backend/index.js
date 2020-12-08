@@ -12,7 +12,7 @@ const consultaSiiauRouter = require("./routes/consultaSiiau-router");
 
 const HttpError = require("./models/http-error");
 
-const port = process.env.port || 5000;
+const port = process.env.PORT || 5000;
 
 const app = express();
 app.use(cors());
