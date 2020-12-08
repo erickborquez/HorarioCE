@@ -1,6 +1,5 @@
 import { makeStyles } from "@material-ui/core";
 import React from "react";
-//import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles((theme) => ({
   gridContainer: {
@@ -8,25 +7,24 @@ const useStyles = makeStyles((theme) => ({
     gridTemplateColumns: "auto auto auto auto auto auto auto",
     borderRadius: "10px",
     border: "5px solid black",
+    maxHeight: "1000px",
+    background: "linear-gradient(180deg,#8360c3 -100%, #2ebf91 100%)",
+    width: "100%",
+    marginBottom: 32,
+    marginTop: 10,
   },
   gridItem: {
     boxSizing: "border-box",
-    border: "1px solid black",
-    backgroundColor: "#f3e5f5",
-    fontFamily: "roboto",
-    color: "black",
-    padding: "25px",
+    border: `1px solid black`,
+    padding: "5px",
     fontSize: "15px",
+    fontWeight: 600,
     textAlign: "center",
+    color: "white",
   },
 }));
 
-const GridStyle = ({
-  options,
-  value,
-  handleChange,
-  nullInitialValue = false,
-}) => {
+const GridStyle = ({ options }) => {
   const data = {};
   const classes = useStyles();
   options.forEach((option) => {
@@ -37,7 +35,8 @@ const GridStyle = ({
       let letter = date.day[0];
       if (date.day === "MIERCOLES") letter = "I";
       data[letter + String(start)] = option.name;
-      if (end - start === 155 || end - start === 355) data[letter + String(start + 100)] = option.name;
+      if (end - start === 155 || end - start === 355)
+        data[letter + String(start + 100)] = option.name;
     });
   });
 

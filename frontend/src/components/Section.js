@@ -41,7 +41,7 @@ const useStyles = makeStyles((theme) => ({
     overflow: "hidden",
   },
   open: {
-    maxHeight: 2000,
+    maxHeight: 3500,
     paddingTop: 50,
     paddingBottom: 16,
   },

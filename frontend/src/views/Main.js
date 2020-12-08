@@ -1,17 +1,14 @@
 import React, { useContext, useEffect, useState } from "react";
 import { makeStyles } from "@material-ui/core";
 import Banner from "../components/Banner";
-import Button from "../components/Button";
 import Title from "../components/Title";
 import Paragraph from "../components/Paragraph";
 import Section from "../components/Section";
 import SelectCenter from "../components/SelectCenter";
 import SelectMaterias from "../components/SelectMaterias";
 import { PreferencesContext } from "../context/PreferencesContext";
-import { getMateria } from "../shared/requests";
-import { normalizeMateria } from "../shared/normalize";
 import { DisplaySchedule } from "../components/DisplaySchedule";
-import { axios } from "axios";
+import * as data from "../shared/data/materias.json";
 
 const useStyles = makeStyles((theme) => ({
   root: {},
@@ -37,16 +34,6 @@ const Main = () => {
   const { state, dispatch } = useContext(PreferencesContext);
 
   useEffect(() => {
-    const init = async () => {
-      const rawMateria = getMateria("I7020");
-      console.log(rawMateria);
-      const materiaNormalized = normalizeMateria(rawMateria);
-      console.log(materiaNormalized);
-    };
-    init();
-  }, []);
-
-  useEffect(() => {
     if (section === state.section) return;
     const element = document.getElementById(state.section);
     setTimeout(() => {
@@ -55,26 +42,15 @@ const Main = () => {
     setSection(state.section);
   }, [section, state]);
 
-  const handleButtonClick = () => {
-    fetch("/api/siiau/CUCEI/I7020").then(res => {
-      return res.json()
-    });
-  };
+  // Horarios generados
+  const info = data.materias2;
+  const schedules = [];
+  for (let i = 0; i < 5; ++i) schedules.push(info);
 
   return (
-     <div className={classes.root}>
-  {  <Button
-        style={{ border: "2px solid" }}
-        className={classes.button}
-        onClick = {handleButtonClick}
-        color="secondary"
-        variant="outlined"
-        size="large"
-      >
-        Test
-      </Button> }
+    <div className={classes.root}>
       <Banner />
-      <div className={classes.container}>
+      <div className={classes.container} id="learn">
         <Title>¿Cómo funciona?</Title>
         <Paragraph>
           Horario CE consulta la oferta academica de la universidad, selecciona
@@ -110,7 +86,7 @@ const Main = () => {
         onBack={() => dispatch({ type: "back" })}
         nextDisabled
       >
-        <DisplaySchedule />
+        <DisplaySchedule options={schedules} />
       </Section>
     </div>
   );
