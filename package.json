@@ -1,0 +1,27 @@
+{
+  "name": "HorarioCE",
+  "version": "1.0.0",
+  "description": "Este repositorio contendra todos los archivos para la aplicacion de horario ce, donde se podra generar tu horario para la universidad de guadaajara.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "clsx": "^1.1.1",
+    "prettier": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "cd backend && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickJoestar/HorarioCE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickJoestar/HorarioCE/issues"
+  },
+  "homepage": "https://github.com/ErickJoestar/HorarioCE#readme"
+}
