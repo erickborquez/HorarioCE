@@ -36,8 +36,6 @@ app.use("/api/horarios", horariosRouter);
 app.use("/api/update", updateRoutes);
 app.use("/api/siiau", consultaSiiauRouter);
 
-app.listen(process.env.PORT || 5000);
-
 app.use((req, res, next) => {
   next(new HttpError("Could not find this route.", 404));
 });
@@ -49,6 +47,8 @@ app.use((error, req, res, next) => {
   res.status(error.code || 500);
   res.json({ message: error.message || "An unknown error ocurred!" });
 });
+
+app.listen(process.env.PORT || 5000);
 
 mongoose
   .connect(process.env.MONGO_URI, {
