@@ -110,13 +110,13 @@ const SelectMaterias = () => {
       {state.materias.length > 0 && (
         <div className={classes.materias}>
           <Paragraph>Materias elegidas</Paragraph>
-
           {state.materias.map((materia) => (
             <div className={classes.materia}>
               <span
                 className={classes.materiaNombre}
               >{`${materia.clave} ${materia.nombre}`}</span>
               <IconButton
+                disabled={state.section !== 2}
                 className={classes.deleteIcon}
                 size="small"
                 aria-label="delete"

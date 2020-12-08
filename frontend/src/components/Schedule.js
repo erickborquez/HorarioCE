@@ -1,26 +1,40 @@
 import { makeStyles } from "@material-ui/core";
+import clsx from "clsx";
 import React from "react";
 
 const useStyles = makeStyles((theme) => ({
   gridContainer: {
     display: "grid",
-    gridTemplateColumns: "auto auto auto auto auto auto auto",
-    borderRadius: "10px",
-    border: "5px solid black",
-    maxHeight: "1000px",
-    background: "linear-gradient(180deg,#8360c3 -100%, #2ebf91 100%)",
+    gridTemplateColumns: "100px repeat(6,1fr)",
+    gridTemplateRows: "60px repeat(15, 1fr)",
+    justifyItems: "stretch",
+    alignItems: "stretch",
+    borderRadius: "8px",
+    // border: `2px solid ${theme.palette.primary.main}`,
     width: "100%",
     marginBottom: 32,
     marginTop: 10,
   },
   gridItem: {
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
     boxSizing: "border-box",
-    border: `1px solid black`,
-    padding: "5px",
-    fontSize: "15px",
-    fontWeight: 600,
+    padding: "7px 4px",
+    fontSize: 12,
+    fontWeight: 500,
     textAlign: "center",
-    color: "white",
+    color: "#333",
+    // color: theme.palette.primary.main,
+  },
+  gridItemsHeader: {
+    fontSize: 18,
+    fontWeight: 600,
+    borderBottom: `2px solid ${theme.palette.primary.main}`,
+    color: theme.palette.primary.main,
+  },
+  gridItemDark: {
+    background: "#f1f6f5",
   },
 }));
 
@@ -34,9 +48,9 @@ const GridStyle = ({ options }) => {
       let end = Number(date.end);
       let letter = date.day[0];
       if (date.day === "MIERCOLES") letter = "I";
-      data[letter + String(start)] = option.name;
+      data[letter + String(start)] = option;
       if (end - start === 155 || end - start === 355)
-        data[letter + String(start + 100)] = option.name;
+        data[letter + String(start + 100)] = option;
     });
   });
 
@@ -48,31 +62,44 @@ const GridStyle = ({ options }) => {
   let i = 7;
   hours.forEach((hour) => {
     days.forEach((day) => {
-      const subject = {};
-      subject["code"] = day + hour;
+      let subject = {};
+      subject.code = day + hour;
       if (day === "H") {
-        subject["name"] = `${i}:00`;
+        subject = { name: `${i}:00`, nrc: "" };
         ++i;
-      } else if (data[day + hour]) subject["name"] = data[day + hour];
-      else subject["name"] = "";
+      } else if (data[day + hour]) subject = data[day + hour];
+      else subject = { name: "", nrc: "" };
       subjects.push(subject);
     });
   });
 
+  const daysLabels = [
+    "",
+    "LUNES",
+    "MARTES",
+    "MIERCOLES",
+    "JUEVES",
+    "VIERNES",
+    "SABADO",
+  ];
   return (
     <div className={classes.gridContainer}>
-      <div className={classes.gridItem}></div>
-      <div className={classes.gridItem}>LUNES</div>
-      <div className={classes.gridItem}>MARTES</div>
-      <div className={classes.gridItem}>MIERCOLES</div>
-      <div className={classes.gridItem}>JUEVES</div>
-      <div className={classes.gridItem}>VIERNES</div>
-      <div className={classes.gridItem}>SABADO</div>
-      {subjects.map((sub) => (
-        <div className={classes.gridItem} key={sub.code}>
-          {sub.name}
+      {daysLabels.map((day) => (
+        <div className={clsx(classes.gridItem, classes.gridItemsHeader)}>
+          {day}
         </div>
       ))}
+      {subjects.map((sub, i) => {
+        const row = Math.floor(i / 7);
+        return (
+          <div
+            className={clsx(classes.gridItem, row % 2 && classes.gridItemDark)}
+            key={sub.code}
+          >
+            <span>{`${sub.nrc} ${sub.name}`}</span>
+          </div>
+        );
+      })}
     </div>
   );
 };

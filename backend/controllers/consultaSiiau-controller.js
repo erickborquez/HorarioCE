@@ -1,5 +1,4 @@
 const axios = require("axios");
-const fs = require("fs");
 const { centros } = require("../shared/centros.json");
 
 const SIIAU_URL =
@@ -30,6 +29,7 @@ const formatOferta = (oferta, codigo) => {
   const matched = oferta.match(regGeneral);
   let matchedStr = matched.toString();
   const materiaCompleta = matchedStr.match(regExp);
+  if (!materiaCompleta) return [];
   const materiasSiiau = [];
   materiaCompleta.forEach((materia) => {
     let nrc = materia.match(regNRC);
@@ -39,7 +39,6 @@ const formatOferta = (oferta, codigo) => {
     if (horas) {
       const dias = materia.match(regDia);
       let professor = materia.match(regProf);
-
       const dates = [];
       let diaClase = "";
       dias.forEach((dia) => {
@@ -105,25 +104,16 @@ const formatOferta = (oferta, codigo) => {
   return materiasSiiau;
 };
 
-const saveSiiauOferta = (centro, materias) => {
-  fs.writeFileSync(
-    `shared/Siiau-materias-${centro}.json`,
-    JSON.stringify({ materias }, null, 4)
-  );
-};
-
-const _getSiiauData = (centro, oferta, codigo) => {
+const _getSiiauData = (oferta, codigo) => {
   const formatedOferta = formatOferta(oferta, codigo);
-  saveSiiauOferta(centro, formatedOferta);
   return formatedOferta;
 };
 
 const getSiiauData = async (req, res) => {
   const { centro, codigo } = req.params;
-
   try {
     const oferta = await getOferta(centro, codigo);
-    const materias = _getSiiauData(centro, oferta, codigo);
+    const materias = _getSiiauData(oferta, codigo);
     res.status(200).json({
       data: materias,
     });

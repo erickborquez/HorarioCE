@@ -1,33 +1,33 @@
 const express = require("express");
-const app = express();
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const logger = require("morgan");
+// const logger = require("morgan");
 const mongoose = require("mongoose");
 require("dotenv").config();
-
-app.use(cors());
-
-mongoose
-  .connect(process.env.MONGO_URI, {
-    useUnifiedTopology: true,
-    useNewUrlParser: true,
-    useCreateIndex: true,
-  })
-  .then(() => console.log("DB connected!"))
-  .catch((err) => console.error(err));
-
-const HttpError = require("./models/http-error");
-const port = process.env.port || 5000;
-
-app.use(logger("dev"));
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use(bodyParser.json());
 
 const materiasRouter = require("./routes/materias-router");
 const horariosRouter = require("./routes/horarios-router");
 const updateRoutes = require("./routes/update-router");
 const consultaSiiauRouter = require("./routes/consultaSiiau-router");
+
+const HttpError = require("./models/http-error");
+
+const port = process.env.port || 5000;
+
+const app = express();
+app.use(cors());
+
+app.use(bodyParser.json());
+
+app.use((req, res, next) => {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept, Authorization"
+  );
+  res.setHeader("Access-Control-Allow-Methods", "GET, POST, PATCH, DELETE");
+  next();
+});
 
 app.use("/api/materias", materiasRouter);
 app.use("/api/horarios", horariosRouter);
@@ -49,5 +49,14 @@ app.use((error, req, res, next) => {
   res.status(error.code || 500);
   res.json({ message: error.message || "An unknown error ocurred!" });
 });
+
+mongoose
+  .connect(process.env.MONGO_URI, {
+    useUnifiedTopology: true,
+    useNewUrlParser: true,
+    useCreateIndex: true,
+  })
+  .then(() => console.log("DB connected!"))
+  .catch((err) => console.error(err));
 
 module.exports = app;

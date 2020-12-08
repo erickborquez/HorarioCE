@@ -10,6 +10,7 @@ const useStyles = makeStyles((theme) => ({
     flexDirection: "column",
     height: "100vh",
     minHeight: 1090,
+    maxHeight: "100vw",
     position: "relative",
   },
   container: {

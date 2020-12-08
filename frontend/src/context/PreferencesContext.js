@@ -18,7 +18,13 @@ const reducer = (state, action) => {
         state.materias.find((materia) => materia.clave === action.value.clave)
       )
         return state;
-      return { ...state, materias: [...state.materias, action.value] };
+      return {
+        ...state,
+        materias: [
+          ...state.materias,
+          { ...action.value, options: [], profesores: [] },
+        ],
+      };
     }
     case "remove-materia": {
       const materias = state.materias.filter(
@@ -26,17 +32,32 @@ const reducer = (state, action) => {
       );
       return { ...state, materias };
     }
+    case "set-materias": {
+      return { ...state, materias: action.value };
+    }
 
+    case "update-materia": {
+      const newMaterias = state.materias.map((materia) =>
+        materia.clave === action.value.clave ? action.value.materia : materia
+      );
+      return { ...state, amterias: newMaterias };
+    }
     default: {
       console.warn("Preferences dispatch called with wrong type");
     }
   }
 };
 
-const initialState = { center: "CUCEI", section: 1, materias: [] };
+const initialState = {
+  center: "CUCEI",
+  section: 1,
+  materias: [],
+};
 
 const PreferencesProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, initialState);
+
+  console.log(state);
 
   return (
     <PreferencesContext.Provider value={{ state, dispatch }}>

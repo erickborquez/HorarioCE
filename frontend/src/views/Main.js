@@ -1,14 +1,23 @@
 import React, { useContext, useEffect, useState } from "react";
+
+import { PreferencesContext } from "../context/PreferencesContext";
+
 import { makeStyles } from "@material-ui/core";
+
 import Banner from "../components/Banner";
 import Title from "../components/Title";
 import Paragraph from "../components/Paragraph";
 import Section from "../components/Section";
 import SelectCenter from "../components/SelectCenter";
 import SelectMaterias from "../components/SelectMaterias";
-import { PreferencesContext } from "../context/PreferencesContext";
-import { DisplaySchedule } from "../components/DisplaySchedule";
+import DisplaySchedule from "../components/DisplaySchedule";
+import SelectProfesor from "../components/SelectProfesores";
+
 import * as data from "../shared/data/materias.json";
+
+import axios from "axios";
+
+import api from "../api";
 
 const useStyles = makeStyles((theme) => ({
   root: {},
@@ -35,17 +44,12 @@ const Main = () => {
 
   useEffect(() => {
     if (section === state.section) return;
-    const element = document.getElementById(state.section);
     setTimeout(() => {
+      const element = document.getElementById(state.section);
       if (element) element.scrollIntoView();
-    }, 200);
+    }, 300);
     setSection(state.section);
   }, [section, state]);
-
-  // Horarios generados
-  const info = data.materias2;
-  const schedules = [];
-  for (let i = 0; i < 5; ++i) schedules.push(info);
 
   return (
     <div className={classes.root}>
@@ -71,7 +75,7 @@ const Main = () => {
       <Section
         section={2}
         open={section >= 2}
-        disabled={section > 2 && section !== 2}
+        disabled={section !== 2}
         nextDisabled={state.materias.length === 0}
         onNext={() => dispatch({ type: "next" })}
         onBack={() => dispatch({ type: "back" })}
@@ -81,12 +85,20 @@ const Main = () => {
       <Section
         dark
         section={3}
-        open={section > 2}
+        open={section >= 3}
         disabled={section !== 3}
+        onNext={() => dispatch({ type: "next" })}
         onBack={() => dispatch({ type: "back" })}
-        nextDisabled
       >
-        <DisplaySchedule options={schedules} />
+        {section >= 3 && <SelectProfesor />}
+      </Section>
+      <Section
+        section={4}
+        open={section >= 4}
+        disabled={section !== 4}
+        onBack={() => dispatch({ type: "back" })}
+      >
+        {section >= 4 && <DisplaySchedule />}
       </Section>
     </div>
   );
