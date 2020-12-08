@@ -12,8 +12,6 @@ const consultaSiiauRouter = require("./routes/consultaSiiau-router");
 
 const HttpError = require("./models/http-error");
 
-const port = process.env.PORT || 5000;
-
 const app = express();
 app.use(cors());
 
@@ -34,9 +32,7 @@ app.use("/api/horarios", horariosRouter);
 app.use("/api/update", updateRoutes);
 app.use("/api/siiau", consultaSiiauRouter);
 
-app.listen(port, function () {
-  console.log("Port: " + port);
-});
+app.listen(process.env.PORT || 5000);
 
 app.use((req, res, next) => {
   next(new HttpError("Could not find this route.", 404));
