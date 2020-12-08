@@ -10,7 +10,6 @@ const useStyles = makeStyles((theme) => ({
     flexDirection: "column",
     height: "100vh",
     minHeight: 1090,
-    // marginBottom: 300,
     position: "relative",
   },
   container: {
@@ -70,6 +69,16 @@ const useStyles = makeStyles((theme) => ({
 
 const Banner = () => {
   const classes = useStyles();
+
+  const handleClick = (section) => {
+    let element = "";
+    if ("learn" === section) element = document.getElementById("learn");
+    else element = document.getElementById("1");
+    setTimeout(() => {
+      if (element) element.scrollIntoView();
+    }, 200);
+  };
+
   return (
     <div className={classes.mainContainer}>
       <div className={classes.container}>
@@ -87,6 +96,9 @@ const Banner = () => {
               color="secondary"
               variant="outlined"
               size="large"
+              onClick={(e) => {
+                handleClick("learn");
+              }}
             >
               Aprende más
             </Button>
@@ -95,6 +107,9 @@ const Banner = () => {
               color="secondary"
               variant="contained"
               size="large"
+              onClick={(e) => {
+                handleClick("start");
+              }}
             >
               Crear horario
             </Button>

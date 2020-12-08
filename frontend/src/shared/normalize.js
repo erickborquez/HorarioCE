@@ -1,3 +1,5 @@
-export const normalizeMateria = () => {};
+import React from "react";
 
-/// [{clave:string, nombre:string, }]
+export const normalize = () => {
+  return <div></div>;
+};
