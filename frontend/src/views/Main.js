@@ -13,12 +13,6 @@ import SelectMaterias from "../components/SelectMaterias";
 import DisplaySchedule from "../components/DisplaySchedule";
 import SelectProfesor from "../components/SelectProfesores";
 
-import * as data from "../shared/data/materias.json";
-
-import axios from "axios";
-
-import api from "../api";
-
 const useStyles = makeStyles((theme) => ({
   root: {},
   container: {

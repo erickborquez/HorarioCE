@@ -73,6 +73,7 @@ const SelectProfesor = () => {
     };
     getData();
     return destroyer;
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleMateriaClick = (materia) => {

@@ -61,7 +61,7 @@ const useStyles = makeStyles((theme) => ({
 const STEP_SIZE = 10;
 const DisplaySchedule = () => {
   const classes = useStyles();
-  const { state, dispatch } = useContext(PreferencesContext);
+  const { state } = useContext(PreferencesContext);
   const [options, setOptions] = useState([]);
   const [index, setIndex] = useState(0);
   const [range, setRange] = useState(0);
