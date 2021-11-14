@@ -1,7 +1,6 @@
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
-// const logger = require("morgan");
 const mongoose = require("mongoose");
 require("dotenv").config();
 
@@ -14,20 +13,6 @@ const HttpError = require("./models/http-error");
 
 const app = express();
 app.use(cors());
-
-// app.use((req, res, next) => {
-//   res.setHeader("Access-Control-Allow-Origin", "*");
-//   res.header("Access-Control-Allow-Credentials", true);
-//   res.setHeader(
-//     "Access-Control-Allow-Headers",
-//     "Origin,X-Requested-With,Content-Type,Accept,content-type,application/json"
-//   );
-//   res.setHeader(
-//     "Access-Control-Allow-Methods",
-//     "GET, POST, PATCH, DELETE, OPTIONS"
-//   );
-//   next();
-// });
 
 app.use(bodyParser.json());
 
@@ -48,8 +33,6 @@ app.use((error, req, res, next) => {
   res.json({ message: error.message || "An unknown error ocurred!" });
 });
 
-app.listen(process.env.PORT || 5000);
-
 mongoose
   .connect(process.env.MONGO_URI, {
     useUnifiedTopology: true,
@@ -58,5 +41,7 @@ mongoose
   })
   .then(() => console.log("DB connected!"))
   .catch((err) => console.error(err));
+
+app.listen(process.env.PORT || 5000);
 
 module.exports = app;
