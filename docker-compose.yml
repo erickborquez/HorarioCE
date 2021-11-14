@@ -1,0 +1,34 @@
+version: '3'
+
+services:
+  checkoutce_back:
+    env_file:
+      - backend/.env
+    build:
+      context: backend/
+    networks:
+      - ce
+    ports:
+      - 8000:8000
+      - 9229:9229
+    volumes:
+      - ./backend/:/home/node/app
+    restart: on-failure
+
+  checkoutce_front:
+    env_file:
+      - frontend/.env
+    build:
+      context: frontend/
+    networks:
+      - ce
+    ports:
+      - 8001:8001
+    volumes:
+      - ./frontend/:/home/node/app
+    depends_on:
+      - checkoutce_back
+    restart: on-failure
+
+networks:
+  ce:
