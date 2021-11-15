@@ -29,17 +29,22 @@ Dentro de la carpeta del proyecto correr el comando
 
 
 Una vez terminado el proceso se mostraran los contenedores en docker desktop.
-![docker](https://github.com/hiromi00/checkoutCE/blob/main/assets/containers.png?raw=true "Docker")
+![docker](https://github.com/ErickJoestar/HorarioCE/blob/main/assets/docker-desktop.png?raw=true "Docker")
 
 La api se encuentra en [localhost:8000](http://localhost:8000)
 
 La aplicacion web se encuentra en [localhost:8001](http://localhost:8001)
 
-![react](https://github.com/hiromi00/checkoutCE/blob/main/assets/frontendv1.png?raw=true"React")
+![app](https://github.com/ErickJoestar/HorarioCE/blob/main/assets/web-app-1.png?raw=true "Web app. First image")
+![app](https://github.com/ErickJoestar/HorarioCE/blob/main/assets/web-app-2.png?raw=true "Web app. First image")
+![app](https://github.com/ErickJoestar/HorarioCE/blob/main/assets/web-app-3.png?raw=true "Web app. First image")
 
 #### Datos técnicos:
 
 - HTML 5
-- Node.js
-- DB: MySQL
+- CSS
+- JavaScript
 - React
+- Node
+- Express
+- MongoDB
