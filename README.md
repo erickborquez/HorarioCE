@@ -1,7 +1,7 @@
 # HorarioCE
 
 Generador de horarios para los diferentes centros de la Universidad de Guadalajara. 
-Proyecto final para la materia Tolerancia a fallas
+Proyecto final para la materia Tolerancia a fallas. ![Presentacion](https://docs.google.com/presentation/d/1EpCzauYLrTI60g1CNTu8Ew7u-ouMJYCQMdA949FRx9o/edit?usp=sharing "Presentacion")
 
 #### Acerca de
 Horario CE es una aplicacion que consigue en tiempo real la oferta de las materias de los diferentes centros universitarios y dado un set de preferencias del usuario es capaz de generar una gran cantidad de combinaciones de horarios disponibles que se ajusten a las preferencias seleccionadas.
@@ -13,7 +13,7 @@ Ademas, este proyecto fue creado utilizando docker para contener la aplicacion e
 
 Clonar el repositorio e ir a la carpeta del proyecto
 
-`git clone https://github.com/hiromi00/HorarioCE.git`
+`git clone https://github.com/ErickJoestar/HorarioCE.git`
 
 `cd HorarioCE`
 

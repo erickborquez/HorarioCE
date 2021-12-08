@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  checkoutce_back:
+  back:
     env_file:
       - backend/.env
     build:
@@ -15,7 +15,7 @@ services:
       - ./backend/:/home/node/app
     restart: on-failure
 
-  checkoutce_front:
+  front:
     env_file:
       - frontend/.env
     build:
@@ -27,8 +27,8 @@ services:
     volumes:
       - ./frontend/:/home/node/app
     depends_on:
-      - checkoutce_back
+      - back
     restart: on-failure
 
 networks:
-  ce:
+  ce: null
